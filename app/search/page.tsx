@@ -5,6 +5,25 @@ import { useSearchParams, useRouter } from 'next/navigation'
 import Link from 'next/link'
 import { CarListing } from '@/types'
 
+// Phase 1 inline affiliate data (client-side, no server needed)
+const LOAN_STRIP = {
+  name: 'LendingTree Auto',
+  headline: 'Get pre-approved before you buy',
+  sub: 'Compare rates from 30+ lenders in 60 seconds. No hard credit pull.',
+  cta: 'Check my rate — free',
+  url: 'https://www.lendingtree.com/auto/?utm_source=carc&utm_medium=affiliate&utm_campaign=lendingtree_search',
+  badge: 'Up to $70/lead · Phase 1',
+}
+
+const INSURANCE_STRIP = {
+  name: 'Jerry.ai',
+  headline: 'Don\'t overpay for insurance on your next car',
+  sub: 'Jerry compares 55+ insurers in 45 seconds. Average savings: $887/year.',
+  cta: 'Compare insurance quotes',
+  url: 'https://getjerry.com/?utm_source=carc&utm_medium=affiliate&utm_campaign=jerry_search',
+  badge: '$10–$30/lead · Phase 1',
+}
+
 function ScoreBadge({ score, rating }: { score: number; rating: string }) {
   const cls =
     rating === 'excellent' ? 'bg-score-excellent score-excellent' :
@@ -37,7 +56,6 @@ function ListingCard({ listing }: { listing: CarListing }) {
         ) : (
           <div className="flex items-center justify-center h-full text-brand-muted/30 text-5xl">🚗</div>
         )}
-        {/* Days on market badge */}
         {listing.days_on_market > 0 && (
           <div className="absolute top-3 left-3 bg-brand-black/70 backdrop-blur-sm text-xs text-brand-muted px-2 py-1 rounded-full">
             {listing.days_on_market}d listed
@@ -106,6 +124,82 @@ function ListingCard({ listing }: { listing: CarListing }) {
   )
 }
 
+// ── Affiliate Strip ────────────────────────────────────────────────────────
+function AffiliateStrip({
+  type,
+  compact = false,
+}: {
+  type: 'loan' | 'insurance'
+  compact?: boolean
+}) {
+  const data = type === 'loan' ? LOAN_STRIP : INSURANCE_STRIP
+  const accent = type === 'loan' ? 'border-brand-blue/30 bg-brand-blue/5' : 'border-brand-green/30 bg-brand-green/5'
+  const ctaColor = type === 'loan'
+    ? 'bg-brand-blue hover:bg-brand-blue-dim text-white'
+    : 'bg-brand-green/90 hover:bg-brand-green text-brand-black font-medium'
+  const icon = type === 'loan' ? '💳' : '🛡️'
+
+  if (compact) {
+    return (
+      <div className={`col-span-full glass rounded-xl border ${accent} px-5 py-4 flex items-center justify-between gap-4`}>
+        <div className="flex items-center gap-3">
+          <span className="text-xl">{icon}</span>
+          <div>
+            <p className="text-brand-light text-sm font-medium">{data.headline}</p>
+            <p className="text-brand-muted text-xs mt-0.5">{data.sub}</p>
+          </div>
+        </div>
+        <a
+          href={data.url}
+          target="_blank"
+          rel="noopener noreferrer sponsored"
+          className={`shrink-0 text-xs px-4 py-2 rounded-lg transition-colors ${ctaColor}`}
+        >
+          {data.cta}
+        </a>
+      </div>
+    )
+  }
+
+  return (
+    <div className={`col-span-full glass rounded-2xl border ${accent} p-6 flex flex-col md:flex-row items-center justify-between gap-5`}>
+      <div className="flex items-center gap-4">
+        <span className="text-3xl">{icon}</span>
+        <div>
+          <p className="font-semibold text-brand-light">{data.headline}</p>
+          <p className="text-brand-muted text-sm mt-1">{data.sub}</p>
+        </div>
+      </div>
+      <a
+        href={data.url}
+        target="_blank"
+        rel="noopener noreferrer sponsored"
+        className={`shrink-0 px-6 py-3 rounded-xl font-medium transition-colors text-sm ${ctaColor}`}
+      >
+        {data.cta} →
+      </a>
+    </div>
+  )
+}
+
+// ── Filters sidebar ────────────────────────────────────────────────────────
+function SortSelect({ value, onChange }: { value: string; onChange: (v: string) => void }) {
+  return (
+    <select
+      value={value}
+      onChange={e => onChange(e.target.value)}
+      className="bg-brand-charcoal border border-brand-steel rounded-lg px-3 py-1.5 text-brand-muted text-sm focus:outline-none focus:border-brand-blue/60 cursor-pointer"
+    >
+      <option value="score">Sort: Best deal first</option>
+      <option value="price_asc">Price: low to high</option>
+      <option value="price_desc">Price: high to low</option>
+      <option value="miles">Mileage: low to high</option>
+      <option value="dom">Newest listings</option>
+    </select>
+  )
+}
+
+// ── Main content ───────────────────────────────────────────────────────────
 function SearchContent() {
   const searchParams = useSearchParams()
   const router = useRouter()
@@ -117,10 +211,20 @@ function SearchContent() {
   const [error, setError] = useState('')
   const [total, setTotal] = useState(0)
   const [remaining, setRemaining] = useState<number | null>(null)
+  const [sort, setSort] = useState('score')
 
   useEffect(() => {
     if (initialQuery) runSearch(initialQuery)
   }, [])
+
+  // Client-side sort
+  const sorted = [...results].sort((a, b) => {
+    if (sort === 'price_asc') return a.price - b.price
+    if (sort === 'price_desc') return b.price - a.price
+    if (sort === 'miles') return a.mileage - b.mileage
+    if (sort === 'dom') return a.days_on_market - b.days_on_market
+    return (b.deal_score?.score ?? 0) - (a.deal_score?.score ?? 0)
+  })
 
   async function runSearch(q: string) {
     if (!q.trim()) return
@@ -155,9 +259,26 @@ function SearchContent() {
     }
   }
 
+  // Build result rows with affiliate strips injected at positions 3 and 6
+  function buildResultRows(listings: CarListing[]) {
+    const rows: React.ReactNode[] = []
+    listings.forEach((listing, i) => {
+      rows.push(<ListingCard key={listing.id} listing={listing} />)
+      // After 3rd card → loan strip
+      if (i === 2) {
+        rows.push(<AffiliateStrip key="loan-strip" type="loan" compact />)
+      }
+      // After 6th card → insurance strip
+      if (i === 5) {
+        rows.push(<AffiliateStrip key="insurance-strip" type="insurance" compact />)
+      }
+    })
+    return rows
+  }
+
   return (
     <div className="min-h-screen bg-brand-black">
-      {/* Search header */}
+      {/* Sticky search header */}
       <div className="sticky top-0 z-40 glass border-b border-brand-steel/50 px-6 py-4">
         <div className="max-w-6xl mx-auto flex gap-3 items-center">
           <Link href="/" className="font-display font-bold text-lg text-brand-light shrink-0">
@@ -186,21 +307,24 @@ function SearchContent() {
       <div className="max-w-6xl mx-auto px-6 py-8">
         {/* Results header */}
         {results.length > 0 && (
-          <div className="flex items-center justify-between mb-6">
+          <div className="flex items-center justify-between mb-6 flex-wrap gap-3">
             <div>
               <p className="text-brand-light font-medium">
                 {total.toLocaleString()} results for <span className="text-brand-blue">"{initialQuery || query}"</span>
               </p>
               <p className="text-brand-muted text-sm mt-0.5">Ranked by AI deal score</p>
             </div>
-            {remaining !== null && (
-              <div className="text-xs text-brand-muted bg-brand-charcoal border border-brand-steel rounded-lg px-3 py-2">
-                {remaining > 0
-                  ? `${remaining} free searches left today`
-                  : <Link href="/pricing" className="text-brand-blue hover:underline">Upgrade for unlimited →</Link>
-                }
-              </div>
-            )}
+            <div className="flex items-center gap-3">
+              <SortSelect value={sort} onChange={setSort} />
+              {remaining !== null && (
+                <div className="text-xs text-brand-muted bg-brand-charcoal border border-brand-steel rounded-lg px-3 py-2">
+                  {remaining > 0
+                    ? `${remaining} free searches left today`
+                    : <Link href="/pricing" className="text-brand-blue hover:underline">Upgrade for unlimited →</Link>
+                  }
+                </div>
+              )}
+            </div>
           </div>
         )}
 
@@ -230,13 +354,19 @@ function SearchContent() {
           </div>
         )}
 
-        {/* Results grid */}
-        {!loading && results.length > 0 && (
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {results.map(listing => (
-              <ListingCard key={listing.id} listing={listing} />
-            ))}
-          </div>
+        {/* Results grid with inline affiliate strips */}
+        {!loading && sorted.length > 0 && (
+          <>
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {buildResultRows(sorted)}
+            </div>
+
+            {/* Bottom affiliate block — loan + insurance side by side */}
+            <div className="mt-10 grid md:grid-cols-2 gap-5">
+              <AffiliateStrip type="loan" />
+              <AffiliateStrip type="insurance" />
+            </div>
+          </>
         )}
 
         {/* Empty state */}
@@ -248,9 +378,9 @@ function SearchContent() {
           </div>
         )}
 
-        {/* Upsell strip */}
+        {/* Pro upsell strip */}
         {!loading && results.length > 0 && (
-          <div className="mt-12 glass rounded-2xl border border-brand-blue/30 bg-brand-blue/5 p-6 flex flex-col md:flex-row items-center justify-between gap-4">
+          <div className="mt-8 glass rounded-2xl border border-brand-blue/30 bg-brand-blue/5 p-6 flex flex-col md:flex-row items-center justify-between gap-4">
             <div>
               <p className="font-semibold text-brand-light">Get the full picture with Pro</p>
               <p className="text-brand-muted text-sm mt-1">Negotiation scripts, VIN history, price alerts, and unlimited searches.</p>
