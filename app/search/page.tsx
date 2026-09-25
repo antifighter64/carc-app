@@ -199,6 +199,71 @@ function SortSelect({ value, onChange }: { value: string; onChange: (v: string) 
   )
 }
 
+function WaitlistCapture() {
+  const [email, setEmail] = useState('')
+  const [zip, setZip] = useState('')
+  const [done, setDone] = useState(false)
+  const [busy, setBusy] = useState(false)
+
+  async function join() {
+    if (!email.trim()) return
+    setBusy(true)
+    try {
+      await fetch('/api/waitlist', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email, zip }),
+      })
+      setDone(true)
+    } catch {
+      setDone(true)
+    } finally {
+      setBusy(false)
+    }
+  }
+
+  if (done) {
+    return (
+      <div className="glass rounded-2xl border border-brand-green/30 bg-brand-green/5 p-8 text-center mb-8">
+        <p className="text-brand-green font-semibold text-lg mb-1">You're on the list.</p>
+        <p className="text-brand-muted text-sm">We'll email you the moment live deal search opens — with 30 days of Pro free.</p>
+      </div>
+    )
+  }
+
+  return (
+    <div className="glass rounded-2xl border border-brand-blue/30 bg-brand-blue/5 p-8 text-center mb-8">
+      <p className="font-display text-xl font-bold text-brand-light mb-2">Live deal search is in private beta</p>
+      <p className="text-brand-muted text-sm mb-5 max-w-md mx-auto">
+        We're connecting the live listing feed now. Leave your email and ZIP and you'll be first in when it opens.
+      </p>
+      <div className="flex flex-col sm:flex-row gap-2 max-w-md mx-auto">
+        <input
+          type="email"
+          value={email}
+          onChange={e => setEmail(e.target.value)}
+          placeholder="you@email.com"
+          className="flex-1 bg-brand-charcoal border border-brand-steel rounded-xl px-4 py-2.5 text-brand-light placeholder-brand-muted/60 focus:outline-none focus:border-brand-blue/60 text-sm"
+        />
+        <input
+          type="text"
+          value={zip}
+          onChange={e => setZip(e.target.value)}
+          placeholder="ZIP"
+          className="sm:w-24 bg-brand-charcoal border border-brand-steel rounded-xl px-4 py-2.5 text-brand-light placeholder-brand-muted/60 focus:outline-none focus:border-brand-blue/60 text-sm"
+        />
+        <button
+          onClick={join}
+          disabled={busy}
+          className="bg-brand-blue hover:bg-brand-blue-dim text-white px-5 py-2.5 rounded-xl text-sm font-medium transition-colors disabled:opacity-50"
+        >
+          {busy ? '...' : 'Notify me'}
+        </button>
+      </div>
+    </div>
+  )
+}
+
 // ── Main content ───────────────────────────────────────────────────────────
 function SearchContent() {
   const searchParams = useSearchParams()
@@ -209,6 +274,7 @@ function SearchContent() {
   const [results, setResults] = useState<CarListing[]>([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
+  const [errorKind, setErrorKind] = useState<'limit' | 'down' | null>(null)
   const [total, setTotal] = useState(0)
   const [remaining, setRemaining] = useState<number | null>(null)
   const [sort, setSort] = useState('score')
@@ -242,8 +308,10 @@ function SearchContent() {
 
       if (!res.ok) {
         if (res.status === 429) {
+          setErrorKind('limit')
           setError(`You've used all your free searches today. Upgrade to Pro for unlimited.`)
         } else {
+          setErrorKind('down')
           setError(data.error ?? 'Search failed. Please try again.')
         }
         return
@@ -253,6 +321,7 @@ function SearchContent() {
       setTotal(data.total)
       setRemaining(data.remaining)
     } catch {
+      setErrorKind('down')
       setError('Something went wrong. Please try again.')
     } finally {
       setLoading(false)
@@ -329,7 +398,7 @@ function SearchContent() {
         )}
 
         {/* Error */}
-        {error && (
+        {error && errorKind === 'limit' && (
           <div className="glass rounded-2xl border border-brand-red/30 bg-brand-red/5 p-6 text-center mb-8">
             <p className="text-brand-red/90 mb-3">{error}</p>
             <Link href="/pricing" className="bg-brand-blue hover:bg-brand-blue-dim text-white px-5 py-2 rounded-xl text-sm font-medium transition-colors inline-block">
@@ -337,6 +406,8 @@ function SearchContent() {
             </Link>
           </div>
         )}
+
+        {error && errorKind === 'down' && <WaitlistCapture />}
 
         {/* Loading skeleton */}
         {loading && (

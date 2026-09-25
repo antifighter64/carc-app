@@ -208,6 +208,7 @@ export default function HomePage() {
             <p className="text-brand-muted mt-3">Every result comes with a score, explanation, and what to pay.</p>
           </div>
 
+          <p className="text-brand-amber text-xs font-semibold uppercase tracking-widest mb-3">Sample illustration — not a live listing</p>
           {/* Mock result card */}
           <div className="glass rounded-2xl border border-brand-steel overflow-hidden">
             <div className="p-6">
