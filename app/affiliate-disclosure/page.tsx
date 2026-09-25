@@ -20,7 +20,7 @@ export default function AffiliateDisclosurePage() {
         </ul>
         <h2 className="text-xl font-semibold text-brand-light">Our commitment</h2>
         <p>CARC's comparisons and estimates are built to help you make a better decision, whether or not it earns us a fee. If we ever present sponsored content, it will be clearly labeled.</p>
-        <p>Questions: legal@carc.com</p>
+        <p>Questions: boris@kumbaya.com</p>
       </div>
     </main>
   )

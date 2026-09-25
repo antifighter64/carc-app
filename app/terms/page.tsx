@@ -23,7 +23,7 @@ export default function TermsPage() {
         <h2 className="text-xl font-semibold text-brand-light">Liability</h2>
         <p>CARC is provided "as is" without warranties of any kind. To the fullest extent permitted by law, Kumbaya Group LLC is not liable for indirect or consequential damages arising from your use of the site. These terms are governed by the laws of the State of New York.</p>
         <h2 className="text-xl font-semibold text-brand-light">Contact</h2>
-        <p>Kumbaya Group LLC · legal@carc.com</p>
+        <p>Kumbaya Group LLC · boris@kumbaya.com</p>
       </div>
     </main>
   )

@@ -29,9 +29,9 @@ export default function PrivacyPage() {
         <h2 className="text-xl font-semibold text-brand-light">Third parties</h2>
         <p>We use analytics and hosting providers (such as Vercel and Google Analytics) that process data on our behalf under their own privacy terms. Links to partner sites (dealers, lenders, insurers) are governed by those partners' privacy policies.</p>
         <h2 className="text-xl font-semibold text-brand-light">Your choices</h2>
-        <p>You may request access to, correction of, or deletion of your personal information by emailing privacy@carc.com. We respond within 30 days.</p>
+        <p>You may request access to, correction of, or deletion of your personal information by emailing boris@kumbaya.com. We respond within 30 days.</p>
         <h2 className="text-xl font-semibold text-brand-light">Contact</h2>
-        <p>Kumbaya Group LLC · privacy@carc.com</p>
+        <p>Kumbaya Group LLC · boris@kumbaya.com</p>
       </div>
     </main>
   )
