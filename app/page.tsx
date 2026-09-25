@@ -414,6 +414,9 @@ export default function HomePage() {
             <Link href="/pricing" className="hover:text-brand-light transition-colors">Pricing</Link>
             <Link href="/blog" className="hover:text-brand-light transition-colors">Blog</Link>
             <Link href="/tools/negotiation" className="hover:text-brand-light transition-colors">Tools</Link>
+            <Link href="/privacy" className="hover:text-brand-light transition-colors">Privacy</Link>
+            <Link href="/terms" className="hover:text-brand-light transition-colors">Terms</Link>
+            <Link href="/affiliate-disclosure" className="hover:text-brand-light transition-colors">Affiliate Disclosure</Link>
           </div>
           <p className="text-brand-muted/60">© 2025 CARC.com · Kumbaya Group LLC</p>
         </div>

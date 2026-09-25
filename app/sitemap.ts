@@ -4,7 +4,7 @@ import { PAIRS } from '@/lib/compare-data'
 const BASE = 'https://www.carc.com'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ['', '/pricing', '/search', '/tools/negotiation', '/compare'].map(p => ({
+  const staticRoutes = ['', '/pricing', '/search', '/tools/negotiation', '/compare', '/privacy', '/terms', '/affiliate-disclosure'].map(p => ({
     url: `${BASE}${p}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
