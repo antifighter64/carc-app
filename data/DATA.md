@@ -5,4 +5,6 @@
 - `recalls-top80.json` - 877 recall campaigns for the 80 highest-complaint 2015+ vehicles, with component + summary. Source: NHTSA recalls API.
 - `vpic-models-us.json` - 2,518 model names across the 63 US makes. Source: NHTSA vPIC API.
 
-Remaining pulls: full SafetyRatings (crash stars) per year/make/model (API chain year>make>model>vehicle), recalls for the long tail, emissions/TSB flat files. Raw filtered complaints TSV (2015+, 67MB gz) + fueleconomy vehicles.csv.zip are in the instincts Drive folder.
+- `safety-ratings.json` - NHTSA SafetyRatings crash-test stars per year/make/model, 2015-2026: overall/front/side/rollover + vehicleId. 6,404 models. Source: NHTSA SafetyRatings API (banked 2026-09-26).
+
+Remaining pulls: recalls for the long tail, emissions/TSB flat files. Raw filtered complaints TSV (2015+, 67MB gz) + fueleconomy vehicles.csv.zip are in the instincts Drive folder.
