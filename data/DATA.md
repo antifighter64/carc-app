@@ -7,4 +7,8 @@
 
 - `safety-ratings.json` - NHTSA SafetyRatings crash-test stars per year/make/model, 2015-2026: overall/front/side/rollover + vehicleId. 6,404 models. Source: NHTSA SafetyRatings API (banked 2026-09-26).
 
-Remaining pulls: recalls for the long tail, emissions/TSB flat files. Raw filtered complaints TSV (2015+, 67MB gz) + fueleconomy vehicles.csv.zip are in the instincts Drive folder.
+- `tsb-agg.json` - NHTSA Manufacturer Communications (TSBs) aggregated per 2015+ year/make/model: TSB count + up to 3 sample summaries. 19,319 combos from 1,031,502 rows. Source: static.nhtsa.gov MFR_COMMS flat files (banked 2026-09-26).
+
+In flight: `recalls-all.json` - long-tail recalls for all 2015+ complaint combos beyond the top-80 (resumable crawler running).
+
+Remaining pulls: emissions classification per vehicle (Communication Type lives in the 860MB-per-chunk TSBS flat files; CSV chunk files don't carry it). Raw filtered complaints TSV (2015+, 67MB gz) + fueleconomy vehicles.csv.zip are in the instincts Drive folder.
