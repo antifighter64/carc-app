@@ -9,15 +9,38 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Email required' }, { status: 400 })
     }
 
-    const admin = getSupabaseAdmin()
+    const row = { email: email.toLowerCase(), zip: zip ?? null }
 
-    // Insert to waitlist (ignore duplicate)
-    const { error } = await admin
-      .from('waitlist')
-      .upsert({ email: email.toLowerCase(), zip: zip ?? null }, { onConflict: 'email' })
-
-    if (error) {
-      console.error('Waitlist insert error:', error)
+    // Insert to waitlist (ignore duplicate). Prefer the service role; fall
+    // back to the anon client in case RLS allows public waitlist inserts.
+    let saved = false
+    try {
+      const admin = getSupabaseAdmin()
+      const { error } = await admin
+        .from('waitlist')
+        .upsert(row, { onConflict: 'email' })
+      if (error) console.error('Waitlist admin insert error:', error)
+      else saved = true
+    } catch (adminErr) {
+      console.error('Waitlist admin client error:', adminErr)
+    }
+    if (!saved) {
+      try {
+        const { getSupabaseClient } = await import('@/lib/supabase')
+        const { error } = await getSupabaseClient()
+          .from('waitlist')
+          .upsert(row, { onConflict: 'email' })
+        if (error) console.error('Waitlist anon insert error:', error)
+        else saved = true
+      } catch (anonErr) {
+        console.error('Waitlist anon client error:', anonErr)
+      }
+    }
+    if (!saved) {
+      return NextResponse.json(
+        { error: 'Could not save your signup. Please try again later.' },
+        { status: 503 }
+      )
     }
 
     // Send confirmation email via Resend (lazy import)

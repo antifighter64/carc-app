@@ -11,6 +11,15 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Query is required' }, { status: 400 })
     }
 
+    // Live inventory search needs the paid data + AI keys. Until those are
+    // configured, fail cleanly instead of 500ing.
+    if (!process.env.MARKETCHECK_API_KEY || !process.env.ANTHROPIC_API_KEY) {
+      return NextResponse.json(
+        { error: 'Live search is temporarily unavailable. Browse our comparisons in the meantime.', unavailable: true },
+        { status: 503 }
+      )
+    }
+
     // Get current user (if logged in)
     const authHeader = req.headers.get('authorization')
     let userId: string | null = null

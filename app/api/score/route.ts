@@ -8,6 +8,12 @@ export async function POST(req: NextRequest) {
     if (!listing_id) {
       return NextResponse.json({ error: 'listing_id required' }, { status: 400 })
     }
+    if (!process.env.MARKETCHECK_API_KEY || !process.env.ANTHROPIC_API_KEY) {
+      return NextResponse.json(
+        { error: 'Deal scoring is temporarily unavailable.', unavailable: true },
+        { status: 503 }
+      )
+    }
 
     const listing = await getListingById(listing_id)
     if (!listing) {
