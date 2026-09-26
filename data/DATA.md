@@ -9,6 +9,6 @@
 
 - `tsb-agg.json` - NHTSA Manufacturer Communications (TSBs) aggregated per 2015+ year/make/model: TSB count + up to 3 sample summaries. 19,319 combos from 1,031,502 rows. Source: static.nhtsa.gov MFR_COMMS flat files (banked 2026-09-26).
 
-In flight: `recalls-all.json` - long-tail recalls for all 2015+ complaint combos beyond the top-80 (resumable crawler running).
+`recalls-all.json` - long-tail recalls for all 8,135 2015+ complaint combos beyond the top-80: 5,930 combos with 1+ recalls (component + summary per campaign), 2,205 with none (NHTSA returns HTTP 400 for zero-recall combos; recorded as recalls:0, flagged http400). Source: NHTSA recalls API. Only emissions remains.
 
 Remaining pulls: emissions classification per vehicle (Communication Type lives in the 860MB-per-chunk TSBS flat files; CSV chunk files don't carry it). Raw filtered complaints TSV (2015+, 67MB gz) + fueleconomy vehicles.csv.zip are in the instincts Drive folder.
