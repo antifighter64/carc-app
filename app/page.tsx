@@ -84,12 +84,6 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-grid-pattern opacity-30 pointer-events-none" />
         <div className="absolute inset-0 bg-blue-glow pointer-events-none" />
 
-        {/* Badge */}
-        <div className="inline-flex items-center gap-2 bg-brand-charcoal border border-brand-steel rounded-full px-4 py-1.5 text-sm text-brand-muted mb-8 animate-slide-up">
-          <span className="w-2 h-2 bg-brand-green rounded-full animate-pulse-glow" />
-          Powered by Claude (Anthropic)
-        </div>
-
         <h1
           className="font-display text-5xl md:text-7xl font-bold text-brand-light leading-tight mb-6 animate-slide-up"
           style={{ animationDelay: '0.1s', opacity: 0 }}
