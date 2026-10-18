@@ -1,5 +1,13 @@
 import Link from 'next/link'
 
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'My Dashboard',
+  description: 'Your CARC dashboard: saved searches, price-drop alerts, and deal scores for cars you're tracking.',
+}
+
+
 // In a real app, this would fetch data server-side from Supabase
 // using the authenticated user's session
 

@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { getListingById } from '@/lib/marketcheck'
 import { scoreListingFull } from '@/lib/claude'
 import { getAllAffiliatesForListing } from '@/lib/affiliates'
+import type { Metadata } from 'next'
 
 // ── Affiliate Card ──────────────────────────────────────────────────────────
 function AffiliateCard({
@@ -70,6 +71,18 @@ function SectionHeader({ icon, label }: { icon: string; label: string }) {
 }
 
 // ── Main page ───────────────────────────────────────────────────────────────
+
+export async function generateMetadata({ params }: { params: { id: string } }): Promise<Metadata> {
+  const listing = await getListingById(params.id)
+  if (!listing) return { title: 'Listing Not Found' }
+  const title = `${listing.year} ${listing.make} ${listing.model} ${listing.trim || ''}`.trim()
+  return {
+    title: `${title} for Sale — Deal Score & Fair Price`,
+    description: `Is this ${title} a good deal? CARC scores it ${listing.deal_score ? `(${listing.deal_score.rating}) ` : ''}against market data, shows fair price, and preps your negotiation.`,
+    alternates: { canonical: `https://www.carc.com/car/${params.id}` },
+  }
+}
+
 export default async function CarDetailPage({ params }: { params: { id: string } }) {
   const listing = await getListingById(params.id)
   if (!listing) notFound()
