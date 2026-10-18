@@ -132,9 +132,17 @@ export default function PricingPage() {
           <Link href="/" className="font-display font-bold text-lg">
             <span className="text-brand-blue">CARC</span><span className="text-brand-light">.com</span>
           </Link>
-          <Link href="/signup" className="bg-brand-blue hover:bg-brand-blue-dim text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors">
-            Get started
-          </Link>
+          <div className="flex items-center gap-5">
+            <Link href="/news" className="text-brand-muted hover:text-brand-light transition-colors text-sm">
+              News
+            </Link>
+            <Link href="/top-10" className="text-brand-muted hover:text-brand-light transition-colors text-sm">
+              Top 10
+            </Link>
+            <Link href="/signup" className="bg-brand-blue hover:bg-brand-blue-dim text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors">
+              Get started
+            </Link>
+          </div>
         </div>
       </nav>
 

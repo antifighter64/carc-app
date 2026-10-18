@@ -63,6 +63,12 @@ export default function HomePage() {
           <span className="text-brand-light">.com</span>
         </a>
         <div className="flex items-center gap-4 text-sm">
+          <Link href="/news" className="text-brand-muted hover:text-brand-light transition-colors">
+            News
+          </Link>
+          <Link href="/top-10" className="text-brand-muted hover:text-brand-light transition-colors">
+            Top 10
+          </Link>
           <Link href="/pricing" className="text-brand-muted hover:text-brand-light transition-colors">
             Pricing
           </Link>
@@ -405,6 +411,8 @@ export default function HomePage() {
             <span className="text-brand-blue">CARC</span>.com
           </div>
           <div className="flex gap-6">
+            <Link href="/news" className="hover:text-brand-light transition-colors">News</Link>
+            <Link href="/top-10" className="hover:text-brand-light transition-colors">Top 10</Link>
             <Link href="/pricing" className="hover:text-brand-light transition-colors">Pricing</Link>
             <Link href="/blog" className="hover:text-brand-light transition-colors">Blog</Link>
             <Link href="/tools/negotiation" className="hover:text-brand-light transition-colors">Tools</Link>
