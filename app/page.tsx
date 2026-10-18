@@ -88,9 +88,9 @@ export default function HomePage() {
           className="font-display text-5xl md:text-7xl font-bold text-brand-light leading-tight mb-6 animate-slide-up"
           style={{ animationDelay: '0.1s', opacity: 0 }}
         >
-          The AI that finds
+          CARC finds you
           <br />
-          <span className="text-brand-blue">your best car deal</span>
+          <span className="text-brand-blue">the best deal.</span>
         </h1>
 
         <p

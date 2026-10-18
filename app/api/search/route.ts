@@ -3,6 +3,22 @@ import { parseSearchQuery, batchScoreListings } from '@/lib/claude'
 import { searchInventory } from '@/lib/marketcheck'
 import { checkSearchRateLimit } from '@/lib/ratelimit'
 import { supabase } from '@/lib/supabase'
+import { searchBankedVehicles } from '@/lib/banked-search'
+
+// ── Phase 1: Banked-data search ──────────────────────────────────────────────
+// When MARKETCHECK_API_KEY / ANTHROPIC_API_KEY are not configured (no paid
+// data yet), search our banked EPA/NHTSA vehicle database instead of 503ing.
+// Returns matching vehicles with fair-price estimates so the homepage search
+// actually works from day one.
+async function bankedSearch(query: string) {
+  const results = searchBankedVehicles(query, 20)
+  return NextResponse.json({
+    listings: results,
+    total: results.length,
+    source: 'banked',
+    note: 'Showing vehicles from our database with estimated fair pricing. Live dealer listings coming soon.',
+  })
+}
 
 export async function POST(req: NextRequest) {
   try {
@@ -11,13 +27,9 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Query is required' }, { status: 400 })
     }
 
-    // Live inventory search needs the paid data + AI keys. Until those are
-    // configured, fail cleanly instead of 500ing.
+    // Phase 1: no paid keys → banked-data search (never 503)
     if (!process.env.MARKETCHECK_API_KEY || !process.env.ANTHROPIC_API_KEY) {
-      return NextResponse.json(
-        { error: 'Live search is temporarily unavailable. Browse our comparisons in the meantime.', unavailable: true },
-        { status: 503 }
-      )
+      return bankedSearch(query)
     }
 
     // Get current user (if logged in)
@@ -69,6 +81,7 @@ export async function POST(req: NextRequest) {
       remaining,
       plan,
       parsed_query: parsed,
+      source: 'live',
     })
   } catch (err) {
     console.error('Search error:', err)
