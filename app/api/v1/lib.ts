@@ -59,9 +59,9 @@ export function checkRateLimit(req: NextRequest): { allowed: boolean; remaining:
   hits.set(ip, arr)
   // Opportunistic cleanup
   if (hits.size > 10_000) {
-    for (const [k, v] of hits) {
+    hits.forEach((v, k) => {
       if (v.length === 0 || now - v[v.length - 1] > WINDOW_MS) hits.delete(k)
-    }
+    })
   }
   return { allowed: true, remaining: RATE_LIMIT - arr.length }
 }
