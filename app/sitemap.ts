@@ -2,11 +2,19 @@ import type { MetadataRoute } from 'next'
 import { PAIRS } from '@/lib/compare-data'
 import { ARTICLES } from '@/lib/news'
 import { LISTS } from '@/lib/top10'
+import { GUIDES } from '@/lib/guides'
+import { BRANDS } from '@/lib/brands'
 
 const BASE = 'https://www.carc.com'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ['', '/pricing', '/search', '/tools/negotiation', '/compare', '/news', '/top-10', '/privacy', '/terms', '/affiliate-disclosure'].map(p => ({
+  const calcRoutes = ['/calculators', '/calculators/auto-loan', '/calculators/lease-vs-buy', '/calculators/total-cost', '/calculators/depreciation', '/calculators/insurance'].map(p => ({
+    url: `${BASE}${p}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.9,
+  }))
+  const staticRoutes = ['', '/pricing', '/search', '/tools/negotiation', '/compare', '/news', '/top-10', '/guides', '/brands', '/privacy', '/terms', '/affiliate-disclosure'].map(p => ({
     url: `${BASE}${p}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
@@ -30,5 +38,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'monthly' as const,
     priority: 0.9,
   }))
-  return [...staticRoutes, ...compareRoutes, ...newsRoutes, ...top10Routes]
+  const guideRoutes = GUIDES.map(g => ({
+    url: `${BASE}/guides/${g.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }))
+  const brandRoutes = BRANDS.map(b => ({
+    url: `${BASE}/brands/${b.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }))
+  return [...staticRoutes, ...calcRoutes, ...compareRoutes, ...newsRoutes, ...top10Routes, ...guideRoutes, ...brandRoutes]
 }

@@ -399,6 +399,56 @@ export const PAIRS: ComparePair[] = [
     "slug": "toyota-highlander-vs-honda-pilot",
     "a": "Toyota Highlander",
     "b": "Honda Pilot"
+  },
+  {
+    "slug": "toyota-rav4-vs-mazda-cx-5",
+    "a": "Toyota RAV4",
+    "b": "Mazda CX-5"
+  },
+  {
+    "slug": "ram-1500-vs-chevrolet-silverado-1500",
+    "a": "Ram 1500",
+    "b": "Chevrolet Silverado 1500"
+  },
+  {
+    "slug": "kia-telluride-vs-toyota-highlander",
+    "a": "Kia Telluride",
+    "b": "Toyota Highlander"
+  },
+  {
+    "slug": "hyundai-palisade-vs-honda-pilot",
+    "a": "Hyundai Palisade",
+    "b": "Honda Pilot"
+  },
+  {
+    "slug": "tesla-model-y-vs-toyota-rav4",
+    "a": "Tesla Model Y",
+    "b": "Toyota RAV4"
+  },
+  {
+    "slug": "tesla-model-3-vs-honda-civic",
+    "a": "Tesla Model 3",
+    "b": "Honda Civic"
+  },
+  {
+    "slug": "toyota-camry-vs-toyota-corolla",
+    "a": "Toyota Camry",
+    "b": "Toyota Corolla"
+  },
+  {
+    "slug": "honda-accord-vs-honda-civic",
+    "a": "Honda Accord",
+    "b": "Honda Civic"
+  },
+  {
+    "slug": "subaru-outback-vs-toyota-rav4",
+    "a": "Subaru Outback",
+    "b": "Toyota RAV4"
+  },
+  {
+    "slug": "mazda-cx-5-vs-subaru-forester",
+    "a": "Mazda CX-5",
+    "b": "Subaru Forester"
   }
 ]
 

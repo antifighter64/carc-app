@@ -14,6 +14,15 @@ export default function NewsNav() {
           <Link href="/top-10" className="text-brand-muted hover:text-brand-light transition-colors">
             Top 10
           </Link>
+          <Link href="/compare" className="text-brand-muted hover:text-brand-light transition-colors">
+            Compare
+          </Link>
+          <Link href="/guides" className="text-brand-muted hover:text-brand-light transition-colors">
+            Guides
+          </Link>
+          <Link href="/calculators" className="text-brand-muted hover:text-brand-light transition-colors">
+            Calculators
+          </Link>
           <Link href="/pricing" className="text-brand-muted hover:text-brand-light transition-colors">
             Pricing
           </Link>

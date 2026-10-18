@@ -69,6 +69,15 @@ export default function HomePage() {
           <Link href="/top-10" className="text-brand-muted hover:text-brand-light transition-colors">
             Top 10
           </Link>
+          <Link href="/compare" className="text-brand-muted hover:text-brand-light transition-colors">
+            Compare
+          </Link>
+          <Link href="/guides" className="text-brand-muted hover:text-brand-light transition-colors">
+            Guides
+          </Link>
+          <Link href="/calculators" className="text-brand-muted hover:text-brand-light transition-colors">
+            Calculators
+          </Link>
           <Link href="/pricing" className="text-brand-muted hover:text-brand-light transition-colors">
             Pricing
           </Link>
@@ -413,6 +422,10 @@ export default function HomePage() {
           <div className="flex gap-6">
             <Link href="/news" className="hover:text-brand-light transition-colors">News</Link>
             <Link href="/top-10" className="hover:text-brand-light transition-colors">Top 10</Link>
+            <Link href="/compare" className="hover:text-brand-light transition-colors">Compare</Link>
+            <Link href="/guides" className="hover:text-brand-light transition-colors">Guides</Link>
+            <Link href="/calculators" className="hover:text-brand-light transition-colors">Calculators</Link>
+            <Link href="/brands" className="hover:text-brand-light transition-colors">Brands</Link>
             <Link href="/pricing" className="hover:text-brand-light transition-colors">Pricing</Link>
             <Link href="/blog" className="hover:text-brand-light transition-colors">Blog</Link>
             <Link href="/tools/negotiation" className="hover:text-brand-light transition-colors">Tools</Link>
