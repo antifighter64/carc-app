@@ -8,10 +8,10 @@
 
 export const ANALYTICS = {
   /** GA4 Measurement ID, e.g. "G-XXXXXXXXXX" — get from analytics.google.com */
-  GA4_MEASUREMENT_ID: "",
+  GA4_MEASUREMENT_ID: "G-L5HK75HB2S",
 
   /** Google Search Console HTML tag verification content value */
-  GOOGLE_SITE_VERIFICATION: "",
+  GOOGLE_SITE_VERIFICATION: "gqNTjZ3Jdo6SO7X__MKu5Kt9ckNjE48H_FxIt9bYoyE",
 
   /** Bing Webmaster Tools meta tag verification content value */
   BING_SITE_VERIFICATION: "",
