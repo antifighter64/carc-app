@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'My Dashboard',
-  description: 'Your CARC dashboard: saved searches, price-drop alerts, and deal scores for cars you're tracking.',
+  description: "Your CARC dashboard: saved searches, price-drop alerts, and deal scores for cars you're tracking.",
 }
 
 
