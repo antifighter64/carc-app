@@ -12,7 +12,7 @@ const LOAN_STRIP = {
   sub: 'Compare rates from 30+ lenders in 60 seconds. No hard credit pull.',
   cta: 'Check my rate — free',
   url: 'https://www.lendingtree.com/auto/?utm_source=carc&utm_medium=affiliate&utm_campaign=lendingtree_search',
-  badge: 'Up to $70/lead · Phase 1',
+  badge: 'Featured Partner',
 }
 
 const INSURANCE_STRIP = {
@@ -21,7 +21,7 @@ const INSURANCE_STRIP = {
   sub: 'Jerry compares 55+ insurers in 45 seconds. Average savings: $887/year.',
   cta: 'Compare insurance quotes',
   url: 'https://getjerry.com/?utm_source=carc&utm_medium=affiliate&utm_campaign=jerry_search',
-  badge: '$10–$30/lead · Phase 1',
+  badge: 'Featured Partner',
 }
 
 function ScoreBadge({ score, rating }: { score: number; rating: string }) {
