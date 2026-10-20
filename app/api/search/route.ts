@@ -12,9 +12,37 @@ import { searchBankedVehicles } from '@/lib/banked-search'
 // actually works from day one.
 async function bankedSearch(query: string) {
   const results = searchBankedVehicles(query, 20)
+  // Map banked vehicles to the CarListing shape the search UI renders.
+  // Banked rows carry no dealer/listing data, so fill those fields with
+  // safe defaults and use the private-party mid estimate as the price.
+  const listings = results.map(v => {
+    const price = v.privateParty?.mid ?? v.privateParty?.msrpWhenNew ?? 0
+    return {
+      ...v,
+      id: v.slug,
+      vin: '',
+      trim: v.class ?? '',
+      mileage: 0,
+      price,
+      market_price: price,
+      price_delta: 0,
+      dealer_name: '',
+      dealer_city: '',
+      dealer_state: '',
+      dealer_zip: '',
+      exterior_color: '',
+      interior_color: '',
+      transmission: v.trans ?? '',
+      fuel_type: v.fuel ?? '',
+      days_on_market: 0,
+      photos: [] as string[],
+      source: 'banked',
+      listing_url: `/car/${v.slug}`,
+    }
+  })
   return NextResponse.json({
-    listings: results,
-    total: results.length,
+    listings,
+    total: listings.length,
     source: 'banked',
     note: 'Showing vehicles from our database with estimated fair pricing. Live dealer listings coming soon.',
   })
