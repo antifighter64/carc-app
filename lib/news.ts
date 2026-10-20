@@ -13,6 +13,407 @@ export interface NewsArticle {
 }
 
 export const ARTICLES: NewsArticle[] = [
+{
+    slug: 'faa-nhtsa-tesla-roadster-not-aircraft-october-2026',
+    title: 'FAA: Tesla Roadster Is Not an Aircraft — It Can Only “Fly” for About Six Seconds',
+    description:
+      'The FAA told CBS the Roadster is not an aircraft, and NHTSA says it is not a flying car. At full thrust it could stay airborne for less than six seconds.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Five days after the big reveal, regulators weighed in: the Roadster jumps on thrusters — it does not fly.',
+    body: [
+      'The U.S. Federal Aviation Administration told CBS that the new Tesla Roadster does not meet its definition of an aircraft, ending — at least officially — the “flying car” framing around last week’s reveal. Separately, the National Highway Traffic Safety Administration said Tesla must ensure the vehicle meets applicable motor vehicle safety standards and that drivers must follow local road laws, adding plainly that the Roadster is not a flying car.',
+      'The technical details explain why. Reports from MotorTrend and independent estimates indicate the demonstration vehicle completed three jumps, with airtime limited by its gas supply: at full thrust, the car could remain airborne for less than two seconds, and refilling the 250 kilograms of compressed air feeding its ten SpaceX-derived nozzles would take six to seven hours. Even with a full 250-kg charge, estimated flight time at full thrust would still be under six seconds.',
+      'That matches what Tesla showed on October 15 at SpaceX’s McGregor, Texas facility: a driverless prototype that climbed a curved ramp on suction, barrel-rolled in midair, and leapt over a line of Teslas before hitting 60 mph in under a second. Tesla’s own site notes the flying configuration is not approved for public road use, and production is promised for 2028 — with the “full flight system” Rocket model offered by invitation only.',
+      'What it means: the Roadster is a genuinely remarkable engineering demo of cold-gas thruster technology on a road car, and a serious halo product for Tesla. But regulators have now drawn a bright line — it is a car that hops, not an aircraft, and anyone reserving one should treat the flight system as a track-day stunt feature, not transportation. Tesla reports Q3 results on October 21.',
+    ],
+    sources: ['CBS', 'NHTSA', 'MotorTrend', 'Odaily'],
+  },
+  {
+    slug: 'tesla-december-3-shareholder-vote-musk-board-2026',
+    title: 'Tesla Calls Dec. 3 Shareholder Vote on Musk, Denholm and Straubel Board Terms',
+    description:
+      'Tesla filed its definitive proxy Oct 19, asking shareholders to re-elect Elon Musk, Robyn Denholm and JB Straubel to three-year board terms on December 3.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The December 3 vote doubles as a referendum on Tesla’s bet on robots, robotaxis and in-house AI chips.',
+    body: [
+      'Tesla has filed its definitive proxy statement with the SEC and formally asked shareholders to re-elect Elon Musk, board chair Robyn Denholm and co-founder JB Straubel to the board of directors, setting a December 3, 2026 vote. All three are Class I director nominees standing for new three-year terms. The meeting will run virtually, with a limited number of shareholders able to attend in person at Gigafactory Texas in Austin.',
+      'The ballot carries two other items alongside the director elections: a non-binding advisory vote on 2025 executive pay and the ratification of PricewaterhouseCoopers as Tesla’s independent auditor for 2026. The proxy filing, submitted October 19, is the clearest signal yet that Tesla’s board wants continuity at the top heading into a stretch where the company is betting its $1.5 trillion valuation on humanoid robots, autonomous ride-hailing hardware and in-house AI silicon rather than on vehicle sales growth alone.',
+      'The timing matters. Tesla reports Q3 results on October 21, and the vote comes as the company scales its Cybercab robotaxi service in Austin — where an open NHTSA audit into the steering-wheel-free design requires sworn answers from the company by October 30. Shareholders are being asked, in effect, to endorse the hardware-first strategy while regulators are still asking questions about its flagship product.',
+      'What to watch: director elections at Tesla have become flashpoints for broader debates about Musk’s pay and governance. With the stock trading around $368 — up from a $297 low over the past year but well below its $499 high — the December 3 vote will show how much patience shareholders still have for the long game.',
+    ],
+    sources: ['SEC proxy filing', 'Tech Insider'],
+  },
+  {
+    slug: 'tesla-q3-2026-earnings-preview-october-21',
+    title: 'Tesla Q3 Earnings Preview: $28.34B Consensus as Deliveries Hit 486,532',
+    description:
+      'Tesla reports Q3 2026 results Oct 21 after the close. Consensus: $28.34B revenue, 17.90% gross margin — with the Cybercab ramp and Roadster halo in focus.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Three numbers frame the report: 486,532 deliveries, 13.7 GWh of energy storage, and a $28.34 billion revenue consensus.',
+    body: [
+      'Tesla reports third-quarter 2026 results on Wednesday, October 21, after the market close, followed by an earnings webcast at 5:30 p.m. ET. The company published a third-quarter revenue consensus of $28.34 billion with a gross margin estimate of 17.90%, per its investor-relations page — a touch above the $28.24 billion in revenue Tesla reported for the second quarter on July 22.',
+      'The operating backdrop is already public. On October 2, Tesla reported 486,532 third-quarter deliveries and 13.7 GWh of energy-storage deployments. Investors will be parsing how much of the quarter’s story is mix, pricing and energy — and how much is the autonomous-driving pipeline that has dominated headlines: the Austin Cybercab fleet grew to 300+ vehicles in 30 days, NHTSA’s open safety audit of the steering-wheel-free design demands sworn answers by October 30, and the flying Roadster demo on October 15 delivered a halo moment with no near-term revenue.',
+      'Shares closed at $368.06 on the Nasdaq on October 19, giving Tesla a roughly $1.5 trillion market capitalization — with a 52-week range of $297.38 to $498.83. R&D spending has surged: Tesla spent $2.371 billion on research and development in Q2, up 49% from a year earlier, against just $398 million in operating income.',
+      'What to listen for on the call: margin trajectory, capital spending on the Cybercab and robotaxi hardware buildout, energy-storage contribution, and any update on Dallas as the next robotaxi city after Austin. The Roadster makes great headlines, but analysts will want numbers on the businesses that actually pay for it.',
+    ],
+    sources: ['Tesla Investor Relations', 'ad-hoc-news'],
+  },
+  {
+    slug: 'musk-spacex-share-every-american-kid-trump-accounts',
+    title: 'Musk Pledges One SpaceX Share to Every American Kid; Trump Wants Them in Trump Accounts',
+    description:
+      'Elon Musk posted Oct 19 that he will give every US child one SpaceX share next year. President Trump thanked him Oct 20, tying the pledge to Trump Accounts.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      '“Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many.”',
+    body: [
+      'Elon Musk posted on X on October 19 that he will give every child in the United States one share of his rocket company, SpaceX, next year. “Next year, I will give one of my SpaceX shares to every kid in America. This will be the first of many,” he wrote. There are roughly 73 million children under 18 in the United States, according to 2024 Census data. Musk offered no details about how the proposed giveaway would work.',
+      'The pledge followed an exchange with Anthropic, which had announced a Public Benefit Fund starting with 5% of its shares — with up to roughly 20% of shares eventually committed to public benefit as the company’s value grows. Musk replied that Anthropic should give shares directly to the public, then said he would do the same himself. President Donald Trump thanked Musk on October 20 in a Truth Social post, calling him a “legendary friend” and tying the plan to the administration’s Trump Accounts initiative, a children’s savings program designed to let families, government programs and private donors contribute assets directly to eligible children’s accounts.',
+      '“A BIG THANK YOU to our legendary friend, Elon Musk, for his incredible generosity in giving SpaceX Stock to millions of American children through TRUMP ACCOUNTS!” Trump wrote, adding that the plan matched the program’s original vision of bringing together the private sector to invest in children and “give every American Child a piece of the American Dream.”',
+      'The honest caveats: a pledge is not a plan. No mechanism, timeline, eligibility rules or legal structure have been disclosed, and distributing equity to 73 million minors would be an enormous administrative undertaking. It also lands the same week SpaceX reports its own Q3 results. Treat this as a headline pledge to watch, not a done deal.',
+    ],
+    sources: ['Reportage', 'SCMP', 'Daily Prabhat (ANI)', 'Nation Press'],
+  },
+  {
+    slug: 'spacex-q3-earnings-october-20-stock-down-35',
+    title: 'SpaceX Reports Q3 Earnings Today With Shares Down 35% From Post-IPO Peak',
+    description:
+      'SpaceX reports Q3 results Oct 20 after the close — its second quarter since the June IPO. Investors will focus on Starlink growth and AI spending.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The post-IPO rally has faded into a 35% correction. Today’s results will test whether Starlink growth can steady the story.',
+    body: [
+      'SpaceX reports third-quarter 2026 results on Tuesday, October 20, after the US market closes — its second quarterly disclosure since its initial public offering in June. The company scheduled an audio-only webcast for 3:30 p.m. Central Time (4:30 p.m. Eastern), available through the SpaceX Investor Relations portal.',
+      'The results arrive after a sharp correction: SpaceX shares have fallen 35% from their post-listing peak, although the stock has still delivered gains over the past three months. That puts today’s numbers squarely in the spotlight as investors assess whether strong growth in Starlink satellite internet can sustain the company’s valuation — particularly as it ramps investment in AI-related businesses.',
+      'Expect the webcast to focus on Starlink subscriber gains and profitability, overall financial progress, and the AI buildout. It is a big week for Musk-related earnings in general: Tesla reports its own Q3 results the next day, October 21, making this back-to-back window the defining stretch for investor sentiment around both companies.',
+      'What to watch: commentary on Starlink’s trajectory toward sustained profitability, any update on AI capital spending, and guidance tone. A strong quarter could reset the post-IPO narrative; a soft one would deepen questions about how quickly the satellite business can carry the valuation on its own.',
+    ],
+    sources: ['LiveMint'],
+  },
+  {
+    slug: 'pilot-tesla-first-megacharger-ellabell-georgia',
+    title: 'Pilot and Tesla Open First Megacharger Site for Electric Trucks in Georgia',
+    description:
+      'Pilot and Tesla opened their first Megacharger site in Ellabell, Georgia — the start of a charging network for heavy-duty electric trucks at travel centers.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 2,
+    excerpt:
+      'The first Megacharger at a Pilot travel center launches a network aimed at electric freight corridors.',
+    body: [
+      'Pilot, the North American travel-center network, and Tesla have opened their first Tesla Megacharger site at a Pilot location in Ellabell, Georgia. The opening marks the launch of a new charging network at select Pilot travel centers, built specifically to support heavy-duty electric trucks along major U.S. freight corridors.',
+      'The Megacharger is Tesla’s high-power charging system designed for its Semi truck — delivering far higher charge rates than its passenger-car Superchargers. Pairing it with Pilot’s highway footprint is a practical play: truck charging lives or dies on location, and travel centers already sit where long-haul routes, parking and driver amenities converge.',
+      'The bigger picture: electric heavy-duty trucking has been held back as much by charging infrastructure as by the trucks themselves. A dedicated Megacharger network along freight corridors would address the two hardest problems at once — where a truck charges and how fast. For fleet operators watching Tesla Semi adoption, the network’s rollout pace now matters as much as the vehicle specs.',
+      'No timeline or full site count for the broader network was disclosed. But the first site going live in Georgia — near the Port of Savannah’s logistics corridor — suggests the network is starting where freight demand is densest.',
+    ],
+    sources: ['everythingpe'],
+  },
+  {
+    slug: 'alef-flying-car-1000th-flight-trolls-tesla-roadster',
+    title: 'Flying-Car Startup Alef Hits 1,000th Flight — and Trolls Tesla: “We’ve Been Here Alone for 11 Years”',
+    description:
+      'Alef Aeronautics released video Oct 15 of its Model A flying over a Tesla Roadster and Cybertruck — its 1,000th logged flight — needling Tesla’s Roadster demo.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Alef’s machine lifts off vertically and sustains forward flight — a fundamentally different thing from Tesla’s thruster-assisted hops.',
+    body: [
+      'Alef Aeronautics picked a pointed way to mark a milestone. On October 15, 2026 — the same day Tesla unveiled its “flying” Roadster — the Bay Area flying-car startup released video showing its Model A prototype lifting off vertically and gliding over a row of parked vehicles, including a Tesla Roadster and a Tesla Cybertruck. The company said the clip captured its 1,000th logged flight, and it used the occasion to needle the world’s most famous EV maker directly.',
+      '“Welcome, Tesla, to the flying car race. We’ve been here alone for 11 years,” CEO Jim Dukhovny said in comments distributed with the footage. The company also declared that the Tesla Roadster had become the “second” flying car in history, following Alef — a promotional jab, but one that highlights a genuine engineering distinction: Alef is pursuing a dual-mode road vehicle capable of sustained vertical takeoff and forward flight on distributed electric propulsion, while Tesla’s demonstration showed brief, controlled aerial maneuvers on cold-gas thrusters.',
+      'Alef’s pitch is substantive. The electric, all-wheel-drive Model A is designed to take off vertically and transition to forward flight, spreading thrust across multiple motors rather than relying on a single rotor or jet. The company says the lighter design accommodates a full-vehicle ballistic parachute. Commercially, Alef reports more than 3,600 pre-orders valued at roughly $1 billion, with initial deliveries to a limited group of early buyers expected by the end of 2026 and production ramping in 2027. The starting price is $299,999.',
+      'Dukhovny argues competition benefits the whole category: it validates the market, creates a distinct flying-car category for regulators to engage with, attracts investors, and gives everyone a benchmark. Tesla’s demo pulled flying cars into the mainstream news cycle; Alef wants the industry — and the headlines — to remember who was flying first.',
+    ],
+    sources: ['Electrek', 'Gizmodo', 'Men’s Journal', 'DigiconAsia'],
+  },
+  {
+    slug: 'archer-midnight-no-roads-tour-san-francisco-bay',
+    title: 'Archer Wraps “No Roads” Bay Area Tour: 10-Minute Midnight Flights, Then Off to LA',
+    description:
+      'Archer’s Midnight eVTOL completed its Northern California demo tour — Oakland to SF’s Marina in ~10 minutes — and is now moving to Los Angeles.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Ten minutes by air versus more than an hour by car: Archer’s pitch is traffic that you simply skip.',
+    body: [
+      'Archer Aviation has completed an extensive campaign of piloted flight tests in Northern California with its Midnight eVTOL aircraft, wrapping up its Bay Area “No Roads” demonstration tour. The prototype operated from a base at Oakland International Airport and is now being moved to Los Angeles for more demonstrations and operations ahead of the 2028 Olympic Games.',
+      'The tour’s numbers make the pitch concrete. Over the past week, Archer’s flight-test team took the Midnight to Hollister, San Martin, San Jose, Mountain View and Hayward — seven cities over three days, logging more than 174 nautical miles at top speeds of 114 knots (about 131 mph). FlightAware tracked the aircraft (registration N703AX) on three roughly 20-minute flights over the bay. The headline demo: Oakland to San Francisco’s Marina District in about 10 minutes, versus more than an hour by car in traffic.',
+      'Archer says the main objective was demonstrating how the electric air taxi can operate alongside other aircraft in and around the Bay Area’s three international airports — San Francisco, Oakland and San Jose — and giving residents a glimpse of 10-to-20-minute flights as an alternative to congested highways. “Flying Midnight across multiple cities in Northern California shows we can connect communities with no roads, no traffic, and no emissions in minutes instead of hours,” CEO Adam Goldstein said.',
+      'The tour began at Salinas Municipal Airport at the end of July with a round trip to Monterey. With the Bay Area leg done and LA next, Archer is methodically building the operational case city by city — the unglamorous but essential groundwork before any commercial air-taxi service can launch.',
+    ],
+    sources: ['Aviation International News', 'FLYING Magazine', 'Seeking Alpha'],
+  },
+  {
+    slug: 'vertical-aerospace-valo-deals-anh-structure-ng-litef',
+    title: 'Vertical Aerospace Strikes Seat and Navigation Deals to Push Valo Flying Taxi Toward Certification',
+    description:
+      'Vertical Aerospace signed long-term deals with ANH Structure for bespoke Valo seating and NG LITEF for navigation systems as it moves toward certification.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Seats from a Korean aerospace specialist, navigation from a Northrop Grumman unit: Valo is moving from design to industrial-scale production.',
+    body: [
+      'Bristol-based Vertical Aerospace has struck long-term agreements with two international firms as it pushes its Valo electric vertical-takeoff-and-landing aircraft toward certification and production. South Korean aerospace seating specialist ANH Structure will design, develop, certify and produce a bespoke pilot and passenger seating system for the four-to-six-seat aircraft. German navigation-systems maker NG LITEF, part of Northrop Grumman, will supply the inertial reference system feeding position, attitude and heading data to Valo’s flight-critical systems.',
+      'CEO Stuart Simpson said the two companies bring “specialist expertise and strong certification credentials,” adding that the deals support a strategy “to deliver one versatile platform across multiple cabin configurations and missions.” His framing: “Valo is progressing from an advanced design into an aircraft supported by the people, systems and industrial capability needed for certification and production at scale.”',
+      'The agreements follow the launch last month of an aircraft assembly facility at Cotswold Airport — a concrete step from prototype work to industrial capability. Vertical Aerospace was founded a decade ago by Ovo Energy boss Stephen Fitzpatrick and listed on the New York Stock Exchange in 2021, putting it among the earlier eVTOL companies to go public.',
+      'Why it matters: eVTOL programs live or die on certification, and certification is won with supplier ecosystems like this one — certified seats, certified navigation, certified everything. Each signed deal de-risks the path to a type certificate, which is the real gate between demo flights and paying passengers.',
+    ],
+    sources: ['Business Live'],
+  },
+  {
+    slug: 'volant-whitesky-indonesia-evtol-ve25-deal',
+    title: 'China’s Volant Signs eVTOL Supply Deal With Indonesia’s WhiteSky',
+    description:
+      'Volant Aerotech signed an agreement with Indonesian charter operator WhiteSky covering its VE25-100 eVTOL air taxis as Asia’s air-taxi market heats up.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 2,
+    excerpt:
+      'A Chinese eVTOL maker, an Indonesian charter operator: the flying-taxi market is going international.',
+    body: [
+      'China’s Volant Aerotech has signed a memorandum of agreement with Indonesian charter operator WhiteSky Group covering the supply of VE25-100 eVTOL air taxis. The deal puts a Chinese electric air-taxi platform on a path toward commercial operations in Southeast Asia — one of the regions where short-hop air mobility could matter most, given archipelago geography and congested ground transport.',
+      'Volant has retired its X1 technology demonstrator, first flown in 2023, and fully transitioned flight testing to its first development aircraft, the VE25 AC101. Moving the test program onto the development airframe is the standard industry signal that a company is done proving the concept and is now proving the product.',
+      'The agreement lands in a busy week for eVTOL commercialization: Archer wrapped its Bay Area demo tour and moved its Midnight prototype to Los Angeles, and Vertical Aerospace signed certification-oriented supplier deals for its Valo aircraft. Taken together, the industry is shifting from “can it fly?” to “who will buy it and where?” — and Asia is emerging as a key battleground for that second question.',
+      'Commercial timelines remain the honest caveat. MOUs are not firm orders, and certification in each operating country is its own marathon. But the geographic spread of these deals — California, the UK, China, Indonesia, the UAE — shows the air-taxi race is no longer a single-country story.',
+    ],
+    sources: ['Aviation Week'],
+  },
+  {
+    slug: 'renault-5-turbo-3e-555hp-paris-motor-show',
+    title: 'Renault 5 Turbo 3E: 555hp In-Wheel Motors Make It the Most Powerful Street Renault Ever',
+    description:
+      'Unveiled at the Paris Motor Show, the 555hp Renault 5 Turbo 3E uses dual in-wheel motors — the most powerful homologated Renault ever built.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Two motors, in the wheels, 555 horsepower: a rally legend reborn as an electric halo car.',
+    body: [
+      'Renault unveiled its most powerful street-legal car ever at the Paris Motor Show: the 555hp Renault 5 Turbo 3E. The near-production engineering prototype is a modern electric reinterpretation of the legendary Renault 5 Turbo and Turbo 2 rally icons, powered by two rear in-wheel electric motors — technology CEO Francois Provost called “new and very innovative.”',
+      'In-wheel motors are the headline engineering bet. Putting the motors inside the wheels eliminates driveshafts and frees packaging, while delivering instant torque exactly where it meets the road. Provost framed the car as a rolling proof of concept: “At Renault we are obsessed with pushing technology forward and we see this car as a proof of concept.” With 555 peak horsepower, it will be the most powerful homologated Renault ever created.',
+      'The Turbo 3E shared the stage with the E-Space concept — a modern reinterpretation of the original 1984 Renault Espace, the people carrier that became a European icon. Chief Growth Officer Fabrice Cambolive called it “a modern re-interpretation of the original Renault Espace from 1984… a visionary vehicle that became iconic and is in our collective memory.” Kia also opened media day with a broad EV-range pitch backed by its 7-year warranty.',
+      'What it means for buyers: the Turbo 3E itself is a halo car, not a volume play — but in-wheel motor technology proven here could eventually reach mainstream EVs, where packaging and efficiency matter most. Renault is using nostalgia as the wrapper for genuinely forward-looking engineering.',
+    ],
+    sources: ['Associated Press', 'Renault'],
+  },
+  {
+    slug: 'smart-2-fortwo-successor-paris-motor-show',
+    title: 'Smart #2 Brings Back the Fortwo: 82hp Electric City Car, 290 km Range, Under £20,000',
+    description:
+      'Smart unveiled the #2 at the Paris Motor Show — a 2.75-metre, two-seat electric successor to the Fortwo with 290 km of WLTP range.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The ultra-compact icon is back — this time on a dedicated small-EV platform, priced under £20,000.',
+    body: [
+      'Smart is returning to its roots. The company unveiled the new Smart #2 at the 2026 Paris Motor Show on October 12 — a two-seat electric city car that revives the concept of the original Fortwo after Smart spent recent years expanding into larger electric SUVs. Measuring just 2.75 metres long, it is built for the tightest urban streets.',
+      'The specs are modest but honest. The #2 rides on Smart’s new Electric Compact Architecture (ECA) platform, developed specifically for small EVs. A rear-mounted motor produces 60 kW (about 82 hp) and 130 Nm, driving the rear wheels in the tradition of the earliest Smarts. The 35.8 kWh lithium-iron-phosphate battery — chemistry chosen for durability and lower reliance on nickel and cobalt — delivers up to 290 kilometres of WLTP range (preliminary, pending final homologation), with fast charging in about 20 minutes.',
+      'Pricing is the other half of the pitch: the Smart #2 will start below £20,000 in the UK, with pre-orders beginning in 2027. That positions it squarely in the growing fight for affordable European EVs, where parking ease, running costs and purchase price decide winners.',
+      'Why it matters: the entry-level EV segment is where electrification either goes mainstream or stalls. A genuinely small, genuinely cheap electric car from a brand that invented the category is exactly the kind of product the European market has been asking for.',
+    ],
+    sources: ['Smart Europe'],
+  },
+  {
+    slug: 'li-auto-2026-i6-october-28-launch-780km',
+    title: '2026 Li Auto i6 Launches Oct 28: 780 km Range, 5C Charging, 29-Inch 6K Screen',
+    description:
+      'Li Auto’s updated i6 goes on sale Oct 28 with a 96 kWh 5C battery (780 km CLTC), zero-gravity seats and a 29-inch 6K panoramic display.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Six upgrades, one goal: keep the i6 among China’s top-selling premium EVs above RMB 200,000.',
+    body: [
+      'Li Auto will launch the updated 2026 i6 on October 28, with deliveries starting in early November. Teased on October 9 ahead of its European debut at the Paris Motor Show, the refreshed premium EV sedan gets six key upgrades covering lighting, storage, seats, displays, range and chips, according to CEO Li Xiang.',
+      'The headline numbers: a 96 kWh 5C fast-charging battery delivering 780 km of CLTC-rated range. Li Auto developed the cells in-house and outsourced production to Sunwoda and CALB — making CALB the company’s third power-battery supplier, entering the supply chain for the first time through the i6. Up front, the i6 gains adaptive matrix (ADB) headlights shared with the flagship MEGA, a power-operated frunk, and two front zero-gravity seats that recline to roughly 150 degrees.',
+      'The cabin tech is equally aggressive: a 29-inch 6K panoramic display for the front row and a 21-inch 4K rear entertainment screen, running on Qualcomm’s Snapdragon 8797 cockpit chip alongside Li Auto’s self-developed Mach M100 chip. It is a rolling showcase for the company’s vertical-integration push — in-house battery cells, in-house silicon, outsourced cell manufacturing.',
+      'The i6 matters because it is a volume pillar: it has delivered more than 190,000 units in one year and ranked among the top three best-selling battery-electric vehicles priced above RMB 200,000 (about $29,830) for eight consecutive months. The October 28 launch will test whether the upgrades can keep it there as competition intensifies.',
+    ],
+    sources: ['ChinaEVHome', 'Li Auto'],
+  },
+  {
+    slug: 'volvo-ex30-head-restraint-recall-october-2026',
+    title: 'Volvo Recalls EX30 Over Head Restraint; Global Campaign Covers 234,000 Cars',
+    description:
+      'Volvo reported NHTSA campaign 26V671000 on Oct 9 for EX30 head restraints. The global campaign covers about 234,000 vehicles from 2024–2027.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A head-restraint attachment fix with epoxy — free at dealers, with owner letters going out November 30.',
+    body: [
+      'Volvo has recalled certain EX30 and EX30CC electric crossovers over a head-restraint issue, reporting the campaign to U.S. regulators on October 9, 2026, under NHTSA campaign number 26V671000. Volvo’s internal reference is R10396, and affected VINs became searchable in the federal database the same day. Not every EX30 built in the covered periods is included — owners should check their specific vehicle.',
+      'The remedy is straightforward: dealers will reinforce the head-restraint cushion attachment using a two-component epoxy adhesive applied at three specified attachment points. Volvo says physical testing of the repair confirmed a clear improvement in attachment strength. The repair is free of charge, and owner notification letters are expected to be mailed on November 30, 2026. Volvo Car customer service can be reached at 1-800-458-1552, referencing recall R10396; the federal vehicle safety hotline is 888-327-4236.',
+      'The scope is global: Volvo confirmed a campaign covering close to 234,000 vehicles across model years 2024 through 2027, with slightly more than 15,000 in Sweden and 5,542 in Denmark. The company says it has received no reports of injuries connected to the problem and is acting preventively.',
+      'What to do if you own one: check your VIN at NHTSA’s recall site or through Volvo now rather than waiting for the November letter. Head restraints are a whiplash-protection device — a preventive recall is exactly when you want the fix, before it becomes an injury report.',
+    ],
+    sources: ['Road Ethos', 'NHTSA'],
+  },
+  {
+    slug: 'nhtsa-sierra-grille-recall-query-535639-pickups',
+    title: 'NHTSA Questions GM’s Sierra Grille Fix After 21 Trucks Lose Deflectors Post-Repair',
+    description:
+      'NHTSA opened recall query RQ26003 Oct 9 covering 535,639 GMC Sierra 1500s after 21 owners reported the grille deflector came off even after the recall fix.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 4,
+    excerpt:
+      'A recall query asks whether the first recall worked. With 21 post-repair failures, NHTSA isn’t convinced.',
+    body: [
+      'NHTSA’s Office of Defects Investigation opened recall query RQ26003 on October 9, 2026, covering an estimated 535,639 GMC Sierra 1500 pickups from the 2022 through 2024 model years. The subject is the upper grille deflector — the wide trim bar across the top of the grille — detaching while the truck is moving. ODI counts 118 owner complaints, and 21 of them say the deflector came off after the truck had already received the recall repair.',
+      'A recall query is NHTSA’s tool for asking whether a manufacturer’s recall actually worked: did the remedy fix the defect, and did the recall cover the right vehicles? This one challenges both. The original campaign, recall 25V-060 filed February 6, 2025, covered only 70,768 trucks — 2022 Sierra 1500s with a chrome deflector built after the mid-cycle refresh. The new query sweeps in non-chrome 2022 trucks and every 2023 and 2024 Sierra 1500: more than seven times the original population.',
+      'The agency’s summary describes the deflector detaching “without detectability,” and lists the people at risk as the truck itself, nearby vehicles, motorcyclists and pedestrians. No crashes, injuries or deaths have been reported so far. GM’s own paper trail shows a slow start: an employee flagged a detached deflector through the company’s internal Speak Up for Safety program on January 19, 2024, GM closed its investigation that May after finding no defect trend, then reopened it in December 2024 as warranty claims climbed.',
+      'What it means for owners: if you drive a 2022–2024 Sierra 1500, a flying trim bar at highway speed is a hazard to everyone around you, not just a cosmetic issue. Watch for an expanded recall — 21 post-repair failures is exactly the kind of data that forces one.',
+    ],
+    sources: ['The Auto Wire', 'NHTSA'],
+  },
+  {
+    slug: 'global-ev-sales-september-2026-down-2-percent',
+    title: 'Global EV Sales Fell 2% in September, Ending a Six-Month Growth Streak',
+    description:
+      'Reuters reports global EV sales fell 2% in September to 2.15M — record Europe couldn’t offset a 44% North America plunge and an 18% China drop.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Three markets, three stories: record Europe, slumping China, and a North America still lapping the tax-credit cliff.',
+    body: [
+      'Global demand for electric vehicles fell 2% in September, ending six consecutive months of growth, according to data from UK-based research firm Benchmark Mineral Intelligence reported by Reuters on October 15. Global EV sales slid to 2.15 million vehicles for the month, while year-to-date volumes remain up 3% at 15.5 million units.',
+      'The headline hides three very different markets. Europe had its strongest month on record, with almost 600,000 EVs sold in September — 10% above the previous high set in June — on strong consumer demand and policy support. China’s domestic market dropped 18% to 1.11 million vehicles, pushing carmakers to rely increasingly on exports. And North American sales fell 44%, the steepest monthly decline this year, reflecting the strong year-ago period when buyers rushed to dealerships before U.S. federal EV tax credits expired at the end of September 2025.',
+      '“Europe had its strongest month on record,” BMI data manager Charles Lester said — but Europe alone couldn’t carry the world. The divergence is the real story: electric demand is accelerating where products, incentives and operating costs align, and stalling where they don’t.',
+      'What comes next: Lester notes that from the fourth quarter, the North American comparisons will ease as the market laps the post-tax-credit slump — so the year-over-year numbers should look better even without a real demand surge. For buyers, the takeaway is regional: Europe’s record is evidence that EVs win on economics when the conditions are right, and the U.S. market is still finding its post-subsidy footing.',
+    ],
+    sources: ['Reuters', 'Benchmark Mineral Intelligence'],
+  },
+  {
+    slug: 'us-ev-sales-q3-2026-cox-automotive-recovery',
+    title: 'US EV Sales Are Showing Signs of Life: 6.1% Share in Q3, Best in a Year',
+    description:
+      'Cox Automotive: US EVs hit 6.1% market share in Q3 — three straight quarters of growth since the tax-credit cancellation, led by Toyota, Rivian and Subaru.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'After the subsidy cliff, the U.S. EV market is recovering the hard way — on price, product and gas prices.',
+    body: [
+      'Don’t write the obituary for the American electric car just yet. After sales tanked following the cancellation of federal tax credits, U.S. EV sales have now grown for three consecutive quarters, according to a new report from Cox Automotive covered by TechCrunch on October 14. EVs captured 6.1% of the U.S. market in the third quarter — their best showing since Q3 2025.',
+      'The recovery is being led by product, not subsidies. Sales of the Toyota bZ and Lexus RZ roughly doubled after a refresh that reached dealerships late last year, bringing Tesla-style charging ports, larger batteries, more powerful motors and faster charging. Toyota, Rivian and Subaru led the pack. “The EV market is finding its footing again,” said Stephanie Valdez Streaty, Cox Automotive’s director of industry insights — crediting more competitive EV prices and high gas prices for renewed consumer interest.',
+      'Tesla’s position tells the other half of the story: its U.S. sales dropped 20% year over year, yet it still sold more than half of all EVs in the country during the quarter. The market is growing and diversifying at the same time — Tesla shrinking in share while the total pie expands.',
+      'The pattern rhymes with Germany, where EV incentives ended abruptly in November 2023: sales fell by more than half the following month, then recovered steadily — German EV sales this August were the second-highest on record. The lesson for U.S. buyers: subsidy cliffs are painful but temporary, and the current window of competitive pricing plus high gas prices is exactly when EVs make the most economic sense.',
+    ],
+    sources: ['TechCrunch', 'Cox Automotive'],
+  },
+  {
+    slug: 'waymo-20000-robotaxis-2027-5b-debt-plan',
+    title: 'Waymo Plans 20,000 Robotaxis by 2027 on $5B Debt',
+    description:
+      'Semafor reports Waymo plans to grow from ~4,000 robotaxis to 8,000 by end of 2026 and 20,000 by end of 2027, funded by a $5B private-credit raise.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'A fivefold fleet expansion on borrowed money: Waymo is betting it can industrialize the robotaxi.',
+    body: [
+      'Waymo plans to expand its robotaxi fleet from about 4,000 vehicles today to 8,000 by the end of 2026 and 20,000 by the end of 2027, according to Semafor reporting on October 19, subsequently covered by Reuters. The company declined to comment on the specific fleet numbers. If executed, the ramp would be the largest autonomous-vehicle scale-up ever attempted — a fivefold expansion in roughly 14 months.',
+      'The money is already lined up. Waymo closed a $5 billion private-credit raise earlier in October — its first-ever debt financing, done without an Alphabet guarantee — expressly to fund growth in the U.S. and internationally. Deal terms reportedly also permit future securitization of fleet leases, which would unlock additional capacity as vehicles come online. Earlier this year the company raised $16 billion in equity at a reported $126 billion valuation.',
+      'The hardware is largely coming from China: thousands of Zeekr-built vehicles from a Geely unit — the “Ojai” vans now entering service — will supply much of the ramp. That puts America’s robotaxi leader on a Chinese EV platform just as the politics around Chinese vehicles in the U.S. are hardening, a tension Capitol Hill has already started raising. Service currently runs across 15 U.S. cities, with Toronto lined up as the first non-U.S. market and a Nashville operations facility opened with Lyft.',
+      'The honest caveat: 4,000 vehicles operate today; the other 16,000 are prospective. Reaching 20,000 requires more than buying cars — charging, maintenance, fleet management, passenger support, city permissions and insurance all have to scale in parallel. Debt financing adds real pressure to convert technical capability into dependable cash flow. The next 14 months will show whether the robotaxi business is finally industrial — or still a very expensive demo.',
+    ],
+    sources: ['Semafor', 'Reuters', 'AI Weekly'],
+  },
+  {
+    slug: 'waymo-toronto-robotaxi-2028-mapping-element-fleet',
+    title: 'Waymo Starts Mapping Toronto for 2028 Launch — Its First Canadian Market',
+    description:
+      'Waymo will begin manually mapping Toronto streets ahead of a targeted 2028 robotaxi launch, partnering with Element Fleet Management for local operations.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'First the maps, then the driverless rides: Toronto is Waymo’s first planned market outside the U.S.',
+    body: [
+      'Waymo says it will begin manually mapping and testing Toronto streets in the coming days, with the goal of launching fully autonomous ride-hailing there in 2028 — its first planned service in Canada. The announcement, updated October 20, sets Toronto as the first non-U.S. market on Waymo’s expansion list, alongside a U.S. footprint that now spans 15 cities.',
+      'The initial vehicles will carry trained specialists behind the wheel as the company builds high-definition maps and validates how its driving system handles local roads, weather and conditions. The work proceeds in phases before any driverless rides are offered — so the announcement does not mean passengers can book a robotaxi yet. For local operations, Waymo has partnered with Toronto-headquartered Element Fleet Management, which will provide fleet services. The companies expect to support hundreds of jobs over time in vehicle maintenance, validation driving, customer service and operations.',
+      'Regulatory groundwork is underway: Ontario has approved Waymo’s participation in its automated-vehicle pilot program. But local politics is already engaged — Toronto Mayor Olivia Chow has raised safety concerns and called for the vehicles to meet high standards. Waymo’s 2028 date is a target, not a commitment; the company has not announced a specific opening date for public rides.',
+      'Why it matters: international expansion is the next proving ground for robotaxis. New cities mean new regulators, new weather, new driving cultures — and Toronto, with real winters, will test the system in conditions Sun Belt cities never do.',
+    ],
+    sources: ['CBC', 'Harava News'],
+  },
+  {
+    slug: 'diwali-car-offers-2026-india-maruti-tata-honda',
+    title: 'Diwali 2026 Car Deals: Maruti, Tata and Honda Offer up to ₹1.95 Lakh Off',
+    description:
+      'India’s festive season brings 2026’s biggest car discounts: Maruti lists up to ₹1.95 lakh off strong hybrids, Honda up to ₹1.71 lakh on the City.',
+    date: 'October 20, 2026',
+    dateISO: '2026-10-20',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Festive-season offers through October 31 — but the biggest advertised discount isn’t what every buyer will actually save.',
+    body: [
+      'India’s Diwali festive season has brought some of 2026’s biggest advertised car discounts, with automakers and dealers promoting cash discounts, exchange bonuses, scrappage benefits and special financing through October 31. Maruti Suzuki, Tata Motors, Honda, Hyundai and Renault are all running festive-season incentives, according to dealer offer listings published October 20.',
+      'The headline numbers: Maruti Suzuki dealer Varun Motors lists benefits of up to ₹80,000 on the Swift and up to ₹1.95 lakh on selected strong-hybrid versions of the Grand Vitara and Victoris, with the Invicto at up to ₹95,000 and the WagonR at up to ₹58,500. Honda is advertising benefits of up to ₹1.71 lakh on the City, Hyundai lists offers of up to ₹1 lakh on selected models, and Tata’s festive promotions include model-specific benefits — with some dealer offers advertising even higher figures.',
+      'The important catch: the biggest advertised discount is not necessarily what every buyer saves. Offers combine multiple benefits — cash, exchange, corporate, scrappage — and eligibility depends on the variant, city, exchange vehicle, financing arrangement and available stock. A ₹1.95 lakh headline may require trading in an old car, financing through a partner bank and buying the top variant.',
+      'For shoppers, the practical advice is the same in any market: get the out-the-door price in writing, separate the discount from the exchange valuation, and compare across dealers. Festive season is genuinely the best time of year to negotiate in India — just negotiate the real number, not the poster.',
+    ],
+    sources: ['International News and Views'],
+  },
+
   {
     slug: 'tesla-flying-roadster-reveal-october-2026',
     title: 'Tesla Unveils “Flying” Roadster: SpaceX Thrusters, 0–60 Under 1 Second, Production in 2028',
@@ -406,7 +807,7 @@ export const ARTICLES: NewsArticle[] = [
     slug: 'hyundai-genesis-fire-recall-october-2026',
     title: 'Hyundai Recalls 94,622 Genesis and G80 Sedans Over Fire Risk',
     description:
-      'Hyundai is recalling nearly 95,000 Genesis and G80 sedans in the US after NHTSA warned that overheating front power seat motors could cause a fire, even while parked.',
+      'Hyundai is recalling nearly 95,000 Genesis and G80 sedans after NHTSA warned that overheating front power seat motors could cause a fire, even while parked.',
     date: 'October 15, 2026',
     dateISO: '2026-10-15',
     author: 'CARC Editorial Team',
@@ -426,7 +827,7 @@ export const ARTICLES: NewsArticle[] = [
     slug: 'tesla-model-y-best-selling-ev-2026',
     title: 'Tesla Model Y Is Still America\'s Best-Selling EV by a Mile in 2026',
     description:
-      'Cox Automotive data shows the Tesla Model Y sold over 262,000 units so far in 2026 — more than the next 24 best-selling EVs combined — as high gas prices push shoppers electric.',
+      'Cox Automotive: the Tesla Model Y sold over 262,000 units in 2026 — more than the next 24 best-selling EVs combined — as high gas prices push shoppers electric.',
     date: 'October 16, 2026',
     dateISO: '2026-10-16',
     author: 'CARC Editorial Team',
@@ -446,7 +847,7 @@ export const ARTICLES: NewsArticle[] = [
     slug: 'new-car-prices-september-2026-50562',
     title: 'Average New-Car Price Hits $50,562 — Just Shy of the All-Time Record',
     description:
-      'The average new-vehicle transaction price rose for the fourth straight month in September 2026 to $50,562, only $52 below the December 2025 record, Cox Automotive reports.',
+      'Average new-vehicle transaction price rose a fourth straight month in Sept 2026 to $50,562 — just $52 below the Dec 2025 record, per Cox Automotive.',
     date: 'October 14, 2026',
     dateISO: '2026-10-14',
     author: 'CARC Editorial Team',
@@ -486,7 +887,7 @@ export const ARTICLES: NewsArticle[] = [
     slug: 'ram-promaster-vw-id4-recalls-october-2026',
     title: 'Ram ProMaster (265,000 Vans) and VW ID.4 Lead Early-October Recall Wave',
     description:
-      'NHTSA logged 32 recall campaigns in two weeks covering 443,000 vehicles, led by 265,512 Ram ProMaster vans with steering issues and 22,524 VW ID.4 EVs with battery fire risk.',
+      'NHTSA logged 32 recalls in two weeks covering 443,000 vehicles — led by 265,512 Ram ProMaster vans and 22,524 VW ID.4 EVs.',
     date: 'October 10, 2026',
     dateISO: '2026-10-10',
     author: 'CARC Editorial Team',
