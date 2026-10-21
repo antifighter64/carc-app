@@ -4,6 +4,9 @@ import { searchInventory } from '@/lib/marketcheck'
 import { checkSearchRateLimit } from '@/lib/ratelimit'
 import { supabase } from '@/lib/supabase'
 import { searchBankedVehicles } from '@/lib/banked-search'
+import { BRANDS } from '@/lib/brands'
+import type { SearchQuery } from '@/types'
+
 
 // ── Phase 1: Banked-data search ──────────────────────────────────────────────
 // When MARKETCHECK_API_KEY / ANTHROPIC_API_KEY are not configured (no paid
@@ -48,6 +51,43 @@ async function bankedSearch(query: string) {
   })
 }
 
+
+// ── Local query parser (no Claude key needed) ────────────────────────────────
+// Extracts make/model/year from the raw query so live MarketCheck search works
+// even when ANTHROPIC_API_KEY is not configured. Listings are returned
+// unscored in that case.
+function parseQueryLocal(raw: string): SearchQuery {
+  const lower = raw.toLowerCase()
+  const years = [...lower.matchAll(/\b(19|20)\d{2}\b/g)]
+    .map(m => parseInt(m[0], 10))
+    .filter(n => n >= 1990 && n <= 2027)
+  const parsed: SearchQuery = { raw }
+  for (const b of BRANDS) {
+    if (lower.includes(b.name.toLowerCase())) {
+      parsed.make = b.name
+      const model = b.models.find(m => m.name && lower.includes(m.name.toLowerCase()))
+      if (model) parsed.model = model.name
+      break
+    }
+  }
+  if (!parsed.make) {
+    for (const b of BRANDS) {
+      const model = b.models.find(m => m.name && lower.includes(m.name.toLowerCase()))
+      if (model) {
+        parsed.make = b.name
+        parsed.model = model.name
+        break
+      }
+    }
+  }
+  if (years.length > 0) {
+    parsed.year_min = Math.min(...years)
+    parsed.year_max = Math.max(...years)
+  }
+  return parsed
+}
+
+
 export async function POST(req: NextRequest) {
   try {
     const { query } = await req.json()
@@ -55,10 +95,12 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Query is required' }, { status: 400 })
     }
 
-    // Phase 1: no paid keys → banked-data search (never 503)
-    if (!process.env.MARKETCHECK_API_KEY || !process.env.ANTHROPIC_API_KEY) {
+    // No MarketCheck key → banked-data search (never 503)
+    if (!process.env.MARKETCHECK_API_KEY) {
       return bankedSearch(query)
     }
+
+    const hasAnthropic = !!process.env.ANTHROPIC_API_KEY
 
     // Get current user (if logged in)
     const authHeader = req.headers.get('authorization')
@@ -78,8 +120,10 @@ export async function POST(req: NextRequest) {
       )
     }
 
-    // Parse natural language query via Claude
-    const parsed = await parseSearchQuery(query)
+    // Parse natural language query (Claude when available, local fallback otherwise)
+    const parsed: SearchQuery = hasAnthropic
+      ? await parseSearchQuery(query)
+      : parseQueryLocal(query)
 
     // Search MarketCheck
     const { listings, total } = await searchInventory({
@@ -96,9 +140,9 @@ export async function POST(req: NextRequest) {
       sort_order: 'asc',
     })
 
-    // Score listings (full scoring for Pro+, basic for free)
+    // Score listings with Claude when available; otherwise return unscored
     const isPro = ['pro', 'growth', 'dealer', 'enterprise'].includes(plan)
-    const scored = await batchScoreListings(listings, isPro)
+    const scored = hasAnthropic ? await batchScoreListings(listings, isPro) : listings
 
     // Limit free tier to top 5
     const visibleListings = isPro ? scored : scored.slice(0, 5)
