@@ -27,8 +27,8 @@ const INSURANCE_STRIP = {
 function ScoreBadge({ score, rating }: { score: number; rating: string }) {
   const cls =
     rating === 'excellent' ? 'bg-score-excellent score-excellent' :
-    rating === 'good'      ? 'bg-score-good score-good' :
-    rating === 'fair'      ? 'bg-score-fair score-fair' :
+    rating === 'good' ? 'bg-score-good score-good' :
+    rating === 'fair' ? 'bg-score-fair score-fair' :
     'bg-score-overpriced score-overpriced'
 
   return (
@@ -42,6 +42,14 @@ function ScoreBadge({ score, rating }: { score: number; rating: string }) {
 function ListingCard({ listing }: { listing: CarListing }) {
   const delta = listing.price_delta
   const savings = Math.abs(delta)
+  const isEstimate = (listing as { price_is_estimate?: boolean }).price_is_estimate === true
+  // Build the meta line only from values we actually know: never render
+  // "0 mi" for unknown mileage and never render a blank dealer location.
+  const metaParts: string[] = []
+  if (listing.trim) metaParts.push(listing.trim)
+  if (listing.mileage > 0) metaParts.push(`${listing.mileage.toLocaleString()} mi`)
+  const dealerLoc = [listing.dealer_city, listing.dealer_state].filter(Boolean).join(', ')
+  if (dealerLoc) metaParts.push(dealerLoc)
 
   return (
     <div className="glass rounded-2xl border border-brand-steel hover:border-brand-blue/40 transition-colors overflow-hidden group">
@@ -69,30 +77,37 @@ function ListingCard({ listing }: { listing: CarListing }) {
             <h3 className="font-display font-semibold text-brand-light text-lg leading-tight">
               {listing.year} {listing.make} {listing.model}
             </h3>
-            <p className="text-brand-muted text-sm mt-0.5">
-              {listing.trim} · {listing.mileage.toLocaleString()} mi · {listing.dealer_city}, {listing.dealer_state}
-            </p>
+            {metaParts.length > 0 && (
+              <p className="text-brand-muted text-sm mt-0.5">
+                {metaParts.join(' · ')}
+              </p>
+            )}
           </div>
           {listing.deal_score && (
             <ScoreBadge score={listing.deal_score.score} rating={listing.deal_score.rating} />
           )}
         </div>
 
-        <div className="flex items-end gap-2 mb-3">
-          <span className="font-display text-2xl font-bold text-brand-light">
-            ${listing.price.toLocaleString()}
-          </span>
-          {delta < 0 && (
-            <span className="text-brand-green text-sm font-medium bg-brand-green/10 border border-brand-green/25 px-2 py-0.5 rounded-full">
-              ${savings.toLocaleString()} below market
+        {listing.price > 0 && (
+          <div className="flex items-end gap-2 mb-3">
+            <span className="font-display text-2xl font-bold text-brand-light">
+              ${listing.price.toLocaleString()}
             </span>
-          )}
-          {delta > 0 && (
-            <span className="text-brand-amber text-sm bg-brand-amber/10 border border-brand-amber/25 px-2 py-0.5 rounded-full">
-              ${savings.toLocaleString()} above market
-            </span>
-          )}
-        </div>
+            {isEstimate && (
+              <span className="text-brand-muted text-xs font-medium mb-1">est.</span>
+            )}
+            {delta < 0 && (
+              <span className="text-brand-green text-sm font-medium bg-brand-green/10 border border-brand-green/25 px-2 py-0.5 rounded-full">
+                ${savings.toLocaleString()} below market
+              </span>
+            )}
+            {delta > 0 && (
+              <span className="text-brand-amber text-sm bg-brand-amber/10 border border-brand-amber/25 px-2 py-0.5 rounded-full">
+                ${savings.toLocaleString()} above market
+              </span>
+            )}
+          </div>
+        )}
 
         {listing.deal_score?.summary && (
           <p className="text-brand-muted text-sm mb-4 line-clamp-2">
@@ -124,7 +139,7 @@ function ListingCard({ listing }: { listing: CarListing }) {
   )
 }
 
-// ── Affiliate Strip ────────────────────────────────────────────────────────
+// ── Affiliate Strip ──────────────────────────────────────────────
 function AffiliateStrip({
   type,
   compact = false,
@@ -182,7 +197,7 @@ function AffiliateStrip({
   )
 }
 
-// ── Filters sidebar ────────────────────────────────────────────────────────
+// ── Filters sidebar ──────────────────────────────────────────────
 function SortSelect({ value, onChange }: { value: string; onChange: (v: string) => void }) {
   return (
     <select
@@ -264,7 +279,7 @@ function WaitlistCapture() {
   )
 }
 
-// ── Main content ───────────────────────────────────────────────────────────
+// ── Main content ──────────────────────────────────────────────
 function SearchContent() {
   const searchParams = useSearchParams()
   const router = useRouter()
