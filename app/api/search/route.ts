@@ -29,6 +29,7 @@ async function bankedSearch(query: string) {
       price,
       market_price: price,
       price_delta: 0,
+      price_is_estimate: true,
       dealer_name: '',
       dealer_city: '',
       dealer_state: '',
