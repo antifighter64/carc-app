@@ -13,6 +13,389 @@ export interface NewsArticle {
 }
 
 export const ARTICLES: NewsArticle[] = [
+
+  {
+    slug: 'musk-confirms-tesla-spacex-merger-talks-october-2026',
+    title: 'Musk Confirms Tesla-SpaceX Merger Talks: Special Committees Formed for a Potential $3.5 Trillion Union',
+    description:
+      'Elon Musk confirmed Oct 20 that independent committees at Tesla and SpaceX are exploring a merger — but cautioned no deal is certain.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Musk says a merger has "a lot of merit" — but as a conflicted party he cannot take part in the talks, and no terms have been agreed.',
+    body: [
+      'Elon Musk confirmed on October 20 that special committees of independent directors have been formed at both Tesla and SpaceX to explore a potential merger of his two flagship companies. Speaking during SpaceX\u2019s quarterly earnings call — the first time he has addressed the long-rumored tie-up this forcefully — Musk said combining the companies made strategic sense, while stressing he was a conflicted party who cannot participate in the discussions. \u201CI do think there is a lot of merit to combining the companies,\u201D he said, adding that the committees \u201Chave not reached agreement on terms of any transaction and there\u2019s no guarantee that they will.\u201D',
+      'The scale is hard to overstate. With Tesla valued at roughly $1.5 trillion and SpaceX at about $2 trillion, a merger would create a combined company worth approximately $3.5 trillion — one of the largest corporate unions in history. The two companies are already collaborating: Tesla and SpaceX are jointly developing the Terafab chip plant, and both are rapidly converging on artificial intelligence and autonomous systems. AI now makes up more than half of SpaceX\u2019s revenue, and Musk pointed to shared technology, manufacturing expertise and infrastructure as the logic for a union. CoinDesk noted the merger would also unite the companies\u2019 bitcoin holdings into a treasury of 30,221 BTC.',
+      'Investors liked the idea: SpaceX shares jumped as much as 9% in after-hours and premarket trading following the comments, while Tesla gained about 1% premarket. Analysts broadly describe a deal as a matter of time — some expect one by the end of next year — though Musk himself warned against assuming it happens. \u201CI think it would be a good idea, but the decision ultimately rests with the special committees of both companies,\u201D he said. Musk called a Tesla shareholder vote \u201Ca high hurdle,\u201D noting the committees he cannot join stand in the way of his own preference.',
+      'What it would mean: control is part of the appeal. Musk holds about 85% of SpaceX\u2019s voting power through super-voting shares but only roughly 20% at Tesla; one analysis estimates a merger would give him about 57% of the combined company\u2019s voting rights. A deal would also pool the enormous capital spending both companies face — SpaceX guided to $35–40 billion in fourth-quarter capex alone — and let them borrow and share services jointly. Wall Street pointed to last week\u2019s Roadster unveiling, where a Tesla car with SpaceX rocket thrusters flipped and leapt over a line of trucks, as a teaser for what a combined company could build.',
+    ],
+    sources: ['Reuters', 'CNN', 'CoinDesk', 'LiveMint'],
+  },
+  {
+    slug: 'spacex-q3-2026-results-super-intelligence-blockbuster',
+    title: 'SpaceX Posts Blockbuster Q3: Revenue Up 161% to $14.6B as Super Intelligence Becomes Its Biggest Business',
+    description:
+      'SpaceX swung to a $4.4B profit in Q3 on $14.6B revenue, with its AI segment growing 830% to $7.6B and Starlink at 13.6M subscribers.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The rocket company is now, by revenue, an AI company first: Super Intelligence out-earned Starlink for the first time.',
+    body: [
+      'SpaceX delivered a blockbuster third quarter on October 20, reporting revenue of $14.58 billion — up 161% from $5.6 billion a year earlier and well ahead of the roughly $12.7–13 billion analysts expected. Net income hit $4.4 billion versus a $1.1 billion loss in the prior-year quarter, with adjusted EBITDA up 306% to $8.8 billion and adjusted earnings per share of about $0.35, more than double the roughly $0.13–0.16 consensus. It was SpaceX\u2019s second quarterly report since its June IPO, and its first solidly profitable quarter as a public company.',
+      'The defining shift: the Super Intelligence (SI) segment — the company\u2019s renamed AI business, covering cloud services, Grok models, the Cursor coding tools acquired earlier this year and the Grok Bot personal agent — generated $7.56 billion in revenue, an 830% year-over-year increase, making it the company\u2019s largest segment for the first time. Connectivity, primarily Starlink, produced $5.25 billion, up 69%, while the legacy Space segment grew a modest 6% to $1.77 billion. Starlink ended the quarter with 13.6 million consumer subscribers, adding 1.6 million in the quarter and growing 89% year over year. Nameplate compute capacity reached 1.7 GW, up from 1.4 GW in June and 0.6 GW a year ago.',
+      'The growth has a price tag. Capital expenditures totaled $19.6 billion in the quarter, with $16.4 billion directed to AI infrastructure including the Colossus facilities — and management guided fourth-quarter capex of $35 billion to $40 billion. SpaceX expects first-quarter 2027 revenue of $33 billion to $37 billion and says it remains on track for $100 billion in annual recurring revenue by the end of 2026, measured by annualizing December revenue. Musk also floated an eye-popping target: $500 billion to $1 trillion in recurring annual revenue by the end of 2027. The quarter even produced space hardware history: Starship Flight 14, the first orbital Starship mission, delivered 26 Starlink V3 satellites — about 10 times the downlink capacity added per launch as a Falcon 9.',
+      'The honest caveats: only $2.79 billion of the $4.4 billion net income was operating profit, with the rest including interest income, tax benefits and unexplained items — the headline number is real but flattered. And the AI revenue surge leans heavily on cloud-services agreements that are lumpy by nature. Still, $63 billion in backlog and roughly $90 billion in cash and marketable securities give SpaceX enormous room to keep building. The same call where these numbers dropped is where Musk confirmed Tesla-SpaceX merger talks — AI, not rockets, is now the center of gravity for both companies.',
+    ],
+    sources: ['Teslarati', 'The Hindu BusinessLine', 'CNN', 'Teslanewswire'],
+  },
+  {
+    slug: 'gm-q3-2026-earnings-net-income-151-20b-buyback',
+    title: 'GM Q3 Net Income Surges 151% to $3.3B, Board Approves $20 Billion Buyback',
+    description:
+      'GM reported Q3 revenue of $50B (+2.9%), authorized a $20B share repurchase, and narrowed its 2026 EBIT guidance.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Profit doubled, the board opened a $20B buyback, and wholesale deliveries rose 5.2% — GM is the auto sector\u2019s Q3 standout.',
+    body: [
+      'General Motors reported third-quarter 2026 results on October 20 with net income attributable to stockholders of $3.3 billion — up 151% from $1.32 billion a year earlier — on revenue of $50.02 billion, up 2.9% and ahead of the $48.78 billion consensus. Adjusted EBIT rose 22% to $4.1 billion, diluted EPS reached $3.73, and total wholesale deliveries increased 5.2% to 1,028,000 vehicles. Alongside the results, the board authorized a $20 billion multiyear share repurchase program — enough to buy back roughly 27.5% of outstanding shares — and declared a $0.18 quarterly dividend payable December 17.',
+      'The quarter\u2019s performance was driven almost entirely by North America, where EBIT-adjusted grew 43.4% to $3.59 billion. GM International moved the other way: EBIT-adjusted fell 87.7% to $28 million, and China equity income dropped 60.3% to $32 million. For the full year, GM narrowed its adjusted EBIT guidance to $14.5–15.5 billion from the prior $14–16 billion range, and raised its adjusted automotive free cash flow outlook to $11.5–12.5 billion. Adjusted diluted EPS is now projected at $12.75 to $13.75.',
+      'A less-visible line item is also growing: GM Defense. The business, separate since 1996, expanded its U.S. Army contract for Infantry Squad Vehicles to a cumulative face value of $915.6 million on September 21, and Lockheed Martin confirmed it accepted first delivery of mission-critical components produced by GM Defense after inking a deal weeks earlier. Ford and Stellantis report earnings on October 28, which will show whether GM\u2019s quarter was company-specific or sector-wide.',
+    ],
+    sources: ['Detroit Free Press', 'Just-Auto', 'GM Investor Relations'],
+  },
+  {
+    slug: 'toyota-land-cruiser-hybrid-fuel-tube-fire-recall-2026',
+    title: 'Toyota Recalls 105,794 Land Cruiser Hybrids Over Fuel-Tube Fire Risk',
+    description:
+      'Toyota is recalling certain 2024–2027 Land Cruiser Hybrids because a fuel tube connection near the tank could disconnect and leak.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A fuel tube that can disconnect and leak: dealers will install a supplemental clamp or replace the tube free of charge.',
+    body: [
+      'Toyota is recalling 105,794 vehicles in the United States over a potential fuel leak that could raise the risk of a fire if the leaking fuel reaches an ignition source, the National Highway Traffic Safety Administration said on October 21. The recall covers certain 2024–2027 Toyota Land Cruiser Hybrid vehicles, according to Reuters\u2019 reporting of the federal announcement.',
+      'The defect is in the fuel tube connection near the fuel tank, which could disconnect and leak fuel. As part of the remedy, dealers will install a supplemental clamp or replace the resin fuel tube entirely, free of charge to owners. Fire-risk recalls are the category where speed matters most: a leaking fuel tube near hot exhaust components is a hazard that grows worse with age and vibration, not better.',
+      'Owners of affected Land Cruisers should not wait for a letter to take this seriously. Check the vehicle\u2019s VIN in NHTSA\u2019s recall database now, and if it\u2019s included, schedule the clamp or tube replacement promptly. If you smell fuel or see wetness near the rear of the vehicle, do not drive it — call the dealer for a tow.',
+    ],
+    sources: ['Reuters', 'NHTSA'],
+  },
+  {
+    slug: 'ford-f-series-102k-instrument-cluster-recall-2026',
+    title: 'Ford Recalls 102,159 F-Series Trucks for Stuck or Erratic Analog Gauges',
+    description:
+      'NHTSA recall 26V653 covers certain 2025–2026 F-Series trucks whose analog speedometers and tachometers can give inaccurate readings.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Stuck needles can\u2019t be fixed over the air — and replacement parts won\u2019t be ready until December.',
+    body: [
+      'Ford is recalling 102,159 F-Series trucks because their analog instrument clusters can lie about how fast the truck is going. The NHTSA campaign (26V653; Ford number 26C46) covers certain 2025–2026 F-250, F-350, F-450, F-550 and F-600 Super Duty trucks, plus certain 2026 F-150 and F-750 Super Duty models, whose analog tachometer and speedometer needles may become stuck or move erratically, providing inaccurate readings. NHTSA says the trucks fail to comply with Federal Motor Vehicle Safety Standard No. 101, which covers controls and displays.',
+      'The fix is a dealer-only job: because the fault lies in the cluster module itself, it cannot be resolved with an over-the-air software update. Dealers will replace the instrument cluster modules free of charge — but replacement parts are not expected to be ready for installation until December 7–11, 2026. Interim owner letters explaining the risk go out October 26, with a follow-up once the remedy is available. In the meantime, owners should be alert for needles that stick, lag or jump, and treat any erratic gauge as a reason to drive conservatively until the module is replaced.',
+      'The recall is a reminder of how old-school defects survive in high-tech trucks. A speedometer that reads low by 10 mph on a 7,000-pound truck is not a minor nuisance — it changes braking distance, speed judgment and traffic flow. Check the VIN at nhtsa.gov to see whether a specific truck is included.',
+    ],
+    sources: ['Autoblog', 'Reuters', 'NHTSA'],
+  },
+  {
+    slug: 'ram-2500-steering-module-recall-expansion-2026',
+    title: 'Ram Recalls 8,329 Ram 2500 Pickups for Steering Modules That Kill Stability Control',
+    description:
+      'Certain 2026 Ram 2500s may lose electronic stability control when the steering column control module fails — an expansion of an earlier recall.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'No warning before failure: the stability-control light only comes on after the module has already reset.',
+    body: [
+      'FCA US is recalling 8,329 model-year 2026 Ram 2500 pickup trucks because their steering column control modules can cause a loss of electronic stability control. According to the October 6 NHTSA recall notice covered by USA Today, there is no warning before failure — once the module resets, the ESC warning light illuminates on the instrument cluster, by which point the system is already unavailable.',
+      'The campaign (NHTSA 26V651; FCA number 90D) is an expansion of an earlier recall, 26V244, and covers a wider population of the heavy-duty pickups. The remedy is straightforward: dealers will replace the steering column control module free of charge. Owner notification letters are expected to go out November 24. FCA US customer service can be reached at 800-853-1403.',
+      'Loss of electronic stability control on a heavy-duty truck is not a minor defect. ESC is the system that keeps a truck from spinning or rolling when a driver swerves or hits slick pavement — and it matters most on vehicles with a high center of gravity and heavy loads. If the ESC light comes on in an affected Ram 2500, drive with extra care and get to a dealer promptly.',
+    ],
+    sources: ['USA Today', 'NHTSA', 'Motales'],
+  },
+  {
+    slug: 'ford-f-150-seat-bolt-recall-80th-recall-2026',
+    title: 'Ford Hits 80 Recalls in 2026 as F-150 Seat Bolts May Be Loose',
+    description:
+      'Ford\u2019s 80th U.S. recall of the year covers 2,276 F-150s whose front seat bolts may not be properly secured. Stellantis is next at 39.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Fifty-six warranty reports of loose front seats pushed Ford\u2019s 2026 recall count to 80 — more than double any other automaker.',
+    body: [
+      'Ford has officially hit 80 recalls in the United States in 2026, leading all other automakers by a wide margin. The latest covers 2,276 examples of the 2025–2027 Ford F-150 whose front seat-to-body bolts may not be properly secured, produced between August 25, 2025 and September 23, 2026. \u201CAn improperly secured seat may have degraded seat stability and occupant restraint performance in a crash, which increases the risk of injury,\u201D the NHTSA recall report states. Ford first learned of the issue from a warranty report on a 2026 F-150; there have been 56 warranty reports and 16 field reports so far, but no accidents or injuries.',
+      'The fix is an inspection: owners will be notified by mail between October 26 and 30, then take their trucks to a Ford or Lincoln dealer, where technicians will check seat-bolt torque and retighten or replace the bolts as needed. Occupants may notice physical movement of the seat or a noise from the unsecured area — symptoms worth reporting to a dealer even before the letter arrives.',
+      'The milestone number invites the obvious question, and Ford has an answer: the automaker attributes its high recall count to strengthened quality-control procedures and a proactive approach to identifying defects, rather than deteriorating build quality — and it can point to being ranked the highest-rated mainstream brand in J.D. Power\u2019s 2026 U.S. Initial Quality Study. Still, 80 recalls is more than double the next-closest automaker, Stellantis, at 39. Separately, 741,195 Ford and Lincoln vehicles were recalled over a potential rollaway risk tied to a module\u2019s software — another reminder that Ford\u2019s recall volume is driven by both hardware and software finds.',
+    ],
+    sources: ['Autoblog', 'AutoWorldJournal'],
+  },
+  {
+    slug: 'vw-id-unyx-09-xpeng-launch-october-24-china',
+    title: 'Volkswagen ID. UNYX 09 Launches Oct 24: Second VW–Xpeng Co-Developed EV, Up to 755 km Range',
+    description:
+      'VW Anhui launches the ID. UNYX 09 on Oct 24 in China — a sleek electric sedan with Xpeng\u2019s 750-TOPS driving chip, from ¥199,900.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The German-Chinese partnership\u2019s second model: fastback styling, CATL LFP batteries, and serious smart-driving hardware.',
+    body: [
+      'Volkswagen Anhui will officially launch the ID. UNYX 09, its second model jointly developed with Xpeng, in China on October 24, 2026. The joint venture, in which Volkswagen holds a 75% stake, confirmed the date with a three-day countdown poster on Weibo. Pre-sales began September 24 with prices from 199,900 yuan (about $29,750) to 249,900 yuan. The model follows the ID. UNYX 08 SUV, the first product of the VW–Xpeng partnership, as Volkswagen expands its electric lineup in the world\u2019s largest EV market.',
+      'The UNYX 09 is positioned as a sleek electric sports sedan with smart technology: a fastback design measuring 5,081 mm long with a 3,030 mm wheelbase. Both single-motor rear-wheel-drive (230 kW / 308 hp) and dual-motor all-wheel-drive (140 kW front, 230 kW rear) versions are offered, each with a 91.963-kWh lithium-iron-phosphate battery with cells supplied by CATL. CLTC ranges are 755 km for the RWD version and 705 km for the AWD version.',
+      'The headline tech is the driver-assistance hardware: the UNYX 09 uses Xpeng\u2019s Turing AI chip with 750 TOPS of total computing power. That is the partnership\u2019s real story — Volkswagen brings the brand, the manufacturing scale and the dealer network; Xpeng brings the software and silicon that Chinese buyers now expect. Whether the formula works will be visible in October and November sales figures.',
+    ],
+    sources: ['CnEVPost'],
+  },
+  {
+    slug: 'byd-second-generation-seagull-launch-october-2026',
+    title: 'BYD\u2019s New Seagull Debuts: Bigger, Five Seats, RWD — Still Around $10,000 in China',
+    description:
+      'BYD launched the second-generation Seagull EV on Oct 20: 425 mm longer, 127 hp, rear-wheel drive, and a roomier five-seat cabin.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The world\u2019s sixth best-selling EV just grew up — more power, more space, same disruptive price.',
+    body: [
+      'BYD launched the second-generation Seagull in China on October 20 at the Zhengzhou International Circuit, after opening pre-orders on October 9. The update matters because the Seagull — sold in Europe and the UK as the Dolphin Surf and elsewhere as the Dolphin Mini — is one of the world\u2019s top-selling EVs, ranking sixth globally through the first eight months of 2026. In China it starts at just 69,900 yuan, roughly $10,000.',
+      'The generational changes are substantial. The new Seagull is 4,205 mm long with a 2,650 mm wheelbase — 425 mm longer overall and 150 mm more between the axles than its predecessor — and it gains a fifth seat. The permanent-magnet motor now produces 95 kW (127 hp), up from 55 kW, and the drive layout switches from front-wheel drive to rear-wheel drive, with a multi-link independent rear suspension to improve ride and handling. One of the two versions even offers optional LiDAR hardware, a remarkable feature at this price point.',
+      'The Seagull\u2019s challenge is not technology but competition: low-cost rivals are flooding the segment. BYD\u2019s answer — more size, more power, more tech, same aggressive price — is the playbook that made the Seagull a phenomenon. The European Dolphin Surf, currently among BYD\u2019s lowest-priced EVs at €22,900, will be worth watching for a similar update.',
+    ],
+    sources: ['Electrek', 'CnEVPost'],
+  },
+  {
+    slug: 'leapmotor-a10s-launch-lidar-13800-china',
+    title: 'Leapmotor A10s Launches in China at Just $13,810 — With LiDAR and 505 km Range',
+    description:
+      'Leapmotor launched the sporty A10s electric SUV on Oct 18 at ¥92,800, packing LiDAR, a 53 kWh battery and urban driving assistance.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A $13,800 EV with LiDAR, an 800-volt platform and parking-space-to-parking-space assisted driving.',
+    body: [
+      'Leapmotor has launched the A10s, a sporty variant of its A10 small electric SUV, in China at a list price of 92,800 yuan — about $13,810. The launch on October 18 comes as the company pushes for year-end sales momentum: A10 deliveries fell 24% month-on-month to 24,457 units in September, still nearly a quarter of Leapmotor\u2019s monthly total.',
+      'The A10s pairs a single 90 kW (121 hp) front motor with a 53 kWh lithium-iron-phosphate battery for 505 km of CLTC range. The real story is the hardware at this price: LiDAR, a Qualcomm SA8295 cockpit chip and an SA8650 driver-assistance chip enabling urban navigation on autopilot, automated highway cruising and memory parking — effectively parking-space-to-parking-space assisted driving. An 800-volt platform means 30–80% charging in as little as 16 minutes.',
+      'Differentiation from the A10 is mostly styling and comfort: exclusive Mirror Night Black paint, gunmetal-gray emblems, 18-inch black sport wheels, a red S badge, and a Modern Gray cabin with red stitching and ventilated front seats. The A10s is a case study in how China\u2019s price war has moved upmarket — where the battle is now over driver-assistance chips and charge speed, not just sticker price.',
+    ],
+    sources: ['CnEVPost'],
+  },
+  {
+    slug: 'kia-pv5-philippines-launch-electric-vehicle-summit',
+    title: 'Kia PV5 Electric Van Launches in the Philippines at the Oct 22–24 EV Summit',
+    description:
+      'Kia Philippines will launch the PV5 electric van at the 2026 Philippine EV Summit — starting with the Cargo variant at up to 524 km range.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 2,
+    excerpt:
+      'Kia\u2019s first dedicated electric van lands in Southeast Asia — and fleet buyers are the first target.',
+    body: [
+      'Kia Philippines will officially launch the all-electric PV5 van at the 2026 Philippine Electric Vehicle Summit, running October 22–24 at the SMX Convention Center in Pasay City. The company confirmed the PV5 will be available in Cargo form first — a telling choice in a market where fuel costs swing constantly and delivery fleets run on tight margins.',
+      'The specs: a single 163-horsepower motor with 250 Nm of torque. The standard-range Cargo gets a 51.5 kWh battery for up to 384 km of range; an extended-range 71.2 kWh version stretches that to 524 km. Whether passenger variants will join the lineup may be announced at the summit itself.',
+      'The PV5 is the first vehicle on Kia\u2019s dedicated PBV (Platform Beyond Vehicle) architecture — a modular electric skateboard designed for vans, not adapted from a car. Fleet electrification in Southeast Asia is one of the industry\u2019s quiet growth stories, and the PV5\u2019s arrival gives it its most serious contender yet.',
+    ],
+    sources: ['TheAutoPH'],
+  },
+  {
+    slug: 'joby-archer-faa-certification-endgame-2026',
+    title: 'The eVTOL Certification Race Is in the Endgame: Joby in Final FAA Stage, Archer Close Behind',
+    description:
+      'Joby is in Stage 5, the final phase of FAA type certification, with Archer in Phase 4 — but neither has a type certificate or paying passengers yet.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'No more renderings: 2026 is about test flights, means of compliance, and surviving the cash burn.',
+    body: [
+      'Advanced air mobility in the U.S. has entered the certification endgame. Joby Aviation\u2019s S4 is in Stage 5, the final stage of FAA type certification — its August 5 letter put the fourth stage at 83% on Joby\u2019s side and 77% on the FAA\u2019s, with the fifth stage at 20% and 10% respectively — and its first FAA-conforming aircraft flew with Joby pilots on March 11. Archer Aviation closed Phase 3 of its four-phase process in April, making it the first eVTOL company to do so, and is now in Phase 4 compliance work; the FAA accepted all 797 of the Midnight\u2019s proposed means of compliance back on March 2.',
+      'Both companies are also building the operational side. Under the federal eVTOL Integration Pilot Program — eight projects across 26 states announced March 9 — Joby began eIPP flights in Texas on September 10, while Archer is targeting early operations in Florida, Texas and New York in the second half of 2026 under the same program. Joby raised a net $1.2 billion in February to survive the cash burn, is partnered with Toyota on automotive-style manufacturing and Virgin Atlantic on UK integration, and has targeted a commercial launch with Delta Air Lines before the end of 2026.',
+      'The honest status, as filings through early October 2026 confirm: neither company holds an FAA type certificate, and neither has flown paying passengers. Certification, not engineering, is the gate — and the question has shifted from whether eVTOLs are real to who will carry paying passengers first, on what routes, and at what cost. The UAE, which moved both companies\u2019 programs forward this month, may answer that question before the U.S. does.',
+    ],
+    sources: ['LowAltitudeEconomy', 'AirMedia24', 'Motley Fool'],
+  },
+  {
+    slug: 'uae-air-taxi-certification-joby-archer-california',
+    title: 'UAE Regulator Visits Joby and Archer in California as Air Taxi Certification Nears',
+    description:
+      'The UAE\u2019s GCAA reviewed certification and airworthiness with Joby and Archer at their California facilities ahead of planned 2026 launches.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The UAE is doing the regulator visits most markets haven\u2019t: certification talks ahead of planned 2026 air taxi launches.',
+    body: [
+      'The UAE\u2019s General Civil Aviation Authority reviewed aircraft certification and airworthiness requirements with Joby Aviation and Archer Aviation during separate visits to the companies\u2019 facilities in California on October 16. The delegation was led by Aqeel Al Zarooni, the GCAA\u2019s assistant director general for aviation safety affairs, and included senior flight operations and airworthiness staff, with technical workshops covering certification and operational matters for each air taxi program.',
+      'The visits reflect how far ahead the UAE is running. Joby signed a definitive agreement with Dubai\u2019s Roads and Transport Authority in February 2024 giving it exclusive rights to operate air taxis in the emirate for six years, with a commercial launch targeted for 2026. Archer, partnered with the Abu Dhabi Investment Office, completed its first UAE test flight at Al Bateen Executive Airport — just days after Joby\u2019s Dubai test flight — with Abu Dhabi as its first planned launch market. Archer\u2019s longest UAE flight covered about 55 miles in 31 minutes. The GCAA has previously said air taxi certification would be completed in the third quarter of 2026, and Joby\u2019s UAE team says passengers will only be carried once all safety requirements are met, including a GCAA Air Operator Certificate.',
+      'The UAE is effectively running a parallel certification race with the FAA — and regulators in most other markets are not nearly this engaged. If Dubai or Abu Dhabi carries paying air-taxi passengers in 2026 while the FAA\u2019s type-certification process is still grinding through its final stages, the center of gravity for commercial eVTOL could tilt toward the Gulf first.',
+    ],
+    sources: ['AviNews'],
+  },
+  {
+    slug: 'icaur-v25-global-debut-wuhu-bev-reev',
+    title: 'iCAUR V25 Debuts Globally in Wuhu: Boxy Electric SUV With BEV and REEV Power',
+    description:
+      'iCAUR unveiled the V25 on Oct 21 — a "Future Classic" boxy SUV with BEV and range-extended options, up to 1,549 liters of cargo space.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Classic looks, modern hardware: the V-Series lineup is complete, with customization built into the showroom.',
+    body: [
+      'iCAUR unveiled the V25 on October 21 at the 2026 iCAUR International User Summit in Wuhu, China, completing the brand\u2019s V-Series SUV lineup alongside the V23 and V27. More than 500 user representatives from around the world joined media and partners for the reveal. Positioned as the \u201CPersonalized All-Way SUV,\u201D the V25 offers both battery-electric and range-extended (REEV) powertrains with intelligent all-wheel drive — and leans into customization with more than 20 factory-integrated modification interfaces, 1.8-ton towing capacity and 6 kW vehicle-to-load output.',
+      'The design language is what iCAUR calls \u201CFuture Classic\u201D: upright proportions, round headlights, a squared-off profile, clamshell bonnet, side-opening tailgate and a full-size spare. The near-square stance (0.96 height-to-width ratio) delivers 66.4% longitudinal space efficiency, 41 storage compartments and up to 1,549 liters of luggage capacity; the BEV adds a front trunk and 22 liters of underfloor storage. Front seats fold flat to make a resting area, and the cabin includes a panoramic sunroof, heated and ventilated front seats with driver memory, and a 15-speaker sound system.',
+      'iCAUR is betting the showroom itself is a feature: every showroom will house a dedicated customization zone with options available at launch. Three official custom builds — the V23 Forge, V27 Sun Roam and V25 Game Changer — took the stage at the summit, with market rollout by early 2027. The brand says it has expanded to more than 40 markets in 2026, with cumulative V23 sales exceeding 100,000 units. Global market introductions for the V25 are planned from early 2027.',
+    ],
+    sources: ['GlobeNewswire', 'MyDurban'],
+  },
+  {
+    slug: 'omoda-x-global-debut-chery-summit-2026',
+    title: 'Omoda X Debuts Globally With BEV and PHEV Options; Rugged Concept Hints at Duster Rival',
+    description:
+      'Omoda unveiled the X SUV on Oct 21 at Chery\u2019s user summit — and a rugged concept points to a Dacia Duster competitor.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'From zero to the UK\u2019s 23rd best-selling brand in under two years — now Omoda wants the rugged-SUV crowd too.',
+    body: [
+      'The Omoda X SUV made its global debut on October 21 at the 2026 Chery Group International User Summit in Wuhu, China, with both battery-electric and plug-in-hybrid options on offer. Separately, Autocar reported on a new Omoda concept that hints at a future rival for the Dacia Duster: a rugged new crossover with night vision, big ground clearance and — notably — physical climate controls, a deliberate rejection of the all-touchscreen trend.',
+      'The context is Omoda\u2019s remarkable ascent. The brand arrived in the UK only in late 2024 alongside sibling Jaecoo, yet between January and the end of September 2026 it ranked as Britain\u2019s 23rd best-selling brand — ahead of long-established names like Citro\u00EBn, Mazda and Suzuki. In Malaysia, bookings opened for the Omoda C7 and C7 PHEV in August, with the C9 PHEV AWD launched from RM208,800. The X and the rugged concept suggest the next phase is broadening the lineup beyond the style-led SUVs that built the brand.',
+      'The Duster-hinting concept is the more interesting signal. The affordable rugged-crossover segment has been Dacia\u2019s private hunting ground; a Chinese-built rival with night vision and real ground clearance — at Chinese pricing — would test whether the Duster\u2019s moat is the car or just the price.',
+    ],
+    sources: ['Autocar', 'CarSifu'],
+  },
+  {
+    slug: 'hyundai-bayon-interior-reveal-india-launch',
+    title: 'Hyundai Bayon Interior Revealed Ahead of India Launch: NVIDIA-Powered Cockpit, 115 hp Petrol',
+    description:
+      'New Bayon interior photos show an NVIDIA-accelerated infotainment system, 70+ connected features and OTA updates ahead of its India launch.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Slotting between the Venue and Creta, the Bayon brings flagship-grade cockpit tech to India\u2019s midsize-SUV fight.',
+    body: [
+      'New interior photos of the Hyundai Bayon, revealed October 21 ahead of its India launch, show a cockpit punching above the car\u2019s segment. Marketed as an \u201CIntelligent Utility Vehicle,\u201D the Bayon will slot between the sub-4-metre Venue and the 4.33-metre Creta in one of India\u2019s most crowded and fastest-growing segments. It carries Hyundai\u2019s Connected Car Navigation Cockpit (ccNC) with NVIDIA-accelerated infotainment — split-screen operation, online navigation, quick-access controls and personalized profiles — plus the Bluelink suite with more than 70 connected features, from remote start/stop to smartwatch connectivity.',
+      'The tech extends under the skin: over-the-air updates are supported for up to 19 vehicle controllers, so software upgrades arrive without a dealer visit. Under the hood it\u2019s straightforward: a 1.5-litre MPi petrol four-cylinder with 115 PS and 144 Nm, paired with a 6-speed manual or an IVT automatic — the same engine as the Creta. Estimated pricing of around Rs 9.5 lakh to Rs 14 lakh puts it squarely in the heart of the segment.',
+      'The Bayon\u2019s pitch is clear: flagship infotainment tech in a mainstream package, in a market where connected features increasingly decide purchases. The segment\u2019s incumbents — including the Creta it shares its engine with — will need to answer the cockpit-first approach.',
+    ],
+    sources: ['Rushlane'],
+  },
+  {
+    slug: 'zoox-las-vegas-airport-robotaxi-expansion-2026',
+    title: 'Zoox Takes Robotaxis to Las Vegas Airport — Terminal Pickup, Right at Baggage Claim',
+    description:
+      'Amazon\u2019s Zoox is expanding to Harry Reid International, picking up at both terminals near baggage claim — a first for robotaxis.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Zoox is the only robotaxi operator serving the Las Vegas airport — and its terminal pickup beats Uber\u2019s garage walk.',
+    body: [
+      'Amazon\u2019s Zoox is expanding its robotaxi service to Harry Reid International Airport in Las Vegas, with pickups and dropoffs at both terminals near baggage claim, according to reporting on October 19. The company started charging for rides on August 10, began testing in San Diego and Houston, and released its safety framework — the airport expansion is the latest step in a company visibly ramping toward commercial scale.',
+      'The airport move is a genuine competitive edge. Uber and Lyft can drop passengers at the terminal curb, but their pickups require a five-to-ten-minute walk to the upper floor of a nearby parking garage; Zoox\u2019s cars come to baggage claim. Zoox is currently the only robotaxi company operating airport service at LAS — though more competition is coming. The Nevada Transportation Authority has granted commercial robotaxi permits in Clark County to Tesla, Uber and Waymo as well, which together would allow up to 8,000 robotaxis across the county over the next 12 months; Uber plans to run robotaxis through partnerships with Hyundai\u2019s Motional and Zoox itself.',
+      'The scale context: Zoox has driven more than 3 million autonomous miles as of August 2026 and operates roughly 100 vehicles, offering paid rides in San Francisco and Las Vegas, with Miami and Austin next. Its commercial exemption allows up to 2,500 vehicles per year. Against Waymo\u2019s ~4,000 robotaxis across 15 cities and Tesla\u2019s Cybercab ramp, Zoox is the smallest fleet — but it\u2019s the only one that will meet you at baggage claim.',
+    ],
+    sources: ['TechCrunch', 'Built In'],
+  },
+  {
+    slug: 'best-cash-back-car-deals-october-2026',
+    title: 'Best Cash-Back Car Deals in October: Up to $20,000 Off, VW ID.4 at 27.7% of Sticker',
+    description:
+      'October\u2019s biggest cash incentives: $20,000 off the Audi e-tron GT, $12,500 off the VW ID.4, up to $13,000 on the Audi Q7.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      '138 vehicles carry cash incentives this month totaling $463,750 — judge them as a share of sticker, not just dollars.',
+    body: [
+      'October\u2019s cash-incentive landscape is unusually rich: 138 vehicles carry a cash incentive this month, worth $463,750 in total, according to FindTheBestCarPrice\u2019s monthly roundup. The largest dollar figure belongs to the Audi RS e-tron GT and e-tron GT at $20,000 each — but the smarter comparison is share of sticker. On that basis, the Volkswagen ID.4\u2019s $12,500 on a $45,095 SUV (27.7% of sticker) is the month\u2019s best deal, ahead of the Kia Niro EV at 25.2%. The e-tron GT\u2019s $20,000 on a $127,700 sticker (15.7%) beats the RS version on the same cash (11.7%).',
+      'Other standouts: the Infiniti QX80 carries $10,000 plus 0% APR with a $3,000 finance bonus — one of five vehicles pairing cash with zero-percent financing. CarsDirect\u2019s roundup adds the 2026 Audi Q7 with up to $13,000 off including loyalty, which it calls the biggest discounts ever seen on the model ahead of its 2027 redesign; the Nissan Rogue at up to $4,500 off; and the Ford Escape Plug-in Hybrid at up to $8,000 nationwide. Chevrolet and GMC are offering 0% financing for 60 months on outgoing 2026 Silverado 1500 and Sierra 1500 trucks ahead of redesigned 2027 models, and Ford\u2019s lineup carries some of the month\u2019s largest forecast rebates — up to $5,000 on the F-150, $4,500 on the Explorer.',
+      'EVs still carry the largest rebates this fall: Kia is forecast at up to $10,000 cash on the 2026 EV9 and Niro EV. And EV-specific deals run through October 31 — Ride and Drive Clean lists exclusive discounts up to $12,250 on the 2026 Volvo EX30 AWD, up to $8,500 on the 2027 Hyundai Ioniq 5 RWD and up to $6,500 on the 2026 Toyota bZ. The practical advice: cash and 0% rarely stack, so run both scenarios, and judge every offer as a percentage of the sticker price you\u2019d actually pay.',
+    ],
+    sources: ['FindTheBestCarPrice', 'CarsDirect', 'Ride and Drive Clean', 'Road Ethos'],
+  },
+  {
+    slug: 'edmunds-q3-2026-record-car-payments-787-month',
+    title: 'Car Payments Hit a Record $787 a Month as 84-Month Loans Become the Norm',
+    description:
+      'Edmunds: Q3 buyers financed a record $44,664 on average, a record 25.5% signed for 84+ months, and total interest hit $9,938.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The average buyer now finances $44,664 and pays nearly $10,000 in interest — at rates that never even moved.',
+    body: [
+      'New-car buyers financed a record average of $44,664 in the third quarter of 2026, according to Edmunds data reported by CBT News, and stretched terms to record lengths to cope. Loans of 84 months or longer made up a record 25.5% of financed new-vehicle purchases — up from 23.9% in the second quarter and 21.8% a year ago. The average monthly payment on a financed new vehicle rose to a record $787, up from $777 in Q2 and $756 a year earlier, and a record 21.2% of buyers agreed to payments of $1,000 or more a month.',
+      'The striking part: this happened with rates flat. The average APR held steady at 7.0%, yet total interest on a financed new-vehicle purchase reached a record $9,938, up from $9,442 a year earlier — driven by larger loan amounts spread over longer terms. Among buyers paying $1,000 or more a month, 69% chose terms of 72 months or longer. Used buyers are stretching too: a record 6.5% of used-vehicle buyers also agreed to $1,000-plus monthly payments.',
+      'Demand has not collapsed — buyers are budgeting more for vehicles and shopping harder for financing, per Edmunds\u2019 Jessica Caldwell. But as Edmunds\u2019 Ivan Drury notes, longer terms are often the only way to afford the vehicle buyers need, and that math has a trap: financing nearly $45,000 at 7% for seven years means paying interest almost equal to a fifth of the car\u2019s price. The total-interest number, not the monthly payment, is the figure that tells the truth about what a car costs.',
+    ],
+    sources: ['CBT News', 'Edmunds'],
+  },
+  {
+    slug: 'auto-loan-delinquency-subprime-rate-gap-2026',
+    title: 'Same Car, $10,000 More: Subprime Borrowers Pay 19% APR While Prime Gets 9%',
+    description:
+      'Experian data via The Auto Wire: on the average $27,852 used-car loan, subprime borrowers pay $151/month more than prime.',
+    date: 'October 21, 2026',
+    dateISO: '2026-10-21',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The credit-score tax on car ownership is widening — and falling used-car prices make it harder to escape.',
+    body: [
+      'The poorest car buyers are losing their cars at rising rates — and the ones still buying are paying a steep credit-score tax. The Auto Wire\u2019s October 19 analysis of Experian\u2019s second-quarter figures lays it out: the average used-car loan is $27,852 over 67.9 months, with an average APR of 8.81% for prime borrowers, 19.10% for subprime borrowers and 21.62% for deep subprime. Applied to the same loan, the prime borrower pays about $522 a month and roughly $7,600 in interest over the life of the loan; the subprime borrower pays about $673 a month and roughly $17,900 in interest.',
+      'That is $151 more every month and more than $10,000 more in total for an identical car — charged to the person least able to absorb it. Falling used-car prices make the trap harder to escape: the Bureau of Labor Statistics\u2019 index for used cars and trucks was down 1.5% in the year through September, so a borrower whose car loses value faster than the loan balance shrinks owes more than the car is worth — and researchers at the New York Fed flagged that negative-equity risk in their 2025 analysis. The shortfall typically gets rolled into the next loan or written off after a repossession and billed back to the borrower.',
+      'The takeaway for buyers at the edge of the credit spectrum: the interest rate matters more than the monthly payment, and a longer term at a high rate is the most expensive way to buy a car. For everyone else, it\u2019s a window into why delinquencies and repossessions keep climbing — the auto market\u2019s stress is concentrated at the bottom.',
+    ],
+    sources: ['The Auto Wire', 'Experian'],
+  },,
 {
     slug: 'faa-nhtsa-tesla-roadster-not-aircraft-october-2026',
     title: 'FAA: Tesla Roadster Is Not an Aircraft — It Can Only “Fly” for About Six Seconds',
