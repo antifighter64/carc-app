@@ -1346,6 +1346,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['ev.news'],
   },
+  {
+    slug: 'tesla-q3-2026-earnings-revenue-beat-deliveries-486532',
+    title: 'Tesla Q3 Revenue Beats at $28.05B as Deliveries of 486,532 Drain Inventory — Model S and X Production Ends',
+    description:
+      'Tesla beat Q3 revenue estimates with $28.05B and $1.53B of positive free cash flow, delivered 486,532 vehicles, and ended Model S/X production at Fremont.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'A revenue beat and surprise cash flow — but automotive revenue slipped 3% and the Cybertruck is barely a footnote.',
+    body: [
+      'Tesla reported third-quarter 2026 results on October 21, beating Wall Street revenue estimates. The Austin automaker posted revenue of $28.05 billion against analysts\u2019 average estimate of $27.88 billion, per LSEG data, while free cash flow came in at $1.53 billion — a surprise versus the roughly $4.92 billion cash burn analysts expected. Adjusted net income slid 4% to $1.7 billion as heavy spending on AI and robotaxis weighed on profit, and capital expenditure totaled $4.73 billion, well below the roughly $7.5 billion Wall Street had penciled in.',
+      'Deliveries rebounded to 486,532 vehicles, beating expectations of about 461,100, though they were still down about 2% from a year earlier. Deliveries outpaced production of 464,391 vehicles by more than 22,000 for a second consecutive quarter, continuing an inventory drawdown. Model 3 and Model Y made up nearly all deliveries; the Cybertruck and other models accounted for just 8,295, down from 12,364 in the second quarter. Tesla said it has now passed 10 million cumulative vehicles delivered and that the Model Y is on track to be the world\u2019s best-selling vehicle this year.',
+      'The company confirmed it has stopped production of the Model S and Model X at Fremont, replacing those lines with its first large-scale Optimus humanoid robot line — a literal statement of the shift from cars to robotics. Services and other revenue — FSD subscriptions, the robotaxi business and EV charging — grew 33% and was the quarter\u2019s growth driver, while core automotive revenue fell 3% and energy storage dropped 16%. Tesla\u2019s shares fell about 3.5% in after-hours trading as Musk declined to discuss the SpaceX merger talks.',
+    ],
+    sources: ['Reuters', 'WSJ', 'MarketWatch'],
+  },
+  {
+    slug: 'musk-tesla-optimus-robot-sales-outside-companies-end-2027',
+    title: 'Musk: Tesla Aims to Ship Optimus Humanoid Robots to Outside Companies by End of 2027',
+    description:
+      'On Tesla\u2019s Q3 earnings call, Elon Musk said the company could start shipping Optimus humanoid robots to outside customers by the end of 2027.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Optimus is the real product line now — Model S and X died at Fremont to make room for robot production.',
+    body: [
+      'Tesla chief executive Elon Musk said on the company\u2019s third-quarter earnings call on October 21 that Tesla could be ready to start shipping its Optimus humanoid robots to outside companies by the end of next year, and that its robotaxi fleet will soon become a significant driver of revenue. The comments, reported by the Wall Street Journal, are the most concrete timeline Musk has given for Optimus as a product rather than an internal project.',
+      'He was quick to temper expectations on scale. Increasing Optimus production to 20,000 units a week will take "at least a year, maybe a little longer," Musk said, because Tesla must build "an entire gigantic global supply chain" plus a very large domestic factory. The robots still need design improvements for safety and reliability — Musk said they cannot wear out after a month — and "there\u2019s still a lot of work to do" on the AI so the robot is truly useful for open-ended tasks.',
+      'The push is already reshaping Tesla\u2019s physical footprint: the company stopped Model S and X production at Fremont and is converting those lines into its first large-scale Optimus line. Musk also told investors demand for Tesla\u2019s cars is growing because Full Self-Driving (Supervised) is now a key selling point, and that robotaxi usage is growing "exponentially" — though Tesla launched its two-seater Cybercab in Austin in September and has not confirmed a timeline for other cities.',
+    ],
+    sources: ['WSJ', 'The Times'],
+  },
+  {
+    slug: 'tesla-cuts-2026-capex-20-billion-optimus-scale',
+    title: 'Tesla Dials Back 2026 Spending to ~$20B as Musk Warns Optimus Scale-Up Takes Time',
+    description:
+      'Tesla cut its 2026 capital-expenditure forecast to about $20 billion from $25 billion, citing efficient capital deployment funded from operating cash flow.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Tesla is spending less, not more, even as it pivots to robots and robotaxis — and it will not touch a new $30B credit line this year.',
+    body: [
+      'Tesla has dialed back its full-year spending plans despite Elon Musk\u2019s vision of transforming the electric carmaker with autonomous vehicles, robotics and energy. The company said it now expects capital expenditures of around $20 billion in 2026, a reversal from earlier in the year when it raised its forecast to $25 billion, The Times reported on October 22.',
+      'Chief financial officer Vaibhav Taneja said the lower forecast was "a result of managing our capital deployment efficiently" and that Tesla plans to fund spending "primarily from our cash flows from operations." Tesla has secured the option to borrow $30 billion to fuel growth but does not plan to draw on those facilities this year. Third-quarter capex came in at $4.73 billion, down from $5.79 billion in the second quarter.',
+      'The pullback is notable because it comes as Musk pushes Tesla from a car manufacturer into an AI and robotics company — the same ambition that is driving the potential SpaceX merger. Musk warned investors on the earnings call that scaling Optimus humanoid robot production to 20,000 units a week will take at least a year, requiring a huge new supply chain and factory. Efficient capital deployment or not, the $5 billion spending cut signals how expensive the pivot remains.',
+    ],
+    sources: ['The Times', 'WSJ'],
+  },
+  {
+    slug: 'musk-public-endorsement-spacex-tesla-merger-rattles-insiders',
+    title: 'Musk\u2019s Public Endorsement of SpaceX-Tesla Merger Rattles Insiders, Could Delay Talks by Weeks',
+    description:
+      'Reuters reports that Musk\u2019s public enthusiasm for a $3.5T SpaceX-Tesla merger has rattled deal insiders, who fear shareholder scrutiny and SolarCity-style litigation.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The endorsement created a "mess" for the process, one insider said — and advisers are already hired for an early-stage deal.',
+    body: [
+      'Elon Musk\u2019s public endorsement this week of a potential $3.5 trillion merger between SpaceX and Tesla has rattled some insiders involved in the discussions, who worry his comments could invite shareholder scrutiny and delay the process by several weeks, Reuters reported on October 22, citing a person with direct knowledge of the talks. The disclosure created a "mess" for the process, the person said, because it could raise questions about how well Tesla shareholders\u2019 interests would be represented.',
+      'The concerns mirror Tesla\u2019s 2016 acquisition of SolarCity, which sparked years of litigation over Musk\u2019s role in the deal. The parties have hired advisers, but discussions are at an early stage, three sources told Reuters. SpaceX approached Tesla in recent weeks, and the companies have been discussing a range of transaction structures — including a SpaceX acquisition of Tesla or a merger under a newly formed holding company — and forms of consideration including an all-stock deal. These details had not been previously reported.',
+      'In related-party transactions like this one, independent board members typically oversee the process to safeguard public shareholders. Musk, CEO of both companies, told investors Tuesday that special committees of independent directors had been formed and that he could not participate as a conflicted party. When analysts pressed him on Tesla\u2019s own earnings call Wednesday, Musk refused to engage: "I think I said everything that should be said yesterday. Tap dancing through a minefield there." Tesla, SpaceX and Musk did not respond to Reuters\u2019 requests for comment.',
+    ],
+    sources: ['Reuters'],
+  },
+  {
+    slug: 'tesla-proxy-december-3-annual-meeting-1-trillion-package',
+    title: 'Tesla Proxy: Shareholders to Re-Elect Musk, Denholm, Straubel at December 3 Annual Meeting',
+    description:
+      'Tesla filed its proxy asking shareholders to re-elect Musk, Robyn Denholm and JB Straubel on December 3, with new details on the $1 trillion pay package.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'None of the $1 trillion award\u2019s 12 tranches has been earned — and the unearned shares vote in proportion to everyone else\u2019s.',
+    body: [
+      'Tesla filed its proxy statement with the U.S. Securities and Exchange Commission on October 19, asking shareholders to re-elect CEO Elon Musk, Chair Robyn Denholm and director JB Straubel to three-year terms at its December 3 annual meeting, Reuters reported. The filing comes nearly a year after the board granted Musk a performance award billed as a $1 trillion pay package.',
+      'The proxy reports Musk\u2019s 2025 CEO Performance Award — about 423.7 million restricted shares — at a $158.4 billion total in the summary compensation table. None of the award\u2019s 12 tranches has been earned; each requires a market-capitalization milestone from $2 trillion to $8.5 trillion plus operational targets, and the unearned shares vote in proportion to all other shares. Musk exercised all 303.96 million options from his 2018 award on June 16, leaving 286.4 million restricted shares that vest in January 2028 if he stays in a leadership role.',
+      'Tesla also disclosed that it spent months working directly with the SEC to pioneer a voluntary retail investor voting framework, ultimately obtaining a formal SEC no-action letter. The company\u2019s pledging policy caps borrowing secured by Musk\u2019s pledged shares at the lesser of $3.5 billion or 25% of the shares\u2019 value; Musk owns nearly 20% of Tesla, including 207.5 million pledged shares, while Vanguard Capital Management holds 5.3%.',
+    ],
+    sources: ['Reuters'],
+  },
+  {
+    slug: 'denza-n8-ev-1003km-range-october-26-launch-flash-charging',
+    title: 'BYD Denza N8 EV Launches October 26 With 1,003 km Range and 1,500 kW Flash Charging',
+    description:
+      'The all-electric Denza N8 luxury SUV offers 623 miles of CLTC range, 10-to-70% charging in five minutes, and up to 1,193 hp in tri-motor form.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'A luxury SUV with more electric range than many cars carry gas range — charged in the time it takes to buy coffee.',
+    body: [
+      'BYD is preparing to launch the all-electric version of the Denza N8 luxury SUV on October 26, Electrek reported. The N8 has been on sale in China since 2023 as a plug-in hybrid, and the EV version promises the same electric-only driving range as the PHEV managed on a full charge and full tank of gas combined. Denza calls it "the king of large 5-seater pure electric vehicles."',
+      'The headline number: 1,003 km (about 623 miles) of pure-electric range under CLTC conditions, from a massive 130.15 kWh second-generation Blade Battery, per a filing with China\u2019s Ministry of Industry and Information Technology. Powertrain choices include single-motor rear-wheel drive at 320 kW (429 hp) or 370 kW (496 hp), and a tri-motor all-wheel-drive version on BYD\u2019s e3 platform — a 270 kW front motor plus two 310 kW rear motors for a combined 890 kW, or 1,193 horsepower.',
+      'Charging is the other headline. BYD\u2019s 1,500 kW Flash Charging technology takes compatible vehicles from 10% to 70% in five minutes and from 10% to 97% in nine minutes. Inside, the N8 gets a 30-inch center infotainment screen spanning much of the passenger-side dashboard and a 43-inch panoramic head-up display. The SUV measures 5,150 mm long with a 3,075 mm wheelbase — full-size luxury territory at what BYD fans expect will be an aggressive price.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'geely-google-global-digital-cockpit-partnership',
+    title: 'Geely and Google Form Global Strategic Partnership for a Digital Cockpit Ecosystem',
+    description:
+      'Geely Holding Group and Google will jointly develop a digital cockpit ecosystem for eligible Geely-brand models in overseas markets.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The world\u2019s biggest Chinese automaker is teaming up with Google on the software-defined cabin — everywhere except China.',
+    body: [
+      'Zhejiang Geely Holding Group announced on October 16 that it has entered into a global strategic partnership with Google, the two companies told MarkLines. The partners will jointly develop a digital cockpit ecosystem for eligible models under Geely Holding Group\u2019s brands in overseas markets where Google\u2019s services operate.',
+      'The deal underscores how the battle for the car is shifting from engines to software. Geely\u2019s stable of brands — which includes Volvo, Polestar, Lotus and Zeekr — already leans heavily on Google\u2019s Android Automotive OS in Western markets, and a jointly developed cockpit ecosystem suggests deeper integration of navigation, voice and AI services rather than off-the-shelf infotainment.',
+      'For Google, it is another beachhead in the race to own the dashboard against Apple\u2019s next-generation CarPlay and a wave of Chinese cockpit platforms. For Geely, which is aggressively expanding in Europe and the Middle East, a Google-backed digital cockpit is a way to erase the software gap with Tesla and Chinese rivals — and to make its export models feel native to markets where Google services dominate.',
+    ],
+    sources: ['MarkLines'],
+  },
+  {
+    slug: 'uae-gcaa-air-taxi-certification-review-joby-archer',
+    title: 'UAE Aviation Regulator Reviews Air-Taxi Certification With Joby and Archer in California',
+    description:
+      'The UAE\u2019s GCAA met Joby and Archer at their California facilities to review certification, airworthiness and operations for planned 2026 air-taxi launches.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The UAE wants paying air-taxi passengers first — and the regulator is now inside the factories checking the work.',
+    body: [
+      'The UAE\u2019s General Civil Aviation Authority reviewed aircraft certification and airworthiness requirements with Joby Aviation and Archer Aviation during separate visits to the companies\u2019 California facilities, AviNews reported on October 16. The delegation, led by Assistant Director General for Aviation Safety Affairs Aqeel Al Zarooni with senior flight-operations and airworthiness representatives, held technical workshops covering certification, airworthiness and operational matters for each air-taxi program.',
+      'Direct regulator engagement signals the UAE is moving certification and operating rules toward planned 2026 launches, ahead of most other markets. Joby signed a definitive agreement with Dubai\u2019s Roads and Transport Authority in February 2024 giving it exclusive rights to run air-taxi services in the emirate for six years, with a commercial launch targeted for 2026. Archer has partnered with the Abu Dhabi Investment Office and completed its first UAE test flight at Al Bateen Executive Airport, days after Joby\u2019s test flight in Dubai. Archer\u2019s longest piloted flight so far covered about 55 miles in 31 minutes.',
+      'The GCAA has previously said air-taxi certification in the UAE would be completed in the third quarter of 2026. Joby\u2019s UAE team has said passengers will be carried only once all safety and certification requirements are met — including an Air Operator Certificate from the GCAA. With neither Joby nor Archer yet holding an FAA type certificate in the U.S., the UAE race is increasingly where the world\u2019s first scheduled eVTOL passenger service is likely to be decided.',
+    ],
+    sources: ['AviNews'],
+  },
+  {
+    slug: 'europe-car-registrations-september-chinese-brands-surge',
+    title: 'Europe Car Sales Rose 10.2% in September as Electrified Models Offset the Combustion Slump',
+    description:
+      'ACEA data show European registrations up 10.2% to 1.36M in September, with Chinese brands\u2019 share hitting 14.6% as Chery nearly tripled and BYD doubled.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Electrified cars are now 76% of European sales — and Chinese brands sell nearly one in seven new cars on the continent.',
+    body: [
+      'Strong demand for electrified cars helped Europe\u2019s new-car market grow in September, offsetting another sharp decline in petrol and diesel sales, the European Automobile Manufacturers\u2019 Association reported on October 22. Registrations — a proxy for sales — rose 10.2% year on year to 1.36 million vehicles across the EU, Britain and the EFTA countries, Reuters reported. In the first nine months of 2026, registrations totaled 10.555 million, up 6.3%.',
+      'The powertrain shift is stark: battery-electric, plug-in hybrid and conventional hybrid registrations jumped 59.9%, 24% and 5.3% respectively, together accounting for 76.2% of all new vehicles. Petrol and diesel registrations fell 20.6% and 28.2%. BEVs alone took 30.5% of the market, up 9.5 percentage points from a year ago, while conventional hybrids remained the single most popular powertrain at about a third of sales.',
+      'Chinese carmakers are the growth story. Chery nearly tripled and BYD nearly doubled sales, while Geely and SAIC grew more than 33% and 23%; the four brands\u2019 combined market share rose to 14.6% from 9.6% a year earlier. Meanwhile Volkswagen and Renault registrations declined, and the combined share of VW, Renault and Stellantis fell to 43.7% from 48.4%. Stellantis itself gained 4.5% — but the direction of travel is unmistakable.',
+    ],
+    sources: ['Reuters', 'ACEA', 'Electrek'],
+  },
+  {
+    slug: 'europe-ev-september-record-tesla-model-y-model-3',
+    title: 'Tesla Model Y and Model 3 Nearly Match Europe\u2019s Other Eight Best-Selling EVs Combined in Record September',
+    description:
+      'Dataforce figures show the Model Y at 40,971 and Model 3 at 25,057 sales in Europe\u2019s record September — together just 325 units shy of the next eight EVs combined.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Two Teslas outsold eight rivals put together in Europe\u2019s biggest EV month ever.',
+    body: [
+      'Tesla extended its lead in Europe\u2019s electric-vehicle market in September, according to market researcher Dataforce figures reported by Automotive News on October 21. The Model Y led with 40,971 sales, up 55% year on year, followed by the Model 3 at 25,057 — more than double its year-ago volume. Together the two Teslas totaled 66,028 registrations, just 325 fewer than the 66,353 registrations of the other eight models in the top 10 combined.',
+      'The month was a record for European EVs overall. Benchmark Mineral Intelligence data put September sales at almost 600,000, up 39% year on year and 10% above the previous monthly record set in June. BEVs did most of the heavy lifting, jumping 50% versus 16% for plug-in hybrids. The UK, France, Spain, Portugal and Finland all posted their highest-ever monthly EV sales; France climbed 78% to almost 80,000 units and Germany rose 61% to 117,000.',
+      'Europe\u2019s strength contrasts sharply with North America, where EV sales fell 44% in September. Through September, Europe has sold 3.9 million EVs, up 30% year on year — the region is now the global EV industry\u2019s main growth engine. Globally, 15.5 million BEVs and PHEVs sold through September, up 3%, with Europe the only major market posting a record month.',
+    ],
+    sources: ['Automotive News', 'Dataforce', 'Electrek', 'ElectricCarsReport'],
+  },
+  {
+    slug: 'leapmotor-b10-first-european-built-car-zaragoza',
+    title: 'Leapmotor Builds Its First European-Made Car as the B10 Rolls Off the Zaragoza Line',
+    description:
+      'Leapmotor\u2019s first European production vehicle, the B10, rolled off the line at its Zaragoza, Spain factory on October 16 as its EU registrations jumped 324%.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A Chinese brand building cars in Spain — local manufacturing is the next phase of the invasion.',
+    body: [
+      'On October 16, the first production vehicle manufactured by Leapmotor in Europe — the B10 — rolled off the line at a factory in Zaragoza, Spain, ChinaEVHome reported on October 22. The milestone makes Leapmotor one of the first Chinese EV brands to start building cars inside Europe, a move that blunts tariff risk and the "made in China" stigma as the brand scales.',
+      'The numbers behind the move are explosive. Leapmotor\u2019s European registrations reached 14,594 units in September, up 323.9% year on year, and 87,922 units in the first nine months — up 424.2%. Automotive News separately reported that Chery overtook BYD and MG in September as Chinese brands lifted their European market share to a record 14.6%, driven largely by plug-in hybrids and a summer export surge.',
+      'European production is becoming a standard play in the Chinese playbook: BYD\u2019s Hungarian plant is ramping, Chery has Spanish manufacturing plans, and Leapmotor — partly owned by Stellantis — can lean on its European partner\u2019s dealer and service network. For European incumbents watching their combined market share slide to 43.7%, the message is that the Chinese wave is no longer coming from across the ocean.',
+    ],
+    sources: ['ChinaEVHome', 'Automotive News'],
+  },
+  {
+    slug: 'ford-q3-earnings-preview-october-28-expectations',
+    title: 'Ford Earnings Preview: Wall Street Expects $0.39 EPS and $45.7B Revenue on October 28',
+    description:
+      'Ford reports Q3 results October 28 with analysts expecting 39 cents a share and $45.7B in automotive revenue, after the company raised its Ford Blue EBIT guidance.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Sales fell 6.6% on discontinued models — but Wall Street thinks the margin story carries the quarter.',
+    body: [
+      'Ford reports third-quarter results on October 28, with the Zacks Consensus Estimate pegged at 39 cents per share and automotive revenue of $45.7 billion. The stock carries an Earnings ESP of +6.56% and a Zacks Rank #3, suggesting an above-average chance of a beat; Ford has topped earnings estimates in three of the trailing four quarters. Estimates for the quarter have moved down two cents in the past week.',
+      'The quarter\u2019s backdrop is mixed. U.S. sales fell 6.6% to 509,764 vehicles, largely from the planned phase-out of the Escape and Lincoln Corsair — but Ford\u2019s strategy is about margin, not volume. Management raised its 2026 Ford Blue EBIT guidance to $5–5.5 billion from $4.5–5 billion, anticipating a favorable product mix of trucks, large SUVs, off-road models and premium trims.',
+      'Support for the revenue line should come from the profit centers: F-Series trucks, Super Duty, Explorer and Expedition, plus the surging Maverick Hybrid. Stellantis also reports in this window, and GM\u2019s Q3 beat on October 20 set a high bar — October 28 will show whether Ford\u2019s portfolio cleanup is translating into the bottom line.',
+    ],
+    sources: ['Zacks', 'ad-hoc-news'],
+  },
+  {
+    slug: 'ford-maverick-hybrid-q3-sales-surge-affordability',
+    title: 'Ford Maverick Hybrid Sales Jumped 59.6% in Q3 as Buyers Chase Affordable Efficiency',
+    description:
+      'The Maverick Hybrid sold 27,793 units in Q3, up nearly 60%, as Ford kept retail incentives low and shifted focus to profitable trucks and commercial fleets.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Ford\u2019s cheapest pickup is its fastest-growing — the $4.43 gas-price era rewards small hybrids.',
+    body: [
+      'Ford\u2019s Maverick Hybrid was a standout of the third quarter, with sales of 27,793 pickups — up 59.6% year over year, ad-hoc-news reported on Ford\u2019s October 2 sales release. The affordable compact pickup, offered with a hybrid powertrain, is hitting the market exactly as soaring gasoline prices — a national average of $4.43 a gallon in September — push buyers toward efficiency.',
+      'The broader quarter was a transition story. Ford\u2019s total Q3 sales fell 6.6% to 509,764 units, but the decline reflects the planned Escape and Corsair phase-outs rather than weak demand. Truck production rose: Super Duty output reached 110,275 units (+4.4%) and F-Series production grew 4.5% to 266,777 trucks. F-Series sales of 203,707 units kept the lead over the Chevrolet Silverado, putting Ford on track for a 50th year of truck sales leadership.',
+      'Ford also reported 1.7 million active paid software subscriptions through September, up more than 40% year over year — the quieter revenue stream Detroit is betting on. Executives say the company has healthy stock going into the fourth quarter and signaled strength ahead, with incentive spending on retail sales kept deliberately low and a pullback from daily-rental fleet sales toward more profitable commercial fleets.',
+    ],
+    sources: ['ad-hoc-news', 'Reuters', 'Detroit Free Press'],
+  },
+  {
+    slug: 'byd-da-han-ev-large-flagship-sedan-launch',
+    title: 'BYD Launches All-New Da Han EV Large Flagship Sedan From CNY 235,900',
+    description:
+      'BYD launched the all-new Da Han EV, a 5.26-meter flagship electric sedan, in rear- and all-wheel-drive versions priced CNY 235,900–275,900.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A 5.26-meter flagship for the price of a midsize American sedan — BYD keeps climbing the ladder.',
+    body: [
+      'BYD announced the official launch of the all-new Da Han EV on October 13, a large flagship electric sedan offered in rear-wheel-drive and all-wheel-drive versions, MarkLines reported. The three variants are priced from CNY 235,900 to CNY 275,900 — roughly $33,000 to $39,000 — aggressive pricing for the segment.',
+      'The Da Han EV measures 5,256 mm long and 1,999 mm wide, putting it squarely in flagship sedan territory alongside the likes of the Mercedes-Benz EQS and BMW i7 in size, at a fraction of their price. The launch slots above BYD\u2019s existing Han in the brand\u2019s sprawling lineup and arrives just as the Denza N8 EV flagship SUV prepares its own October 26 debut.',
+      'The cadence matters as much as the car. In October alone BYD has launched or previewed the Da Han EV, the Denza N8 EV with its 1,003 km range claim, and the Atto 8 flagship SUV in Paris — while September sales data show BYD nearly doubling in Europe. The company is firing on every cylinder: mass-market, premium, and now flagship luxury, in China and abroad simultaneously.',
+    ],
+    sources: ['MarkLines'],
+  },
+  {
+    slug: 'lexus-tx-550h-plus-phev-discontinued-2027',
+    title: 'Lexus Drops TX 550h+ Plug-In Hybrid From the 2027 Lineup, Upgrades the Rest',
+    description:
+      'Lexus is discontinuing the TX 550h+ plug-in hybrid for the 2027 model year in the U.S., bringing upgraded features to the rest of the TX range.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 2,
+    excerpt:
+      'The TX plug-in hybrid lasted three model years — Lexus is pruning the PHEV while the segment keeps growing.',
+    body: [
+      'Lexus announced on October 16 that it is discontinuing the 550h+ plug-in hybrid for the 2027 TX range in the United States, while bringing upgraded features to the rest of the three-row SUV lineup, MarkLines reported. The TX, launched three years ago and now in its first generation, rides on the GA-K platform shared with the Toyota Grand Highlander.',
+      'The move is a rare pruning in a segment that is otherwise expanding: PHEV registrations in Europe jumped 24% in September, and plug-in hybrids remain a core part of Toyota and Lexus\u2019 electrification strategy. Lexus has not said whether the 550h+ will be replaced by a successor or simply folded as the TX\u2019s hybrid and gasoline variants carry the line.',
+      'For shoppers, the change means one fewer three-row plug-in option in the luxury segment — a niche where choices remain thin. Expect Lexus to sharpen pricing and packaging on the remaining TX trims to keep the model competitive against the electrified competition flooding in from Europe, Korea and China.',
+    ],
+    sources: ['MarkLines'],
+  },
+  {
+    slug: 'lynk-co-900l-phev-suv-regulatory-filing-images',
+    title: 'Lynk & Co 900L Plug-In Hybrid SUV Surfaces in Regulatory Filings',
+    description:
+      'Filing images reveal the Lynk & Co 900L, a 5.28-meter seven-seat plug-in hybrid SUV from Geely\u2019s Lynk & Co brand.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 2,
+    excerpt:
+      'A 5.28-meter seven-seater: Lynk & Co is stretching its flagship line.',
+    body: [
+      'Lynk & Co, the Geely-owned brand, released regulatory filing images of its new 900L plug-in hybrid SUV on October 20, MarkLines reported. The 900L measures 5,280 mm long, 1,999 mm wide and 1,810 mm tall on a 3,170 mm wheelbase, with a seven-seat configuration — a stretch of the existing Lynk & Co 900 flagship.',
+      'Full powertrain details have not been disclosed, but the PHEV designation continues Lynk & Co\u2019s strategy of offering electrified large vehicles in China and export markets. The brand sits alongside Geely\u2019s Zeekr and Volvo in the group\u2019s multi-brand portfolio, which is expanding aggressively in Europe and the Middle East.',
+      'The 900L lands in a crowded field of big Chinese PHEVs — Jetour, Chery, WEY and BYD all launched or updated large electrified SUVs in October. With fuel prices high and European PHEV sales up 24% in September, the big seven-seat plug-in is having a moment.',
+    ],
+    sources: ['MarkLines'],
+  },
+  {
+    slug: 'jetour-lvxingzhe-7-global-launch-beijing',
+    title: 'Chery\u2019s Jetour Launches All-New Lvxingzhe 7 Midsize SUV Globally',
+    description:
+      'Jetour launched the all-new Lvxingzhe 7 midsize SUV in Beijing on October 14, in ICE and PHEV versions priced from CNY 139,900.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 2,
+    excerpt:
+      'Eight variants, two powertrains, and a global pitch — Jetour wants the world\u2019s midsize-SUV buyers.',
+    body: [
+      'Jetour, a brand under Chery Group, announced the global launch of the all-new Lvxingzhe 7 midsize SUV in Beijing on October 14, MarkLines reported. The model comes in internal-combustion and plug-in hybrid versions, with eight variants priced from CNY 139,900 to CNY 179,900 — roughly $19,600 to $25,200.',
+      'Jetour has become one of Chery\u2019s most export-friendly brands, and a "global launch" framing signals the Lvxingzhe 7 is intended for the brand\u2019s growing network in the Middle East, Latin America, Southeast Asia and Russia — markets where Chinese brands are gaining fast.',
+      'The October cadence from Chery keeps accelerating: the LEPAS brand\u2019s Middle East entry followed a week later, and Automotive News reported Chery overtook BYD and MG in Europe in September as Chinese brands took a record 14.6% share. The Lvxingzhe 7\u2019s aggressive pricing undercuts most Western midsize SUVs while matching them on powertrain choice.',
+    ],
+    sources: ['MarkLines'],
+  },
+  {
+    slug: 'chery-lepas-l8-phev-middle-east-launch',
+    title: 'Chery\u2019s Premium NEV Brand LEPAS Enters the Middle East With the L8 PHEV',
+    description:
+      'LEPAS, Chery Auto\u2019s premium new-energy brand, announced October 21 it will enter the Middle East with its full NEV portfolio, starting with the L8 PHEV.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 2,
+    excerpt:
+      'The UAE, Kuwait and Qatar get Chery\u2019s premium plug-in play first.',
+    body: [
+      'LEPAS, Chery Auto\u2019s premium new-energy-vehicle brand, announced on October 21 that it will officially enter the Middle East market with its full NEV product portfolio, MarkLines reported. The L8 plug-in hybrid will be introduced in the United Arab Emirates, Kuwait, Qatar and other markets.',
+      'The entry builds on Chery Auto\u2019s already-established presence in the region, where Chinese brands have been winning share with well-equipped, aggressively priced SUVs. The Middle East has become a prime battleground for Chinese automakers: Dongfeng\u2019s 008 six-seater launched in the UAE in October, WEY expanded in Malaysia-adjacent markets, and Geely is pushing its hybrid lineup across the Gulf.',
+      'For LEPAS, the region is a logical first proving ground for a premium brand — high purchasing power, tax-friendly EV policies in the UAE, and buyers who favor large, luxurious SUVs. How the L8 prices against established premium players will determine whether the premium-NEV label sticks.',
+    ],
+    sources: ['MarkLines'],
+  },
+  {
+    slug: 'geely-monjaro-em-i-european-debut-paris-motor-show',
+    title: 'Geely Monjaro EM-i Plug-In Hybrid SUV Makes European Debut at the Paris Motor Show',
+    description:
+      'Geely unveiled the Monjaro EM-i flagship plug-in hybrid SUV in Paris — a Kia Sorento and Skoda Kodiaq rival targeting a five-star Euro NCAP rating.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Geely\u2019s UK flagship promises millisecond-reactive AWD and a five-star safety target — pricing still to come.',
+    body: [
+      'Geely unveiled the Monjaro EM-i, a new flagship plug-in hybrid SUV, at the 2026 Paris Motor Show on October 12, FleetNews reported. The large SUV — a rival for the Kia Sorento and Skoda Kodiaq — is a key model for Geely Auto\u2019s UK ambitions, and managing director Michael Yang said the company had high expectations, highlighting handling, safety technology and passenger comfort.',
+      'The Monjaro EM-i uses Geely\u2019s EM-i Super Hybrid system, pairing a dedicated plug-in hybrid engine with intelligent energy management. An all-wheel-drive version uses an Intelligent Electric AWD system that distributes power in milliseconds, built on the GEA Evo architecture with front- and rear-axle decoupling, torque vectoring and Continuous Damping Control suspension adjustable in as little as 20 milliseconds. Drive modes run Comfort, Standard, Sport, Pure, Hybrid, Power and Snow, with Sand and Off-road added on AWD.',
+      'Safety is pitched as a headline: a high-strength body, seven airbags, Geely\u2019s Battery Safety System, a 360-degree camera with transparent-chassis view — and 21 extreme-condition safety tests, engineered toward a five-star Euro NCAP rating. Geely has not yet confirmed UK pricing, electric-only range, fuel economy or power outputs; with Chinese PHEVs now the fastest-growing powertrain segment in Europe, the numbers will matter.',
+    ],
+    sources: ['FleetNews'],
+  },
+  {
+    slug: 'omoda-4-european-debut-paris-motor-show-2027-uk-launch',
+    title: 'OMODA 4 Makes European Motor Show Debut at Paris Ahead of 2027 UK Launch',
+    description:
+      'The OMODA 4 compact SUV debuted in Paris with Cyber Mecha styling, a Super Hybrid powertrain and the brand\u2019s first Super Intelligent Cockpit.',
+    date: 'October 22, 2026',
+    dateISO: '2026-10-22',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Britain\u2019s best-selling-new-car brand now has a sharper, smarter compact SUV coming in 2027.',
+    body: [
+      'The OMODA 4 made its European motor show debut at the 2026 Paris Motor Show on October 12, OMODA&JAECOO UK announced, taking center stage at the dual brand\u2019s first-ever appearance at the event. The compact SUV arrives ahead of a UK launch in 2027, following a record-breaking September in which OMODA&JAECOO registered 22,296 vehicles in Britain — up 106% year on year — with the JAECOO 7 crowned the country\u2019s best-selling new car.',
+      'First revealed at Auto China 2026 as a full hybrid with OMODA\u2019s SHS-H Super Hybrid System, the OMODA 4 is the boldest expression yet of the brand\u2019s "Cyber Mecha" design language — sharp geometric forms, multidimensional surfaces and "o-universe" lighting — with a gaming-inspired starship cockpit. It will be the first OMODA model with the Super Intelligent Cockpit, designed to understand driver intent, learn user habits and deliver increasingly personalized interactions.',
+      'In the UK, the OMODA 4 joins the OMODA 5 as a compact SUV aimed at younger, technology-focused buyers. The timing is deliberate: the brand is riding the UK\u2019s EV surge — electric sales more than tripled month over month into September\u2019s plate-change — and a style-led hybrid is exactly the product that has been winning conquest buyers from legacy brands.',
+    ],
+    sources: ['OMODA UK'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
