@@ -395,8 +395,8 @@ export const ARTICLES: NewsArticle[] = [
       'The takeaway for buyers at the edge of the credit spectrum: the interest rate matters more than the monthly payment, and a longer term at a high rate is the most expensive way to buy a car. For everyone else, it\u2019s a window into why delinquencies and repossessions keep climbing — the auto market\u2019s stress is concentrated at the bottom.',
     ],
     sources: ['The Auto Wire', 'Experian'],
-  },,
-{
+  },
+  {
     slug: 'faa-nhtsa-tesla-roadster-not-aircraft-october-2026',
     title: 'FAA: Tesla Roadster Is Not an Aircraft — It Can Only “Fly” for About Six Seconds',
     description:
@@ -1725,6 +1725,386 @@ export const ARTICLES: NewsArticle[] = [
       'In the UK, the OMODA 4 joins the OMODA 5 as a compact SUV aimed at younger, technology-focused buyers. The timing is deliberate: the brand is riding the UK\u2019s EV surge — electric sales more than tripled month over month into September\u2019s plate-change — and a style-led hybrid is exactly the product that has been winning conquest buyers from legacy brands.',
     ],
     sources: ['OMODA UK'],
+  },
+  {
+    slug: 'vw-global-ev-battery-recall-72700-id-models',
+    title: 'VW Recalls 72,700 EVs Worldwide Over Faulty Battery Cells: ID.3, ID.4, ID.7, ID.Buzz and Cupra Born',
+    description:
+      'Volkswagen confirmed a global recall of nearly 72,700 electric cars over high-voltage battery cells that may overheat; affected owners will be capped at 80% charging until inspected.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 4,
+    excerpt:
+      'A supplier manufacturing defect can make individual cells overheat in rare cases — VW will limit charging to 80% by over-the-air update as a precaution.',
+    body: [
+      'Volkswagen has made official what leaked last week: a global recall of 72,668 electric vehicles over high-voltage battery cells that may not meet quality specifications, German trade publication electrive reported on October 21. The campaign, now registered with Germany\u2019s Federal Motor Transport Authority (KBA), covers certain batches of the VW ID.3, ID.4, ID.7 and ID.Buzz, plus the Cupra Born from VW\u2019s Spanish sub-brand — ID-family vehicles built between 2022 and 2025, and Cupra Borns from 2022 to 2024. Roughly 10,000 of the affected cars are in Germany, and a parallel action in the UK covers the ID.3, ID.4, ID.7, ID.Buzz and ID.Buzz Cargo.',
+      'The root cause traces to manufacturing errors at battery suppliers, a VW spokesperson told Handelsblatt. Internal quality checks found that cells in certain production batches fall short of specifications; in rare cases, affected cells can develop increased thermal stress — and in extreme cases there is a fire risk, particularly when aggressive fast-charging profiles combine with a state of charge above 80%. The KBA said there had been no reported incidents of property damage or personal injury at the time of the announcement, making this a precautionary recall.',
+      'The remedy comes in stages. As an immediate safety measure, Volkswagen will temporarily limit maximum charging to 80% via an over-the-air update where technically possible. A permanent remedy is still being developed; owners of affected vehicles will be notified by letter once it is ready. Anyone driving one of these models should charge to 80% or less starting now, watch for their notification letter, and contact VW customer service with questions about their specific vehicle.',
+    ],
+    sources: ['electrive.com', 'Handelsblatt', 'KBA'],
+  },
+  {
+    slug: 'vw-id4-us-80-percent-charge-limit-ota-recall',
+    title: 'VW\u2019s Fix for Fire-Risk ID.4 EVs: An Over-the-Air Update That Cuts Range by 20%',
+    description:
+      'Volkswagen will remotely cap affected US ID.4 batteries at 80% charge — roughly a 20% range cut — until a permanent remedy is developed; interim owner letters go out November 27.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The 80% charge cap lands around October 27 unless owners opt out — and it can shave some ID.4s to roughly 162 miles per charge.',
+    body: [
+      'Volkswagen Group of America is recalling 22,524 ID.4 electric SUVs from the 2023–2026 model years after warning that a defect in the high-voltage battery pack could trigger a fire, NHTSA confirmed. The recalled vehicles, built between January 1, 2023 and February 1, 2025, may fail internally: certain charging profiles combined with charging beyond 80% can \u201Ctrigger thermal propagation internal to the high-voltage battery,\u201D a chain reaction that overheats neighboring cells, according to the NHTSA filing. VW estimates just 0.1% of the recalled vehicles actually carry the defective cell.',
+      'Until engineers finish developing a permanent remedy, VW is taking an unusual step: it emailed owners saying it intends to apply a temporary vehicle setting limiting charging to 80% of maximum capacity, unless they opted out by October 21. The over-the-air update is scheduled around October 27 and will be reflected in the mobile app. The cost is real: the 20% capacity cut can bring some ID.4 versions down to roughly 162 miles per charge, CarBuzz calculated.',
+      'Alex Ansley, chief of NHTSA\u2019s recall management division, said the remedy is currently under development and interim letters notifying owners of the safety risk are expected to be mailed November 27, 2026. This is already the third ID.4 fire-risk action in the US: VW recalled more than 44,000 2023–2025 ID.4s across two recalls notified to NHTSA in January 2026, following another 629-vehicle action in December 2025. The ID.4 is due to be replaced next year by a heavily facelifted model reportedly badged ID. Tiguan.',
+    ],
+    sources: ['Batteries International', 'NHTSA', 'Electrek', 'CarBuzz'],
+  },
+  {
+    slug: 'india-fada-october-2026-used-car-demand-outlook',
+    title: 'India\u2019s Festive Season Fuels Used-Car Boom: Sales Seen Up 12–15% as Prices Stay Flat',
+    description:
+      'FADA data points to a 12–15% used-car sales surge for Oct–Dec 2026, with 75.57% of dealers expecting growth — while prices stay broadly flat and new-car inventory hits 43–45 days.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Demand is projected to jump 12–15% this quarter, but swelling new-car inventory keeps used-car prices in check.',
+    body: [
+      'India\u2019s used-car market is heading into its strongest quarter of the year, with industry projections pointing to 12–15% year-on-year sales growth for October–December 2026, per Business Standard and Business Today reporting compiled by VahanBazaar. Organised used-car players are expected to grow even faster — 25–30% or more — as the festive season converts held-back demand.',
+      'The dealer mood matches the math. In FADA\u2019s October outlook, 75.57% of dealers expect growth, 19.46% expect a flat month and only 4.98% expect a decline, with bookings already building and dealers counting on Navratri and Dussehra demand converting through the month. September set the stage: total vehicle retail hit 25.37 lakh units, up 31.82%, per FADA.',
+      'Here\u2019s the buyer-friendly twist: used-car prices going into the season are broadly flat, with average tickets on one organised platform sitting around Rs. 5.5–6 lakh. The reason is supply. FADA says passenger-vehicle inventory reached 43–45 days at the end of September against a recommended 21-day benchmark — dealers holding extra new-car stock push harder with exchange offers, and every exchange feeds an older car into the used market. More choice, flat prices, and negotiable sellers: for Indian used-car buyers, this festive season is unusually buyer-friendly. The projection, though, is a forecast — not a measured result — so treat it as direction of travel.',
+    ],
+    sources: ['VahanBazaar', 'Business Standard', 'FADA'],
+  },
+  {
+    slug: 'range-rover-rearview-camera-recall-94000-october-2026',
+    title: 'Jaguar Land Rover Recalls 93,997 Range Rovers Over Rearview Cameras That Fail in the Rain',
+    description:
+      'Insufficient drain holes can trap water in the rearview camera of certain 2022–2026 Range Rovers; dealers will drill extra drain holes and replace cameras as needed.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 2,
+    excerpt:
+      'Water gets trapped, the camera dies, and the image never appears on the display — the fix is drilled drain holes, not just a new camera.',
+    body: [
+      'Jaguar Land Rover will recall 93,997 vehicles in the United States because the rearview camera image may fail to appear on the display, NHTSA said on October 23, per Reuters. The recall affects certain 2022–2026 Land Rover Range Rover vehicles.',
+      'The cause is disarmingly simple: insufficient drain holes may trap water in the rearview camera and damage it. Federal safety rules require the rearview image to appear promptly when shifting into reverse — a camera killed by water ingress fails that standard and, more importantly, robs the driver of rear visibility in exactly the conditions where spotting obstacles matters.',
+      'The remedy is equally mechanical. Dealers will drill additional drain holes in the underside of the tailgate trim so water can escape, and replace the camera if it is already damaged. Range Rover owners should watch for their notification letters and, if the rearview image ever goes dark, get the vehicle checked rather than driving blind.',
+    ],
+    sources: ['Reuters', 'NHTSA'],
+  },
+  {
+    slug: 'tesla-stock-drops-5-percent-capex-pullback-october-2026',
+    title: 'Tesla Slides 5% as $20B Capex Pullback Clouds Musk\u2019s AI and Robotics Bet',
+    description:
+      'Tesla cut its 2026 capital spending forecast to about $20B from more than $25B, delivering surprise free cash flow but rattling investors on the pace of AI, robotaxi and Optimus investment.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'J.P. Morgan called it mixed: the delay helps near-term cash burn but hints at slower investment in the long-term bets Tesla\u2019s valuation rides on.',
+    body: [
+      'Tesla shares slid about 5% in premarket trading on October 22 after the automaker lowered its 2026 capital spending forecast to roughly $20 billion from more than $25 billion, Reuters reported. The cut came after Tesla spent far less than expected on AI and robotics in the third quarter — which delivered a surprise positive free cash flow but raised questions about how fast Elon Musk\u2019s AI, robotics and autonomous-driving ambitions are being funded.',
+      '\u201CInvestors are likely to come away with mixed feelings,\u201D J.P. Morgan analysts led by Rajat Gupta wrote. \u201CThe delay helps near-term cash burn but also suggests delays in investments that matter for fruition of long-term opportunities.\u201D Management commentary suggested spending will ramp back up in 2027 and 2028 as Tesla funds robotaxi, Optimus, AI compute and its Terafab chip milestones. There is a strategic read, too: the strong cash position could prove valuable as Musk explores combining Tesla with the far more capital-intensive SpaceX.',
+      'The valuation math explains the market\u2019s sensitivity. Tesla shares have declined about 14% this year against a roughly 15% gain for the Nasdaq, sitting about 23% below the December 2025 record intraday high of $498.83 — yet Tesla still trades at 188.24 times forward earnings, versus 6.58 for Ford and 5.16 for GM. \u201CThe risk is Tesla now enters a period of limbo while investors await news on a potential combination with SpaceX,\u201D said AJ Bell investment director Russ Mould.',
+    ],
+    sources: ['Reuters', 'J.P. Morgan', 'AJ Bell'],
+  },
+  {
+    slug: 'tesla-cybercab-dallas-november-transportation-domination',
+    title: 'Tesla\u2019s Gold Cybercabs Head to Dallas in November as Musk Eyes \u2018Transportation Domination\u2019',
+    description:
+      'Tesla will expand its driverless Cybercab beyond Austin to Dallas next month and start selling the two-seaters to outside fleet operators by year end — chasing Waymo\u2019s commanding lead.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      '\u201CWe want to basically own transportation of any kind on Earth,\u201D said CFO Vaibhav Taneja — but Waymo is already at 500,000 autonomous rides a week.',
+    body: [
+      'Tesla is gearing up to take its gold-colored Cybercab robotaxi beyond Austin next month, the New York Post reported from the company\u2019s third-quarter earnings call. Executives said the futuristic two-seaters — which began carrying paying passengers in September — will deploy in Dallas in November, and that Tesla plans to begin selling Cybercabs to outside fleet operators by the end of the year.',
+      'The expansion heats up a lopsided rivalry. Tesla\u2019s broader robotaxi network, which also uses Model Y SUVs, serves six metropolitan areas across Texas and Florida, including Dallas, Houston, Miami, Orlando and Tampa — but Tesla has never disclosed how many paid robotaxi trips it provides. Waymo, by contrast, operates more than 4,000 self-driving vehicles across more than a dozen US cities and, per Alphabet, surpassed 500,000 fully autonomous rides per week earlier this year, with commercial service in 15 US markets including Los Angeles, the Bay Area, Phoenix and Las Vegas.',
+      'Chief financial officer Vaibhav Taneja signaled ambitions far beyond ride-hailing: \u201CWe\u2019re starting with getting people from one place to the other, but we want to basically own transportation of any kind on Earth.\u201D That pitch will be tested against real economics — fleet sales, per-mile pricing, utilization — in a market where Waymo already has scale and regulators are watching every step.',
+    ],
+    sources: ['New York Post'],
+  },
+  {
+    slug: 'spacex-filing-merger-needs-musk-approval-october-2026',
+    title: 'SpaceX Filing: Any Tesla Merger Needs Musk\u2019s Approval — Despite His Recusal',
+    description:
+      'SpaceX disclosed that a Tesla combination requires sign-off from its special committee, board and controlling shareholder — Musk himself — while insiders worry his public endorsement could delay the talks.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Musk recused himself from the talks but cannot escape the process: the filing says his approval is still required.',
+    body: [
+      'SpaceX said on October 22 that its potential merger with Tesla will require controlling investor Elon Musk\u2019s approval, even though he has recused himself from the talks because of conflicts of interest, Reuters reported. In a regulatory filing Thursday, SpaceX said: \u201CNo determination by our special committee has been made regarding any potential combination, and any potential combination would be subject to further approval by our special committee, our board of directors and our controlling shareholder.\u201D',
+      'The disclosure follows Musk\u2019s Tuesday comments calling a union \u201Ca good idea\u201D and confirming special committees at both companies — and those very comments have created problems. Reuters reported that some insiders involved in the discussions worry Musk\u2019s public endorsement could invite shareholder scrutiny and delay the process by several weeks, with one person calling it a \u201Cmess\u201D for the process and raising questions about how well Tesla shareholders\u2019 interests would be represented. The unease echoes Tesla\u2019s 2016 SolarCity acquisition, which spawned years of litigation over Musk\u2019s role.',
+      'The talks remain early. People familiar with the matter said SpaceX approached Tesla in recent weeks and the companies are weighing structures including a SpaceX acquisition of Tesla or a merger under a newly formed holding company, with an all-stock deal among the consideration options. Several Wall Street analysts see a merger as a matter of when, not if — but disagree sharply on how much Tesla shareholders should receive, and any combination would face significant regulatory hurdles.',
+    ],
+    sources: ['Reuters'],
+  },
+  {
+    slug: 'beta-technologies-first-faa-market-survey-certificate-evtol',
+    title: 'Beta Technologies Beats Joby and Archer to a First: FAA\u2019s First-Ever eVTOL Market Survey Certificate',
+    description:
+      'The FAA granted Beta\u2019s ALIA A250 a first-of-its-kind certificate letting it fly potential customers on demonstration flights — a milestone the bigger names have not reached.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Not Joby, not Archer: the lesser-known Beta got the FAA\u2019s first \u201CSpecial Airworthiness Market Survey Certificate\u201D on October 21.',
+    body: [
+      'In a surprise to much of the industry, Beta Technologies — the lesser-known contender behind Joby and Archer in the electric air taxi race — received a first-of-its-kind \u201CSpecial Airworthiness Market Survey Certificate\u201D from the FAA on October 21, The Motley Fool reported. The certificate covers Beta\u2019s ALIA eVTOL, also known as the A250, and lets the company fly potential customers on demonstration flights so they can experience the aircraft before committing.',
+      'The commercial logic is direct: a delivery company considering the A250 for cargo, or an operator weighing passenger use, can now board the actual aircraft and judge fit firsthand — turning interest into potential orders. Beta was already punching above its weight in the White House-backed eVTOL Integration Pilot Program, selected for seven of the eight projects — the most of any company, ahead of Joby\u2019s five and Archer\u2019s three.',
+      'The honest caveats matter. This is not FAA type certification — the official design-approval stamp — and it does not authorize Beta to sell air taxi tickets to the public, nor its customers to fly commercially today. Still, for a company that has lost roughly half its value since its debut last fall, the certificate is a tangible regulatory first and a sales tool no rival currently holds.',
+    ],
+    sources: ['The Motley Fool'],
+  },
+  {
+    slug: 'chery-lingxiao-evtol-q212-reveal-october-2026',
+    title: 'Carmaker Chery Joins the Flying-Car Race With Two \u2018Lingxiao\u2019 eVTOL Aircraft',
+    description:
+      'Chery unveiled the two-seat Q212 eVTOL — including a full-scale uncrewed prototype flight test — at its Global Innovation Conference alongside robotaxi and battery advances.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Another automaker bets on the sky: Chery revealed a five-seat air taxi concept and a flown two-seat prototype on October 20.',
+    body: [
+      'Chinese automaker Chery has entered the advanced air mobility race, announcing plans to develop two passenger-carrying electric vertical-takeoff-and-landing aircraft under the Lingxiao name, Aviation Week reported. The vehicles were unveiled October 20 at Chery\u2019s Global Innovation Conference, alongside advances in driver assistance, robotaxis and batteries.',
+      'The more concrete of the two is the Q212, a two-seat design for which Chery revealed a flight test of a full-scale uncrewed prototype — hardware in the air, not just renderings. The second vehicle is a five-seat air taxi aimed at the larger passenger market. Chery had previously experimented with earlier flying-car concepts, but the Lingxiao program is its most serious commitment to the category.',
+      'The move puts Chery alongside a lengthening list of automakers treating the sky as the next mobility frontier — from Hyundai-backed Supernal to Stellantis\u2019 partnership with Archer. Certification, manufacturing scale and air-traffic integration remain the gating items for everyone, but Chery\u2019s manufacturing depth gives it a platform few pure-play eVTOL startups enjoy.',
+    ],
+    sources: ['Aviation Week'],
+  },
+  {
+    slug: 'vertical-aerospace-valo-seating-navigation-deals',
+    title: 'Vertical Aerospace\u2019s Flying Taxi Gets Seating and Navigation Deals as Certification Push Continues',
+    description:
+      'The UK\u2019s Vertical Aerospace signed long-term deals with Korea\u2019s ANH Structure for bespoke seating and Northrop Grumman\u2019s NG LITEF for inertial navigation on its Valo eVTOL.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Two specialist suppliers — a Korean seating firm and a German navigation maker — are now certified into the Valo program.',
+    body: [
+      'Bristol-based Vertical Aerospace, developer of the four-to-six-seat Valo electric flying taxi, has struck long-term agreements with two international firms as it pushes its aircraft development program forward, Business Live reported on October 19. South Korean aerospace seating specialist ANH Structure will design, develop, certify and produce a bespoke pilot and passenger seating system for Valo, while German navigation systems manufacturer NG LITEF — part of global giant Northrop Grumman — will supply the inertial reference system feeding position, attitude and heading data to flight-critical systems.',
+      'Chief executive Stuart Simpson said the two companies brought \u201Cspecialist expertise and strong certification credentials,\u201D adding that their selection \u201Cadds further strength to the world-class supplier ecosystem behind Valo and supports our strategy to deliver one versatile platform across multiple cabin configurations and missions.\u201D The deals follow last month\u2019s opening of an aircraft assembly facility at Cotswold Airport.',
+      'Vertical Aerospace was founded a decade ago by Ovo Energy boss Stephen Fitzpatrick and listed on the New York Stock Exchange in 2021. The Valo program is described as moving \u201Cfrom an advanced design into an aircraft supported by the people, systems and industrial capability needed for certification and production at scale\u201D — the honest milestone for a category where the step from flying prototype to certified aircraft is the hardest one.',
+    ],
+    sources: ['Business Live'],
+  },
+  {
+    slug: 'icaur-v25-debut-global-brand-launch-october-2026',
+    title: 'Chery\u2019s iCAUR V25 Debuts: A Boxy \u2018Future-Classic\u2019 SUV With 20+ Accessory Interfaces',
+    description:
+      'Unveiled October 22 at the iCAUR International User Summit, the V25 joins the V-Series with near 1:1 proportions, round headlamps and 21-inch wheels.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A boxy \u201Call-way SUV\u201D built to look good in ten years — with reserved interfaces for owner personalization.',
+    body: [
+      'Chery\u2019s iCAUR brand has unveiled the V25, an all-way SUV that joins the V-Series lineup, at the 2026 iCAUR International User Summit in Wuhu, China, on October 22, GlobeNewswire reported. The V25 embodies the brand\u2019s \u201CClassic Never Fades\u201D philosophy — a future-classic design built, in iCAUR\u2019s words, to answer \u201Cwhat makes a vehicle beloved not just today, but ten years down the line?\u201D',
+      'The design is unapologetically boxy: a height-to-width ratio of 0.96, close to 1:1, paired with a sharp front fascia, upright windshield and a continuous crisp waistline. Classic round LED light clusters sit alongside modern detailing — flared wheel arches, a floating C-pillar and a 21-inch wheel option. The V25 also carries more than 20 reserved ecosystem interfaces, paired with original personalized accessory kits, so owners can reconfigure the vehicle around hobbies and use cases.',
+      'The V25 lands as Chery\u2019s export machine keeps expanding — OMODA, JAECOO and iCAUR are all pushing into overseas markets where boxy, retro-flavored SUVs have proven demand. Pricing and powertrain details were not disclosed at the unveiling; the brand is clearly leading with design identity first and specifications later.',
+    ],
+    sources: ['GlobeNewswire'],
+  },
+  {
+    slug: 'chery-tiggo7-tiggox7-global-debut-brand-night',
+    title: 'All-New Chery TIGGO7 and TIGGOX7 Make Global Debuts at CHERY Brand Night',
+    description:
+      'Chery unveiled the all-new TIGGO7 family SUV and the first-ever TIGGOX7 — a Family Comfort Exploration SUV — at Brand Night in Wuhu on October 21.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      '\u201CTogether. For Family\u201D — Chery debuted two family SUVs with football legends Edwin van der Sar and Peter Crouch as brand partners.',
+    body: [
+      'Chery held its Brand Night in Wuhu, Anhui, on October 21 under the theme \u201CTogether. For Family,\u201D with families from Ecuador, Poland, the UK, Romania, South Africa and Brazil on stage as the company gave global debuts to the all-new TIGGO7 and the first-ever TIGGOX7, PR Newswire reported. The TIGGO7 is positioned as the comfortable everyday family SUV — commutes, school runs, weekend outings — while the TIGGOX7, the first model in the new TIGGOX series, is pitched as a Family Comfort Exploration SUV blending urban practicality with capability across varied road conditions.',
+      'Speaking at the event, executive vice president Guibing Zhang framed the launches as part of Chery\u2019s commitment to growing with families through technology, products and service. The evening\u2019s most unusual guests were football legends Edwin van der Sar and Peter Crouch, who joined as CHERY brand partners — a reminder that Chery is marketing itself as a global family brand, not just a Chinese exporter.',
+      'The TIGGO7 and TIGGOX7 enter the most crowded segment in world motoring: the family crossover. Their differentiators will need to be proven in pricing, warranty terms and real-world reliability rather than stagecraft — Chery has not yet detailed powertrains or market rollouts for either model.',
+    ],
+    sources: ['PR Newswire'],
+  },
+  {
+    slug: 'omoda-x-teaser-chery-user-summit-2026',
+    title: 'OMODA X Teased: Sharp Geometric SUV Merges Sports-Car Stance With Off-Road Muscle',
+    description:
+      'Omoda Jaecoo teased the all-new OMODA X at the 2026 Chery International User Summit — a geometric, muscular design study sharing the stage with Super Hybrid tech.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Sports-car tension plus off-road robustness: the OMODA X sets the visual tone for the brand\u2019s next generation.',
+    body: [
+      'Chery Group\u2019s Omoda Jaecoo division teased the all-new OMODA X during the 2026 International User Summit, running October 18–24 in Wuhu, China, auto.rockstarmedia.com.my reported. The model\u2019s design language fuses sharp geometric lines with a sports-car silhouette and the elevated, robust structure of an off-road utility vehicle — what the brand describes as a more decisive, muscular visual identity for Omoda Jaecoo.',
+      'The X shares its debut platform with Omoda Jaecoo\u2019s latest Super Hybrid (SHS-H) vehicles, including the Omoda 4 SHS-H and Omoda 7 SHS-H. The Omoda 7 introduces a dedicated 5kWh-battery hybrid architecture that media testers are putting through long-distance endurance runs across the multi-day summit — a live stress test of fuel efficiency and long-range operating parameters in front of international evaluators.',
+      'The tease is strategic. The Omoda 4 and Omoda 7 have already locked in Australian market releases for the first half of 2027 after debuting at the Everything Electric exhibition in Sydney. The OMODA X signals where the design goes next — and confirms that Super Hybrid, not pure electric, is the powertrain story Chery wants the world to associate with the brand.',
+    ],
+    sources: ['auto.rockstarmedia.com.my', 'CarSifu'],
+  },
+  {
+    slug: 'li-auto-i6-2026-october-28-launch',
+    title: 'Li Auto\u2019s 2026 i6 Launches October 28 With 780 km of Range and a 29-Inch 6K Screen',
+    description:
+      'Li Auto confirmed the 2026 i6 SUV launches October 28 with six upgrades — ADB matrix headlights, a powered frunk, zero-gravity seats and a 96 kWh fast-charging battery — without CATL cells.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Six upgrades, 780 km CLTC range and a launch date five days away — the 2026 i6 is Li Auto\u2019s big Q4 play.',
+    body: [
+      'Li Auto has officially announced that the 2026 model of its i6 SUV is scheduled for market launch on October 28, with deliveries expected in early November, Car News China reported. The vehicle arrived at dealerships on October 11 and made its international debut at the Paris Motor Show on October 12.',
+      'CEO Li Xiang highlighted six upgrades. Lighting moves to ADB matrix headlights identical to the Li Mega\u2019s, for improved brightness, width and night-driving range. Storage gains a new electric front trunk with \u201Cknock-to-open\u201D and voice control. Comfort brings dual front zero-gravity seats reclining to 150 degrees. Display is the showpiece: a 29-inch 6K panoramic front screen plus a 21-inch 4K rear entertainment screen. Range comes from a 96 kWh fast-charging battery rated at 780 km on the CLTC cycle — roughly 632 km on the stricter WLTP scale.',
+      'Notably, the 2026 i6 launches without CATL batteries — a supply-chain shift worth watching in a market where CATL has long been the default. The i6 competes in China\u2019s brutal mid-size electric SUV segment against the Tesla Model Y and a wave of domestic rivals; on paper, the feature count is the argument.',
+    ],
+    sources: ['Car News China'],
+  },
+  {
+    slug: 'tesla-cybertruck-cancelled-australia',
+    title: 'Tesla Cybertruck Is Officially Dead for Australia',
+    description:
+      'Tesla Australia has confirmed it will not build the Cybertruck for the Australian market — the stainless-steel pickup stays a North American exclusive.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 2,
+    excerpt:
+      'No right-hand-drive Cybertruck is coming: Tesla Australia says the electric pickup won\u2019t be built for Down Under.',
+    body: [
+      'Tesla Cybertruck will not come to Australia. Tesla Australia has confirmed it won\u2019t build the electric pick-up truck for the Australian market, Motor1 reported on October 23 — ending years of will-they-or-won\u2019t-they speculation for right-hand-drive buyers.',
+      'The decision is not entirely surprising. The Cybertruck has only ever been sold in North America, and converting the stainless-steel truck\u2019s angular body and by-wire systems for right-hand drive would be a costly program for a vehicle whose sales momentum has visibly cooled. Australia\u2019s ute market — the country\u2019s best-selling segment — will be contested by a different wave of electrified pickups instead, from the BYD Shark 6 to the Ford Ranger PHEV and the upcoming diesel plug-in hybrid Chery Stockman.',
+      'For Tesla, the move is a concession of focus: with capex being cut to about $20 billion and the company\u2019s priorities shifting to robotaxis, Optimus and AI, a right-hand-drive Cybertruck program simply didn\u2019t make the list.',
+    ],
+    sources: ['Motor1'],
+  },
+  {
+    slug: 'manheim-mid-october-2026-used-values',
+    title: 'Used-Car Values Firm Up in Mid-October: Manheim Index at 207.4, Up 2.2% Year Over Year',
+    description:
+      'Cox Automotive\u2019s mid-October Manheim index rose 0.7% to 207.4 — up 2.2% from a year ago — as leaner supply slowed depreciation; used EVs slipped 0.7% on the month but remain up 6.8% yearly.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Wholesale values firmed in early October — but the cause is leaner supply, not stronger buyer demand.',
+    body: [
+      'Wholesale used-vehicle values firmed in early October after a September that depreciated faster than normal, Cox Automotive reported. The Manheim Used Vehicle Value Index rose 0.7% to 207.4 through mid-month and now sits 2.2% above October 2025, rebounding after the softening seen in the third quarter.',
+      'The honest read from Cox\u2019s Jonathan Gregory: the year-over-year gain flatters the picture because last October was unusually weak — a low base boosting the annual figure. Non-adjusted wholesale prices still fell 2% in the first half of October, a pace the month typically brings. And the firmness comes from supply, not demand: wholesale days\u2019 supply fell from 28.7 to 28.2 days while dealer sales conversion stayed roughly flat. Leaner inventory, not stronger buying, is holding values up.',
+      'The segment mix is shifting. EVs outperformed all year on demand for fuel-efficient vehicles, but so far this month non-EV values rose 0.7% while EVs slipped 0.7% — though EVs remain up 6.8% year over year as more off-lease EVs reach the market. Compact cars are up 5.6%, midsize cars turned positive, luxury has slipped slightly below last year after a strong first half, and pickups remain soft. For buyers, the message is mixed: firmer wholesale values don\u2019t mean retail prices are climbing — but the easy deals of early autumn may be thinning.',
+    ],
+    sources: ['Cox Automotive'],
+  },
+  {
+    slug: 'gm-eyes-off-autonomy-escalade-iq-2028',
+    title: 'GM Bets Big on Eyes-Off Autonomy: 2028 Escalade IQ First, Then Your Truck Runs Errands Alone',
+    description:
+      'GM unveiled an \u201Ceyes-off\u201D highway autonomy roadmap at its Forward event — debuting on the 2028 Cadillac Escalade IQ, expanding to full-size SUVs and pickups, and skipping Level 3 entirely.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      '\u201CWe\u2019re not developing L3 autonomy\u201D — GM says Level 3\u2019s human-takeover handoff is a risk, not a milestone.',
+    body: [
+      'General Motors used its GM Forward event in Manhattan on October 21 to lay out its boldest autonomy roadmap yet: an \u201Ceyes-off, hands-off\u201D highway driving system debuting on the 2028 Cadillac Escalade IQ EV, then expanding to its highest-selling, most profitable vehicles — full-size SUVs and light-duty pickup trucks, Reuters and The Drive reported. Unlike Super Cruise, which requires eyes on the road, the new system takes over active driving responsibility so occupants can check messages or read on approved highways.',
+      'The philosophical twist: GM insists this is not Level 3. Chief product officer Sterling Anderson, a former autonomous-truck executive at Aurora, told The Drive \u201Cwe are not developing L3 autonomy\u201D — because Level 3 requires a driver to retake control on demand, and that handoff from an inattentive human back to instant control is what GM considers an undesirable, risky transition. \u201CI get annoyed every time I hear someone say L3,\u201D Anderson said at the event. The plan, in his words: jump straight past the valley of handover liability to a system that operates without constant supervision, with a future \u201CMission Mode\u201D extending to off-highway errand runs — a truck fetching groceries with nobody inside.',
+      'The foundation is real: Super Cruise has logged over 1.2 billion hands-free miles across nearly 750,000 vehicles. But the caveats are too. GM won\u2019t let you sleep behind the wheel — a driver must be present and prepared to take over, with the vehicle alerting when it expects intervention. Availability will vary by market based on safety validation and local regulations, and no timetable exists for the true driverless-errand vision. Still, putting autonomy on the Silverado and Sierra roadmap — not just a luxury EV — is the clearest signal yet that GM sees self-driving as a mass-market revenue stream, not a tech demo.',
+    ],
+    sources: ['The Drive', 'Reuters', 'AutoGuide', 'CarBuzz'],
+  },
+  {
+    slug: 'wards-10-best-engines-2026-all-electrified',
+    title: 'Historic First: Every 2026 Wards 10 Best Engines Winner Is Electrified',
+    description:
+      'For the first time since 1995, not one pure-gas powertrain made the Wards 10 Best list — four EVs, four hybrids and two plug-in hybrids, from the Nissan Rogue Hybrid to the 1,250-hp Corvette ZR1X.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Even the hottest winner needs electric help: the 1,250-hp Corvette ZR1X pairs a twin-turbo V-8 with a front-axle e-motor.',
+    body: [
+      'WardsAuto has named its 2026 10 Best Engines & Propulsion Systems winners, and for the first time since the program began in 1995, every honoree uses some form of electrification. The list, announced October 13: four battery-electrics (Mercedes-Benz GLC 400 4Matic Electric, Rivian R2 Performance, Subaru Trailseeker, Volvo EX60 P10 AWD), four hybrids (Chevrolet Corvette ZR1X, Hyundai Palisade Hybrid, Nissan Rogue Hybrid, Porsche 911 Carrera GTS T-Hybrid) and two plug-in hybrids (BMW M5 Touring, Toyota RAV4 PHEV GR Sport).',
+      'The diversity is the story. Seven of the ten are crossover utilities, joined by two sports cars and one wagon, built across five countries — and prices range from the $43,035 Nissan Rogue Hybrid to the $242,060 Corvette ZR1X, with seven of ten stickers averaging under $55,000. The most powerful winner, the 1,250-horsepower Corvette ZR1X, pairs a twin-turbocharged 5.5-liter V-8 with a 186-horsepower electric motor on the front axle. \u201CIt\u2019s hard to believe the car-buying public once considered hybrids slow and underpowered,\u201D said juror Drew Winter.',
+      'The shutout was close: the only pure-gas nominees — the Corvette\u2019s 6.7-liter LS6 V8, the Dodge Charger Scat Pack\u2019s Hurricane inline-six, the Ram 1500 TRX\u2019s supercharged Hemi and others — all fell short. Electrification first appeared on the list in 2001 with the original Toyota Prius; 25 years later, juror Bob Gritzinger notes, hybrids are \u201Cno longer niche vehicles, but integral to automakers\u2019 product portfolios.\u201D',
+    ],
+    sources: ['WardsAuto', 'CarPro', 'Autoblog'],
+  },
+  {
+    slug: 'chery-stockman-ute-in-depth-australia-february-2027',
+    title: 'Chery Stockman: Australia Gets First Dibs on the World\u2019s First Diesel Plug-In Hybrid Ute',
+    description:
+      'Cars Guide\u2019s in-depth look at the 2027 Chery Stockman confirms an Australia-first February 2027 launch, Premcar ride tuning, 350kW/800Nm, 96km WLTP electric range and 3,495kg towing.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Australia before China: Chery is tuning its diesel PHEV ute with local experts Premcar and launching Down Under first in February 2027.',
+    body: [
+      'The 2027 Chery Stockman will launch in Australia first — before China, South Africa or South America — with the first deliveries expected in February 2027, Cars Guide reported in an in-depth look published October 23. Australia is the explicit focus: local ride-and-handling experts Premcar have been conducting the Stockman\u2019s development testing, with the first major round of feedback and adjustments already completed and the engineering team confident the launch date won\u2019t move.',
+      'The powertrain is genuinely novel: a 2.5-litre turbo-diesel four-cylinder paired with an electric motor and a 34kWh lithium-iron-phosphate battery under the tub, delivering 350kW and 800Nm to all four wheels. Electric range is rated at 96km on the WLTP cycle — beating the BYD Shark 6 Performance\u2019s 80km and the Ford Ranger PHEV\u2019s 50km — with a claimed combined consumption of 1.1L/100km. It\u2019s a proper work truck too: double-wishbone front suspension with a leaf-sprung live axle on the diesel, 3,495kg braked towing (just 5kg shy of rivals), 765kg payload, front, centre and rear diff locks, and all-terrain tyres standard. A petrol PHEV version with 395kW and 1000Nm follows in the second half of 2027.',
+      'The strategy is a full-frontal assault on Australia\u2019s ute establishment. The Stockman is slightly bigger than the HiLux and sized between the Ranger and full-size American trucks, and Chery is already taking pre-orders with $2,000 Bunnings vouchers and three free services for early reservations. At Chery\u2019s global HQ, a Stockman decked out in Ironman 4x4 gear was parked on the lawn for visiting media — the brand is not subtle about where it intends to play. Pricing is expected to land near the BYD Shark 6\u2019s $57,900 starting point.',
+    ],
+    sources: ['Cars Guide', 'CarExpert', 'TheAutoExec'],
+  },
+  {
+    slug: 'eplane-noida-airport-vertiport-mou-india',
+    title: 'India\u2019s Flying-Taxi Future Takes a Step: ePlane Partners With Noida International Airport',
+    description:
+      'The ePlane Company signed an MoU with Noida International Airport to co-develop vertiports, operating procedures and systems for its e200X eVTOL air taxi.',
+    date: 'October 23, 2026',
+    dateISO: '2026-10-23',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Vertiports before vehicles: the ePlane deal builds the airport ecosystem the aircraft will need once certified.',
+    body: [
+      'The ePlane Company has signed a memorandum of understanding with Noida International Airport to integrate eVTOL flight with airport operations, the company announced October 21. The partnership will co-develop vertiports, standard operating procedures and the systems needed to deploy the e200X eVTOL air taxi — a deliberately pragmatic, infrastructure-first approach.',
+      'The pitch is compressing hours of Delhi-NCR road travel into minutes of zero-emission transit — for passengers and for critical medical care. Noida International Airport chairman Daniel Bircher framed the deal as part of the airport\u2019s long-term vision for \u201Cinnovative, future-ready infrastructure,\u201D calling advanced air mobility integration \u201Can important part of our commitment to seamless, multi-modal connectivity\u201D and pledging collaboration on the ground infrastructure and operational SOPs required for safe, zero-emission air transit and emergency services.',
+      'The step-by-step logic is sound: when the aircraft are certified, the airport ecosystem will be ready rather than playing catch-up. But the honest timeline remains: certification, not infrastructure, is the gating item for eVTOL everywhere in the world, and the e200X\u2019s path through India\u2019s regulators is still ahead of it.',
+    ],
+    sources: ['Basra Press'],
   },
 ]
 
