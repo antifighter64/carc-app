@@ -2106,6 +2106,387 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['Basra Press'],
   },
+
+  {
+    slug: 'ford-mustang-mach-e-trail-2027-mild-off-road',
+    title: 'Ford Reveals 2027 Mustang Mach-E Trail for Mild Off-Roading',
+    description:
+      'Ford introduced the Mustang Mach-E Trail package on October 21, giving the electric crossover a mild off-road setup for gravel and dirt roads ahead of a Q1 2027 arrival.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A new package for the Mustang Mach-E Select eAWD adds off-road confidence for active buyers, built in Mexico and arriving in early 2027.',
+    body: [
+      'Ford introduced the new 2027 Mustang Mach-E Trail on October 21, a package aimed at buyers who want mild off-road capability from their electric crossover. The company positioned it for active customers who need confidence on gravel and dirt roads rather than for hardcore trail use, and said the package will be available on the Mustang Mach-E Select eAWD.',
+      'The Mustang Mach-E Trail will be built at the Cuautitlan Assembly Plant in Mexico and is scheduled to begin arriving in the first quarter of 2027. Ford has not yet published full pricing or a detailed equipment list for the package in the initial announcement, but the positioning is clear: take the existing all-wheel-drive Mach-E Select and tune it for unpaved surfaces and outdoor lifestyles.',
+      'The move fits a broader industry pattern of carving smaller niches out of popular electric models. Rather than launching a separate off-road EV, Ford is extending the best-selling Mach-E line with a variant that speaks to weekend adventurers, a segment where crossovers with light trail ability have been gaining ground. For shoppers, the Trail gives a factory-backed middle ground between a standard electric crossover and a dedicated off-road SUV.',
+    ],
+    sources: ['MarkLines', 'Ford'],
+  },
+  {
+    slug: 'ford-recalls-102159-f-series-analog-cluster',
+    title: 'Ford Recalls 102,159 Heavy-Duty F-Series Trucks Over Faulty Analog Clusters',
+    description:
+      'Ford is recalling 102,159 heavy-duty trucks because faulty analog clusters can leave drivers without accurate tachometer and speedometer readings.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The recall covers 2025-2026 Super Duty trucks plus 2026 F-150 and F-750 models with analog clusters supplied by Visteon.',
+    body: [
+      'Ford announced on October 19 that it is recalling 102,159 trucks in the United States over faulty analog instrument clusters. The affected vehicles are the 2025-2026 F-250 SD, F-350 SD, F-450 SD, F-550 SD and F-600, along with the 2026 F-150 and F-750 SD, according to the recall notice.',
+      'The National Highway Traffic Safety Administration said the analog cluster tachometer and speedometer in the affected vehicles may not function correctly. A driver who cannot rely on the speedometer or tachometer faces a higher risk of speeding or misjudging engine speed, and in a heavy-duty work truck that risk is compounded by towing and payload duty.',
+      'Owners of affected trucks should watch for a recall notification from Ford and have the cluster repaired at a dealer free of charge. As with all safety recalls, owners can also check their vehicle identification number against the NHTSA database to confirm whether their specific truck is included.',
+    ],
+    sources: ['MarkLines', 'NHTSA'],
+  },
+  {
+    slug: 'toyota-recalls-over-one-million-rearview-camera',
+    title: 'Toyota Recalls Over 1 Million Cars as Rearview Cameras Fail Across Toyota, Lexus and Subaru Lineups',
+    description:
+      'A rearview camera software fault has triggered a recall of more than one million Toyota, Lexus and Subaru vehicles from model years 2020 to 2026.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 4,
+    excerpt:
+      'Parking assist software will be updated free of charge, with owner letters due by December 16 and Toyota recall numbers 25TB13 and 25LB06.',
+    body: [
+      'Toyota is recalling more than one million vehicles in the United States because a rearview camera fault increases the risk of accidents, especially in tight parking spaces and busy areas. The recall spans model years 2020 to 2026 and covers a broad portion of the Toyota, Lexus and Subaru lineups, including the Camry Hybrid, RAV4, RAV4 Hybrid, RAV4 Prime, Prius, Prius Prime, Sienna Hybrid, Highlander, Grand Highlander, Land Cruiser and Mirai on the Toyota side, plus Lexus ES, GX, LC, LS, LX, NX, RX, RZ and TX models and the Subaru Solterra.',
+      'The fix is a free software update to the parking assist system, performed at an authorized dealership. Toyota owners are told to reference recall numbers 25TB13 and 25LB06, while Subaru owners should reference WRE25. Notification letters are scheduled to be sent to affected owners by December 16, and Toyota owners can call 1-800-331-4331 for more information.',
+      'Rearview camera recalls have become one of the most common safety actions in the industry because the camera is now a primary reversing aid for millions of drivers. When the image fails, the driver loses a view that federal safety standards require, and the risk falls hardest on pedestrians and children behind the vehicle. Owners who are unsure whether their car is included can check by VIN in the NHTSA recall database.',
+    ],
+    sources: ['NHTSA', 'Toyota'],
+  },
+  {
+    slug: 'hyundai-genesis-seat-motor-fire-recall-94622',
+    title: 'Hyundai Recalls 94,622 Genesis Sedans Over Seat Motors That Can Overheat and Catch Fire',
+    description:
+      'Hyundai is recalling 2015-2016 Genesis and 2017-2020 Genesis G80 sedans because a stuck power seat switch can overheat the seat motor and start a fire.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Owners are told to park outside until a repair is ready, with notification letters expected in early December.',
+    body: [
+      'Hyundai has told the National Highway Traffic Safety Administration that it will recall 94,622 vehicles in the United States over a fire risk linked to the front power seats. The affected models are certain 2015-2016 Hyundai Genesis sedans and 2017-2020 Genesis G80 sedans. The front power seat motors may overheat when the power seat control switch sticks, and prolonged motor operation can lead to a fire while the car is parked or driving.',
+      'Until a repair is performed, owners are advised to park their vehicles outdoors and away from other vehicles or structures. A remedy is currently under development, with owner notification letters expected to be mailed in early December. Dealers are not allowed to deliver new vehicles for sale or lease until all open recalls on them have been performed, and they must complete open recalls on used, demo and rental vehicles before placing them into customer use.',
+      'Seat-motor fires are a reminder that even low-voltage cabin components can become ignition sources when a switch fails in the on position. Owners who notice a seat motor running longer than normal, or a seat that keeps moving after the switch is released, should stop using the control and contact a dealer promptly.',
+    ],
+    sources: ['NHTSA', 'Hyundai'],
+  },
+  {
+    slug: 'toyota-rav4-phev-30978-power-loss-recall',
+    title: 'Toyota Recalls 30,978 RAV4 Plug-In Hybrids Over Software Fault That Can Cut Power at Highway Speed',
+    description:
+      'Toyota is recalling 30,978 model year 2026 RAV4 plug-in hybrids because a motor-control software error can remove power while driving at speed.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Dealers will update the motor-control software free of charge to fix a start-up fault in the motor generator control unit.',
+    body: [
+      'Toyota is recalling 30,978 model year 2026 RAV4 plug-in hybrid vehicles in the United States after identifying a software fault that can cut motive power at highway speeds. Federal recall filings describe a defect in which the motor generator electronic control unit may not complete its start-up process in some cases, so the system may not switch into a higher-speed control mode.',
+      'When that happens, the vehicle can lose power at speed, or the plug-in-hybrid system can shut down entirely, depending on how the system responds. Regulators classified the action as a safety recall because a sudden loss of power at highway speed raises the chance of a crash. Dealers will update the motor-control software free of charge, as federal rules require.',
+      'The recall is notable because it affects a brand-new model year vehicle and a powertrain type that Toyota sells in large numbers. For owners, the practical step is simple: schedule the software update when notified, and treat any unexpected power loss or warning lights as a reason to contact a dealer immediately rather than continuing to drive at highway speed.',
+    ],
+    sources: ['NHTSA', 'Toyota'],
+  },
+  {
+    slug: 'ram-1500-recall-239131-rearview-camera',
+    title: 'Stellantis Recalls 239,131 RAM 1500 Pickups Over Rearview Cameras That May Go Dark',
+    description:
+      'Stellantis is recalling 239,131 model year 2025-2026 RAM 1500 trucks because a radio software error can stop the rearview camera image from displaying.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A free radio software update fixes the fault, which Stellantis announced on October 20 from Auburn Hills, Michigan.',
+    body: [
+      'Stellantis announced on October 20 that it is recalling 239,131 model year 2025-2026 RAM 1500 pickup trucks because their rearview cameras may fail to display an image. The cause is a radio software error: when the driver shifts into reverse, the camera image may not appear on the screen, leaving the driver without the rear view that federal standards require.',
+      'Without the camera image, a driver backing up could strike a pedestrian or an object, with a risk of serious injury or property damage. Dealers will update the radio software free of charge to restore the camera display. The recall adds to a busy year for RAM safety actions, after an August recall of 12,600 RAM 1500 pickups for faulty headlights and a June recall of more than 12,700 RAM 2500 heavy-duty pickups for a software error that could cause a loss of control.',
+      'For a truck that is often used for work and family duty, a working rear camera matters more than it might seem: tall tailgates and long beds make the rear blind zone large. Owners should have the software update applied promptly and keep using mirrors and a spotter when reversing until the fix is confirmed.',
+    ],
+    sources: ['NHTSA', 'Stellantis', 'MotorSafety.org'],
+  },
+  {
+    slug: 'jeep-grand-cherokee-suspension-recall-328381',
+    title: 'Stellantis Recalls 328,381 Jeep Grand Cherokees Over Broken Suspension Parts',
+    description:
+      'Stellantis is recalling 328,381 Jeep Grand Cherokee models because a suspension defect can cause a loss of stability, following a federal investigation and two failed earlier recalls.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The October 15 recall covers 2021-2023 Grand Cherokee, Grand Cherokee 4xe and Grand Cherokee L models under NHTSA number 26V562000.',
+    body: [
+      'Stellantis announced on October 15 that it is recalling 328,381 SUVs over a loss of stability caused by broken suspension components. The affected models are the 2022-2023 Jeep Grand Cherokee, the 2022-2023 Jeep Grand Cherokee 4xe plug-in hybrid, and the 2021-2023 Jeep Grand Cherokee L three-row SUV. The defect significantly increases the risk of a serious accident if a suspension part fails while driving.',
+      'The recall follows an ongoing United States government investigation and two earlier recalls for the same issue that did not fully resolve it. The NHTSA recall number is 26V562000. Repeat recalls for the same defect are a sign that the first repair did not hold, and regulators typically watch the completion rate of the follow-up campaign closely.',
+      'Owners of the affected Grand Cherokees should contact a Jeep dealer to arrange the repair and avoid ignoring suspension noises, uneven tire wear or changes in handling, all of which can be early signs of suspension trouble. As with every safety recall, the repair is performed free of charge.',
+    ],
+    sources: ['NHTSA', 'Stellantis', 'MotorSafety.org'],
+  },
+  {
+    slug: 'ram-vans-power-steering-recall-266000',
+    title: 'Stellantis Recalls Nearly 266,000 Ram Vans Over Potential Loss of Power Steering',
+    description:
+      'FCA US is recalling nearly 266,000 Ram vans because water intrusion in the system wiring harness can cause a loss of electric power steering assist.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The Ram van recall was flagged in an October 23 industry briefing, adding to a heavy month of Stellantis safety actions.',
+    body: [
+      'Stellantis subsidiary FCA US is recalling nearly 266,000 Ram vans over a potential loss of electric power steering assist, according to an October 23 industry briefing citing Wards Auto. The cause is water intrusion in the power steering system wiring harness, which can interrupt the assist that makes a heavy van manageable at low speed and in parking maneuvers.',
+      'A sudden loss of power steering assist does not remove steering entirely, but it sharply increases the effort needed to turn the wheel, which can surprise a driver mid-turn and raise crash risk, especially in a loaded commercial van. The recall lands in the same month as large Stellantis recalls for RAM 1500 rearview cameras and Jeep Grand Cherokee suspension parts, making October a heavy safety month for the automaker.',
+      'Van owners and fleet operators should confirm whether their vehicles are included by VIN and schedule the harness repair when notified. Fleet managers in particular should treat this as a priority fix, since vans in daily commercial service accumulate exposure quickly.',
+    ],
+    sources: ['Wards Auto', 'FCA US'],
+  },
+  {
+    slug: 'porsche-do-not-drive-centerlock-recall',
+    title: 'Porsche Issues Do-Not-Drive Recall for 718 and 911 Models Over Centerlock Wheels',
+    description:
+      'Porsche has issued a recall with a do-not-drive warning for multiple 718 and 911 models fitted with centerlock wheels that could come off on the road.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Centerlock wheels can depart the vehicle while driving, so Porsche is telling affected owners not to drive their cars until repaired.',
+    body: [
+      'Porsche has issued another recall carrying a do-not-drive warning for multiple 718 and 911 models equipped with centerlock wheels, according to an October 23 industry briefing citing Autoblog. Centerlock wheels, which use a single central locking nut instead of five lug bolts, can depart from the vehicle while driving if the locking mechanism fails, creating an immediate danger to the driver and to other road users.',
+      'A do-not-drive warning is the strongest instruction an automaker can give in a recall, and owners should take it literally: the car should stay parked until a dealer inspects and repairs the wheel assembly. Centerlock hardware is common on track-oriented Porsche models, where fast wheel changes matter, but it demands precise torque and locking procedures that leave little margin for wear or error.',
+      'Affected owners should contact a Porsche dealer or Porsche roadside assistance for transport rather than driving to the dealership themselves. The recall is a reminder that performance hardware brings maintenance demands that go beyond a normal road car, and that skipping a centerlock inspection interval is not a minor oversight.',
+    ],
+    sources: ['Autoblog', 'Porsche'],
+  },
+  {
+    slug: 'tesla-erases-ev-inventory-glut-stock-dips',
+    title: 'Tesla Erases Its 50,000-Car EV Glut as Q3 Demand Outruns Production — Shares Dip Anyway',
+    description:
+      'Tesla sold more cars than it built for a second straight quarter, wiping out a 50,326-vehicle inventory glut, yet shares fell more than 3 percent after the earnings call.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Musk told investors demand is exceeding production by a significant margin, with full self-driving now the biggest driver of orders.',
+    body: [
+      'Tesla stock dropped 3.08 percent in trading on Thursday, October 22, closing above 374 dollars per share on NASDAQ, one day after chief executive Elon Musk addressed investors on the third-quarter earnings call. The dip came despite Musk touting a milestone: Tesla sold more electric vehicles than it produced for the second straight quarter, eliminating the 50,326-vehicle glut the company reported at the start of the year, when it produced 408,386 cars in the first quarter and sold 358,023.',
+      'Musk framed the third quarter as very strong and credited the whole Tesla team, saying demand is growing rapidly and exceeding production by a significant margin. He also pointed to the rollout of the two-seat Cybercab and the expansion of Robotaxi services. For the first nine months of 2026, Tesla reported sales of 1,324,681 electric cars against production of 1,324,535 in the same period, essentially selling everything it built.',
+      'Musk singled out full self-driving as the biggest driver of demand, saying there is really no competitor for FSD in any car a buyer can purchase today, and that the company is producing and delivering as many cars as it can while pushing for FSD approval in additional markets. The market reaction shows the tension in the stock: operational momentum on deliveries is real, but investors are still weighing it against valuation, competition and the long timeline for autonomy revenue.',
+    ],
+    sources: ['USA Today', 'Tesla'],
+  },
+  {
+    slug: 'waymo-toronto-2028-first-canada-robotaxi',
+    title: 'Waymo Plans Toronto Robotaxi Service for 2028, Its First in Canada',
+    description:
+      'Waymo will bring its autonomous ride-hailing service to Toronto in 2028, starting with manual mapping and working toward driverless public rides.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Toronto is the northernmost and possibly wintriest city Waymo has attempted, and it will partner with Element Fleet Management on local operations.',
+    body: [
+      'Alphabet self-driving unit Waymo said on October 16 that it plans to bring its autonomous ride-hailing service to Toronto in 2028, marking the company first planned deployment in Canada and its latest move beyond the United States. Waymo said it will partner with Toronto-based Element Fleet Management for fleet operations, and that it will create hundreds of jobs over time in fleet maintenance, validation driving, customer service and operations.',
+      'Waymo follows the same playbook in every new city: vehicles are first driven manually to create high-definition maps of local streets, then autonomous vehicles are tested on public roads with a human safety operator on board, and only after that phase are members of the public invited to take driverless rides. The company received approval to participate in Ontario automated vehicle pilot program, which makes the Toronto work possible.',
+      'Toronto is a meaningful test for the technology because it is the northernmost and possibly most wintry city Waymo has attempted, with snow, ice and freeze-thaw road conditions that stress sensors and driving software. The move fits an aggressive expansion push: two years ago Waymo operated in only three commercial markets, but today it runs robotaxi services in 15 United States cities and is testing in London and Tokyo, with Singapore and Spain also announced.',
+    ],
+    sources: ['Reuters', 'TechCrunch', 'Waymo'],
+  },
+  {
+    slug: 'great-american-electric-air-race-ohio-flying-cars',
+    title: 'Flying Cars Race for Real: Eight Pilots, Three BlackFly eVTOLs and a Bullseye Finish in Ohio',
+    description:
+      'The Great American Electric Air Race put electric flying cars through real competition on October 17 in Springfield, Ohio, with precision landings and high-speed challenges.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Brandon Goff won the precision landing contest by stopping 18 inches from dead center, and Heather Chirtea flew as the first female flying car pilot.',
+    body: [
+      'Flying cars stopped being a futuristic dream on October 17, when eight pioneering pilots took to the air at Springfield-Beckley Municipal Airport in Ohio for the Great American Electric Air Race. Three BlackFly vertical takeoff and landing aircraft rotated continuously between racing, recharging and demonstration flights, and spectators rarely went five minutes without a flying car overhead during a full day of electric flying car races, precision landings, high-speed challenges and aerial exhibitions.',
+      'The competition opened with the Bullseye Bash, a precision landing challenge in which all eight pilots maneuvered toward a giant bullseye and tried to land as close as possible to its center. Brandon Goff took the victory with a landing just 18 inches from dead center, a result that shows flying car precision is every bit as demanding as flying car speed. Heather Chirtea, the first female flying car pilot and an aircraft owner, was among the pilots and framed the day as proof that the future of flight is happening overhead right now.',
+      'Test flights began at sunrise and the competition was already underway when crowds arrived. Events like this matter because they move electric vertical flight out of promotional videos and into public, repeatable operations: recharging between heats, flying in front of families and children, and being judged on measurable skill. The remaining hurdles are certification, airspace rules and cost, but the Ohio race showed the aircraft themselves can already perform.',
+    ],
+    sources: ['EIN Presswire'],
+  },
+  {
+    slug: 'archer-texas-triangle-air-taxi-midnight',
+    title: 'Archer Plans Electric Air Taxi Service Across the Texas Triangle',
+    description:
+      'Archer Aviation plans eVTOL air taxi service across Dallas-Fort Worth, Houston and Austin using its four-passenger Midnight aircraft.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Flights would last 10 to 20 minutes, but Midnight still awaits FAA type certification and Archer gave no start date.',
+    body: [
+      'Archer Aviation plans to launch electric air taxi services across the Dallas-Fort Worth, Houston and Austin metropolitan areas, according to an October 23 report from Aviation International News summarized by the American Institute of Aeronautics and Astronautics. The proposed network would use Archer four-passenger Midnight eVTOL aircraft for flights lasting 10 to 20 minutes, linking the three big Texas metros with hops that would take far longer by road.',
+      'The honest caveat is certification: the Midnight aircraft has yet to receive FAA type certification, and the announcement did not say when Texas air taxi services will start. That gap between announcement and operation is normal for the eVTOL industry, where aircraft, vertiports, pilot training and air traffic rules all have to mature together before paying passengers can board.',
+      'The Texas Triangle is a logical early market because the three metros are large, congested and economically linked, and short intercity hops are exactly where electric air taxis promise the biggest time savings. Archer is also planning New York airport service with United Airlines and has pointed to a Los Angeles debut around the 2028 Olympics, so the Texas plan adds a third front to its launch strategy.',
+    ],
+    sources: ['Aviation International News', 'AIAA'],
+  },
+  {
+    slug: 'pivotal-helix-flying-car-for-sale-190000',
+    title: 'You Can Buy a Flying Car Today: Pivotal Helix Opens Reservations at About $190,000',
+    description:
+      'Pivotal Helix, a single-seat electric vertical takeoff aircraft, is now open for reservations, and buyers need no pilot license to fly it.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Helix falls under the FAA Part 103 ultralight category, and delivery could come less than a year after reservation.',
+    body: [
+      'A future with flying cars now lives in Palo Alto, California, where Pivotal has opened reservations for its Helix aircraft at a price of about 190,000 dollars, with delivery possible less than a year away. The company behind the aircraft has quietly spent more than a decade turning a radical idea into a real product, and Helix is the result: a single-seat, electric vertical takeoff and landing aircraft that a buyer can actually reserve today.',
+      'Pivotal traces back to 2009, when founder Marcus Leng began developing an electric aircraft that could take off vertically without gasoline. Leng became the first person to fly the real thing in 2011 under the BlackFly name, the company moved to the Bay Area in 2014 and revealed BlackFly publicly in 2018. Leadership shifted in 2022 when Ken Karklin took over as chief executive, and under his watch the company moved from experimental flights to customer reservations and structured training.',
+      'The regulatory detail that makes Helix shoppable is its classification: as a fixed-wing eVTOL it falls under the FAA Part 103 ultralight category, the same class as a hang glider, which means a buyer does not need a pilot license to fly it. That distinction, plus a price near 200,000 dollars and a delivery window under a year, makes Helix the closest thing yet to a flying car a private buyer can actually own, even if it is a single-seat recreational aircraft rather than a family car with wings.',
+    ],
+    sources: ['CyberGuy Report'],
+  },
+  {
+    slug: 'gm-next-generation-ev-platform-lmr-batteries',
+    title: 'GM Reveals Next-Generation EV Platform Built Around Cheaper, Denser LMR Batteries',
+    description:
+      'General Motors unveiled a fourth-generation EV platform using lithium manganese rich batteries that promise 20 percent more range per kilowatt-hour.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'LMR packs offer about 33 percent more energy density than LFP batteries, and GM pairs them with drive units using 40 percent fewer components.',
+    body: [
+      'General Motors has unveiled its next-generation electric vehicle platform, a fourth-generation architecture that aims to change future GM electric vehicles along with their batteries, motors, electronics and manufacturing processes. The platform is designed for high-volume segments, and GM says it will bring lower production costs, longer range and ultimately lower price tags for consumers, a direct answer to the affordability problem that has slowed EV adoption since the federal tax credit ended.',
+      'The core of the platform is lithium manganese rich battery chemistry, an area GM has invested in heavily. LMR batteries offer up to 33 percent more energy density than lithium iron phosphate batteries, and they are lighter, smaller and cheaper to manufacture at roughly the same cost. Combined with revamped electric drive units, better aerodynamics and reduced weight, GM believes the package will deliver 20 percent more driving range per kilowatt-hour of battery capacity.',
+      'The new drive units and electronics also help shed weight and size, using 40 percent fewer components than current hardware. Fewer parts means simpler assembly, fewer failure points and lower cost, all of which feed the same goal: electric vehicles that compete with gasoline cars on price without depending on subsidies. Road-going LMR vehicles are not ready yet, so the platform is a forward-looking bet, but it shows where GM thinks the next EV cost breakthrough comes from.',
+    ],
+    sources: ['Ford Authority', 'General Motors'],
+  },
+  {
+    slug: 'sedans-comeback-2026-accord-camry-sales',
+    title: 'Sedans Are Making a Comeback as Car Prices and Gas Costs Bite',
+    description:
+      'Sedan sales are rising again in 2026 as buyers look for relief from near-record new-vehicle prices and gasoline above 4 dollars a gallon.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'Honda Accord sales rose 32.7 percent in the first nine months of 2026, and compact cars cost about 9,637 dollars less than compact SUVs.',
+    body: [
+      'Sedans are making a comeback in the United States as buyers look for relief from expensive vehicles and gasoline. Honda Accord sales rose 32.7 percent during the first nine months of 2026 compared with the same period in 2025, according to Honda, and Toyota Camry sales rose 11.2 percent over the same period. The trend arrives as the average new-vehicle transaction price hit 50,562 dollars in September 2026, just under the all-time record of 50,614 dollars set in December 2025, according to Kelley Blue Book data via Cox Automotive.',
+      'Fuel costs are doing much of the work. Regular gasoline averaged roughly 4.16 dollars per gallon from April through September 2026, compared with 3.15 dollars over the same period in 2025, based on United States Energy Information Administration monthly figures. Sedans cost less upfront and generally use less gas than the SUVs that dominate sales: the average transaction price for compact cars, including sedans and hatchbacks, was 27,977 dollars in September 2026 against 37,614 dollars for compact SUVs, a gap of 9,637 dollars.',
+      'Efficiency seals the case. According to an Environmental Protection Agency vehicle trends report, model-year 2024 sedans and wagons averaged 31.7 miles per gallon, compared with 30.2 mpg for car-based SUVs and 24.7 mpg for truck-based SUVs. For a buyer facing a 50,000-dollar average new car and 4-dollar gas, the sedan math is simple: a cheaper car that sips less fuel, from nameplates that never really went away.',
+    ],
+    sources: ['Honda', 'Kelley Blue Book', 'Cox Automotive', 'EPA'],
+  },
+  {
+    slug: 'gas-only-cars-below-50-percent-global-sales',
+    title: 'Gas-Only Cars Fall Below Half of Global Sales for the First Time Ever',
+    description:
+      'Gasoline-only models took just 49 percent of global new-vehicle sales in the first half of 2026, down from 73 percent in 2021.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'High fuel prices from the Strait of Hormuz crisis pushed buyers toward hybrids and EVs, with European battery-electric sales up 52.2 percent in August.',
+    body: [
+      'Car buyers around the world took home 20.25 million new vehicles that run on gasoline alone between January and June 2026, according to data from research firm Mobility Global reported by Nikkei. That was 49 percent of global new-vehicle sales, down from 52 percent a year earlier and 73 percent in 2021, and the first half-year on record in which gasoline-only models held less than half the market since cars spread widely in the 1920s.',
+      'The trigger was fuel prices. High oil prices from the conflict in the Middle East pushed gasoline and diesel to records in many markets, and buyers answered by choosing hybrids and electrics. Battery-electric sales in Europe, including the United Kingdom, Switzerland and Norway, rose 52.2 percent year over year in August, according to the European Automobile Manufacturers Association. In Germany, the largest car market in Europe, battery-electric sales surged 75 percent in August as gasoline reached an all-time high of 2.31 euros per liter, roughly 10 dollars per gallon, and electric sales in France more than doubled.',
+      'The United States is the exception that proves the rule. Regular gasoline averaged 4.354 dollars per gallon in the week of October 5, up 1.23 dollars from a year earlier, according to the United States Energy Information Administration, but American buyers no longer get a federal tax credit for an electric car and Washington has repealed the rules that pushed automakers to sell more of them. The result is a split world: outside the United States, expensive fuel is accelerating electrification, while American buyers are mostly paying at the pump.',
+    ],
+    sources: ['Mobility Global', 'Nikkei', 'ACEA', 'EIA'],
+  },
+  {
+    slug: 'aaa-2026-driving-costs-hybrids-cheapest',
+    title: 'AAA 2026 Driving Costs: Hybrids Are the Cheapest Cars to Own, Beating EVs and Gas Models',
+    description:
+      'AAA annual Your Driving Costs study finds hybrids cheapest in every class where electric, hybrid and gas models were compared side by side.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'A hybrid medium sedan costs 10,204 dollars a year against 10,582 for gas and 13,662 for electric, with depreciation sinking the EV case.',
+    body: [
+      'Hybrids were the cheapest vehicles to own in all four classes where AAA lined up electric, hybrid and gas-only models side by side in its 2026 Your Driving Costs study, released on September 15. A hybrid medium sedan runs 10,204 dollars a year, against 10,582 dollars for the gas version and 13,662 dollars for the electric one, and the same order held for compact SUVs, medium SUVs and pickups. Electric vehicles came close to gas models in two of those classes and beat them in one.',
+      'Where electric vehicles lost, the line that sank them was depreciation: what AAA expects the car to be worth in five years. Electric models have been losing value faster than hybrids and gas cars as prices, incentives and battery worries shift, and that expected resale hit outweighs their lower fuel and maintenance costs in the AAA math. Greg Brannon, director of automotive engineering at AAA, said comparing electric, hybrid and gas models within the same categories lets consumers better understand how total ownership costs vary by powertrain.',
+      'The overall figure in the study is striking on its own: owning and running an average new vehicle costs 12,863 dollars a year, or 1,071.92 dollars a month, over five years and 75,000 miles. AAA put the prior year figure at 11,577 dollars but said its methodology changed, so the two numbers are not directly comparable. The study covers 34 top-selling models in seven categories, and this year AAA folded select electric vehicles and hybrids into them for the first time.',
+    ],
+    sources: ['AAA'],
+  },
+  {
+    slug: 'used-evs-record-share-september-2026',
+    title: 'Used EVs Hit a Record Share of Used-Car Sales in September as Buyers Hunt Value',
+    description:
+      'A record 47,862 used electric vehicles changed hands in September 2026, up 21.2 percent from a year earlier, as off-lease supply and lower prices pull buyers in.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'The average used EV listed at 36,767 dollars in September, just 2,137 dollars more than the average gas car, as the price gap keeps narrowing.',
+    body: [
+      'Electric vehicles may be having a rough year in the new-car market, but demand for used models is soaring. Used electric vehicles accounted for a record share of all used-vehicle sales in the United States in September, as lower prices relative to brand-new cars and a growing pool of pre-owned models returning to dealer lots helped drive demand. A record 47,862 used electric vehicles changed hands last month, up 12.3 percent from August and 21.2 percent from a year earlier, according to the Cox Automotive EV Market Monitor.',
+      'The affordability equation is improving, if gradually. The average listed price of a used electric vehicle fell 1.8 percent from August to 36,767 dollars in September, still 6.2 percent, or 2,137 dollars, more than the average gas car, but the gap narrowed from 2,692 dollars a month earlier. The most popular used electric models include the Tesla Model Y, the Chevrolet Equinox EV and the Nissan Ariya, larger and more practical crossovers that American buyers gravitate toward more than smaller cars.',
+      'The contrast with the new market is stark. The average new electric car carried a transaction price of 55,842 dollars in September, according to Cox, and more affordable new models like the Chevrolet Bolt and Nissan Leaf have seen lackluster sales, with 3,866 Bolts and just 634 Leafs sold in the third quarter. The influx of off-lease and trade-in electric vehicles is now making electric ownership possible for a broader group of buyers at prices far below the new-car average, which is why the used market is booming while new sales struggle.',
+    ],
+    sources: ['Cox Automotive', 'InsideEVs'],
+  },
+  {
+    slug: 'ev-prices-rise-september-discounts-shrink',
+    title: 'New EV Prices Rose in September as Discounts Shrank to Their Thinnest Level of the Year',
+    description:
+      'Kelley Blue Book says the average new EV sold for about 55,900 dollars in September, with incentives averaging just 11 percent of the transaction price.',
+    date: 'October 24, 2026',
+    dateISO: '2026-10-24',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Prices are still about 3 percent below a year ago thanks to cheaper models, but the deal a buyer sees this month is worse than August deal.',
+    body: [
+      'New electric vehicle prices ticked up in September and discounts got thinner, according to Kelley Blue Book. The average new electric vehicle in the United States sold for about 55,900 dollars, up slightly from August, as automakers pulled back incentives to their thinnest level this year. Discounts averaged 11 percent of the transaction price, the lowest this year and well down from a year earlier.',
+      'The year-ago comparison needs context: that month was the last before the 7,500-dollar federal tax credit expired, so incentives then were unusually rich and this year pullback looks sharper for it. Zoomed out, the picture looks better, because the September average is about 3 percent below a year ago, which Kelley Blue Book credits to a stronger mix of cheaper models entering the market.',
+      'Tesla average price climbed from August to about 54,300 dollars, only slightly above a year ago, with the Model 3 and Model Y making up nearly all of its sales. Across all new vehicles, average prices climbed for a fourth straight month. Some deals are still big: Polestar is offering up to 25,000 dollars off its 4 SUV through early November, but that is one brand push, not a market-wide trend, so buyers should check the model they actually want. October data will show whether the discount pullback continues through year end.',
+    ],
+    sources: ['Kelley Blue Book', 'Cox Automotive'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
