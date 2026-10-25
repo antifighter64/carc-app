@@ -2487,6 +2487,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['Kelley Blue Book', 'Cox Automotive'],
   },
+  {
+    slug: 'audi-georgia-plant-4-billion-200000-suvs',
+    title: 'Audi to Build $4 Billion Georgia Plant Producing 200,000 SUVs a Year',
+    description:
+      'Audi will build its first US assembly plant near Macon, Georgia — a $4 billion investment creating about 4,500 jobs and producing the Q7, Q8 and Q9 from the early 2030s.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Announced at a rally in Perry, Georgia, the plant is Audi\'s biggest bet yet on American manufacturing — and a direct answer to tariffs that cost it 1.2 billion euros last year.',
+    body: [
+      'President Donald Trump announced on October 24 that Audi plans to build a $4 billion assembly plant in Georgia that will produce 200,000 SUVs annually, Reuters reported from a rally in Perry, near Macon in central Georgia. Audi CEO Gernot Doellner appeared at the event and confirmed the plan: "We are planning to bring our biggest and most premium SUVs, and produce them here in Macon, Georgia. This is a long-term investment because we believe in the American market." The plant will be Volkswagen\'s premium subsidiary\'s first US assembly plant.',
+      'The numbers behind the announcement are substantial. Audi said the investment will create approximately 4,500 jobs, with construction scheduled to begin next year and production starting in the early 2030s. A US official told Reuters the plant is expected to assemble the Audi Q7, Q8 and Q9 SUVs. Separately, Audi is expected to announce plans to build 25,000 vehicles in South Carolina at Volkswagen\'s Scout Motors plant under construction in Blythewood, with some of the Georgia-built vehicles also earmarked for export.',
+      'The context is tariffs. Trump has pressured automakers to move production to the United States and raised tariffs on autos, steel, aluminum and parts; last year those tariffs dealt Audi a 1.2-billion-euro ($1.4 billion) blow, since it imports all of its US-market vehicles from Europe or Mexico. Audi\'s US sales are down 16% this year after falling for two consecutive years, and its sales slid 7% in the first half of 2026 as competition in China and US tariffs hit demand. Critics of the tariff strategy argue it has boosted vehicle prices and delayed some automaker investments — a tension the Georgia announcement does not resolve, since the first Georgia-built Audis are still years away.',
+    ],
+    sources: ['Reuters'],
+  },
+  {
+    slug: 'fawcar-italy-five-suvs-bestune-joyee',
+    title: 'China\'s FAW Enters Italy With Five SUVs From 26,998 Euros',
+    description:
+      'FAW launched five SUVs in Milan on October 20 — three BESTUNE combustion models and two JOYEE electrified models — priced from 26,998 to 38,998 euros.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'FAW\'s Italian lineup covers every powertrain at once: gasoline, battery-electric and plug-in hybrid, priced to undercut much of the European mainstream.',
+    body: [
+      'Chinese state-owned automaker FAW officially entered the Italian market on October 20 with a launch event in Milan, introducing five SUVs at once with prices ranging from 26,998 to 38,998 euros, Media OutReach Newswire reported. FAW Chairman Liu Zhongchen and FAW International chairman Yang Xiaofeng attended alongside local partners, media and vehicle owners.',
+      'The lineup is split into two product lines. The BESTUNE combustion range covers the compact T77 for urban commuting and family use, the larger T90 for long-distance family trips, and the sporty B70S aimed at younger buyers who value handling and design. The JOYEE new-energy range adds the S04 battery-electric SUV for city driving — with access to restricted urban zones and low running costs — and the S08 plug-in hybrid, pitched as a long-range, all-scenario family SUV that can handle mountain terrain.',
+      'FAW called Italy one of Europe\'s most promising core automotive markets and said it is building a professional local sales and service network to support the launch. The move is part of a broader wave of Chinese brands entering Europe with aggressively priced lineups, and Italy — with its mix of dense cities, long intercity routes and mountain roads — is a deliberate test of whether one five-model range can cover all of it.',
+    ],
+    sources: ['Media OutReach Newswire'],
+  },
+  {
+    slug: 'volvo-cuts-2500-jobs-q3-loss-373-million',
+    title: 'Volvo Cars Cuts 2,500 More Jobs After a $373 Million Third-Quarter Loss',
+    description:
+      'Volvo Cars will cut 2,500 more jobs, mostly in Sweden, after swinging to a 3.7 billion kronor operating loss in Q3 — far worse than analysts expected.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Shares fell almost 30% as Volvo\'s loss came in five times worse than consensus — the latest blow in a year that has already seen its guidance scrapped.',
+    body: [
+      'Volvo Cars said on October 23 it will cut a further 2,500 jobs, mostly in Sweden, after plunging to a much bigger-than-expected third-quarter operating loss, Reuters reported. The automaker posted an operating loss of 3.7 billion Swedish kronor ($373 million) for the quarter, compared with a 5.8 billion kronor profit a year earlier — and far worse than the 724 million kronor loss analysts had expected. Shares fell almost 30% on the news.',
+      'The cuts affect about 6% of Volvo\'s workforce, including around 2,000 jobs in Sweden, achieved by ending consultant contracts, natural attrition and targeted exit packages. They come on top of 3,000 job reductions announced earlier, and Volvo added a further 5 billion kronor of indirect spending and variable cost cuts to its previously announced 23 billion kronor program, with savings expected by the end of next year. CEO Hakan Samuelsson told Reuters the latest cuts should be completed by mid-2027, though he did not rule out further measures if the turnaround falls short.',
+      'Volvo blamed a brutal combination: uneven demand for electric vehicles, mounting tariff pressures in the US, the removal of US consumer EV incentives, and deteriorating market conditions in China, where it now says it will prioritize margins over market share rather than engage in aggressive price competition with domestic rivals. Revenue fell to 66.9 billion kronor from 86.4 billion a year earlier, and gross margin dropped to 14.7% from 20.4%. Earlier in October the company scrapped its full-year guidance for sales volume and cash flow. "The third quarter of 2026 was very disappointing and reflects a year that has become far more challenging than originally anticipated," Samuelsson said.',
+    ],
+    sources: ['Reuters', 'WardsAuto'],
+  },
+  {
+    slug: 'honda-mitsubishi-triton-pickup-asean-2028',
+    title: 'Honda\'s First Ladder-Frame Pickup Will Be a Rebadged Mitsubishi Triton, Due in ASEAN in 2028',
+    description:
+      'Honda and Mitsubishi signed an MOU on October 22 for a Honda-badged pickup based on the Triton — Honda\'s first complementary-supply deal with Mitsubishi.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Honda sells no pickup in Southeast Asia today. Borrowing Mitsubishi\'s one-ton ladder-frame truck gets it into the region\'s hottest segment without building a platform.',
+    body: [
+      'Honda and Mitsubishi Motors signed a memorandum of understanding on October 22 for the development of a Honda model based on the Mitsubishi Triton pickup truck, the companies announced from Tokyo. The new Honda model is scheduled to go on sale in the ASEAN market in 2028. It is the first initiative between the two companies for complementary supply to each other\'s product lineups — one company filling a hole in the other\'s range with an existing vehicle.',
+      'The logic is straightforward on both sides. Honda currently offers no pickup in ASEAN markets, where one-ton trucks are among the most popular body styles and the segment is led by the Toyota Hilux, Ford Ranger, Isuzu D-Max and the Triton itself. Developing a ladder-frame platform from scratch would cost years and billions; borrowing the Triton gets Honda into the fight quickly. For Mitsubishi, the deal means more volume and better capacity utilization at its Thailand plant, where the Triton is built. Mitsubishi sold 82,766 Triton-line units globally in 2025, down from 113,565 in 2022, so the plant has room.',
+      'The deal grows out of the strategic partnership framework the two companies signed with Nissan on August 1, 2024. Honda\'s North American Ridgeline, by contrast, rides on a unibody SUV platform, so the Triton-based truck will be Honda\'s first true body-on-frame pickup of the modern era — even if it wears a Honda badge over Mitsubishi bones. No name, specifications, pricing or country-by-country availability have been announced, and Honda has not said whether the truck will reach markets beyond ASEAN. The current-generation Triton debuted globally in 2023 with a 2.4-litre turbodiesel producing up to 204 PS and 470 Nm, and reports suggest the Honda version will likely adopt Honda styling over the shared platform, much as Nissan\'s Triton-based Navara does.',
+    ],
+    sources: ['Honda', 'Carlist', 'Motor Illustrated'],
+  },
+  {
+    slug: 'alef-flying-car-1000th-flight-beats-tesla',
+    title: 'Alef Marks 1,000th Flying-Car Flight and Needles Tesla: "We\'ve Been Here Alone for 11 Years"',
+    description:
+      'Alef Aeronautics released video of its flying car prototype soaring over a Tesla Roadster and Cybertruck to mark its 1,000th logged flight.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Timed days after Tesla\'s thruster-assisted Roadster hop, Alef\'s message was blunt: a real flying car has been flying for a decade while Tesla is still hopping.',
+    body: [
+      'Bay Area flying-car startup Alef Aeronautics picked a pointed way to mark a milestone on October 15, releasing video showing its prototype lifting off and flying over a row of parked vehicles — including a Tesla Roadster and a Tesla Cybertruck — according to reports from Electrek and Gizmodo. The company said the clip captured its 1,000th logged flight, and CEO Jim Dukhovny used the occasion to needle the world\'s most famous electric car maker directly: "Welcome, Tesla, to the flying car race. We\'ve been here alone for 11 years."',
+      'The timing was not an accident. Tesla has spent much of 2026 promoting its next-generation Roadster as a vehicle that can briefly leave the ground using cold-gas thrusters developed with SpaceX, a claim that has generated its own wave of coverage and skepticism since the October 15 unveiling in Texas. Alef\'s response, in effect, is to remind the market that an actual eVTOL company has been flying crewed and uncrewed prototypes for over a decade while Tesla is still demonstrating a car that hops.',
+      'The clip travelled far beyond the usual aerospace press, picked up by outlets from Al Jazeera to Australia\'s news.com.au. That is the point of the exercise: in a crowded eVTOL field where Archer, Joby and Beta are all chasing FAA certification and commercial launch, Alef is claiming the one credential nobody else can — a decade of actual flights. Whether that history converts into a certified, sellable vehicle is still an open question, but as a piece of industry theater, the 1,000th flight did its job.',
+    ],
+    sources: ['Electrek', 'Gizmodo'],
+  },
+  {
+    slug: 'waymo-madrid-2027-first-spain-robotaxi',
+    title: 'Waymo to Launch Driverless Rides in Madrid in 2027, Its First Service in Spain',
+    description:
+      'Waymo will bring fully autonomous ride-hailing to Madrid in 2027, starting with Jaguar I-PACE vehicles driven by trained specialists before driverless operation begins.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Madrid is the next stop on Waymo\'s international map after London, Tokyo and Toronto — and the company now claims 500,000 paid rides a week.',
+    body: [
+      'Waymo, Alphabet\'s autonomous driving unit, plans to launch a fully autonomous ride-hailing service in Spain\'s Madrid region in 2027, its first deployment in the country, the company said on October 20. Electric Jaguar I-PACE vehicles will begin appearing on Madrid streets in the coming days, with trained specialists behind the wheel before autonomous operations begin, operating under Spanish traffic agency DGT\'s autonomous vehicle testing framework.',
+      'Madrid slots into an accelerating international rollout. Waymo said it also aims to launch in London this year, Tokyo in 2027 with partners Nihon Kotsu and Go pending regulatory approval, and Toronto in 2028 with Element Fleet Management. Its fleet already operates in more than 15 US cities, completes more than 500,000 paid rides per week, and has surpassed 20 million cumulative paid rides. The company also cites safety data compiled over more than 400 million km (249 million miles) of autonomous driving showing 95% fewer crashes involving serious injury or worse compared with human drivers.',
+      'Madrid is not an empty field. Spain\'s DGT issued its first national permits for autonomous vehicle testing to WeRide and Uber last month, with commercial services expected to launch in Madrid by the end of this year — meaning Waymo will arrive in a market where rivals may already be carrying passengers. Separately, reports this month said Waymo plans to quintuple its fleet from 4,000 cars today to 8,000 by the end of this year and 20,000 by the end of next year, funded by a $5 billion loan raised earlier in October from lenders including PIMCO, Blackstone and Sixth Street.',
+    ],
+    sources: ['Reuters', 'Semafor'],
+  },
+  {
+    slug: 'tesla-capex-cut-20-billion-shares-slip',
+    title: 'Tesla Cuts 2026 Spending Forecast to About $20 Billion and Shares Slip',
+    description:
+      'Tesla lowered its 2026 capital spending forecast from more than $25 billion to about $20 billion, raising questions about the pace of its AI and robotics push.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'The cut produced a surprise positive free cash flow — but for a stock priced on Cybercab and Optimus, investors read smaller spending as slower growth.',
+    body: [
+      'Tesla shares fell on October 22 after the EV maker cut its capital spending forecast, raising concerns among investors counting on heavy investment for Elon Musk\'s AI and robotics vision, Reuters reported. The company on October 21 lowered its 2026 capital spending forecast to about $20 billion from more than $25 billion, after spending far less than expected on AI and robotics in the third quarter — a shortfall that produced a surprise positive free cash flow.',
+      'The tension is the classic one for Tesla. Investors welcome a larger budget if they can see returns, but a smaller one hints at slowing growth, said Josh Gilbert, lead analyst at eToro. "For a stock priced on Cybercab and Optimus, that (capex forecast cut) explains why the shares went nowhere on a result that beat on most measures." Tesla did not break down which areas would see spending cuts, with leadership attributing the adjustment to managing capital deployment efficiently. The strong cash position may prove valuable as Musk explores combining Tesla with the far more capital-intensive SpaceX, where special committees at both companies are now studying a potential merger.',
+      'The market context is unforgiving. Tesla shares have declined about 14% this year, against a roughly 15% gain for the Nasdaq, and sit about 23% below the record intraday high of $498.83 reached in December. Yet the valuation remains far above peers: Tesla traded at 188.24 times forward earnings estimates, compared with 6.58 for Ford and 5.16 for General Motors. One caution from analysts: Tesla may now enter a period of limbo while investors await news on a potential SpaceX combination, which could face significant regulatory hurdles.',
+    ],
+    sources: ['Reuters'],
+  },
+  {
+    slug: 'tesla-proxy-re-elect-musk-denholm-straubel-december',
+    title: 'Tesla Asks Shareholders to Re-Elect Musk, Denholm and Straubel at December 3 Meeting',
+    description:
+      'Tesla\'s proxy statement asks shareholders to re-elect Elon Musk, chair Robyn Denholm and director JB Straubel to three-year terms at the December 3 annual meeting.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The filing also lays bare the $1 trillion pay package: none of its 12 tranches has been earned, and the unearned shares vote in proportion to all other shares.',
+    body: [
+      'Tesla filed its proxy statement with the US Securities and Exchange Commission on October 19 asking shareholders to re-elect CEO Elon Musk, chair Robyn Denholm and director JB Straubel to three-year terms at its December 3 annual meeting, Reuters reported. The filing comes nearly a year after the board granted Musk a performance award billed as a $1 trillion pay package.',
+      'The proxy puts hard numbers on that award. Musk\'s 2025 CEO Performance Award of about 423.7 million restricted shares is reported at a $158.4 billion total in the summary compensation table — but none of the award\'s 12 tranches has been earned. Each tranche requires a market-capitalization milestone from $2 trillion to $8.5 trillion plus operational targets, and the unearned shares vote in proportion to all other shares. Musk exercised all 303.96 million options from his 2018 award on June 16, leaving 286.4 million restricted shares that vest in January 2028 if he stays in a leadership role.',
+      'Two governance details stand out. Tesla revealed it spent months working directly with the SEC to pioneer a voluntary retail investor voting framework, ultimately obtaining a formal SEC no-action letter. And the company\'s pledging policy caps borrowing secured by Musk\'s pledged shares at the lesser of $3.5 billion or 25% of the shares\' value. Musk owns nearly 20% of Tesla, including 207.5 million pledged shares, while Vanguard holds 5.3%. The December vote will be the first formal shareholder verdict on this board lineup since the pay package was granted.',
+    ],
+    sources: ['Reuters'],
+  },
+  {
+    slug: 'volvo-ex30-head-restraint-recall-9872',
+    title: 'Volvo Recalls 9,872 EX30 EVs Over Head Restraints That Could Detach in a Crash',
+    description:
+      'Volvo is recalling the 2025-2026 EX30 and 2026 EX30 Cross Country because a head restraint cushion may detach in a severe crash, raising injury risk.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Insufficient fastening is the culprit: 8,770 EX30s and 1,102 EX30 Cross Country models are affected, with owner letters starting November 30.',
+    body: [
+      'Volvo is recalling nearly 10,000 electric vehicles because a head restraint cushion may detach in a severe crash, increasing the risk of injury, according to a recall report published on the National Highway Traffic Safety Administration website on October 9 and covered by USA Today on October 20. The recall affects 9,872 vehicles: 8,770 EX30 models and 1,102 EX30 Cross Country models.',
+      'The affected models are the 2025-2026 Volvo EX30 and the 2026 Volvo EX30 Cross Country. The defect involves insufficient fastening of the head restraint cushion, which Volvo said could detach under certain circumstances, including a high-speed crash involving impacts from multiple directions. Volvo has not received any reports of injuries or fatalities related to the issue, according to the report.',
+      'Owner notification letters are scheduled to begin November 30, sent in phases, and vehicle identification numbers became searchable on NHTSA\'s recall website on October 9. Owners can check their VIN now rather than waiting for a letter — a head restraint that stays put in a crash is not a component worth gambling on, and the fix is handled through Volvo dealers.',
+    ],
+    sources: ['NHTSA', 'USA Today'],
+  },
+  {
+    slug: 'ram-2500-steering-column-recall-8329',
+    title: 'Ram Recalls 8,329 Heavy-Duty Pickups Over Steering Modules That Can Kill Stability Control',
+    description:
+      'FCA is recalling certain 2026 Ram 2500 trucks whose steering column control modules can cause a loss of electronic stability control with no warning.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'There is no warning before failure: once the module resets, the stability-control light comes on — and the safety system is already gone.',
+    body: [
+      'FCA US is recalling more than 8,000 pickup trucks because of a concern that could increase the risk of a driver crashing, according to an October 6 recall notice from the National Highway Traffic Safety Administration covered by USA Today on October 20. The recall potentially affects 8,329 vehicles, all of them 2026 Ram 2500 pickup trucks.',
+      'The problem is in the steering column control module, which can cause a loss of electronic stability control. According to the safety recall report, there is no warning prior to failure: once the module resets, the electronic stability control light illuminates in the instrument panel cluster — by which point the system is already offline. Stability control is the system that keeps a heavy truck composed in an emergency swerve or on a slick surface, so losing it silently is a serious defect.',
+      'The remedy is a free replacement of the steering column control module at a dealership. Owner notification letters will be sent out on November 24, and FCA US can be reached at 800-853-1403 for recall number 90D. Owners who see the stability-control warning light should not assume it is a glitch — get the truck to a dealer promptly.',
+    ],
+    sources: ['NHTSA', 'USA Today'],
+  },
+  {
+    slug: 'volkswagen-low-cost-evs-150000-orders',
+    title: 'Volkswagen\'s Cheap EVs Rack Up Nearly 150,000 Orders as Buyers Flock to Small Electric Cars',
+    description:
+      'Volkswagen\'s Electric Urban Car Family — the ID. Polo, ID. Cross, Cupra Raval and Skoda Epiq — has drawn nearly 150,000 orders since production began in June.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'One in five Volkswagen Group cars delivered in Europe last quarter was all-electric, and in Germany pure-EV orders now exceed combustion orders.',
+    body: [
+      'Volkswagen\'s bet on low-cost electric cars is paying off — at least in Europe. The Group\'s Electric Urban Car Family has already received nearly 150,000 orders after series production began in June, Electrek reported, citing Volkswagen sales boss Martin Sander. The lineup currently includes the Volkswagen ID. Polo and ID. Cross, plus the Cupra Raval and Skoda Epiq, all sharing the same underpinnings.',
+      'The numbers behind the rush are striking. Volkswagen said one in five models it delivered in Europe in the third quarter was all-electric, with the EV share of the order book up to around 40%. The Group delivered 209,100 EVs in Europe in the third quarter, up 20% from Q3 2025, while EV orders were up 60% year over year. Through September, it delivered 586,100 all-electric vehicles in Europe, up 12% from the same period in 2025. In Germany, orders for pure electric cars now exceed those of internal combustion vehicles.',
+      'Price is the weapon. The VW ID. Polo Trend with the 37 kWh battery starts at just 24,995 euros (about $29,000) with a WLTP range of 334 km (207 miles), and the ID. Cross — the electric counterpart to VW\'s best-selling T-Cross — starts at 27,995 euros (about $32,000) in Germany. Sander credited the rush to a combination of high fuel prices and the new entry-level lineup. The lesson for the rest of the industry is blunt: in a market without subsidies, the EV that sells is the one ordinary buyers can actually afford.',
+    ],
+    sources: ['Electrek', 'Volkswagen'],
+  },
+  {
+    slug: 'byd-tang-ev-690-hp-dual-screens',
+    title: 'BYD\'s New Tang EV Packs 690 Horsepower and Dual 30-Inch Screens',
+    description:
+      'BYD\'s new five-seat Tang EV flagship was revealed in a regulatory filing with dual motors making a combined 690 horsepower and a screen-dominated cabin.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The tech-savvy flagship pairs supercar-adjacent power with an interior built around two enormous displays.',
+    body: [
+      'BYD\'s new Tang EV, its "tech-savvy" flagship five-seat SUV, was revealed in a regulatory filing, Electrek reported. Dual electric motors deliver a combined 690 horsepower, putting the family SUV in performance territory that would have been supercar-exclusive a decade ago.',
+      'The interior is arguably even more striking than the powertrain. The filing shows a cabin dominated by dual 30-inch screens, continuing BYD\'s push to make its flagships feel like rolling technology showcases rather than conventional SUVs. The Tang has long been BYD\'s upmarket family hauler, and this generation leans hard into that role with size, power and screen real estate as the selling points.',
+      'The reveal matters beyond one model. BYD is now the world\'s largest EV maker by volume, and its flagship cadence sets the pace for Chinese rivals and Western incumbents alike. A 690-horsepower family SUV with a dual-screen cabin is a statement about where the mainstream ceiling now sits — and about how fast Chinese EV hardware is moving while Western brands wrestle with tariffs and incentive cuts.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'arizona-first-nevi-fast-chargers-open',
+    title: 'Arizona\'s First NEVI Fast Chargers Are Finally Open Along I-10, I-19 and I-8',
+    description:
+      'Arizona\'s first three NEVI-funded DC fast-charging stations are online, giving EV drivers new places to plug in along three interstate corridors.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Years into the federal charging program, Arizona drivers finally have NEVI stations on the ground — on the state\'s busiest highway corridors.',
+    body: [
+      'Arizona\'s first three NEVI-funded DC fast-charging stations are finally online, Electrek reported, giving EV drivers more places to plug in along I-10, I-19 and I-8. The stations are part of the National Electric Vehicle Infrastructure program, the federal effort to build a reliable fast-charging backbone along US highways.',
+      'The locations matter as much as the chargers. I-10 is Arizona\'s main east-west artery, carrying traffic between Phoenix, Tucson and California; I-19 runs south to the Mexican border at Nogales; and I-8 connects the Phoenix area to San Diego. For EV drivers, a fast charger on each of these corridors removes one more reason to hesitate about a long-distance trip — and for the state, it closes a gap that has persisted years into the NEVI program.',
+      'The slow rollout of NEVI stations has been a running frustration for EV advocates, with states moving at very different speeds. Arizona\'s first three stations are a modest start, but they are the kind of infrastructure that compounds: each new corridor charger makes the whole network more useful, and each one makes the next EV purchase a little easier to justify.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'october-cash-back-deals-audi-20000-vw-id4',
+    title: 'October\'s Biggest Cash-Back Deals: $20,000 Off Audi\'s Electric Flagships, 27.7% Off the VW ID.4',
+    description:
+      'Deal trackers count 138 vehicles carrying cash incentives in October, led by $20,000 on the Audi RS e-tron GT and e-tron GT and $12,500 on the VW ID.4.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'The headline cash figure is $20,000 — but judged as a share of sticker, the VW ID.4\'s $12,500 is the month\'s best deal at 27.7% off.',
+    body: [
+      'October\'s cash-incentive leaderboard is topped by Audi\'s electric flagships. The Audi RS e-tron GT and e-tron GT share the largest cash figure at $20,000 each, according to deal trackers, with 138 vehicles carrying a cash incentive this month worth $463,750 in total. On a $170,500 sticker the RS e-tron GT\'s $20,000 is 11.7%; on the cheaper $127,700 e-tron GT it is worth 15.7% — same money, smaller price, better deal.',
+      'Judged as a share of sticker, the month\'s best deal is the Volkswagen ID.4: $12,500 off a $45,095 SUV, or 27.7% of the price, offered as cash only with no low-rate loan attached. The Audi A8 and S8 each carry $15,000, the Infiniti QX80 pairs $10,000 with 0% APR plus a $3,000 finance bonus, and the Kia EV9 checks in at 18.2% off. Eleven more offers sit between 12% and 20% of sticker, led by the Chevrolet Silverado 1500 at 18.4%.',
+      'The timing matters: most of these offers expire November 2, so October buyers are shopping against a hard deadline. The broader lesson from the leaderboard is to judge cash offers as a percentage of sticker, not by the raw dollar figure — $20,000 sounds bigger than $12,500, but on the cars they attach to, the ID.4 discount is worth more than twice as much of the price.',
+    ],
+    sources: ['FindTheBestCarPrice'],
+  },
+  {
+    slug: 'toyota-4runner-lease-339-october',
+    title: 'Toyota\'s October 4Runner Lease: $339 a Month With $3,999 Due at Signing',
+    description:
+      'Toyota is advertising the 2026 4Runner SR5 4WD at $339 a month for 36 months with $3,999 due at signing, through November 2, 2026.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The headline is $339 a month — but the fine print adds taxes, registration, a $750 acquisition fee and a $350 disposition fee at the end.',
+    body: [
+      'Toyota is advertising a tempting October lease on the 2026 4Runner SR5 4WD, Autoblog reported: $339 a month for 36 months with $3,999 due at signing and 10,000 miles a year. The promotion covers the SR5 4WD wagon with its turbocharged four-cylinder engine and eight-speed automatic transmission, and it expires November 2, 2026.',
+      'The fine print matters. The $3,999 due at signing consists of a $3,660 customer down payment plus the first month\'s $339 payment, and the advertised price excludes taxes, registration, a $750 acquisition fee and other dealer charges. Lessees pay $0.15 for every mile over the annual allowance, plus a $350 disposition fee at the end of the lease, and approval through Toyota Financial Services is required. A security deposit is waived.',
+      'Toyota also advertises $500 rebates for eligible military personnel and recent or soon-to-be college graduates who finance or lease through Toyota Financial Services, running through November 2 — though some incentives cannot be combined with the advertised lease offer. The 4Runner deal is notable because it applies to a specific configuration, not the whole lineup: shoppers should get a dealer quote to confirm the final drive-off amount on the exact truck they want.',
+    ],
+    sources: ['Autoblog'],
+  },
+  {
+    slug: 'americans-keep-old-cars-new-prices-out-of-reach',
+    title: 'Priced Out of New Cars, Americans Are Keeping Their Old Ones on the Road Longer',
+    description:
+      'With new-car prices out of reach for many buyers, coverage this week highlights a growing trend: drivers holding onto aging cars instead of replacing them.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'High interest rates and rising production costs are pushing new cars toward luxury-item status — and some older models are becoming hard to find.',
+    body: [
+      'New car prices are out of reach for many buyers, and the result is a surge in old cars remaining on the road — a trend highlighted in coverage this week, led by Jalopnik. As the economy continues to shift, many Americans are finding it increasingly difficult to afford new cars, with the price of new vehicles rising to a point where it is becoming a luxury item for a growing share of households.',
+      'According to Jalopnik\'s reporting, the trend is being driven by a combination of factors, including high interest rates and increased production costs. Instead of trading in, people are opting to keep their old cars running, with some outlets noting that certain older models are becoming increasingly hard to find as demand for affordable used vehicles stays strong.',
+      'The question now is whether new-car affordability improves or whether this trend hardens into the market\'s permanent shape. If it does, the winners are repair shops, parts suppliers and the used market — and the losers are automakers counting on a steady replacement cycle. For buyers, the math is simple: a paid-off car with a repair bill is still usually cheaper than a new car with a monthly payment.',
+    ],
+    sources: ['Jalopnik'],
+  },
+  {
+    slug: 'edmunds-record-car-loans-84-months',
+    title: 'Car Loans Hit Records in October: $44,664 Financed on Average, One in Four Buyers Stretching to 84 Months or More',
+    description:
+      'Edmunds data cited in October 2026 shows record car borrowing: the average new vehicle financed is $44,664 over 70 months, with more than one in four buyers at 84 months or longer.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'Buyers are not just paying more — they are borrowing more, for longer, at higher rates. Used-car buyers face the harshest math of all.',
+    body: [
+      'Car borrowing hit new record highs in October 2026, according to Edmunds figures cited in reports this month. The amount financed for a new vehicle reached $44,664, and the average term is 70 months. More than one in four new-car buyers are now financing vehicles for 84 months or longer — seven years or more to pay off a depreciating asset.',
+      'Used cars tell an even harsher story. The average used car financed is $30,703, also over 70 months, but with an average down payment of just $3,865 and an annual percentage rate of 10.6%, versus 7% for new cars. At $582 a month across 70 months, a used-car buyer repays about $40,970 on $30,703 borrowed. Among used-vehicle buyers, 6.5% took on $1,000-plus monthly payments — also an all-time high.',
+      'The sting in the tail is negative equity. Buyers who financed at 2022\'s peak prices are starting to come back to trade in, and they are bringing thousands of dollars in old debt with them. That debt does not disappear at trade-in: the dealer taking the old car has to pay it off, and if the car is not worth more than the loan, the buyer covers the gap — often by rolling it into the next loan. With cheap cars largely gone from the market, buyers are borrowing more for longer just to stay mobile, and the monthly payment has quietly become the real price of the car.',
+    ],
+    sources: ['Edmunds'],
+  },
+  {
+    slug: 'uk-used-car-market-flat-october-2026',
+    title: 'UK Used-Car Prices Were Essentially Flat in Early October as Younger Stock Hit the Market',
+    description:
+      'GetCarWise data for October 4-10 shows UK used asking prices up just 0.15% like-for-like, while the median rose 1.3% to 13,170 pounds on a younger mix.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The gap between the flat index and the rising median tells the story: September\'s strong new-car sales are pushing younger part-exchanges onto forecourts.',
+    body: [
+      'UK used-car asking prices were essentially flat in the week of October 4-10, according to GetCarWise\'s weekly market pulse. Like-for-like prices rose 0.15% week on week — within the margin of error — while the median asking price rose 1.3% to 13,170 pounds, up from 12,995 pounds the week before.',
+      'The gap between the two numbers is the story. The like-for-like index compares the same type of car across both weeks, stripping out changes in what is on sale; the median does not. When the median moves more than the index, the mix changed — and this week it did: three-to-four-year-old cars rose 0.6 points of share while cars over ten years old fell 0.9 points. That fits with September\'s strong new-car sales, whose part-exchanges are starting to reach dealer forecourts, nudging stock younger and pushing the median up without prices themselves moving much.',
+      'The most-listed cars were the Nissan Qashqai, Ford Fiesta, Volkswagen Golf, Vauxhall Corsa and Ford Focus, while the Fiesta also topped removals — the churn of Britain\'s most common cars, turning over steadily. For buyers, the message is that the market is stable but the stock is getting younger: a good week to shop for a three-to-four-year-old car, and a week when haggling over the headline price matters less than picking the right car from a freshening mix.',
+    ],
+    sources: ['GetCarWise'],
+  },
+  {
+    slug: 'chery-v2g-demonstration-station-wuhu',
+    title: 'Chery Shows Off China\'s First Scaled AC Vehicle-to-Grid Station in Wuhu',
+    description:
+      'Chery revealed what it calls China\'s first scaled AC vehicle-to-grid demonstration station as part of a smart energy ecosystem showcase in Wuhu.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Vehicle-to-grid stops being a lab experiment when it works at scale — and Chery\'s Wuhu station is pitched as exactly that step.',
+    body: [
+      'Chery showcased a smart energy ecosystem in Wuhu, including what it describes as China\'s first scaled AC vehicle-to-grid (V2G) demonstration station, according to Drive Safe and Fast\'s coverage of the reveal. V2G technology lets electric vehicles send power back to the grid, turning parked cars into a distributed energy resource rather than just a load on it.',
+      'The significance of "scaled" is the point. V2G demonstrations are common; a station built to operate at real scale, with alternating-current infrastructure that ordinary vehicles can use, is rarer — and it is the step that moves V2G from pilot projects toward something utilities can actually plan around. For Chery, which has been expanding aggressively into energy, robotics and autonomous systems alongside its car business, the station fits a deliberate strategy of selling an ecosystem rather than just vehicles.',
+      'The open question, as with every V2G announcement, is commercial: which vehicles, which tariffs and which grid operators will actually use it, and when owners will see money for the electricity their cars supply. Chery has not yet answered those in public detail. But the direction is clear — the car is becoming part of the energy system, and the automakers building the grid side of that story are positioning themselves for a market that does not exist yet.',
+    ],
+    sources: ['Drive Safe and Fast'],
+  },
+  {
+    slug: 'new-ev-prices-october-2026-jaguar-range-rover-bmw',
+    title: 'The New EV Price Board: Jaguar Type 01 at $130,500, Range Rover Electric at $138,000, and a $37,745 Mitsubishi',
+    description:
+      'October\'s new-EV price roundup spans a $130,500 Jaguar, a $138,000 Range Rover Electric, BMW\'s $61,500 i3 sedan and a $37,745 Mitsubishi Eclipse Sportback EV.',
+    date: 'October 25, 2026',
+    dateISO: '2026-10-25',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'With the federal EV tax credit gone since September 2025, every new EV now has to win on sticker price alone — and October\'s board shows a $100,000 spread.',
+    body: [
+      'October\'s new-electric-vehicle price board shows just how wide the market has become. Jaguar unveiled the Type 01 in New York on October 6 at an anticipated $130,500 starting price, with orders opening in early 2027, while the Range Rover Electric opened for US orders at $138,000. At the other end of the luxury ladder, BMW priced two more Neue Klasse models — the i3 sedan at $61,500 and the iX4 at $66,200 — and Bentley revealed the Torcal, its first EV.',
+      'The mainstream middle is filling in fast. The Lexus TZ starts at $64,050 including its $1,550 delivery fee, the electric Mercedes-Benz GLC at $63,500 before a $1,450 destination charge, and the Mitsubishi Eclipse Sportback EV at $37,745 before a $1,995 destination fee. The BMW iX3 and the Kia EV3 are now delivering in the US, and trackers note the cheapest new EV announced in America is a $24,950 pickup with crank windows — while the most expensive is Ferrari\'s first electric car, priced from 550,000 euros at its European launch.',
+      'Two dates moved the other way: Toyota now calls the Highlander EV a 2028 model with sales from early 2027, and Volvo lists US deliveries of the EX60 P10 for fall 2026 and the cheaper P6 for 2027. The backdrop for all of it is the end of the federal EV tax credit for purchases after September 30, 2025: with no $7,500 cushion, every one of these prices is now the price buyers actually pay, apart from state and local incentives. That pressure is visible in the numbers — and it is why the $37,745 Mitsubishi matters more to the market\'s future than the $138,000 Range Rover.',
+    ],
+    sources: ['Trendy Tech Tribe'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
