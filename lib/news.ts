@@ -2867,6 +2867,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['Trendy Tech Tribe'],
   },
+  {
+    slug: 'tesla-battery-contactor-recall-12963-october-2026',
+    title: 'Tesla Recalls 12,963 Model 3 and Model Y Cars Over Battery Contactor That Can Cut Power Without Warning',
+    description:
+      'Tesla is recalling 12,963 US vehicles because a battery-pack contactor can open unexpectedly and cause a sudden loss of drive power.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A faulty solenoid in the battery pack can kill propulsion mid-drive. Tesla will replace the contactor free, and says it knows of no crashes linked to the defect.',
+    body: [
+      'Tesla is recalling 12,963 vehicles in the United States because a defect in a battery-pack component can cause a sudden loss of drive power, the National Highway Traffic Safety Administration said. The recall covers certain 2025 Model 3 sedans and 2026 Model Y crossovers. The problem is a battery-pack contactor whose solenoid, supplied by InTiCa, can open unexpectedly because of a poor connection at the coil termination.',
+      'If the solenoid fails while driving, the car can lose propulsion without prior warning, forcing the driver to pull over; the infotainment screen then displays a warning telling the driver to pull over safely. If it fails while parked, the car may not shift into Drive. Tesla said it will replace the affected battery-pack contactor free of charge. As of October 7, the company had identified 36 warranty claims and 26 field reports related to the condition, but said it was unaware of any collisions, injuries or fatalities linked to it.',
+      'The recall lands in a crowded month for Tesla safety scrutiny. Earlier in October, NHTSA opened a separate investigation into millions of Tesla vehicles equipped with Full Self-Driving after dozens of reports of traffic-safety violations and crashes. Owners of the recalled cars should watch for the official notification and book the free contactor replacement rather than waiting for a warning light, since this failure gives no advance alert before power is lost.',
+    ],
+    sources: ['Reuters', 'NHTSA', 'Car and Driver'],
+  },
+  {
+    slug: 'tesla-model-3-premium-europe-airbag-recall-131726',
+    title: 'Tesla Recalls 131,726 Model 3 Premium Cars in Europe Over Far-Side Airbag Fixed by a Software Update',
+    description:
+      'Tesla is recalling 131,726 left-hand-drive Model 3 Premium sedans built at Giga Shanghai because the far-side airbag calibration can exceed the side-impact force limit.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'No service visit is needed: the fix is a free over-the-air update. But the recall covers a large slice of the European Model 3 fleet.',
+    body: [
+      'Tesla is recalling 131,726 left-hand-drive Model 3 Premium sedans built at Giga Shanghai for the European Union, the Middle East and South Korea, because the far-side airbag is not calibrated to meet the UN R135 side-impact rule. The far-side airbag is the front centre airbag between driver and passenger, and in the UN R135 pole test a pole strikes the driver door at 32 km/h while the dummy shoulder must not take more than 3.0 kilonewtons of lateral force. Recall documents say some cars exceeded that limit because of the airbag deployment calibration.',
+      'The good news for owners is the remedy: a free over-the-air software update, with no dealer visit required, and owners can keep driving in the meantime. The EU Safety Gate alert, notified by Germany and published on October 16, says the car may provide insufficient protection in a side impact, which increases the risk of injury to occupants, and lists the recall measure as in force from September 30, 2026. Neither the alert nor the reporting outlet Auto Plus reports any related crashes or injuries.',
+      'The scale is what makes this recall notable rather than the fix itself. More than 130,000 cars is a large share of the Model 3 Premium population in the affected markets, and it shows how much of modern recall work is now software calibration rather than hardware replacement. Owners should still install the update promptly: an airbag that deploys a fraction too hard in a pole strike is exactly the kind of marginal failure that only matters in the crash it is meant to protect against.',
+    ],
+    sources: ['Auto Plus', 'EU Safety Gate', 'Tesla News Wire'],
+  },
+  {
+    slug: 'nhtsa-fsd-investigation-288-million-vehicles-october-2026',
+    title: 'NHTSA Opens Investigation Into 2.88 Million Teslas With Full Self-Driving After 50-Plus Violation Reports',
+    description:
+      'Federal safety regulators opened an investigation into 2.88 million Tesla vehicles equipped with Full Self-Driving after more than 50 reports of traffic-safety violations and crashes.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The probe is the latest in a running list of federal actions on Tesla driver-assistance systems, and it arrives weeks after a new NHTSA administrator was confirmed.',
+    body: [
+      'The National Highway Traffic Safety Administration has opened an investigation into 2.88 million Tesla vehicles equipped with the Full Self-Driving system, after more than 50 reports of traffic-safety violations and a series of crashes, according to Reuters. The probe adds to growing scrutiny of Tesla advanced driver-assistance systems from Congress and regulators, and it comes weeks after a new NHTSA administrator was confirmed.',
+      'An investigation is not a finding of a defect and does not by itself force a recall, but it is a formal step that can lead to one. Regulators typically use this stage to demand data, examine crash and near-miss reports, and test whether a system behaves as its maker claims in real traffic. For Tesla, the stakes are commercial as well as legal: Full Self-Driving is central to the Tesla robotaxi pitch, and any restriction on its use would land directly on that strategy.',
+      'Owners should keep two ideas separate. The FSD investigation concerns customer cars with the driver-assistance package, while separate NHTSA files cover the purpose-built Cybercab robotaxi fleet, including a school-zone petition and an audit of how Tesla self-certified the steering-wheel-free vehicle. Both tracks point the same way: regulators are no longer treating Tesla autonomy claims as marketing copy, and the company will have to prove them with data.',
+    ],
+    sources: ['Reuters', 'NHTSA'],
+  },
+  {
+    slug: 'tesla-robotaxi-safety-report-31-million-miles-october-2026',
+    title: 'Tesla First Robotaxi Safety Report Claims 3.1 Million Driverless Miles With Zero Injuries',
+    description:
+      'Tesla published its first Robotaxi Safety Report on October 21, listing 3.1 million autonomous miles without a safety monitor and zero reported injuries or airbag deployments.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Driverless service now runs in six cities, with Dallas set to get the Cybercab in November. The report is company-published, not an independent audit.',
+    body: [
+      'Tesla published its first Robotaxi Safety Report on October 21, 2026, listing 3.1 million autonomous miles driven without a safety monitor between January 22 and October 18, 2026, with zero reported injuries or airbag deployments. Driverless service currently runs in Austin, Dallas, Houston, Orlando, Tampa and Miami, while the San Francisco Bay Area market still requires a safety driver under current rules. Las Vegas, Jacksonville, Phoenix and San Antonio are named as upcoming markets, and Tesla has said the two-seat, steering-wheel-free Cybercab will arrive in Dallas in November 2026, the first city outside Austin to receive it.',
+      'The same week, Tesla AI vice president Ashok Elluswamy posted a highlight reel on X showing a Tesla robotaxi slowing or braking as a Waymo vehicle and an Avride vehicle each entered its path. No collision occurred in either clip, and Tesla has not released sensor logs or following-distance data, so the exact margins have not been independently verified. Unsupervised Full Self-Driving outside the dedicated robotaxi fleet remains delayed to the second quarter of 2027 at the earliest, meaning the mileage gains are confined to the Tesla supervised robotaxi program, not customer vehicles.',
+      'Read the report for what it is: a first, company-published safety disclosure in an industry where Waymo has published far longer safety records. Three million miles without an injury is a real milestone if the counting is complete, but it is still a small sample next to the hundreds of millions of miles established operators have logged. The more important test comes next, when the Cybercab expands beyond Austin and the fleet faces Dallas traffic, weather and regulators at larger scale.',
+    ],
+    sources: ['Tesla Robotaxi Safety Report', 'Tech Insider'],
+  },
+  {
+    slug: 'waymo-5-billion-first-debt-loan-october-2026',
+    title: 'Waymo Borrows $5 Billion in Its First-Ever Debt Deal as Robotaxis Become Bankable',
+    description:
+      'Waymo closed a $5 billion term loan led by PIMCO, Blackstone and Sixth Street, its first debt financing, eight months after a $16 billion equity round at a $126 billion valuation.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'When lenders, not just venture investors, will fund robotaxis, the buildout can scale on balance-sheet terms. Waymo just secured expansion capital its rivals do not have.',
+    body: [
+      'Waymo closed its first-ever debt deal, a $5 billion term loan led by PIMCO, Blackstone and Sixth Street, with Goldman Sachs as sole bookrunner and a lender list that includes Apollo, Blue Owl, Fidelity and T. Rowe Price. It is the company first debt raise, coming eight months after a $16 billion equity round at a $126 billion valuation. Waymo calls it a step in its evolution into a scaling commercial enterprise.',
+      'Why a loan matters more than another equity round: debt lenders underwrite cash flows and collateral, not just a growth story. A $5 billion term loan signals that major credit investors now treat a robotaxi fleet as a financeable asset, which lets Waymo expand without diluting shareholders at every step. That is a structural advantage over rivals still funding each city launch from equity or a parent balance sheet.',
+      'The money arrives as the race goes international and political. The same week brought Tesla Cybercab fleet growth in Austin, a new NHTSA file on Tesla robotaxis in school zones, San Francisco geofencing robotaxis away from its Fleet Week waterfront, union drivers rallying against a Washington robotaxi bill, and Uber and Pony.ai planning London robotaxis. Waymo now has the capital to answer all of that with more cars in more cities, which is the only answer that has ever settled a transport race.',
+    ],
+    sources: ['TechCrunch', 'Robotaxi Report'],
+  },
+  {
+    slug: 'tesla-roadster-flying-demonstration-october-2026',
+    title: 'Tesla Roadster Flying Demo: A Car That Flips in Midair, and the Questions It Leaves Unanswered',
+    description:
+      'At a Texas test facility on October 15, Tesla showed a driverless Roadster climbing a ramp upside down, flipping in the air on cold-gas thrusters, and leaping over a line of Teslas.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Musk declared that flying cars are real. What the staged demo proved is narrower: a car can hop, flip and land on thrusters. Sustained flight is unproven.',
+    body: [
+      'Elon Musk unveiled what Tesla calls a flying car on October 15 at a SpaceX test facility in Texas, showing a new Roadster that used suction underneath the car to climb a steep ramp and hang upside down before spinning off the ramp, flipping in the air and using air jets to land. The car had no driver during the demonstration, done, Musk told the crowd, to make sure nobody was killed. Later in the demonstration, the Roadster used the same jets to leap over a line of Tesla existing models parked side by side, and then used jets off the back of the car to accelerate to 60 mph in a claimed record time.',
+      'The engineering, as described by Musk, centers on 10 nozzles and ultra-high-pressure air tanks developed with SpaceX, producing more than 4,700 kilograms of downforce in the demonstration setup. Performance claims are equally ambitious: zero to 60 mph in under one second, with some configurations reportedly reaching that speed in just 0.6 seconds, and a projected top speed above 230 mph. Musk said the car will go into production in 2028, and said flying cars are real, while also cautioning that success is not guaranteed.',
+      'Here is the honest distinction buyers should hold onto. A car that hops, flips and lands under thruster power at a test site is not yet a certified aircraft, and it is not a car that can sustain flight between two places. The demonstration has not been confirmed as flying under full FAA aircraft certification, and Tesla history of missing Musk production timelines is long. What the demo does prove is that the Tesla-SpaceX engineering combination can produce spectacle at a scale no other carmaker is attempting, and that the Roadster, if it ever reaches production in this form, will be judged as much on whether its thrusters are legal, safe and insurable on public roads as on whether it can leave the ground.',
+    ],
+    sources: ['CNN', 'The Source', 'Reuters'],
+  },
+  {
+    slug: 'ford-stellantis-q3-earnings-preview-october-28-2026',
+    title: 'Ford and Stellantis Both Report Q3 Earnings October 28: What to Watch in Detroit Busiest Week',
+    description:
+      'Ford reports Q3 after the close on October 28 with analysts expecting $0.41 per share on $49.08 billion in revenue, while Stellantis reports the same day with its stock near yearly lows.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'GM already set the bar with a 151 percent profit jump. On Wednesday, Ford and Stellantis show whether that was company-specific or sector-wide.',
+    body: [
+      'Ford Motor is set to announce third-quarter 2026 results after the market closes on Wednesday, October 28, with a call scheduled for 5:00 PM ET. Analysts expect earnings of $0.4099 per share and revenue of $49.08 billion. Ford last reported on July 28, beating the $0.33 consensus with $0.42 per share on $48.30 billion in revenue, against a $47.24 billion consensus. Ford stock opened Monday at $11.59, with a 52-week range of $11.11 to $17.78 and a market capitalization near $46.2 billion, and Goldman Sachs cut its Ford price target to $14 from $16 in early October, citing lower 2026 EBIT and EPS estimates linked to the F-150 production interruption.',
+      'Stellantis publishes third-quarter 2026 results the same day, with presentation materials expected at 8:00 AM CET and a webcast at 1:00 PM CET. The report is a sharper margin and cash-flow test than usual: second-quarter operating profit was 702 million euros while operating cash flow was negative 169 million euros, the company suspended its 2026 dividend in February, and the stock traded near 3.71 euros on October 23, close to its yearly lows. The key question is whether the Ram-led improvement in US sales, with Ram up 29 percent in the third quarter while Jeep fell 20 percent, can broaden into stronger group profitability rather than remaining concentrated in a single brand.',
+      'Context matters for both reports. GM already delivered the quarter standout, with net income up 151 percent to $3.3 billion and a $20 billion buyback, while Rivian reports on October 29 with its own R2-driven story to tell. If Ford matches its consensus and Stellantis shows cash generation turning positive, the quarter reads as an industry recovery; if either misses, the story becomes a split market in which only the strongest balance sheets are compounding.',
+    ],
+    sources: ['Ticker Report', 'Stellantis', 'Admiral Markets'],
+  },
+  {
+    slug: 'rivian-q3-record-19248-deliveries-r2-october-2026',
+    title: 'Rivian Sets a Record With 19,248 Q3 Deliveries as the R2 Lifts It to Number Two in US EVs',
+    description:
+      'Rivian delivered a record 19,248 vehicles in Q3 2026, up about 46 percent, as the cheaper R2 SUV powered growth while the overall US EV market fell nearly 40 percent.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The R2 is doing what it was built to do: give buyers a cheaper way into Rivian. Commercial vans tripled too, and Rivian is now second only to Tesla in US EV share.',
+    body: [
+      'Rivian Automotive reported record third-quarter deliveries of 19,248 vehicles, beating analysts average estimate of 18,001, after rolling out the cheaper R2 SUV targeted at the broader mass EV market. The company produced 19,751 vehicles at its Normal, Illinois plant in the quarter, and reaffirmed its 2026 delivery forecast of 65,000 to 70,000 vehicles. Shares slipped more than 2 percent in early trading after the report, with analysts noting the market had hoped for a guidance raise after such a strong quarter.',
+      'Cox Automotive and Kelley Blue Book estimates break the quarter down further. Rivian sold an estimated 19,239 vehicles in the US in the quarter, up 45.7 percent from a year earlier, while the overall EV market dropped 39.5 percent, pushing Rivian to 7.2 percent of the segment, good for second place behind Tesla. Most of the jump came from the commercial side, with commercial vans hitting 8,469 units, more than triple last year and roughly 44 percent of everything Rivian moved. The R2 showed up in the Cox data for the first time with an estimated 3,456 deliveries, already ahead of the Lucid brand total for the quarter, while R1S fell 31.8 percent to 5,582 and R1T fell 27.2 percent to 1,732 as buyers shifted to the cheaper model.',
+      'The R2, which began customer deliveries in June and starts at just under $60,000, is now the hinge of the Rivian story. The company expects to deliver 20,000 to 25,000 R2 units by the end of the year, which would make it one of the fastest-selling EVs in US history, second only to the Tesla Model Y, and it is preparing more affordable models near $45,000. Rivian reports full third-quarter financial results on October 29, when investors will learn whether record volume is also turning into record margins, or whether the R2 ramp is still costing more than it earns.',
+    ],
+    sources: ['Reuters', 'Cox Automotive', 'RivianTrackr'],
+  },
+  {
+    slug: 'lucid-q3-deliveries-drop-production-plunge-october-2026',
+    title: 'Lucid Q3 Deliveries Fall 7 Percent as Production Plunges 38 Percent and the Inventory Selloff Begins',
+    description:
+      'Lucid delivered 2,708 vehicles in Q3 2026, down 7 percent, while production fell sharply as the company works through a first-half inventory pile under a $1.4 billion operating reset.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Nine months in, Lucid has built 13,228 cars and delivered 10,852. Q3 is the first quarter where deliveries beat production, and that is the point of the reset.',
+    body: [
+      'Lucid delivered 2,708 vehicles in the third quarter of 2026, down 7 percent year over year, while production plunged 38 percent, according to Electrek coverage of the company quarterly figures. Nine months into the year, Lucid has built 13,228 vehicles and delivered 10,852. The third quarter is notable for a reversal: deliveries beat production by 852 vehicles, working off about a quarter of the first-half pile, when Lucid built 3,228 more vehicles than it delivered.',
+      'The first-half surplus had a specific cause. In the first quarter, a supplier problem with second-row seats held up Gravity deliveries for 29 days while the factory kept running, and inventory on the balance sheet rose to $1.38 billion by the end of June, up from $1.11 billion six months earlier. Selling those cars is now the biggest piece of the operating reset Lucid management has described, which targets $1.4 billion in cash-flow improvements in 2026: roughly $600 million to $800 million from inventory, about $500 million from lower capital spending, and roughly $200 million from operating costs.',
+      'The contrast with Rivian, which delivered 19,248 vehicles in the same quarter, is stark, and it frames the question Lucid has to answer. Lucid says demand for the Gravity continued to regain momentum, but it does not break out deliveries by model and did not put a number on that momentum. Until deliveries grow faster than the inventory pile shrinks, Lucid remains a company managing its balance sheet first and its growth story second.',
+    ],
+    sources: ['Electrek', 'Lucid'],
+  },
+  {
+    slug: 'paris-motor-show-2026-debuts-roundup',
+    title: 'Paris Motor Show 2026: The Debuts That Matter, From Kia Seltos Hybrid to a 700-Kilometre Mercedes Van',
+    description:
+      'The 2026 Paris Motor Show, October 12 to 18, brought the Kia Seltos Hybrid European premiere, six Mercedes premieres, the Hyundai Bayon world premiere, the BYD Atto 8 and a Jeep Renegade return pledge.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Paris 2026 was a hybrid and electric show, not a horsepower show. The most important cars were affordable crossovers and a van that seats eight.',
+    body: [
+      'Kia led the European news at the 2026 Paris Motor Show, held October 12 to 18, with the European premiere of the all-new Seltos Hybrid. The second-generation Seltos is positioned in the fast-growing C-SUV segment and introduces Kia first electrically driven all-wheel-drive system, which engages the rear axle only when driving dynamics demand it. Kia also gave the K4 Hybrid its European motor show debut in hatchback and Sportswagon forms ahead of production starting October 15, showed its complete five-model GT family including the recently launched EV3 GT, EV4 GT and EV5 GT, and displayed the PV5 Passenger and Cargo commercial products. Kia is Europe fastest-growing top-10 passenger-car brand year to date, with registrations up 9.0 percent from January to August 2026 to a 4.1 percent market share.',
+      'Mercedes-Benz brought six show premieres rather than six fresh world debuts: the new GLA, the Mercedes-AMG CLA 45, the GLE, the Mercedes-AMG GT 4-Door Coupe, the electric VLE and an updated S-Class. The VLE is the most interesting of the set, carrying up to eight occupants with Mercedes quoting more than 700 km of electric range, positioning it between large passenger cars and premium people carriers. Hyundai gave the new Bayon its world premiere, the new Tucson its European premiere with the Tucson N Line making its global debut, and expanded its electric commercial range with the Staria Cargo, whose 84 kWh battery supplies up to 450 km of WLTP range, with an 800-volt architecture supporting a 10 to 80 percent recharge in 20 minutes, a 1,040 kg payload and 2,000 kg of towing.',
+      'Elsewhere, BYD introduced its new flagship SUV, the Atto 8, with a choice of power outputs and rear- or all-wheel drive when it arrives in markets in the first quarter of 2027. Leapmotor headlined with the European premiere of the B03 urban hatchback, presented the flagship D19 SUV, and confirmed that production of the B10 has started in Spain. Jeep confirmed the Renegade will return by 2030, Cupra showed a Raval custom package by ABT after the Raval passed 50,000 orders since April 2026, and the Volkswagen Group had accumulated almost 150,000 orders across its four-car electric programme before the show opened. The through-line is unmistakable: Europe volume growth in 2026 is coming from hybrids and affordable electrics, not from flagship excess.',
+    ],
+    sources: ['Motor Trader', 'Kia', 'Plant Machinery Vehicles'],
+  },
+  {
+    slug: 'hyundai-tucson-next-generation-october-2026',
+    title: 'Next-Generation Hyundai Tucson Revealed: Bigger, With a Plug-In Hybrid for the First Time',
+    description:
+      'Hyundai unveiled the next-generation Tucson in New York on October 1, growing it in every dimension and adding a 292-PS plug-in hybrid with up to 81 km of electric range.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The Tucson grows 60 mm longer and 30 mm in wheelbase, keeps physical climate and audio buttons, and gets a new Pleos Connect infotainment system with an AI assistant.',
+    body: [
+      'Hyundai unveiled the next-generation Tucson in New York on October 1, 2026, in a global reveal rather than a market-specific launch. The SUV goes on sale in South Korea later in 2026, with North America, Europe and other markets following through 2027. It measures 4,700 mm long, 1,905 mm wide and 1,685 mm tall, up by 60 mm, 40 mm and 20 mm respectively over the outgoing model, with the wheelbase stretching 30 mm to 2,785 mm and the extra length going toward cabin room.',
+      'Alongside the existing petrol and hybrid options, Hyundai is adding a plug-in hybrid variant for the first time, with 292 PS and up to 81 km of claimed electric-only range. Inside, the dashboard moves to a two-layer design, door opening angles widen from 73 to 83 degrees for easier entry, and Hyundai has deliberately kept dedicated physical buttons for climate and audio controls below the main touchscreen. Screen size depends on market and variant, with either a 17-inch or a 12.9-inch central touchscreen paired with a separate 9.9-inch display ahead of the driver.',
+      'The new Pleos Connect infotainment system, built on Android Automotive OS, introduces Gleo AI, an in-cabin assistant meant to handle requests in natural language rather than through menus. That combination, a bigger cabin, a plug-in option and buttons where drivers actually reach, is Hyundai betting that the next Tucson wins not on novelty but on getting the daily-use details right. Pricing for each market has not yet been announced, and that will decide whether the growth in size comes with growth in value.',
+    ],
+    sources: ['Park Plus', 'Hyundai'],
+  },
+  {
+    slug: '2027-vw-atlas-pricing-october-2026',
+    title: '2027 Volkswagen Atlas Pricing: $41,610 to $56,610, On Sale Now, With a Five-Seat Cross Sport Coming',
+    description:
+      'The 2027 Volkswagen Atlas is on sale in October 2026 from $41,610 before a $1,525 destination charge, with a five-passenger Atlas Cross Sport due in early 2027.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'A midsize three-row SUV with a full standard safety suite and a 282-hp turbo four, the Atlas undercuts its badge premium while keeping the three-row practicality buyers want.',
+    body: [
+      'The 2027 Volkswagen Atlas is on sale in October 2026 as a midsize three-row SUV with front- or all-wheel drive and seating for six or seven. Pricing before the $1,525 destination charge runs from $41,610 for the SE front-wheel-drive model, through $43,610 for the SE 4Motion, $45,610 and $47,610 for the SE with Tech in front- and all-wheel drive, $52,110 for the SEL R-Line 4Motion, and $56,610 for the SEL Premium R-Line 4Motion. A stylish five-passenger Atlas Cross Sport with most of the same features should arrive in early 2027.',
+      'Every Atlas uses a 2.0-litre turbocharged four-cylinder making 282 hp and 258 pound-feet of torque, paired with an eight-speed automatic, with EPA-estimated fuel economy of 20 mpg city, 27 highway and 23 combined on regular gasoline. It offers 21.2 cubic feet of cargo space behind the third row, 55.9 behind the second and 95.4 behind the front row, tows up to 5,000 pounds, and is assembled in Chattanooga, Tennessee. Standard safety equipment is comprehensive: front collision alert, automatic emergency braking with pedestrian detection, automatic high beams, lane keeping alert and assist, lane centering, assisted lane changes, blind-spot alert and assist, front and rear parking distance control, rear traffic assist, adaptive cruise control with stop and go, and automatic post-collision braking.',
+      'The Atlas case is straightforward. It does not win on badge or on outright luxury, but at $41,610 it gives three-row buyers a fully equipped, Chattanooga-built SUV with a safety suite that many rivals still charge extra for. The question for shoppers is whether the four-cylinder refinement and the real-world fuel economy match the spec sheet, and whether the coming Cross Sport, with most of the same features in a five-seat body, is the better buy for families that never use the third row.',
+    ],
+    sources: ['Detroit Free Press', 'Volkswagen'],
+  },
+  {
+    slug: '2027-lincoln-corsair-refresh-hybrid-pricing',
+    title: '2027 Lincoln Corsair Goes Hybrid-Only at $48,790, With Standard BlueCruise and a Higher Destination Fee',
+    description:
+      'The refreshed 2027 Lincoln Corsair is hybrid-only with standard all-wheel drive and BlueCruise, priced from $48,790 to $55,790 including a $2,295 destination fee.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'No deals yet on the 2027 Corsair, and it costs considerably more than the outgoing model. The payoff is standard hybrid power, all-wheel drive and hands-free driving.',
+    body: [
+      'The refreshed 2027 Lincoln Corsair debuts as a hybrid-only offering with all-wheel drive as standard, using the same turbocharged 2.0-litre hybrid setup found in the Lincoln Nautilus, and with standard BlueCruise hands-free driving. Two familiar trim levels are offered: Premiere at $48,790 and Reserve at $55,790, including a destination and delivery fee of $2,295, which is up $800 from the outgoing model. The most expensive 2027 Corsair passes $65,000 with options, for a small luxury crossover.',
+      'The exterior color palette gets a major shakeup, with five new hues joining the lineup at the expense of six colors that were previously available. No October 2026 deals are yet available on the 2027 Corsair, which is a refresh rather than a carryover: as a hybrid-only model with all-wheel drive, it is considerably more expensive than the outgoing car, and the destination increase adds to that gap. The Corsair continues as a China-built model just like the Nautilus, and will also use a US VIN, although Lincoln is set to phase out Chinese imports to the US by 2031.',
+      'For buyers, the Corsair math is now a hybrid math. The sticker jump buys standard electrified all-wheel drive and standard BlueCruise, which were previously optional or unavailable, but it also moves the Corsair into a price band where the Nautilus and larger rivals start to compete. Shoppers who wanted a cheaper, gasoline-only Corsair will have to look at remaining 2026 stock or a different badge; shoppers who wanted a small Lincoln with modern driver assistance get exactly that, at a premium.',
+    ],
+    sources: ['Ford Authority', 'Lincoln'],
+  },
+  {
+    slug: 'cadillac-xt5-october-2026-deals',
+    title: 'Cadillac XT5 October Deals: $649-a-Month Lease, 3.9 Percent Financing and Up to $2,500 Lease Cash',
+    description:
+      'October 2026 Cadillac XT5 offers include 3.9 percent APR for 36 months, up to $1,500 in total purchase allowance, $2,500 lease cash and a $649 monthly lease, valid through November 2.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The XT5 is in its final model year before a next-generation model arrives for 2028, and Cadillac is pricing the runout accordingly.',
+    body: [
+      'During October 2026, Cadillac XT5 offers include low-interest and long-term financing on the 2026 Cadillac XT5, plus up to $2,500 cash and a nationwide lease on the two-row luxury crossover, all valid through November 2, 2026. Purchase offers include a $1,000 purchase allowance. Finance offers include 3.9 percent APR for 36 months when financed with Cadillac Financial, plus $1,000 for well-qualified buyers when financed with Cadillac Financial and a $500 purchase allowance, for up to $1,500 in total purchase allowance.',
+      'Lease offers include $2,500 lease cash, and a nationwide special lease on the 2026 XT5 Luxury front-wheel-drive model at $649 per month for 36 months, an ultra-low-mileage lease with 10,000 miles per year, $4,609 due at signing after all offers, and $0 security deposit. For reference, 2026 Cadillac XT5 trim levels start at $46,595 for Luxury, $55,295 for Premium Luxury and $64,595 for Sport, including a destination freight charge of $1,795.',
+      'The timing is the point. The 2026 XT5 receives only small updates for the 10th model year of the luxury crossover first generation, and it serves as the nameplate final model year before the next-generation XT5 arrives for 2028. Sport and Premium Luxury trims gain more standard features for 2026, including the Technology Package, Driver Assist Package, Smart Towing and tri-zone automatic climate control. Buyers who want the current car should compare the lease and the finance routes carefully: the $649 lease is cheap monthly, but the 10,000-mile annual cap and the $4,609 due at signing mean the finance deal may suit higher-mileage drivers better.',
+    ],
+    sources: ['GM Authority', 'Cadillac'],
+  },
+  {
+    slug: 'volvo-xc90-lease-599-october-2026',
+    title: 'Volvo XC90 Leases From $599 a Month in Some Regions, and the Lease-to-Own Math Is Surprisingly Good',
+    description:
+      'A regional Volvo offer puts the 2026 XC90 B5 AWD at $599 a month for 36 months with $3,719 due at signing, available through November 2, 2026.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The $599 figure shows up in New York State and Central California, while Florida and parts of the Southwest pay up to $679. The purchase option is where it gets interesting.',
+    body: [
+      'Volvo is leasing the 2026 XC90 B5 AWD mild-hybrid model from $599 a month in some regions, a deal that shows up on the Volvo incentives page for areas like New York State and Central California, while other areas, like Florida and parts of the Southwest, lease the same car for as much as $679. The $599 deal breaks down as $599 a month for 36 months, $3,719 due at signing including the first monthly payment, a stackable $500 lease loyalty bonus for returning Volvo drivers, and availability through November 2, 2026, for qualified lessees.',
+      'The lease comes with an offer to purchase the car for $34,345, plus a $450 purchase option fee. Added up, signing costs of $3,719 plus 35 further monthly payments of $20,965 give total lease costs of $24,684; adding the purchase price and fee gives a total cost to buy of $59,479, against a base MSRP of $61,050. In other words, a lessee who leases and then buys finances only a little over half the cost after three years and saves $1,571 over the sticker price, before taxes, titling and other costs, and before any other applicable incentives.',
+      'That lease-to-own arithmetic is why this deal stands out from a typical monthly-payment headline. The XC90 is a 250-hp, six-seat luxury SUV with Nappa leather, positioned directly against BMW and Mercedes-Benz rivals that rarely lease this cheaply. The catch is geography and qualification: the $599 figure is regional, not national, so shoppers outside the cheap regions should check a nearby dealer before assuming the same payment, and should confirm the purchase-option terms in writing before counting on the buyout price.',
+    ],
+    sources: ['CarBuzz', 'Volvo'],
+  },
+  {
+    slug: 'cadillac-ct5-v-blackwing-manual-cheaper-october-2026',
+    title: 'The Last Manual V8 Sedan in America Is $6,275 Cheaper Than the Automatic, and Only 64 Manuals Were Left',
+    description:
+      'The 2026 Cadillac CT5-V Blackwing manual starts at $100,695 against $106,970 for the automatic, with the same 668-hp supercharged V8, but an August check found just 64 new manuals nationwide.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'For once, the enthusiast choice starts cheaper. The manual gives up nothing in power, but scarcity, not price, is now the obstacle.',
+    body: [
+      'America last new manual V8 sedan comes from Cadillac, and it starts $6,275 below its automatic counterpart on paper, before gas-guzzler tax. The 2026 manual starts at $100,695 including delivery, while the automatic and its required equipment reach $106,970. That $6,275 difference is $3,675 for the transmission plus $2,600 for Super Cruise, and the manual higher gas-guzzler tax narrows the gap to $5,875. An August 2026 inventory check found just 64 new manuals nationwide, and current-generation production ends by the end of calendar 2026.',
+      'The car is the Cadillac CT5-V Blackwing, and the lower factory-priced manual surrenders not a single horsepower. Its supercharged 6.2-litre V8 makes 668 hp and 659 pound-feet of torque, driving the rear wheels through a standard six-speed manual, while the optional 10-speed automatic gets the same output. Magnetic Ride Control, Brembo brakes and an electronic limited-slip rear differential are standard. CarBuzz estimates roughly 9,000 cars across the 2022 to 2026 run, including both transmissions, though that is an estimate, not a final factory total.',
+      'Collector details underline the scarcity. Cadillac V-Net records show just 74 CT5-V Blackwings wore Blaze Orange Metallic in 2022, about 4.2 percent of that year 1,763 cars across both transmissions, and the F1 Collector Series was limited to 26 cars, every one with a six-speed manual, with an upgraded supercharger lifting output to 685 hp. A 1,500-mile 2022 manual sold for $88,500 on August 14, 2026, against its $96,830 sticker. Cadillac has confirmed another combustion-powered CT5 for Lansing Grand River, but not a guaranteed 2027 arrival, V8 or manual, so waiting means betting on a combination Cadillac has not promised.',
+    ],
+    sources: ['HotCars', 'Cadillac', 'Bring a Trailer'],
+  },
+  {
+    slug: 'ford-f150-fuel-tank-recall-223472-october-2026',
+    title: 'Ford Recalls 223,472 F-150 Trucks Because the Fuel Tank May Not Be Properly Secured',
+    description:
+      'Ford is recalling 223,472 model-year 2023 to 2027 F-150 pickup trucks whose fuel tanks may be improperly secured, risking a fuel leak, fire or a tank detaching.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A fuel tank that was incorrectly inserted into the frame can partially or fully detach, stall the engine, leak fuel or fall onto the road as debris.',
+    body: [
+      'Ford is recalling 223,472 model-year 2023 to 2027 F-150 pickup trucks whose fuel tanks may be improperly secured to the vehicle body, according to MotorSafety.org coverage of the October 22, 2026 recall. The fuel tank in the affected vehicles was incorrectly inserted into the frame of the truck, which may lead to the tank partially or fully detaching, resulting in a fuel leak, an engine stall or a fire. The NHTSA recall number is 26V578000.',
+      'Each of those failure modes carries a different danger. An engine stall can leave the truck to be hit from behind at high speed, a fuel leak near an ignition source can start a fire, and a tank falling on the road becomes debris that an unsuspecting driver can strike, potentially causing a multi-car pileup. Dealers will inspect and replace the fuel tank straps free of charge.',
+      'The recall is a reminder of how large a single truck-platform campaign can be: nearly a quarter of a million of America best-selling vehicle line, across five model years, for a securing defect rather than an electronic one. F-150 owners should check their VIN against the recall, watch for the owner notification, and not delay the strap inspection, since this is a defect where the warning sign may be the failure itself.',
+    ],
+    sources: ['MotorSafety.org', 'NHTSA'],
+  },
+  {
+    slug: 'ram-1500-tpms-recall-16385-october-2026',
+    title: 'Ram Recalls 16,385 Ram 1500 Trucks Over Tire Pressure Monitors That May Miss Low Pressure',
+    description:
+      'FCA US is recalling 16,385 model-year 2026 Ram 1500 trucks because the tire pressure monitoring system may fail to detect low pressure or light the warning lamp.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A silent tire pressure failure can end in tire failure and a crash. Dealers will inspect and replace the sensors free, with owner letters expected October 27.',
+    body: [
+      'A subsidiary of Stellantis, FCA US, has recalled more than 16,000 Ram vehicles over an issue with their tire pressure monitoring systems, according to a recall notice from the National Highway Traffic Safety Administration. The recall applies to approximately 16,385 vehicles in the 2026 Ram 1500 model, under recall number 51D. The problem is that the tire pressure monitoring system may fail to detect low tire pressure, or fail to illuminate the tire pressure warning light.',
+      'That matters because an underinflated tire does not always announce itself. Low pressure increases heat, wear and the risk of sudden tire failure, and a driver who is relying on the dashboard warning will keep driving a tire that is quietly deteriorating. NHTSA says the issue could result in tire failure, increasing the risk of a crash. Anyone with an affected vehicle can take it to a dealer, who will inspect and replace the tire pressure sensors as necessary free of charge.',
+      'Owner notification letters are expected to be mailed on October 27, and owners can contact FCA US customer service at 1-800-853-1403 with recall number 51D. Owners can also check their VIN on the NHTSA recall database or search by license plate. This is a distinct campaign from the larger Ram 1500 rearview-camera recall reported earlier in October, so owners who already had one Ram recall addressed should still check for this one.',
+    ],
+    sources: ['USA TODAY', 'NHTSA'],
+  },
+  {
+    slug: 'ionna-charging-180-sites-1500-stalls-october-2026',
+    title: 'IONNA More Than Doubles in 2026, Passing 180 Sites and 1,500 Fast-Charging Stalls',
+    description:
+      'The automaker-backed IONNA network has more than doubled in 2026 to over 180 live sites and 1,500 DC fast-charging stalls, all up to 400 kW, and it now leads non-Tesla networks in NACS deployment.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Every stall can deliver up to 400 kW, average pricing sits at $0.38 per kWh against a $0.56 industry average, and IONNA just topped the JD Power public-charging ranking.',
+    body: [
+      'IONNA fast-charging network has more than doubled in size during 2026, surpassing 180 live sites and 1,500 DC fast-charging stalls, according to October 2026 reporting. The automaker-backed network, founded by BMW, General Motors, Honda, Hyundai, Kia, Mercedes-Benz, Stellantis and Toyota, is working toward 30,000 high-power charging bays by 2030. Its teal dispensers carry both NACS and CCS connectors, built for the connector transition from day one.',
+      'The differentiator is power and price. Every stall can deliver up to 400 kW of peak power, making IONNA the market leader in the 400 kW-plus segment, and it leads non-Tesla networks in NACS deployment, with about 36 percent of its stalls, 548 stalls, equipped with NACS connectors against an industry average of roughly 12 percent. Average pricing of $0.38 per kWh sits well below the industry average of $0.56 per kWh, per the DCFC Tracker. In September, IONNA topped the JD Power 2026 US Electric Vehicle Experience public-charging satisfaction ranking with 807 points out of 1,000.',
+      'The buildout is increasingly partnership-driven. A deal with Circle K puts more than 350 sites in scope under the Rechargeries at Circle K banner, with the first co-branded locations expected by the end of 2026. That retail-host model, chargers where drivers already stop for fuel, food and restrooms, is the bet that charging stops being a detour and becomes part of the errand. If IONNA sustains this pace, its 2030 target stops looking theoretical and starts looking like a schedule.',
+    ],
+    sources: ['EV Technica', 'JD Power'],
+  },
+  {
+    slug: 'us-fast-charging-crosses-80000-ports-q3-2026',
+    title: 'US Fast Charging Crosses 80,000 Ports for the First Time, and Tesla Built the Most of Them',
+    description:
+      'Operators added 4,106 fast-charging ports at 664 stations in Q3 2026, taking the US total to 80,964 ports across 14,614 locations, with Tesla new stations averaging 13.1 ports each.',
+    date: 'October 26, 2026',
+    dateISO: '2026-10-26',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The pace slowed from Q2, but new sites are getting bigger and more powerful. Tesla opened 11 locations with at least 24 stalls, the largest a 48-stall site in Fort Lauderdale.',
+    body: [
+      'According to Paren Q3 2026 report, cited by Electrek on October 13, 2026, operators added 4,106 fast-charging ports at 664 stations between July and September, bringing the US total to 80,964 ports across 14,614 locations. The country crossed the 80,000-port threshold for the first time. The pace slowed against the second quarter 4,618 new ports, but the composition of the new stations matters as much as the count: new sites are getting bigger and more powerful.',
+      'Tesla own contribution fits that pattern. Its new third-quarter stations averaged 13.1 ports each, and the company opened 11 locations with at least 24 stalls, the largest being a 48-stall site in Fort Lauderdale, Florida, per the same Paren data. On Tesla NACS information page, the company states that Superchargers make up three out of four fast chargers in North America and that its connector standard has been adopted by all large automakers. The network now serves vehicles from Ford, Rivian, GM, Volvo, Polestar, Nissan, Lucid, Mercedes-Benz, Hyundai, Genesis, Kia, Honda, Acura, Jaguar Land Rover, Audi, Porsche, Toyota, Volkswagen, Subaru, BMW and Stellantis, per the Tesla list.',
+      'That list is the quiet backdrop to the expansion story. Every port Tesla adds in the third quarter of 2026 is a port that Ford and Hyundai drivers can increasingly use natively, and the open-access commitment is why the Tesla buildout numbers now shape charging economics for the whole market, not just its own customers. The next question is not whether America can build 80,000 fast-charging ports, because it just did, but whether reliability, pricing and uptime at those ports keep pace with the count.',
+    ],
+    sources: ['Electrek', 'Paren'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
