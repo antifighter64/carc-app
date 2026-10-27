@@ -3247,6 +3247,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['Electrek', 'Paren'],
   },
+  {
+    slug: 'porsche-center-lock-do-not-drive-548-october-2026',
+    title: 'Porsche Tells 548 Owners Not to Drive: Center-Lock Wheel Bolts Can Fracture and Let a Wheel Come Off',
+    description:
+      'Porsche expanded its center-lock wheel recall by 548 cars, all 2024 911 and 718 performance models, with a do-not-drive warning until dealers inspect them.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A fractured center-lock bolt can let a wheel detach. Owners should check their VIN now rather than wait for a December letter.',
+    body: [
+      'Porsche Cars North America is recalling 548 model-year 2024 sports cars because a center-lock wheel bolt may fracture and cause the wheel to detach, according to the National Highway Traffic Safety Administration. The recall carries a do-not-drive warning: owners are advised not to drive their vehicles until a dealer has inspected the wheel fastening system and replaced any incorrectly manufactured parts. The campaign number is 26V682, and the Porsche number for the recall is ATA1.',
+      'The affected cars are all top-tier performance variants: 168 Carrera GTS models, 94 911 Turbo S models, 73 718 Cayman GT4 RS models, 70 718 Spyder RS models, 50 911 GT3 models, 41 911 GT3 RS models, 39 911 S/T models, and 13 911 Turbo models. The recall report says center-lock wheel components used in certain production ranges were manufactured out of specification and could fracture. This campaign expands a 2024 recall for the same problem, and reporting on the expansion says two additional field fractures in May and August 2026 prompted Porsche and its supplier to reopen the investigation and trace additional parts from the same material batch.',
+      'Dealers will inspect the center-lock wheel fastening system and replace any incorrectly manufactured parts free of charge. Vehicle identification numbers in this population became searchable on NHTSA.gov on October 20, 2026, and owner notification letters are expected to be mailed December 15, 2026. Owners can also contact Porsche customer service at 1-800-767-7243. If a car on this list is still being driven, the safest step is to stop and arrange a tow to the dealer, because a wheel separation gives no reliable warning and leaves no margin for a gentle failure.',
+    ],
+    sources: ['Autoblog', 'NHTSA', 'Kelley Blue Book'],
+  },
+  {
+    slug: 'audi-q4-etron-battery-fire-recall-9048-october-2026',
+    title: 'Audi Recalls 9,048 Q4 e-tron EVs Over Battery Fire Risk and Tells Owners to Cap Charging at 80 Percent',
+    description:
+      'Audi recalls 9,048 Q4 e-tron EVs over a battery fire risk. Owners should limit charging to 80 percent until a repair is ready.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Until a permanent repair is ready, the interim instruction is simple: do not charge above 80 percent.',
+    body: [
+      'Volkswagen Group of America is recalling 9,048 Audi electric vehicles because their high-voltage batteries may fail and potentially cause a fire, according to a safety notice published October 21 on the NHTSA website. The recall covers certain 2024 and 2025 Audi Q4 e-tron and Audi Q4 Sportback e-tron vehicles, including vehicles produced through June 2025. The NHTSA campaign number is 26V698.',
+      'The reported risk involves thermal propagation, the spread of a rapid and uncontrolled temperature increase inside the high-voltage battery, which the notice links to vehicles with a state of charge above 80 percent. Volkswagen said the cause remains under investigation and that some batteries in the affected vehicles may not meet the required quality standards. The company also said it is unaware of any claims, crashes, fires, injuries, or deaths associated with this issue. Because a permanent remedy is still under development, affected owners are advised to limit charging to 80 percent of battery capacity in the meantime.',
+      'Owners should not wait for a letter to act on the interim instruction. Check the vehicle identification number in the NHTSA recall database to confirm whether a specific car is included, since not every Q4 e-tron from these model years is necessarily affected. A battery fire risk is the kind of defect where the interim guidance matters as much as the eventual repair, and charging to 80 percent costs little range for most daily driving while the fix is prepared.',
+    ],
+    sources: ['USA Today', 'NHTSA'],
+  },
+  {
+    slug: 'ford-expedition-super-duty-headlight-recall-41748-october-2026',
+    title: 'Ford Recalls 41,748 Expedition and Super Duty Trucks Over Headlights That Can Go Dark',
+    description:
+      'Ford recalls 41,748 Expedition and Super Duty trucks because a contaminated LED chip can knock out lights, including headlights.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A headlight that fails at night is a crash risk, not a cosmetic fault. Dealers will inspect and replace the assemblies free of charge.',
+    body: [
+      'Ford Motor Company is recalling certain 2025-2027 Expedition vehicles and 2026 F-250 Super Duty, F-350 Super Duty, F-450 Super Duty, and F-550 Super Duty vehicles because their headlight assemblies may contain a contaminated LED chip. The chip can cause a loss of daytime running lights, parking lights, high beams, or low beams. The vehicles therefore fail to comply with Federal Motor Vehicle Safety Standard number 108, which covers lamps, reflective devices, and associated equipment. The NHTSA number for the campaign is 26V606, and the Ford number is 26C43.',
+      'The potential number of units affected is 41,748. Dealers will inspect the headlight assemblies and replace them as necessary, free of charge. Owner notification letters were expected to be mailed October 26, 2026, and vehicle identification numbers involved in the recall became searchable on NHTSA.gov the same day. That timing matters for buyers shopping used Expeditions and Super Duty trucks right now, because a VIN check will show this campaign immediately rather than months from now.',
+      'Drivers should treat any flickering, dimming, or dead lamp on an affected truck as a reason to book the inspection promptly, especially before night driving or towing. Headlight failures are easy to dismiss in daylight and dangerous after dark, and a free dealer replacement removes the usual reason to put the repair off.',
+    ],
+    sources: ['NHTSA', 'Used Car News'],
+  },
+  {
+    slug: 'subaru-crosstrek-forester-ball-joint-do-not-drive-8-october-2026',
+    title: 'Subaru Issues Do-Not-Drive Warning for 8 Crosstrek and Forester SUVs Over a Suspension Joint That Can Separate',
+    description:
+      'Subaru recalls eight 2026 Crosstrek and Forester SUVs over a ball joint that may separate, with a do-not-drive warning.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Only eight vehicles are involved, but the warning is absolute: do not drive until the remedy is complete.',
+    body: [
+      'Subaru of America is recalling certain 2026 Crosstrek and Forester vehicles because the castle nut on the left-front lower control arm ball joint may be improperly fastened, which can lead to the ball joint separating from the lower control arm. A separated ball joint can cause a loss of vehicle control and increase the risk of a crash, and reporting on the recall notes that the failure can happen without warning. The NHTSA campaign number is 26V685, and the Subaru number is WRI26. The recall report reached NHTSA on October 19, 2026.',
+      'The population is tiny, just eight vehicles across both models, with no per-model split published by NHTSA. Small does not mean unimportant here. When a recall carries a do-not-drive advisory, the manufacturer has judged that the failure mode is severe enough that even a handful of cars should stay parked. Owners are advised not to drive their vehicles until the remedy is completed.',
+      'Dealers will inspect the left-front lower control arm ball joint assembly and replace it as necessary, free of charge. Owner notification letters are expected to be mailed December 16, 2026, and owners can contact Subaru customer service at 1-844-373-6614. Because the population is so small, an owner of a 2026 Crosstrek or Forester should check the VIN now rather than assume the car is unaffected: with eight cars in the whole country, guessing is not a strategy.',
+    ],
+    sources: ['NHTSA', 'Kelley Blue Book', 'Autoblog'],
+  },
+  {
+    slug: 'ford-october-27-two-recalls-41746-october-2026',
+    title: 'Ford Adds Two More NHTSA Recalls on October 27, Covering 30,123 and 11,623 Vehicles',
+    description:
+      'Reuters summaries published October 27 list two new Ford recalls covering 30,123 and 11,623 US vehicles.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 2,
+    excerpt:
+      'Two fresh Ford recall notices appeared on October 27. The counts are confirmed; the model and defect details were not in the public summaries reviewed.',
+    body: [
+      'Two new Ford recall notices from the National Highway Traffic Safety Administration were summarized by Reuters and published on October 27, 2026. One notice covers 30,123 US vehicles and was published at 07:10 UTC. The other covers 11,623 US vehicles and was published at 07:09 UTC. Together, the two notices cover 41,746 vehicles. The public summaries reviewed for this article listed the manufacturer, the vehicle counts, and the publication times, but did not include the affected models or the defect descriptions.',
+      'That gap is worth stating plainly rather than filling with a guess. Ford has filed several distinct recalls in October 2026, including the 41,748-vehicle headlight recall, the 102,159-vehicle analog gauge recall, and earlier fuel-system and tire-pressure campaigns, and it would be wrong to attach one of those defects to these two new counts without the underlying NHTSA filing. Readers should treat these two notices as a prompt to check, not as a diagnosis.',
+      'The practical step is the same for every Ford owner this month: enter the 17-character vehicle identification number at NHTSA.gov and see whether any open campaign applies to that specific vehicle. Recall repairs are free at dealers, and a VIN check takes less time than sorting out which October headline matches which truck.',
+    ],
+    sources: ['Reuters', 'TradingView'],
+  },
+  {
+    slug: 'ram-outsells-jeep-q3-2026-october-2026',
+    title: 'Ram Passes Jeep in Q3 Sales for the First Time This Year as the 1500 Jumps 73 Percent',
+    description:
+      'Stellantis US sales were flat in Q3 at 324,277, but Ram rose 29 percent to 134,072 while Jeep fell 20 percent to 128,542, putting Ram ahead by 5,530 vehicles.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Ram was supposed to pass Jeep by 2030. On Q3 numbers, it just did, years early and on trucks it already sells.',
+    body: [
+      'Stellantis reported US sales of 324,277 vehicles in the third quarter of 2026, essentially flat against 324,825 a year earlier, with year-to-date sales up 3 percent to 958,463. Inside that flat headline, the brand split was dramatic. Ram sold 134,072 vehicles, up 29 percent, while Jeep sold 128,542, down 20 percent. Ram finished the quarter 5,530 vehicles ahead of Jeep, the first time this year that Stellantis top-selling brand has been pushed into second place.',
+      'One truck did most of the work. Ram 1500 sales rose 73 percent to 76,650, from 44,349 a year earlier, and all Ram pickups together rose 34 percent to 117,757. Reporting on the quarter notes that Ram 1500 retail sales rose 42 percent, well below the 73 percent total gain, which means fleet sales grew faster than retail even though retail growth was real. On the Jeep side, the Wrangler grew 5 percent to 44,757 and the new Cherokee Hybrid added 10,344 sales from almost nothing, but the Grand Cherokee fell 30 percent to 38,027 and the Compass fell 62 percent to 10,811, a combined loss of more than 33,000 sales that neither bright spot could cover.',
+      'The timing upends the company own plan. Stellantis targets cited in reporting call for Ram to reach roughly 825,000 North American sales by 2030, about 85,000 more than the Jeep goal, on the strength of a lineup that does not exist yet, including a new midsize Dakota pickup. Instead, the crossover is happening now with the trucks Ram already sells. Chrysler also grew, with Pacifica sales up 6 percent to 34,491, and Dodge was up 2 percent to 26,546, but neither brand changes the story: for the first time in 2026, Stellantis in America is a Ram company first.',
+    ],
+    sources: ['Stellantis', 'Autoblog'],
+  },
+  {
+    slug: 'waymo-las-vegas-airport-harry-reid-october-2026',
+    title: 'Waymo Starts Driverless Airport Rides in Las Vegas at Harry Reid International',
+    description:
+      'Waymo began driverless airport rides in Las Vegas on October 21, using zones on the Ground Zero Level of Terminals 1 and 3.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Current Las Vegas riders get airport access first. Las Vegas becomes the sixth major airport in the Waymo network.',
+    body: [
+      'Waymo began offering driverless rides to and from Harry Reid International Airport in Las Vegas on Wednesday, October 21, 2026. Pickups and dropoffs are at dedicated autonomous-vehicle zones on the Ground Zero Level of Terminal 1 and Terminal 3. Access starts with current Waymo riders in Las Vegas, with the company saying it will gradually welcome more riders over time before opening to everyone. Riders can travel anywhere in the current 24-square-mile Las Vegas service area.',
+      'Las Vegas is a fast-moving robotaxi market. Public rides in the city only began in September 2026, and the airport is now the sixth major airport in the Waymo network, after Phoenix Sky Harbor, Nashville, San Antonio, San Francisco, and San Jose. Competition is already at the curb: Amazon Zoox already serves the airport, and reporting on the launch notes that Nevada regulators approved permits in August that will let Tesla and Uber put thousands of robotaxis on Las Vegas streets over the next year.',
+      'Airports are a revealing test for driverless services because they combine tight curbs, heavy luggage, flight-timed demand peaks, and passengers who cannot afford a missed pickup. A dedicated zone on a single level, rather than a general curb, is the practical compromise that lets an airport say yes without redesigning its terminals. If the Las Vegas rollout holds up through holiday travel, expect other airports to copy the zone model rather than debate the technology.',
+    ],
+    sources: ['Tesla News Wire', 'TechCrunch'],
+  },
+  {
+    slug: 'tesla-robotaxi-texas-registry-769-october-2026',
+    title: 'Tesla Robotaxi Registry Tally Hits 769 in Texas, Still Trailing Waymo as NHTSA Answers Come Due October 30',
+    description:
+      'Texas registry data put the Tesla robotaxi fleet at 769 vehicles by October 26-27, with 349 Cybercabs, still trailing Waymo.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Tesla is adding cars fast, but the independent registry count still trails Waymo, and the Cybercab certification file is due October 30.',
+    body: [
+      'By October 27, 2026, Texas registry data cited by trackers put the registered Cybercab count at 349. Reports based on Texas registry data put the combined Tesla autonomous-vehicle fleet, including Cybercabs and Model Y robotaxis, at roughly 739 vehicles in an October 9-10 snapshot, compared with approximately 1,185 for Waymo. By October 26-27, a further 30 Cybercabs were reported, taking the registry total to 769. Tesla own public figure is 300-plus Cybercabs serving Austin, and trackers caution that the company figure has not been independently verified and no government agency has published its own audited count of active, revenue-generating Cybercabs.',
+      'The regulatory calendar is now as important as the fleet count. Reports indicate that the National Highway Traffic Safety Administration opened an audit query into how Tesla certifies that the Cybercab meets federal safety requirements, with Tesla sworn responses reportedly due by October 30, 2026. Reporting stresses that this is a standard regulatory inquiry process and does not, on its own, indicate a finding of a safety defect. The Cybercab is a two-seat vehicle built without a steering wheel or pedals, accessed only through the Tesla Robotaxi app, with no manual driving fallback inside the vehicle.',
+      'The commercial plan still points to Dallas next. Tesla said on October 21 that it plans to launch Cybercab service in Dallas in November 2026, after Austin, and it already operates supervised Model Y robotaxi service in Dallas and Houston. The gap between the registry count and the company count is the number to watch: if Dallas launches on schedule, the registry should show it within weeks, with or without a company announcement.',
+    ],
+    sources: ['Tech Insider', 'Tesla'],
+  },
+  {
+    slug: 'tesla-robotaxi-weekly-mileage-waymo-chase-october-2026',
+    title: 'Tesla Robotaxi Mileage Is Climbing Fast Enough That One Forecast Has It Passing Waymo in About 11 Weeks',
+    description:
+      'A forecast says Tesla weekly robotaxi mileage could pass Waymo in about 11 weeks if 20 percent weekly growth holds.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The forecast is arithmetic, not a promise. It shows how fast Tesla weekly mileage is compounding, and how careful the comparison needs to be.',
+    body: [
+      'On October 24, electric vehicle outlet CleanTechnica forecast that if recent growth holds, Tesla weekly autonomous robotaxi mileage could surpass Waymo total weekly US mileage in about 11 weeks. The analysis estimated recent Tesla weekly autonomous mileage at about 558,000 miles, up from about 250,000 miles in the previous quarter, with a later company figure reaching 3.3 million miles. Applying a 20 percent weekly compound growth rate to the weekly estimate would put Tesla above Waymo weekly mileage of around 4 million miles in about 11 weeks, and the same analysis said Tesla could exceed half of the combined weekly paid passenger miles of Uber and Lyft across three major Texas cities around mid-February next year.',
+      'The Austin comparison is the sharpest part of the forecast. Tesla weekly autonomous mileage in Austin was tallied at 437,800 miles, against about 406,000 miles a week for Waymo as of the second quarter of 2026. Waymo cumulative passenger-only autonomous mileage stood at 271.3 million miles as of the end of June 2026, with a second-quarter increase of about 50.7 million miles, up about 1.6 percent from 49.9 million miles in the first quarter. Phoenix declined for a second straight quarter, Austin quarterly growth fell to about 4 percent from more than 100 percent in early 2025, and Los Angeles and San Francisco grew about 9 percent and 13 percent respectively.',
+      'The honest caveat comes from the forecast itself: the Austin and Waymo figures cover different measurement periods, making a direct comparison hard to treat as exact. A 20 percent weekly growth rate also cannot compound forever, since it depends on vehicle supply, city approvals, and demand at every step. What the forecast does establish is momentum. Tesla went from a standing start in Austin to a weekly mileage figure in the same range as Waymo in one city, and the question for the next quarter is whether that compounding survives contact with winter demand and the Dallas launch.',
+    ],
+    sources: ['CleanTechnica', 'Digital Today'],
+  },
+  {
+    slug: 'flying-car-field-zero-faa-type-certificates-october-2026',
+    title: 'Flying Cars in October 2026: Four Big Approaches, Zero FAA Type Certificates',
+    description:
+      'Tesla, Joby, Archer, Alef, and XPeng flying vehicles are all still demonstrations in October 2026, with zero FAA type certificates.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The flying car industry in October 2026 is still an industry of demonstrations, not deliveries. Certification is the gap between every demo and a product.',
+    body: [
+      'Laid out side by side, the flying car field splits into three different bets. Tesla is building a road car with a stunt system: compressed-air or cold-gas thrusters derived from SpaceX work, used for a few seconds of dramatic lift, flip, and landing in a closed-site demonstration. No aviation certification has been sought for the Roadster system, the demo was invite-only and not approved for public road use, and Tesla has not confirmed a final purchase price, a delivery date, or whether the thruster system shown at McGregor will ship on customer vehicles. The 2028 production start mentioned by Elon Musk is a target, not a delivery schedule.',
+      'Joby Aviation and Archer Aviation are building purpose-built air taxis, not road cars. Joby S4 is a five-seat tilting-rotor electric aircraft, reportedly in FAA Stage 5, the Show and Verify stage, with FAA-conforming aircraft flying and more than 9,000 test miles reported in 2025, but no type certificate yet and no paying passenger service. Archer Midnight is also a five-seat electric aircraft, with FAA Phase 3 complete and Phase 4 compliance underway, and the FAA having accepted 100 percent of its proposed means of compliance. Archer is targeting readiness before the 2028 Olympics, but it too has no type certificate and no commercial passenger service yet.',
+      'Alef Aeronautics and XPeng AeroHT are trying to merge the car and the aircraft into one object. Alef Model A is a two-seat roadable vehicle with distributed electric propulsion, holding an FAA Special Airworthiness Certificate for exhibition and research only, which is not the same as a type certificate authorizing sale to the public. XPeng AeroHT uses a split-body design with a separable flight module, with demonstration flights reported and no confirmed full type certification date. The honest summary of the whole field as of October 2026 is four firms and zero FAA type certificates, which is why every flying car headline this month should be read as a demonstration report, not a delivery announcement.',
+    ],
+    sources: ['Tech Insider'],
+  },
+  {
+    slug: 'kia-ev6-2027-pricing-ev3-gap-october-2026',
+    title: '2027 Kia EV6 Holds Its Price at $37,900, a Full $8,000 Above the New EV3',
+    description:
+      'Kia kept 2027 EV6 pricing unchanged, with the base Light at $37,900, while the new EV3 starts at $29,890.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The EV6 did not get cheaper for 2027. Instead, Kia created the price gap from below, with the new EV3 starting at $29,890.',
+    body: [
+      'Kia announced 2027 EV6 pricing with the model carried over from last year and prices unchanged across all trims. The base EV6 Light standard-range rear-wheel-drive model starts at $37,900, not including the $1,545 destination fee, with a 63 kWh battery and up to 237 miles of range. The Light long-range rear-wheel-drive model costs $41,200 and delivers up to 319 miles from an 84 kWh battery. The rest of the lineup runs from $44,800 for the Wind rear-wheel-drive model to $53,000 for the GT-Line all-wheel-drive model, with all-wheel-drive range up to 295 miles and GT-Line all-wheel-drive range up to 270 miles.',
+      'The price story is really the EV3 story. After reducing prices on the 2026 EV6 by $5,000 just a few months earlier, Kia held the 2027 EV6 steady and launched the new EV3 at $29,890, about $8,000 less than the EV6. The entry-level EV3 Light front-wheel-drive model uses a 58.3 kWh battery with an EPA-estimated range of up to 221 miles, and the EV3 is available in five trims: Light, Wind, Land, GT-Line, and GT. Kia said the unchanged EV6 price plus the new EV3 is about making electric vehicles more attainable for buyers who embrace the fully electric lifestyle.',
+      'For shoppers, the comparison is now a range-versus-price trade rather than a trim-versus-trim puzzle. The EV3 saves about $8,000 and gives up about 16 miles against the base EV6 and about 98 miles against the long-range EV6. Buyers who drive mostly in town may never notice the smaller battery, while buyers who regularly drive long highway stretches will feel the 319-mile long-range EV6 in a way no discount erases.',
+    ],
+    sources: ['Electrek', 'Kia'],
+  },
+  {
+    slug: 'mustang-mach-e-2027-big-battery-standard-october-2026',
+    title: 'Every 2027 Mustang Mach-E Gets the Big Battery, and Most Versions Get Cheaper',
+    description:
+      'Ford made the extended-range battery standard on every 2027 Mustang Mach-E, starting at $39,995, with most versions cheaper.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A bigger battery and lower prices on most versions show how hard an electric SUV has to work for buyers a year after the federal tax credit ended.',
+    body: [
+      'Every 2027 Mustang Mach-E gets the extended-range battery, with 88 kWh usable in the Select and Premium models and 91 kWh in the GT and Rally models, and prices start at $39,995 before destination. Reporting on the announcement says every version except the rear-drive Select costs $2,300 to $3,050 less than before. Orders opened October 22, and EPA range figures had not been announced yet at the time of reporting, so buyers should treat the battery size as the confirmed change and wait for the official range rating before comparing road-trip ability.',
+      'The lineup also adds a light off-road option. A new $2,295 Trail package for the all-wheel-drive Select adds a small lift, the Rally 19-inch wheels, and Michelin CrossClimate 2 all-weather tires, from the first quarter of 2027. That package sits in a different place from a dedicated off-road trim: it is a factory option that makes a mainstream electric SUV a little more capable on dirt and snow, rather than a separate model with its own powertrain.',
+      'The pricing move is the point. A year after the federal tax credit ended, an electric SUV cannot rely on a tax incentive to close the gap with a gasoline rival, so Ford is closing it with a bigger standard battery and lower prices on most versions. The rear-drive Select is the exception that proves the rule: it keeps the lineup entry price in reach while the rest of the range gets cheaper for more battery.',
+    ],
+    sources: ['Motor1', 'Carveyance'],
+  },
+  {
+    slug: 'hyundai-kona-ioniq5-2027-pricing-october-2026',
+    title: 'Hyundai 2027 Pricing: Kona Starts at $25,500 Without Stop-Start, Ioniq 5 Starts at $35,250',
+    description:
+      'Hyundai lists the 2027 Kona from $25,500 without stop-start on the SE, and the Ioniq 5 from $35,250.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Two small 2027 changes matter more than a new wheel design: the Kona SE loses stop-start, and the Ioniq 5 gates HomeLink behind the top trim.',
+    body: [
+      'Hyundai US specifications list 2027 Kona starting prices of $25,500 for the SE, $26,825 for the SEL Sport, $28,425 for the SEL Premium, and $32,535 for the Limited, before freight, taxes, fees, and options. The step from SEL Sport to SEL Premium is $1,600 and buys the stronger engine plus additional equipment, while the Limited costs another $4,110 above SEL Premium. For shoppers who dislike automatic stop-start, the least expensive SE is the version with the explicitly confirmed deletion, a small model-year change that can matter more in everyday driving than a styling tweak.',
+      'The 2027 Ioniq 5 pricing ladder starts at $35,250 for the SE Standard Range, then $37,750 for the SE, $40,200 for the SEL, $45,225 for the Limited, and $46,525 for the all-wheel-drive XRT, again before freight, taxes, fees, and options. The SE costs $2,500 more than the SE Standard Range and adds 73 miles of EPA-estimated range in rear-drive form. The SEL is the new entry point for roof rails, but buyers who want factory-integrated HomeLink must step up to the Limited, a distinction worth checking on the specific vehicle window sticker.',
+      'Availability is the caveat on the Ioniq 5. Hyundai US model page currently says the 2027 Ioniq 5 is sold only in select states, so shoppers should check local availability before treating a listed configuration and price as an in-stock choice. The Kona, by contrast, is a mainstream compact SUV with a straightforward ladder, and the SE stop-start deletion gives budget buyers a genuine reason to pick the base trim rather than feeling pushed up the range.',
+    ],
+    sources: ['Hyundai', 'We Talk Cars'],
+  },
+  {
+    slug: 'toyota-camry-2027-price-increase-700-october-2026',
+    title: '2027 Toyota Camry Costs $700 More Across the Board, With the Same Hybrid Lineup',
+    description:
+      'Toyota announced 2027 Camry pricing on October 13, with every trim $700 more than its 2026 counterpart and the base LE starting at $29,700 before destination.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Pay more, get nothing new, at least on paper. Against its hybrid rivals, the math still works for the Camry.',
+    body: [
+      'Toyota announced pricing for the 2027 Camry on October 13, and the only thing that changed is the number on the window sticker. Every trim costs $700 more than its 2026 counterpart once the carryover $1,295 destination fee is added, with the base LE now starting at $29,700 before destination. The hybrid powertrain, the five-trim lineup, and the feature set all carry over untouched, and the Camry remains a hybrid-only sedan.',
+      'On its face, that is a tough sell: pay more and get nothing new. Run the pricing against the closest hybrid-only rivals, however, and the increase looks less painful. Reporting on the announcement notes that the Camry still undercuts the Honda Accord Hybrid by thousands of dollars and only trails the Hyundai Sonata Hybrid by a few hundred, all while posting better fuel economy than either rival. That comparison is analysis from the reporting outlet, not a Toyota claim, but it explains why a carryover car can raise its price without losing its value argument.',
+      'The broader lesson is about what hybrid buyers are actually paying for in 2027. With the sedan market shrinking and hybrid demand strong, Toyota does not need a redesign to hold Camry pricing power. It needs the car to stay cheaper than the Accord Hybrid, close to the Sonata Hybrid, and more efficient than both, and on those three tests the $700 increase does not change the verdict.',
+    ],
+    sources: ['Toyota', 'TopSpeed'],
+  },
+  {
+    slug: 'toyota-crown-signia-2027-pricing-october-2026',
+    title: '2027 Toyota Crown Signia Starts at $44,890, and the Top Trim Hides a $200 Increase Behind a $2,065 Headline',
+    description:
+      'The 2027 Crown Signia Limited rises $2,065 on paper, but only $200 versus a similarly equipped 2026 model.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The headline increase is misleading. The Limited folds last year optional tech package into the base price, so the real increase is $200.',
+    body: [
+      'For 2027, the top-of-the-line Crown Signia Limited comes with a surround-view camera, lane change assist, Toyota Traffic Jam Assist system, front cross-traffic alert, exterior mirrors with puddle lights and a reverse tilt-down feature, and front and rear parking assist with automatic emergency braking. The Limited trim used to start at $50,685, with the Advanced Tech Package costing a further $1,865, for a fully loaded 2026 price of $52,550. In 2027, the fully loaded Limited costs $52,750. The trim price therefore rises $2,065 on paper, but only $200 against a similarly equipped 2026 model, because the optional package is now standard equipment.',
+      'The rest of the range starts at $44,890, and the Limited also adds a fixed glass panoramic roof, an 11-speaker JBL sound system with subwoofer, a digital rearview mirror, rain-sensing wipers, and 21-inch wheels in place of the XLE 19-inch set, with two-tone paint pairing a black roof with colors including Finish Line Red or Oxygen White available. Every 2027 Crown Signia carries standard all-wheel drive and a hybrid powertrain rated at 38 mpg combined, with Toyota 36-month and 36,000-mile basic warranty, 60-month and 60,000-mile powertrain cover, hybrid components protected for 8 years or 100,000 miles, and the hybrid battery covered for 10 years or 150,000 miles.',
+      'In its class, the Crown Signia is one of the pricier two-row midsize hybrid SUVs, costing more than the Mazda CX-70, Jeep Grand Cherokee, Nissan Murano, Subaru Outback, Chevrolet Blazer, and Volkswagen Atlas Cross Sport, while the Honda Passport is one of the few rivals that costs more. The value case is therefore not about being cheap. It is about a car-like driving position, standard all-wheel drive, and a longer standard features list, without paying for a third row the buyer does not need.',
+    ],
+    sources: ['Toyota', 'CarsDirect'],
+  },
+  {
+    slug: 'under-30000-hrv-corolla-cross-2027-october-2026',
+    title: 'Honda HR-V and Toyota Corolla Cross Lead the Shrinking Under-$30,000 Class for 2027',
+    description:
+      'Eleven new cars can still be bought for under $30,000 in 2027, including the Honda HR-V from $26,600 and the Toyota Corolla Cross from $25,535 before delivery.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The under-$30,000 class is shrinking, but two small SUVs still anchor it, and both leave room for all-wheel drive or a higher trim before the ceiling.',
+    body: [
+      'Eleven new cars can still be bought for under $30,000 in 2027, according to a roundup of the remaining affordable class, and two small SUVs show how tight the math has become. The Honda HR-V LX starts at $26,600, with a $1,550 destination charge bringing the suggested delivered price to $28,150. The Sport front-wheel-drive model starts at $28,400, or $29,950 including destination, while the all-wheel-drive LX reaches $29,650 including destination. Honda lists a 158-horsepower engine, a nine-inch touchscreen, wireless Apple CarPlay and Android Auto, and Honda Sensing driver-assistance technology.',
+      'The Toyota Corolla Cross is the cheaper entry point. Toyota official October 2026 announcement puts the 2027 Corolla Cross L front-wheel-drive model at $25,535 before delivery charges, noticeably lower than preliminary pricing roundups had suggested. The compact SUV offers 169 horsepower from its gasoline powertrain, with front-wheel drive or available all-wheel drive, plus a raised seating position, flexible cargo area, and folding rear seats. The hybrid lineup sits outside the under-$30,000 gate, starting at $31,415.',
+      'The lesson for budget shoppers is to watch the delivered price, not the headline price. The HR-V LX looks like a $26,600 car and costs $28,150 delivered, leaving just $1,850 of headroom before $30,000, and the Corolla Cross looks cheaper still until delivery charges are added. Both cars still qualify, but neither leaves much room for options, which is exactly why the under-$30,000 list has shrunk to eleven models.',
+    ],
+    sources: ['Mens Journal', 'Toyota', 'Honda'],
+  },
+  {
+    slug: 'october-payment-record-823-jd-power-october-2026',
+    title: 'October New-Car Payment Hits a Record $823 Even as Prices Stay Flat, J.D. Power Forecasts',
+    description:
+      'J.D. Power forecasts an average October new-vehicle payment of $823, a record for the month, with prices flat.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Prices stopped rising and incentives rose, yet the payment went up anyway, because rates rose and loans stretched longer.',
+    body: [
+      'The average monthly payment on a new vehicle financed in October 2026 will be $823, up 2.6 percent and the highest ever for an October, according to a J.D. Power and GlobalData forecast published October 22. The average transaction price barely moved, at $46,329, down 0.1 percent from a year earlier, and incentives rose 13.1 percent to $3,304 per vehicle. Sales are holding up in the forecast, with 1,327,100 new vehicles expected to be sold in October at a seasonally adjusted annual pace of 15.6 million, unchanged from a year ago.',
+      'A payment has three parts: the amount borrowed, the interest rate, and the length of the loan. With prices flat, the amount borrowed hardly moved. The rate did, rising to an average of 6.81 percent, the highest for an October since 2023. More buyers are also stretching the loan to bring the monthly number down: 13.3 percent of new-vehicle loans now run 84 months or longer, up 0.9 points from a year earlier. Those buyers pay less each month and more interest overall. Already, 29.6 percent of trade-ins carry negative equity, meaning the owner owes more than the car is worth, and that debt often gets rolled into the next loan.',
+      'The sales mix in the forecast shows where demand is moving. Hybrids account for 18.6 percent of retail sales, up 4.0 points, while electric vehicles account for 6.9 percent, down 0.3 points. Readers should not confuse this October forecast with the Edmunds third-quarter figures, which put the average new-car payment at $787 on a different dataset and period. Both datasets point the same way, but the J.D. Power October number is a forecast for one month, not a quarterly average, and the record it sets is specifically an October record.',
+    ],
+    sources: ['J.D. Power', 'GlobalData', 'Carveyance'],
+  },
+  {
+    slug: 'buyers-shift-smaller-vehicles-50562-september-october-2026',
+    title: 'Buyers Are Downsizing as the Average New-Car Price Nears Its Record at $50,562',
+    description:
+      'Kelley Blue Book put the September average new-car price at $50,562, just $52 below the December 2025 record.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Shoppers are not waiting for prices to fall. They are buying smaller cars, and the data shows the shift across nearly every high-volume segment.',
+    body: [
+      'New vehicle prices sit near all-time highs even as shoppers shift toward compact cars and smaller SUVs. The average transaction price hit $50,562 in September, just $52 below the record set in December 2025, according to Kelley Blue Book data reported in October. Cox Automotive executive analyst Erin Keating told Business Insider that customers continue to show they are willing to adapt by moving to smaller vehicles, like sedans or smaller-sized SUVs, rather than paying for the big trucks and loaded crossovers that dominated dealer lots in recent years.',
+      'The segment data backs up the shift. Compact cars saw prices rise 3.2 percent year over year to $27,977, while subcompact SUVs climbed 1.5 percent to $31,213. Four of the five highest-volume segments posted gains above the industry average, with compact SUVs the exception, falling 0.4 percent to $37,614. Used car prices tell a parallel story: the average listed price for a used vehicle stood at about $29,000 in mid-October with typical mileage around 66,500, per Visor data, which separately lists an average used asking price of $28,867 at 67,542 miles. Cheap cars sell fast, with vehicles priced between $5,000 and $10,000 spending an average of 25 days on dealer lots in the second quarter, the fastest of any price range, according to Edmunds.',
+      'Affordability pressure runs deep in the used market as well. Vehicles priced below $20,000 made up just 31.8 percent of used sales in the second quarter of 2026, against 55.2 percent in 2019, according to Edmunds data cited in reporting. Cars in the $10,000 to $15,000 range now average nearly 100,000 miles and almost nine years old. The market is not collapsing, but it is sorting itself: new-car buyers downsize, used-car buyers accept older and higher-mileage cars, and the cheapest cars that do appear sell first.',
+    ],
+    sources: ['Kelley Blue Book', 'Cox Automotive', 'Edmunds', 'Visor'],
+  },
+  {
+    slug: 'china-launches-hongqi-roewe-jetta-october-2026',
+    title: 'China Launch Wave: Hongqi G919, Roewe Jiayue 07, and Jetta First Electric Sedan Arrive in One Week',
+    description:
+      'Three Chinese-market launches landed October 22-25, from the Hongqi G919 at up to CNY 429,800 to the Jetta M6 from CNY 79,800.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Luxury off-road, mid-size family SUV, and budget electric sedan, all in one week, show how broad the Chinese new-energy market has become.',
+    body: [
+      'On October 25, FAW Hongqi announced the official launch of the all-new Hongqi G919 luxury range-extended off-road SUV. The model is available in three variants, including one limited edition, with prices ranging from CNY 349,800 to CNY 429,800. The G919 measures 5,135 mm in length, 2,050 mm in width, and 1,950 mm in height, placing it firmly in the full-size off-road class that Chinese luxury buyers now expect to come with a range-extended powertrain rather than a conventional large engine alone.',
+      'Two days earlier, on October 23, SAIC Roewe announced the official launch of the all-new Jiayue 07 mid-to-large range-extended SUV, available in four variants with prices ranging from CNY 119,800 to CNY 144,800. The model was jointly developed by SAIC Roewe and Beijing Volcano Engine Technology, the technology arm whose name reflects the Chinese tech industry push into vehicle software and intelligence. The Jiayue 07 sits in the heart of the family SUV market, where range-extended powertrains offer electric driving for daily use with a gasoline range extender for longer trips.',
+      'The budget end of the week came on October 22, when Jetta announced the official launch of the all-new Jetta M6 battery-electric sedan, available in three variants with prices ranging from CNY 79,800 to CNY 99,800. Designed for families seeking new-energy vehicles, the M6 is the Jetta brand first battery-electric vehicle. The same week, renovation work for the VW316 project began on October 22 at FAW-Volkswagen Tianjin Super Factory, aimed at enabling production of that plant first battery-electric model. Together, the four items trace a single pattern: luxury, family, and budget segments all moving to electrified powertrains at the same time.',
+    ],
+    sources: ['MarkLines', 'FAW Hongqi', 'SAIC Roewe', 'Jetta'],
+  },
+  {
+    slug: 'volkswagen-restructuring-oneteam-audi-plant-october-2026',
+    title: 'Volkswagen Pushes a Sweeping Restructuring Under Blume as Audi U.S. Plant Plan Advances',
+    description:
+      'Volkswagen is merging software units into OneTeam and cutting pay and jobs, while advancing a $4.2 billion Audi plant plan.',
+    date: 'October 27, 2026',
+    dateISO: '2026-10-27',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The restructuring pairs a software consolidation with real pay cuts, while the Audi plant plan shows where Volkswagen still intends to spend.',
+    body: [
+      'Volkswagen is advancing a sweeping restructuring under chief executive Oliver Blume, merging software units into a single OneTeam organization and building an artificial intelligence stack, while cutting variable pay, special payments, benefits, and jobs from the fourth quarter, according to Reuters reporting summarized in a weekly recap. There will be no base pay rises, and affected staff face about a 10 percent real income drop after inflation. Relations with labour representatives have worsened, highlighting tensions inside the reorganization, and wage talks are set to resume in Emden on November 24 and in Zwickau on December 15.',
+      'The spending side of the story is the Audi plant plan. Audi plans a $4 billion to $4.2 billion US plant near Macon, Georgia, starting in 2027 with production in the early 2030s, at about 200,000 SUVs of annual capacity and about 4,500 jobs. The investment still needs Volkswagen board approval, so it should be read as an advanced plan rather than a finalized factory. A separate weak spot is the VW-Xpeng ID. UNYX 08, which sold about 267 units per month from April to August against a target of about 3,600, with the company citing distribution and sales challenges in China as it rebuilds market traction.',
+      'The sales backdrop explains the urgency. September EU new-car registrations fell, with the Volkswagen Group selling 231,474 cars in September, down 4.1 percent year over year, while holding about 26.2 percent market share year to date. A company that still commands more than a quarter of the European market does not restructure out of weakness alone, but the combination of a soft September, a struggling China model, and a multi-billion-dollar US plant plan shows a group trying to fund its future in America and software while cutting costs at home.',
+    ],
+    sources: ['Reuters', 'TradingView'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
