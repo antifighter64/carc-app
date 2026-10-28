@@ -3627,6 +3627,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['Reuters', 'TradingView'],
   },
+  {
+    slug: 'stellantis-q3-2026-loss-503m-tariffs-october-2026',
+    title: 'Stellantis Posts $503 Million Q3 Loss, Expects $1.1 Billion in Tariff Costs',
+    description:
+      'Stellantis lost $503 million in Q3 2026 on €37.6 billion in revenue, reaffirmed guidance, and warned tariffs will cost $1.1 billion.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A smaller loss than last year, but still a loss — and tariff and chip costs are still climbing into Q4.',
+    body: [
+      'Stellantis reported a net loss of $503 million (€0.5 billion) for the third quarter of 2026, alongside net revenues of €37.6 billion, up 1% year over year, the company announced October 28. Adjusted operating income improved to €0.3 billion, a 0.7% margin, and the loss was a 90% improvement on the prior-year quarter, which had been hit by significant items. The company reaffirmed its full-year 2026 guidance, including positive industrial free cash flow in 2027.',
+      'The regional picture was mixed. Net revenues rose 3% in both Enlarged Europe and South America, but fell 3% in North America on lower volumes from planned production downtime, 19% in the Middle East and Africa, and 7% in Asia Pacific. Consolidated shipments slipped 1% to 1,286,000 vehicles. Chief executive Antonio Filosa said the FaSTLAne 2030 plan is gaining traction, with at least 40% of its $6.7 billion annual cost-savings target — about $2.6 billion — on track by year-end.',
+      'The warning for the rest of the year is cost, not demand: Stellantis expects to spend $1.1 billion on tariffs, and flagged additional fourth-quarter costs from pricey computer chips and rising recall expenses. The stock had fallen below $4 a share earlier in October, an all-time low since the merger, so the Q3 print matters less as a single quarter than as a test of whether Filosa’s turnaround plan can convert a narrowing loss into an actual profit.',
+    ],
+    sources: ['Detroit Free Press', 'Stellantis', 'GlobeNewswire'],
+  },
+  {
+    slug: 'ford-us-sales-fall-66-percent-q3-2026-october-2026',
+    title: 'Ford U.S. Sales Fall 6.6% in Q3 Ahead of October 28 Earnings',
+    description:
+      'Ford sold 509,764 vehicles in the U.S. in Q3 2026, down 6.6%, ahead of its earnings call after the close on October 28.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Headline sales fell, but Ford says the adjusted picture is flat — and retail share actually rose.',
+    body: [
+      'Ford sold 509,764 vehicles in the United States in the third quarter of 2026, down 6.6% from a year earlier, the company reported ahead of its Q3 earnings event scheduled for 5 p.m. ET on Wednesday, October 28. Ford said sales volume was essentially unchanged after adjusting for the planned phase-outs of the Escape and Corsair, against an industry decline of about 1% on the same adjusted basis.',
+      'The detail that matters for dealers is share, not just volume: Ford estimated its adjusted retail share at 12.1%, up about 0.4 percentage points from a year earlier. “We delivered a solid quarter and continued to gain retail share adjusted for the planned sunset of Escape and Corsair,” said Andrew Frick, president of Ford Blue and Model e. A short-term supplier issue affected F-150 production at the end of September, but Ford said the expected financial impact sits within its 2026 adjusted EBIT outlook of $10 billion to $11 billion, raised on July 28.',
+      'Wall Street expectations going into the call cluster around $0.39 to $0.41 in earnings per share on revenue near $49.08 billion, against $0.45 and $50.53 billion a year earlier — forecasts, not Ford guidance. The company’s full-year adjusted free cash flow outlook remains $6 billion to $7 billion. Tonight’s call will show whether the retail-share gain and the cost story outweigh the headline sales decline.',
+    ],
+    sources: ['TokenPost', 'MarketBeat', 'Ford'],
+  },
+  {
+    slug: 'toyota-sienna-hybrid-seat-back-recall-228367-october-2026',
+    title: 'Toyota Recalls 228,367 Sienna Hybrids Over Seat Backs That Can Disengage in a Crash',
+    description:
+      'Toyota is recalling 2022–2026 Sienna Hybrids because a second-row seat back can disengage in certain frontal crashes.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A seat back that does not stay locked cannot restrain its occupant — dealers will fix it free, by software or by new seat backs.',
+    body: [
+      'Toyota is recalling 228,367 Sienna Hybrid seven-passenger vehicles in the United States, covering the 2022–2026 model years, the National Highway Traffic Safety Administration posted on October 27. In certain frontal crashes, the force from the seat-belt pretensioner can move the second-row seat recliner mechanism, and under specific conditions that movement can disengage the seat back from its locked position.',
+      'If the seat back is not securely locked, it may fail to properly restrain an occupant during a crash, increasing the risk of injury. Most affected vehicles will receive a free update to the supplemental restraint system electronic control unit software at dealers. Vehicles fitted with the Mobility as a Service package use different seat hardware and will instead receive free replacement of both second-row seat backs.',
+      'Toyota plans to mail owner notification letters on December 7, 2026. Owners do not need to wait for the letter: check the VIN in NHTSA’s recall database or call Toyota at 1-800-331-4331, and schedule the free remedy. This is a large, mainstream-family-vehicle recall, and the fix is straightforward — the risk is in delay, not in the repair itself.',
+    ],
+    sources: ['NHTSA', 'Particle News', 'Claims Journal'],
+  },
+  {
+    slug: 'koenigsegg-cc850-recall-all-seven-us-cars-october-2026',
+    title: 'Every Koenigsegg CC850 in America Is Recalled — All Seven of Them',
+    description:
+      'Koenigsegg recalled all seven U.S.-delivered CC850 hypercars after one rolled away when its parking brake failed to stay engaged.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Seven cars, one recall, one very expensive rollaway: the CC850’s electronic parking brake can fail to stay engaged.',
+    body: [
+      'Koenigsegg has recalled every CC850 delivered to the United States — a grand total of seven cars — after a report of unintended vehicle movement, Autoblog reported October 27. The Swedish hypercar, priced at over $3 million, is one of the rarest cars on American roads, so a seven-car recall is, in this case, the entire American fleet.',
+      'The issue is a software fault: under a specific combination of circumstances, the car’s electronic parking brake may fail to remain engaged. Koenigsegg filed the voluntary safety recall with NHTSA last week. A parking brake that releases on its own is dangerous at any price, but on a car this powerful and this low-volume, the fix will almost certainly be handled car by car, with the manufacturer in direct contact with each owner.',
+      'The recall is a useful reminder that recalls are not only a mass-market phenomenon. Small-volume manufacturers face the same NHTSA process, and a defect affecting seven cars gets the same federal filing as one affecting seven hundred thousand. Owners of affected CC850s should contact Koenigsegg directly and not rely on the parking brake alone until the software remedy is applied.',
+    ],
+    sources: ['Autoblog', 'NHTSA'],
+  },
+  {
+    slug: 'volkswagen-audi-ev-recall-80-percent-charge-october-2026',
+    title: 'Volkswagen’s EV Battery Recall Spreads to Audi — Owners Told to Stop at 80% Charge',
+    description:
+      'Audi joined Volkswagen’s EV battery recall, telling owners to cap charging at 80% until a remedy is ready; campaign 26V698.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The same battery problem, a second brand: Audi owners get interim letters December 18, with a charge cap until the fix arrives.',
+    body: [
+      'Volkswagen’s electric-vehicle battery recall has spread to Audi, Electrek reported October 27. Audi owners are being told to limit charging to 80% state of charge until a remedy is available, and dealers will impose a temporary 80% limit if needed. Audi expects to mail interim letters notifying owners of the safety risks on December 18, 2026, with further letters once a remedy is ready. The NHTSA campaign number is 26V698, and Audi’s recall number is 93SK.',
+      'The wider recall reaches well beyond the U.S. Last week Volkswagen Group issued three separate recalls with Germany’s Federal Motor Transport Authority (KBA), affecting 72,668 EVs worldwide, including 9,881 in Germany. The affected models include certain batches of the ID. Buzz, ID.3, ID.4 and ID.7 produced between 2022 and 2025, plus Cupra Born models from 2022 to 2024.',
+      'An 80% charge cap is an inconvenience, not a catastrophe — most daily driving uses far less — but it is also a real reduction in usable range, and owners planning long trips should plan charging stops accordingly. Owners with questions can contact Audi customer service at 1-800-253-2834 or the NHTSA hotline at 1-888-327-4236, and should check their VIN at nhtsa.gov.',
+    ],
+    sources: ['Electrek', 'NHTSA', 'Audi'],
+  },
+  {
+    slug: 'lexus-nx-blank-display-recall-68356-october-2026',
+    title: 'Lexus Recalls 68,356 NX SUVs for Blank Displays That Hide Vital Warnings',
+    description:
+      'Toyota recalled 2022–2024 Lexus NX models because the 7-inch display can go blank, hiding oil, temperature and charge warnings.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A blank gauge cluster does not just hide the speed — it hides the warning that something is about to go wrong.',
+    body: [
+      'Toyota issued a recall on October 26 covering 68,356 Lexus NX, NX Hybrid and NX Plug-In Hybrid vehicles after owners reported blank instrument-panel displays, TopSpeed reported October 27. A blank screen can hide engine oil pressure, coolant temperature and electrical charge readings — the gauges that tell a driver something is wrong before it becomes a bigger problem.',
+      'The recall, filed with NHTSA under campaign 26V687, affects 2022–2024 Lexus NX250, NX350, NX350h and NX450h+ models equipped with a 7-inch combination meter display. The good news for owners is the fix: Toyota says it is free and requires no new part, just a software update at the dealer.',
+      'A blank display is easy to dismiss as an annoyance, but it is a safety defect precisely because it removes warnings. If your NX display has gone dark or flickered, do not wait for a letter — check the VIN at nhtsa.gov and book the software update. A car that cannot warn you about overheating or low oil pressure is a car driving blind in one important respect.',
+    ],
+    sources: ['TopSpeed', 'NHTSA', 'Toyota'],
+  },
+  {
+    slug: 'hyundai-venue-elantra-lug-nut-recall-october-2026',
+    title: 'Hyundai Recalls a Handful of 2026 Venue and Elantra Cars for Loose Lug Nuts',
+    description:
+      'Hyundai recalled certain 2026 Venue and Elantra models because wheel lug nuts may loosen; dealers will inspect and tighten them free.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Tiny recall, serious failure mode: a wheel that loosens is never a minor issue, even when only a few cars are involved.',
+    body: [
+      'Hyundai is recalling certain 2026 Venue and Elantra models, including the Elantra N and Elantra Hybrid, because wheel lug nuts may loosen, according to a new NHTSA listing dated October 28. NHTSA lists up to 17 vehicles in the campaign, and dealers will inspect and tighten the lug nuts free of charge.',
+      'The small number is the story here in one sense — this is a tightly scoped production issue, not a design flaw across a model line — but the failure mode deserves respect. A loosening wheel typically announces itself with vibration, noise or a wobble long before it separates, and any of those symptoms should send a driver straight to a dealer, not on to the next errand.',
+      'If you are buying a used 2026 Venue, Elantra N, Elantra Hybrid or Elantra, check its VIN for this recall before you buy, as the listing itself advises. The remedy is a simple inspection and tightening, which is exactly the kind of recall that should never be left undone because it looks too small to matter.',
+    ],
+    sources: ['NHTSA', 'AutoMotor News'],
+  },
+  {
+    slug: 'car-software-recalls-only-20-percent-over-the-air-october-2026',
+    title: 'Only 20% of Car Software Recalls Are Fixed Over the Air, NHTSA Data Shows',
+    description:
+      'Of 708 software-related U.S. recalls since 2022, only 140 were fixed over the air; 32.3 million vehicles still needed a dealer visit.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Tesla fixes software recalls remotely 30 out of 30 times. Ford, at 23 of 130, sends 10.4 million vehicles to dealers instead.',
+    body: [
+      'Of 708 U.S. vehicle recalls since 2022 whose defect or fix names software, only 140 — 20% — were fixed over the air, according to an analysis of NHTSA’s own recall file published October 27. Those over-the-air fixes covered 27.3 million of 59.7 million vehicles in software recalls, leaving 32.3 million vehicles that still needed a dealer visit for what is, at heart, a software problem.',
+      'The maker-by-maker split is stark. Tesla fixed all 30 of its software recalls remotely. Ford fixed 23 of 130, sending 10.4 million vehicles to dealers; Stellantis sent 6.1 million and Toyota 3.9 million. Volkswagen, Porsche and Mazda fixed zero of their software recalls over the air in the period counted. The over-the-air share did rise, from 19% in 2022 to 28% in 2026 — so the capability exists and is spreading, just slowly.',
+      'Why this matters to owners is time, not technology. A dealer visit for a software update costs a morning, a loaner or a wait, and a second trip if the appointment slips. Every software recall that ships over the air is a recall owners actually complete, which is the whole point of the recall system. The data suggests the bottleneck is not engineering — it is how willing each manufacturer is to use the remote channel it already has.',
+    ],
+    sources: ['Tensorust', 'NHTSA'],
+  },
+  {
+    slug: 'tesla-stock-analyst-consensus-408-target-october-2026',
+    title: 'Tesla Analysts Hold a $408 Consensus Target and a “Moderate Buy” — With a Wide Spread',
+    description:
+      'Forty-nine brokerages covering Tesla average a Moderate Buy rating, with a consensus price target near $408–$411 per share.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Twenty-seven buys, seventeen holds, four sells: the Street agrees Tesla is worth owning, and disagrees loudly about by how much.',
+    body: [
+      'Tesla carries an average “Moderate Buy” rating from the forty-nine brokerages covering the stock, MarketBeat reported October 28, with a consensus one-year price target of about $408.61 in one summary and $411.04 in another count of the same coverage — a reminder that consensus figures move with which brokers are counted and when. The split behind the average is what matters: 27 buys, 17 holds, 4 sells and 1 strong buy.',
+      'Recent moves show the disagreement in real time. Monness Crespi & Hardt initiated coverage with a buy on October 26, and Tigress Financial began coverage with a buy on October 22. In the other direction, Royal Bank of Canada downgraded Tesla from outperform to sector perform on October 22, and Goldman Sachs reiterated a neutral rating the same day. Roth Capital reaffirmed a buy with a $505 price objective in July.',
+      'For car buyers rather than stock buyers, the analyst split is background noise with one useful signal: the market is pricing Tesla on its robotaxi and AI story, not on its car margins alone, which is why the valuation debate swings so hard on robotaxi mileage headlines. Shares traded around $411 in premarket trading on October 28. None of this is investment advice — it is a snapshot of how divided professional opinion is on the most argued-over stock in the auto industry.',
+    ],
+    sources: ['Defense World', 'MarketBeat'],
+  },
+  {
+    slug: 'tesla-waymo-austin-miles-gap-musk-never-contest-october-2026',
+    title: 'Musk Declares the Robotaxi Race “Never a Real Contest” — But Waymo Still Leads 7-to-1 Nationally',
+    description:
+      'Tesla passed Waymo in weekly Austin miles, 438,000 to 406,000, yet Waymo’s national weekly average of 3.9 million miles is about 7x Tesla’s best.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The Austin headline is real. The national frame is very different — and both numbers need their definitions read carefully.',
+    body: [
+      'Tesla’s Robotaxi logged 438,000 driverless miles in Austin in the week ending October 18, 2026, edging past Waymo’s roughly 406,000 weekly miles averaged in the same city during the second quarter of 2026, Electrek reported October 27. Elon Musk seized on the comparison, saying the race against Waymo “was never a real contest.” The Austin milestone is genuine — and it is also the narrowest frame available.',
+      'Nationally, the gap runs the other way and is wide: Waymo averaged 3.90 million rider-only miles per week across its markets in Q2 2026, while Tesla’s best reported week across all markets reached 558,000 miles — about 7 to 1 in Waymo’s favor. Tesla has now expanded its service to six American cities, and its cumulative driverless total since January 2026 stands at about 3.11 million miles, against Waymo’s 271.3 million cumulative miles since 2020. Austin still carries most of Tesla’s load, though its Houston expansion has added about 225,964 miles in the comparison cited.',
+      'Investors are noticing the framing problem. The Future Fund’s Gary Black warned October 28 against assuming uncontested Tesla robotaxi dominance, citing rising competition from Waymo and Baidu and Tesla’s high 2026 price-to-earnings ratio of about 220x, with BYD having already overtaken Tesla in global EV sales in 2025. The honest read: Tesla won a city-week; Waymo still owns the national network. Both facts can be true at once.',
+    ],
+    sources: ['Electrek', 'Tech Insider', 'Wisevoter', 'The Electric Viking'],
+  },
+  {
+    slug: 'tesla-cybercab-four-module-battery-lfp-room-october-2026',
+    title: 'Tesla’s Cybercab Battery Is Four Sealed Modules — With Room Left for a Cheaper Chemistry Swap',
+    description:
+      'Tesla’s Cybercab pack uses four individually sealed 4680 modules, and engineers left space for a possible future switch to LFP cells.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A robotaxi pack that can be serviced in pieces, not replaced whole, could change fleet economics — if the LFP swap ever happens.',
+    body: [
+      'Tesla’s Cybercab battery is built from four separate, individually sealed modules instead of one welded block, coverage from Teslarati, InsideEVs, Yahoo Finance and others converged on October 28. The cells are Tesla’s own 4680 format with nickel-based chemistry. For a robotaxi fleet, the modular choice matters more than the cell chemistry: a pack that can be serviced in pieces could cut the cost of keeping a driverless car earning, rather than forcing a whole-pack replacement when one section fails.',
+      'The more interesting detail is what Tesla left empty. Robert Sumpf, Tesla’s director of mechanical design engineering for battery modules and packs, said space was intentionally left in the pack for a possible later switch to lithium iron phosphate (LFP) cells. LFP is cheaper and longer-lived than nickel chemistry, though less energy-dense — a trade a fleet operator running hundreds of thousands of miles might gladly make.',
+      'The caution, stated plainly in the coverage itself: Tesla has not confirmed the Cybercab will move to LFP cells, and capacity, final range, retail price, production date and operating cost all remain unconfirmed. What is documented is the design philosophy — build for serviceability and leave the chemistry door open — and the reported production wrinkle that Cybercabs are being built faster than they can currently be deployed into the Robotaxi service. That bottleneck, not the battery, may be the near-term constraint.',
+    ],
+    sources: ['Tech Insider', 'Teslarati', 'InsideEVs', 'Yahoo Finance'],
+  },
+  {
+    slug: 'ford-fathom-28350-ev-truck-home-backup-october-2026',
+    title: 'Ford Fathom: A $28,350 Electric Truck That Can Power Your House',
+    description:
+      'Ford priced its smallest electric truck, the Fathom, at $28,350, with bidirectional home-backup capability and pre-orders in early 2027.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The cheapest American EV capable of powering a house — if the home hardware price, still undisclosed, stays cheap too.',
+    body: [
+      'Ford put a price on its smallest electric truck this week: $28,350 for a Ford Fathom with the standard-range battery, Tech Insider reported October 28, with pre-orders opening in early 2027 for the 2028 model year. Car and Driver’s coverage frames the truck as a way to power a house, and the headline claim — the cheapest American EV capable of powering a house — is the number that will stick.',
+      'Ford’s own wording is more careful, and the distinction matters. The company says the Fathom can send electricity from the vehicle to a properly equipped home, and that it carries an integrated power inverter for two-way energy flow. It also says the add-on home hardware it needs will cost far less than the equipment Ford sold for its first bidirectional system. What Ford has not released, in the reporting available as of October 28, is the actual price of that hardware.',
+      'That missing price is the whole ballgame for the home-backup pitch. A $28,350 truck plus expensive home equipment is a different proposition from a $28,350 truck plus cheap equipment, and buyers comparing the Fathom against a stationary home battery should wait for the hardware number before doing the payback math. On the truck itself, though, the price alone resets expectations for what a new electric pickup can cost.',
+    ],
+    sources: ['Tech Insider', 'Car and Driver', 'Ford'],
+  },
+  {
+    slug: 'waymo-san-diego-la-jolla-expansion-233-km-october-2026',
+    title: 'Waymo Nearly Doubles San Diego Coverage as Driverless Rides Reach La Jolla',
+    description:
+      'Waymo expanded San Diego driverless service to 233 square kilometers, adding La Jolla, University City and Clairemont on October 28.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'From 130 to 233 square kilometers in under two months — San Diego is becoming one of Waymo’s fastest-growing maps.',
+    body: [
+      'Waymo expanded its San Diego driverless footprint to 233 square kilometers on October 28, nearly doubling a service that launched September 1 covering about 130 square kilometers from Logan Heights to Pacific Beach and Sunset Cliffs to Normal Heights. The expansion adds La Jolla, University City, Clairemont, Mission Bay and surrounding areas, including high-traffic destinations such as UC San Diego, the UTC shopping mall and the Veterans Affairs office in La Jolla.',
+      'The rollout pace is notable. Access was initially restricted to residents with early sign-up codes, then opened to all users via the app on October 14. Two weeks later, the map nearly doubled. The company also cites a safety claim for the service: 93% fewer pedestrian injury crashes than human drivers, a figure worth watching as independent researchers continue to test robotaxi safety claims against police and insurance data.',
+      'For San Diego riders, the practical change is simple: driverless rides now cover the northern business districts, affluent residential areas and university zones that generate much of the city’s daily trip demand. For the industry, San Diego is a template — launch small, open to everyone, then expand fast once the first map proves itself.',
+    ],
+    sources: ['Wall Street Next', 'Waymo'],
+  },
+  {
+    slug: 'waymo-250-square-miles-five-cities-expansion-october-2026',
+    title: 'Waymo Adds Nearly 250 Square Miles of Robotaxi Coverage Across Five U.S. Cities',
+    description:
+      'Waymo added nearly 250 square miles across Los Angeles, Nashville, Orlando, San Diego and the Bay Area, passing 500,000 paid rides a week.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Fourteen million paid trips in 2025, triple 2024 — Waymo is expanding on five fronts at once, not one city at a time.',
+    body: [
+      'Waymo is adding nearly 250 square miles of driverless robotaxi coverage across Los Angeles, Nashville, Orlando, San Diego and the San Francisco Bay Area, The Electric Viking reported October 28, citing Fortune. Total coverage passed 1,400 square miles as of May 2026, with service active in 15 U.S. metros and weekly paid rides over 500,000.',
+      'The scale underneath the expansion is what separates Waymo from every other robotaxi operator. The company logged over 14 million paid trips in 2025, triple its 2024 total, and averaged 3.9 million rider-only miles per week in Q2 2026. Its annualized revenue was estimated at $355 million as of February 2026 — still small against Alphabet, but real, paid, recurring revenue from driverless rides, not a pilot subsidy.',
+      'The five-city push also shows the competitive gap in operational terms. While rivals debate single-city milestones, Waymo is widening five maps simultaneously, which spreads fixed costs — mapping, remote assistance, fleet operations — across more paying rides. For riders in the newly covered areas, the near-term benefit is practical: more coverage, potentially lower wait times, and a driverless option that is becoming ordinary rather than novel.',
+    ],
+    sources: ['The Electric Viking', 'Fortune', 'Electrek'],
+  },
+  {
+    slug: 'waymo-orlando-doubles-service-area-120-square-miles-october-2026',
+    title: 'Waymo Nearly Doubles Orlando Service to 120 Square Miles, Adding Downtown and Ivanhoe Village',
+    description:
+      'Waymo added 53 square miles in Orlando on October 27, bringing total coverage to 120 square miles including downtown landmarks.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Beyond the tourist corridor at last: downtown Orlando, City Hall and the performing arts center are now on the robotaxi map.',
+    body: [
+      'Waymo announced October 27 that it is adding 53 square miles to its Orlando service area, bringing total coverage to 120 square miles and nearly doubling where its robotaxis can operate. The expansion pushes farther east and adds more downtown coverage, including City Hall, the Dr. Phillips Center for the Performing Arts and the Orlando Science Center, plus Ivanhoe Village.',
+      'The Orlando story is a move from tourists to residents. When Waymo launched in Orlando in February, service was largely focused on the tourist corridor, though parts of downtown were already included. The company opened rides to everyone in April and has been expanding ever since. Anyone can now hail a driverless vehicle through the Waymo app, provided pickup and destination are both within the service area.',
+      'Downtown coverage changes the use case. Tourist-corridor rides are often one-off novelties; downtown rides are commutes, dinners, shows and errands — the repeat trips that make a robotaxi network economically real. Orlando’s expansion, landing the same week as the five-city push, shows Waymo treating Florida as a core market, not a showcase.',
+    ],
+    sources: ['Bungalower', 'Waymo', 'Electrek'],
+  },
+  {
+    slug: 'ark-invest-buys-archer-joby-65m-evtol-october-2026',
+    title: 'Cathie Wood’s ARK Loads Up on Archer and Joby as Air-Taxi Bets Grow',
+    description:
+      'ARK Invest bought 1.16 million Archer shares and 434,012 Joby shares for $6.5 million in a single session on October 27.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      '$4.5 million into Archer, $2 million into Joby: ARK is betting the eVTOL inflection point is close, not distant.',
+    body: [
+      'ARK Invest bought 1.16 million Archer Aviation shares and 434,012 Joby Aviation shares, investing $6.5 million in a single session, Stocktwits reported October 27. The buys split $4.5 million into Archer and $2 million into Joby, spread across the ARK Autonomous Technology and Robotics ETF (ARKQ) and the ARK Space Exploration and Innovation ETF (ARKX).',
+      'The breakdown shows conviction weighted toward Archer: 781,854 Archer shares into ARKQ and 379,750 into ARKX, totaling 1,161,604 shares, against 292,119 Joby shares via ARKQ and 141,893 via ARKX. Archer shares edged up 0.3% overnight ahead of Tuesday, while Joby inched 0.2% lower — small moves for a $6.5 million vote of confidence, but the direction of institutional money is the signal, not the day’s price.',
+      'The timing lines up with the certification calendar. Archer plans air-taxi networks in Austin, Dallas–Fort Worth and Houston, and completed piloted demonstration flights in the San Francisco Bay Area this month; Joby is advancing real-world flights through the FAA’s eVTOL Integration Pilot Program and flew piloted flights in North Texas in September, with Florida flights due in November. ARK’s bet is that military logistics contracts and FAA milestones are pushing eVTOL from demonstration toward commercialization — a bet that still needs a type certificate to pay off.',
+    ],
+    sources: ['Stocktwits', 'ARK Invest'],
+  },
+  {
+    slug: 'kia-ev9-2027-pricing-54990-nightfall-october-2026',
+    title: '2027 Kia EV9 Priced From $54,990, With Nightfall Edition Now Standard on Land',
+    description:
+      'Kia priced the 2027 EV9 from $54,990 to $71,990 before destination, with Land torque jumping from 379 to 516 lb-ft.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'More torque, a standard Nightfall package, and a $500 cut on the Land Nightfall combo — Kia is adding value, not just price.',
+    body: [
+      'Kia America announced pricing for the 2027 EV9 on October 27. The all-electric three-row SUV, a 2024 North American Utility of the Year and 2024 World Car of the Year winner, starts at $54,990 for the Light short-range model before the $1,645 destination charge, rising to $71,990 for the GT-Line. Light long-range is $57,990, Wind is $64,090 and Land is $69,990.',
+      'The headline change is on the Land trim, where the formerly optional Nightfall Edition Package is now standard — at a $500 lower MSRP than the 2026 Land Nightfall Edition. That brings a torque boost from 379 lb-ft to 516 lb-ft, a 36% increase, for faster acceleration, plus an exclusive interior color scheme with a black headliner and unique stitching on black synthetic leather seats. Wind gets black-finish 19-inch wheels, glossy black exterior garnishes and newly available Wolf Gray paint.',
+      'The EV9’s value case in a post-tax-credit market rests on exactly this kind of move: hold the entry price, add standard equipment where buyers actually notice it, and let the three-row electric SUV compete on space and capability rather than on incentives that no longer exist. For families cross-shopping the EV9 against gas three-rows, the Land’s torque jump is the spec-sheet change most likely to be felt from the driver’s seat.',
+    ],
+    sources: ['Kia America', 'PR Newswire', 'Electrek'],
+  },
+  {
+    slug: 'lexus-rz-2027-pricing-47495-301-mile-range-october-2026',
+    title: '2027 Lexus RZ Starts at $47,495 With Up to 301 Miles of Range',
+    description:
+      'Lexus priced the 2027 RZ from $47,495, with three powertrains up to 402 hp, a NACS port and up to 301 miles of range.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A $100 increase on the base model after a 91% sales surge: Lexus is holding the line while the RZ finally finds buyers.',
+    body: [
+      'Lexus priced the 2027 RZ from $47,495 including the $1,395 delivery fee, the company announced, with the electric SUV reaching dealers in early 2027. Three powertrains are offered: the 350e, the 450e AWD and the 550e F Sport AWD. The base 350e uses a 79.6 kWh battery and a 221-horsepower front motor for up to 301 miles of estimated range; the 450e AWD adds a rear motor for 308 combined horsepower and 260 miles at $50,995; the 550e F Sport AWD makes 402 horsepower, hits 0–60 mph in about 4.1–4.2 seconds, and starts at $58,770.',
+      'The pricing discipline is the story. Only the base model rose, by $100; every other trim holds its price. That restraint lands after a remarkable sales turnaround: Lexus sold 10,214 RZs in the first nine months of 2026, up 91.3% year over year and already a new annual record with three months left, after sales fell 34% in 2025 to about 6,400 units when the federal EV tax credit expired.',
+      'Every 2027 RZ gets a built-in NACS port on the passenger side, so drivers can use Tesla Superchargers without a separate adapter, with 10–80% charging in about 30 minutes. Heated steering wheel and heated and ventilated front seats are standard, as is the latest Lexus Interface with a 14-inch navigation screen and wireless Apple CarPlay and Android Auto. The 550e adds M Mode, which uses paddle shifters to simulate an eight-speed manual — a playful touch on an otherwise sensible luxury EV.',
+    ],
+    sources: ['Lexus', 'Electrek', 'CarBuzz'],
+  },
+  {
+    slug: 'kbb-best-car-deals-october-2026-santa-fe-cx50-october-2026',
+    title: 'KBB’s Best October 2026 Deals: 0% APR on the Hyundai Santa Fe and Mazda CX-50',
+    description:
+      'Kelley Blue Book’s October deals list leads with 0% APR financing on the 2026 Hyundai Santa Fe and Mazda CX-50, both expiring November 2.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Outgoing models, low rates, expiring November 2: October is the month to shop the cars dealers most want to move.',
+    body: [
+      'Kelley Blue Book’s list of the best car deals for October 2026 leads with 0% APR financing on the 2026 Hyundai Santa Fe, starting at $36,650, with a 60-month term and no payments for 90 days. The same deal applies to 2027 Santa Fe models and to the 2026 and 2027 Santa Fe Hybrid. The Santa Fe’s case is space for its size: a smaller three-row midsize SUV with an upscale interior and generous standard features, now financed free.',
+      'Second on the list is the 2026 Mazda CX-50 at 0% APR, starting at $31,395, on a 36-month term. The CX-50 is the wider, longer, more rugged-looking sibling of the CX-5, with standard all-wheel drive and extra ground clearance for dirt-road capability, wrapped in what remains one of the most upscale interiors in its class. Both offers expire November 2, 2026, and both vary by region — check the manufacturer’s site before visiting a dealer.',
+      'The pattern behind the list is the model-year changeover: as new models arrive, deals pop up on outgoing ones, and October pairs that inventory pressure with low-rate financing. KBB’s standing advice applies: the prices listed are for the trim on special, or the base price where the offer applies to all trims, and include destination — tax, title and license are extra. With the November 2 expiry, shoppers have days, not weeks, to use these two rates.',
+    ],
+    sources: ['Kelley Blue Book'],
+  },
+  {
+    slug: 'rav4-rival-lease-deals-model-y-grand-cherokee-october-2026',
+    title: 'SUV Lease Deals Taking On the RAV4: Model Y at $499 and Grand Cherokee at $417 a Month',
+    description:
+      'October lease deals challenging the RAV4 include a Tesla Model Y at $499 a month and a Jeep Grand Cherokee at $417 a month.',
+    date: 'October 28, 2026',
+    dateISO: '2026-10-28',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The RAV4 is the benchmark every SUV lease is measured against — and October’s challengers undercut it on monthly payment.',
+    body: [
+      'CarBuzz rounded up October 2026 lease deals positioned against the Toyota RAV4, and two stand out on monthly payment alone. A Tesla Model Y leases at $499 a month for 36 months with $3,000 down, on a 2026 rear-wheel-drive model with a 10,000-mile annual limit, for qualified lessees. The caveat is real: Tesla’s incentives page still showed an August 24, 2026 expiration, so CarBuzz itself flagged uncertainty about whether the offer is still available — confirm before counting on it.',
+      'The steadier deal is the Jeep Grand Cherokee at $417 a month for 42 months, with $4,499 due at signing, on a 2026 Laredo X 4x2, open until November 2, 2026, also at 10,000 miles a year for qualified lessees. Leasing a $41,415 SUV at $417 a month is strong value by any measure, and buyers who prefer to purchase can claim 0% APR for up to 36 months instead.',
+      'The broader lesson is about depreciation, especially for EVs. CarBuzz notes that a 2021 Model Y now trends at just $24,576 in its price-tracking tool, with lease turn-ins driving used prices down — which is precisely why leasing an EV, rather than buying one outright, appeals to buyers who do not want to carry that depreciation themselves. For RAV4 shoppers, the comparison is not just monthly payment: it is payment plus fuel or charging costs, mileage limits, and what the car will be worth when the lease ends.',
+    ],
+    sources: ['CarBuzz', 'Tesla'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
