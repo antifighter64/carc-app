@@ -4007,6 +4007,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['CarBuzz', 'Tesla'],
   },
+  {
+    slug: 'toyota-september-sales-production-slide-third-month-october-2026',
+    title: 'Toyota September Sales and Production Slide for a Third Straight Month',
+    description:
+      'Toyota global sales fell 2.2% to 860,107 in September as China dropped 19.7% for an eighth month, though U.S. sales rose 8.4%.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The world’s biggest automaker sold fewer cars and built fewer cars in September — China and the Middle East dragged, the U.S. did not.',
+    body: [
+      'Toyota said on October 29 that global vehicle sales and production decreased for a third straight month in September, dragged down by declines in China and the Middle East. Global sales fell 2.2% from a year earlier to 860,107 vehicles, while production dropped 3.2% to 889,079 vehicles. The figures include the luxury Lexus brand, according to Reuters’ reporting of Toyota’s statement.',
+      'China remains the problem market. Sales there fell 19.7%, extending the decline to an eighth consecutive month, which Toyota attributed to higher petrol prices weighing on demand for gasoline and hybrid cars. Sales in the Middle East slumped 29.8%. Output fell 18.6% in China and 2.9% in the United States, while rising 5.8% in Japan. The offsets were real but smaller: sales rose 1.8% in Japan and 8.4% in the United States, Toyota’s top market.',
+      'Three straight months of declines do not yet amount to a Toyota crisis — the company is still selling at a pace few rivals can match — but the geographic split matters. Growth is now coming from Japan and North America while China, the world’s largest car market, keeps shrinking for Toyota. October sales, due in early November, will show whether the China slide is stabilizing or whether the world’s biggest automaker is settling into a smaller footprint there.',
+    ],
+    sources: ['Reuters'],
+  },
+  {
+    slug: 'renault-q3-2026-revenue-11-6b-volumes-fall-october-2026',
+    title: 'Renault Q3 Revenue Rises 1.4% to €11.6 Billion Despite a 6% Volume Drop',
+    description:
+      'Renault beat forecasts in Q3 as EV sales jumped 84.7% to 25.8% of passenger-car sales, offsetting lower volumes and Chinese pressure.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Fewer cars, more money: Renault’s electric mix and retail sales carried a quarter in which volumes fell 6% to 497,799.',
+    body: [
+      'Renault Group reported a better-than-expected 1.4% rise in third-quarter revenue at constant exchange rates on October 29, to €11.6 billion, against a company-compiled consensus that had expected a 0.3% decline. Group volumes fell 6% to 497,799 vehicles, largely because of heightened competition in Europe and Latin America from Chinese manufacturers, Reuters reported.',
+      'The mix did the work. Electric vehicle sales rose 84.7% in the quarter to 25.8% of passenger-car sales, and including hybrids, electrified vehicles made up 54.9%. European retail sales rose 5%, with retail reaching 64.8% of the mix. Automotive revenue was broadly stable at €9.8 billion, while Mobilize Financial Services revenue rose 11.0% to €1.8 billion. For the first nine months of 2026, total revenue reached €41.8 billion, up 7.1%.',
+      'Renault confirmed its 2026 guidance: a group operating margin of around 5.5% of revenue, with a slight second-half improvement tempered by higher raw material costs and inflation, plus automotive free cash flow of €1.0 billion. The caution is visible in the share price, down 26% so far this year to its lowest in more than four years, piling pressure on CEO Francois Provost to show that the smallest of Europe’s legacy automakers can survive the Chinese wave — including pressure on its low-cost Dacia brand as it moves into the mid-sized C-segment.',
+    ],
+    sources: ['Reuters', 'Renault Group'],
+  },
+  {
+    slug: 'ford-q3-2026-core-profit-2-7b-commodity-costs-october-2026',
+    title: 'Ford Q3 Core Profit Edges Up to $2.7 Billion Despite Rising Commodity Costs',
+    description:
+      'Ford raised the low end of 2026 EBIT guidance to $10.5 billion as Q3 EPS of 49 cents beat forecasts, despite F-150 disruption.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Ford beat on earnings while warning on costs: commodity inflation is now expected to reach nearly $2.5 billion for the year.',
+    body: [
+      'Ford’s third-quarter core profit increased slightly to $2.7 billion, Reuters reported on October 28, as the Michigan automaker overcame production struggles with its best-selling F-150 trucks and higher commodity costs. Adjusted earnings of 49 cents per share beat LSEG analyst forecasts of 40 cents. Revenue was $49.5 billion and net income was $2 billion.',
+      'Costs are the story behind the beat. Ford raised its full-year estimate for commodity costs to nearly $2.5 billion from about $2 billion, citing the conflict in the Middle East, rising copper and steel prices, steeper fuel costs and higher chip prices. Production of F-150 trucks was disrupted last month for nearly a week by an undisclosed supplier issue, on top of the effort to recoup an earlier production hit after a fire last year at Novelis, a key aluminum supplier in New York. CFO Sherry House told reporters that Novelis’ operational recovery is largely behind Ford.',
+      'Ford raised the lower end of its annual guidance by $500 million to $10.5 billion, keeping the higher end at $11 billion in earnings before interest and taxes, and said it expects 2027 core profitability to be roughly in line with 2026. It is also running leaner: CEO Jim Farley said Ford aims to keep about a 55- to 60-day supply of vehicles, versus the typical 80 to 100. Shares fell about 1.5% after the bell and are down about 10% this year, while GM is up about 1% — the market is rewarding the profit, but not yet the cost outlook.',
+    ],
+    sources: ['Reuters', 'Zacks'],
+  },
+  {
+    slug: 'gm-leaves-nyse-for-nasdaq-november-17-october-2026',
+    title: 'GM Leaves the NYSE After 115 Years, Moving to Nasdaq on November 17',
+    description:
+      'GM will trade on the Nasdaq Global Select Market from November 17, keeping the GM ticker, in a tech repositioning that opens Nasdaq-100 eligibility.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'First listed in 1911, GM is now the first legacy American automaker to list on the tech-focused exchange.',
+    body: [
+      'General Motors announced on October 27 that it will transfer its common stock listing from the New York Stock Exchange — where it has traded since 1911 — to the Nasdaq Global Select Market, effective November 17, 2026. The company will keep its “GM” ticker, and existing shareholders do not need to take any action for the transfer to occur.',
+      'The move is framed as strategy, not symbolism. CFO Paul Jacobson called Nasdaq a “natural home” for a company pursuing a customer-focused, technology-driven strategy, pointing to GM’s work in electric vehicles, autonomous driving software and software-defined vehicles. A Nasdaq listing also makes GM eligible for future inclusion in the Nasdaq-100 Index, a benchmark tracked by funds managing roughly $1.4 trillion in assets; JPMorgan has projected a December addition, though inclusion is not automatic and depends on index rules and timing.',
+      'The market liked the announcement: reports put the stock up 5.54% to $80.54 on the day. The transfer follows GM’s strong third quarter — $3.3 billion in net income and a new $20 billion buyback — and it is a symbolic loss for the NYSE. For car buyers, nothing changes directly; for investors, GM is now asking to be judged, at least in part, as a technology stock rather than a traditional auto stock.',
+    ],
+    sources: ['GM', 'Particle News'],
+  },
+  {
+    slug: 'gm-2-billion-lansing-hybrid-production-investment-october-2026',
+    title: 'GM to Invest $2 Billion in Lansing as It Redirects a $500 Million Grant to Hybrids',
+    description:
+      'GM will spend $1.25 billion readying Lansing Delta Township for future production and seeks to redirect a federal grant to hybrids.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The latest sign of GM’s EV-to-hybrid pivot: a $500 million grant once meant for EVs would now fund hybrid production instead.',
+    body: [
+      'General Motors said on October 27 that it will invest more than $2 billion in the Lansing, Michigan region over the next several years, including $1.25 billion to prepare its Lansing Delta Township Assembly plant for future vehicle production. The company is also working with the U.S. Department of Energy to redirect a previously awarded $500 million grant toward hybrid production at the factory.',
+      'The grant’s history explains the shift. It was awarded under the Biden administration as a Domestic Manufacturing Conversion Grant to support converting a different Lansing factory to produce electric vehicles, including hybrids, battery-electrics, plug-in hybrids and hydrogen fuel-cell vehicles — but the funds were never released, according to GM. Redirecting them to hybrids is the latest sign that GM is shifting strategy as EV demand slows.',
+      'The plant currently assembles the gas-powered Buick Enclave, Chevrolet Traverse and GMC Acadia, and produced a record 291,000 vehicles in 2025. GM did not say when hybrid production would begin or which models would be built there. Reports citing insiders and anonymous sources expect hybrids across multiple brands, including hybrid versions of the Traverse, Enclave and Acadia — but that lineup is reported, not confirmed by GM, so treat it as the likely direction rather than a product announcement.',
+    ],
+    sources: ['GM', 'Reuters', 'TechCrunch'],
+  },
+  {
+    slug: 'china-auto-sales-forecast-22-percent-plunge-2026-october-2026',
+    title: 'China Forecasts a Record 22% Plunge in 2026 Vehicle Sales, With Only a Meager 2027 Recovery',
+    description:
+      'The China Passenger Car Association expects the market to shrink sharply this year as subsidies tighten and costs rise.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The world’s largest car market is heading for its worst year on record by this forecast — and next year barely heals it.',
+    body: [
+      'The China Passenger Car Association expects the Chinese vehicle market to shrink sharply this year, with a record 22% plunge in 2026 sales and only a weak rebound forecast for 2027, Automotive News reported on October 29. The association points to tightening subsidies and rising costs as the drivers of the decline.',
+      'The forecast lands on top of evidence already visible in company results. Toyota’s China sales fell 19.7% in September, their eighth straight monthly decline, and Renault cited fierce competition from Chinese entrants in its own key markets as a drag on its third-quarter volumes. In other words, the pressure runs both ways: foreign brands are losing ground inside China, while Chinese brands are exporting that competition to Europe and Latin America.',
+      'For buyers and investors, the implication is a market defined by price pressure rather than growth. A 22% contraction, if it materializes, would force deeper discounting, faster consolidation among weaker Chinese brands, and harder choices for global automakers about how much capacity to keep aimed at China. The forecast is a projection, not a result — but it is the industry’s own trade body warning that 2026 will be remembered as a down year, not a blip.',
+    ],
+    sources: ['Automotive News', 'China Passenger Car Association'],
+  },
+  {
+    slug: 'volkswagen-export-300000-china-made-vehicles-2030-october-2026',
+    title: 'Volkswagen Aims to Export 300,000 China-Made Vehicles a Year by 2030',
+    description:
+      'VW will also export China-developed technology to Asia, the Middle East and South America — but not Europe, for now.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Volkswagen’s China operation is flipping from a local business into an export base — for cars and for technology.',
+    body: [
+      'Volkswagen said it aims to export at least 300,000 vehicles made in China each year by 2030, as well as technologies developed in the country. Volkswagen Group’s China head Ralf Brandstätter announced the target on October 28 during a trip to Hefei in eastern China, where the firm has a large research and development centre, adding that “our ambition goes beyond exporting vehicles.”',
+      'For the first time, Volkswagen will also export technology developed in Hefei to other parts of Asia, the Middle East and South America — but not Europe for now. That includes the vehicles’ electronic architecture, developed with the help of Chinese company Xpeng, plus its platform and driver-assistance system, produced with China’s Horizon Robotics. Brandstätter’s summary: “What we develop in China makes Volkswagen more competitive around the world.”',
+      'The plan is also a response to crisis. Europe’s biggest carmaker has been hit by Chinese competition, weak demand in key markets and a choppy electric transition, and it struck a deal with unions in September to cut 50,000 additional jobs by 2030, bringing its total planned workforce reduction to around 100,000. Exporting China-built cars and China-developed tech is Volkswagen’s bet that the market that hurt it most can also become one of its most useful factories.',
+    ],
+    sources: ['Reuters', 'Volkswagen Group'],
+  },
+  {
+    slug: 'tesla-korea-fsd-refund-lawsuit-rejected-october-2026',
+    title: 'South Korean Court Rejects Tesla Owners’ FSD Refund Lawsuit',
+    description:
+      'Seoul Central District Court ruled against 88 Tesla owners, finding Full Self-Driving did not promise Level 5 autonomy without a driver.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The court said FSD never promised a car that drives itself with no human fallback — and that alone defeats the refund claim.',
+    body: [
+      'A South Korean court on October 29 rejected a lawsuit by dozens of Tesla owners seeking full refunds for money paid for “Full Self-Driving” driver-assistance software, ruling that the automaker had not breached its contractual obligations. The Seoul Central District Court ruled against the 88 plaintiffs, Reuters reported, finding that the FSD option did not promise fully autonomous driving without human intervention and that Tesla had already provided some of the functions included in the package.',
+      'The owners, who filed the lawsuit in 2024, argued that Tesla Korea had been unable to implement the FSD system option in South Korea for more than eight years since it began selling it around March 2017. The court rejected their reading of FSD as a system capable of fully autonomous driving, known as Level 5 automation. It also found that Tesla’s obligation to deliver additional features depended on technological advances and regulatory approvals, and that buyers had been aware some functions could take considerable time to become available — and that delays caused by compliance with domestic and overseas regulations could not be held against Tesla.',
+      'The court also credited what Tesla had delivered: basic Autopilot and Enhanced Autopilot functions, plus a recent software update that added traffic light and sign recognition, as well as city-driving capabilities, to older vehicles equipped with Hardware 3 computers. Tesla did not immediately comment. The ruling is a win for Tesla as it faces similar legal challenges in other countries over delays in delivering self-driving capabilities long promised by CEO Elon Musk — but it settles a contract question, not the technology question of when, or whether, full self-driving arrives.',
+    ],
+    sources: ['Reuters'],
+  },
+  {
+    slug: 'tesla-cybercab-malaysia-showcase-tour-november-2026',
+    title: 'Tesla Cybercab Begins Malaysia Showcase Tour, Running to November 22',
+    description:
+      'The driverless robotaxi will appear at four malls across Kuala Lumpur, Selangor and Penang, starting at Mid Valley Megamall.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'No steering wheel, no pedals, four malls: Tesla is touring its purpose-built robotaxi around Malaysia for almost a month.',
+    body: [
+      'Tesla Malaysia is showcasing its Cybercab autonomous robotaxi at four shopping malls across Kuala Lumpur, Selangor and Penang from October 29 to November 22, 2026. The tour begins at Mid Valley Megamall in Kuala Lumpur, where the two-seat electric vehicle will be displayed from October 29 to November 1, between 10 a.m. and 10 p.m. daily. Visitors can register for 15-minute guided walkthroughs through Tesla’s official event page, with a mystery gift available for qualifying walkthrough bookings or test drives of selected Tesla models, while stocks last.',
+      'The Cybercab then appears at Sunway Square Mall in Selangor from November 3 to 9, Pavilion Damansara Heights in Kuala Lumpur from November 10 to 11, and Gurney Plaza in Penang from November 13 to 22. First unveiled at Tesla’s We, Robot event in October 2024, the Cybercab is a purpose-built robotaxi designed to operate without a human driver, with a two-seat cabin, butterfly-style doors and a central touchscreen — but no conventional steering wheel or pedals. Tesla says the cabin holds luggage for two standard check-in suitcases and two carry-on suitcases.',
+      'Tesla has yet to publish a complete set of consumer-facing production specifications, but U.S. Environmental Protection Agency certification documents offer some insight: a single electric motor rated at 163 kW driving the front wheels through a single-speed transmission, with specialist reporting based on the same documents putting battery capacity at approximately 47.6 kWh. The Malaysia tour is a showcase, not a service launch — nobody is hailing a Cybercab there yet — but it is Tesla’s most public robotaxi roadshow in Southeast Asia to date.',
+    ],
+    sources: ['Carlist.my', 'Tesla', 'U.S. EPA'],
+  },
+  {
+    slug: 'tesla-roadster-spacex-hawthorne-display-october-2026',
+    title: 'Next-Gen Tesla Roadster Parks Beside a Falcon 9 at SpaceX Headquarters',
+    description:
+      'Photos from SpaceX’s Hawthorne site put the thruster-equipped Roadster next to the first booster ever to land, fueling merger talk.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Small car, big rocket ambitions: the Roadster showed up beside the booster that started reusable rockets.',
+    body: [
+      'Tesla’s next-generation Roadster turned up at SpaceX’s headquarters in Hawthorne, California on October 28, less than two weeks after the car flew off a ramp at its unveiling in Texas. Photos shared on X by SpaceX engineer Deanna Rice show the new Roadster parked outdoors beside the famed Falcon 9 that stands outside company headquarters at the corner of Crenshaw Boulevard and Jack Northrop Avenue.',
+      'The rocket is not a random backdrop. Rocket B1019 was the first orbital-class booster ever to land after a launch, on December 21, 2015, after it sent 11 Orbcomm satellites to orbit and flew back to Landing Zone 1 at Cape Canaveral. SpaceX chose not to fly it again; after a test fire in Florida, the booster was shipped to Hawthorne and raised upright as a permanent monument in August 2016. Parking the Roadster beside it is symbolic in itself: the car flies on SpaceX cold gas thrusters, in the words of its own unveiling.',
+      'The technical link is real, not just photographic. The Thrust and Rocket versions of the Roadster use cold gas thrusters fed by composite overwrapped pressure vessels, the same type of tank SpaceX flies on Falcon 9, and Elon Musk has described the car as the work of Tesla and SpaceX engineers together. Tesla lists 0 to 60 mph in under 0.9 seconds for the Thrust version and under 0.59 seconds for the Rocket version, while the base Performance model relies on a fan and ground sealing system for grip, according to Teslarati’s breakdown of the three configurations. With merger committees at both companies already exploring a combination, the Hawthorne photo-op reads as a teaser for what a combined company could build.',
+    ],
+    sources: ['SpaceX', 'Teslarati'],
+  },
+  {
+    slug: 'tesla-optimus-fremont-production-line-1m-capacity-october-2026',
+    title: 'Tesla’s Optimus Line in Fremont Is Built for 1 Million Robots a Year — Eventually',
+    description:
+      'Early production-quality Optimus bots are rolling off a high-volume Fremont line, but Musk says 20,000 a week is at least a year away.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Design capacity and actual output are very different numbers — and for Optimus, the gap is the whole story right now.',
+    body: [
+      'Tesla has begun early production of its Optimus humanoid robot on a high-volume line at its Fremont, California factory, according to TechRepublic reporting covered on October 29. The company described the units as its “first production-quality bots” and said the manufacturing process is “suitable for a commercial product.” For a machine that spent years as a stage demo, that is a real change in status.',
+      'The headline number is big: the Fremont line is designed for a capacity of 1 million robots per year. The timeline is far more modest. Elon Musk said reaching 20,000 Optimus robots per week will take “at least a year, maybe a little longer,” and he expects deliveries to customers outside Tesla around the end of 2027. That gap — between what a line is designed to produce and the pace at which it actually turns out finished robots — is the core of this story, and it is where most humanoid hype goes to die.',
+      'What is not yet disclosed matters as much as what is. Tesla has not published a current weekly production rate, a price for outside customers, or a list of launch buyers. Until those appear, the fair reading is that Optimus has graduated from prototype to early production, with commercial scale still at least a year of ramp away. The wider humanoid race, including Toyota’s entry, is moving on the same logic: whoever turns a demo into a factory first wins the next decade of robotics, and Tesla is now claiming it has started.',
+    ],
+    sources: ['TechRepublic'],
+  },
+  {
+    slug: 'li-auto-2026-i6-m100-chip-96kwh-battery-october-2026',
+    title: 'Li Auto Launches Updated i6 With Its Own Driving Chip and a Bigger Battery',
+    description:
+      'The 2026 Li i6 starts at RMB 249,800 with a 96 kWh battery, 780 km CLTC range and a 1,280-TOPS in-house Mach M100 chip.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Same price, new brain, new battery: Li Auto’s refresh bets that in-house silicon beats another price cut.',
+    body: [
+      'Li Auto launched the 2026 version of its i6 electric SUV on October 28, with a starting list price of RMB 249,800 and a limited-time price of RMB 239,800 available through November 30. The update standardizes two in-house technologies across all trims: the Mach M100 assisted-driving chip, delivering 1,280 TOPS of computing performance alongside the Mach VLA assisted-driving system, and a 96 kWh Lianshan 5C lithium iron phosphate battery.',
+      'Range rises with the battery. The rear-wheel-drive version’s CLTC-rated range increases to 780 kilometers, compared with 720 kilometers previously, while the all-wheel-drive version offers 710 kilometers. Other upgrades include a 29-inch 6K panoramic display, a Snapdragon 8797 cockpit chip, support for Apple CarPlay, Huawei HiCar and Carlink, two zero-gravity front seats and a powered front trunk. Li Auto said vehicles available from inventory could be delivered within one to two weeks.',
+      'The i6 is Li Auto’s volume engine: it has accumulated nearly 200,000 deliveries in just over a year on the market and contributed more than half of Li Auto’s total sales in the first three quarters of 2026, yet the company still posted a first-half loss of RMB 3.981 billion with vehicle gross margin falling to 7.8%. The European version, branded the Li 6, is slated to begin deliveries in the Netherlands and Norway in the first quarter of 2027 — making the i6’s refresh a test of whether better technology, rather than cheaper prices, can hold ground in China’s crowded electric SUV market.',
+    ],
+    sources: ['TechNode', 'Li Auto'],
+  },
+  {
+    slug: 'honda-affordable-ev-suv-2027-report-india-october-2026',
+    title: 'Report: Honda Plans a More Affordable Electric SUV for Early 2027',
+    description:
+      'Reports say an India-built EV based on the 0 SUV concept could offer up to 650 km of range and a sub-AUD 40,000 price target.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'This is a report, not a Honda announcement — but the details are specific enough to take seriously.',
+    body: [
+      'Honda is planning an affordable new electric crossover based on its 0 SUV concept car, with a global debut pencilled in for early 2027, according to reports published on October 29. The new EV will be built in India, reports say, and will slot in size between the HR-V and ZR-V. Honda itself is remaining tight-lipped around further performance details, so everything here should be read as reported, not confirmed.',
+      'On the reported specifications, the crossover will use Honda’s in-house skateboard platform and be available with either a 61 or 75 kWh battery, with a targeted electric operating range of up to 650 km. The 0 SUV concept it is based on features an angular profile with a raked windshield and low roofline, a black panel front fascia with pixelated headlamps, U-shaped taillamps, and a cabin with digital instrumentation, a central touchscreen and a front passenger display.',
+      'The price target is the point. Reports suggest the EV could enter the market below AUD 40,000, with Honda Australia director Robert Thorp telling Carsguide the company is aiming to position the upcoming EV as a more affordable model. That matters because it follows Honda cancelling most of its future EV plans to reassess its electrification strategy — a cheaper, India-built crossover would be the first evidence of what the reassessed strategy actually looks like. Until Honda confirms pricing, timing and markets, U.S. buyers should treat this as a watch item, not a shopping list entry.',
+    ],
+    sources: ['CARmag', 'Autoevolution', 'Carsguide'],
+  },
+  {
+    slug: 'mg-u9-electric-ute-orders-australia-october-2026',
+    title: 'MG Opens Orders for the U9 Electric Ute in Australia From $78,990',
+    description:
+      'The body-on-frame U9 EV claims 325 kW, a 430 km WLTP range, 3,500 kg towing and air suspension as standard.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'An electric ute that tows like a diesel one: MG’s pitch is capability first, eco-credentials second.',
+    body: [
+      'MG Motor Australia has opened order books for the U9 EV with a starting price of $78,990 before on-road costs. Company specifications list dual electric motors producing up to 325 kW and 700 Nm, a 0–100 km/h time of 5.8 seconds, a 102.2 kWh lithium iron phosphate battery with a WLTP range of 430 km, and up to 115 kW DC charging that raises state of charge from 20 to 80 percent in about 42 minutes.',
+      'The capability numbers are the selling point. MG states the U9 EV has a braked towing capacity of 3,500 kg and a payload of 685 kg, matching its turbo-diesel sibling and exceeding the Toyota HiLux BEV’s published towing figure. Australia will receive the U9 only in an all-wheel-drive, body-on-frame form with features such as 236 litres of under-bonnet storage and standard air suspension, and MG reports strong early customer interest.',
+      'The honest caveat is that towing and range are enemies: a 430 km WLTP figure is measured unladen, and real-world range while towing 3,500 kg will be far lower, as it is for every electric ute. The U9 joins a very small local electric-ute market that includes the KGM Musso EV and HiLux BEV, so its real test will be charging access and towing conditions in everyday use — not the spec sheet. For buyers who want diesel capability without diesel running costs, it is now the most capable-sounding option on order in Australia.',
+    ],
+    sources: ['MG Motor Australia'],
+  },
+  {
+    slug: 'dodge-durango-2026-tail-light-recall-13330-october-2026',
+    title: 'Dodge Recalls 13,330 Durango SUVs Over Failing Tail Lights',
+    description:
+      'FCA says damaged terminals in the 2026 Durango tail-light wiring harness can stop the lights illuminating, raising crash risk.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Tail lights that do not light are a visibility failure for everyone behind you — dealers will replace the assemblies free.',
+    body: [
+      'FCA US LLC is recalling more than 13,000 vehicles because the tail lights are not illuminating properly, according to a notice posted by the National Highway Traffic Safety Administration. The recall covers 13,330 vehicles, all of them the 2026 Dodge Durango, and carries the FCA recall number A2D.',
+      'The defect is in the wiring, not the bulb. “The terminals in the tail light wiring harness may be damaged and cause the tail lights to fail,” the notice says. A tail light that fails reduces visibility for the motorist and for drivers behind, increasing the risk of a crash — particularly at night, in rain, or in stop-and-go traffic where brake and tail lights are the main warning other drivers get.',
+      'Car owners should take their vehicle to a dealership to have the tail light assemblies replaced at no cost. Notification letters will be sent out on December 4, and Chrysler can be reached at 800-853-1403. Do not wait for the letter if your Durango’s tail lights look dim, flicker, or fail: check the VIN in NHTSA’s recall database now and book the replacement, because a lighting failure is one of the cheapest recalls to fix and one of the most dangerous to ignore.',
+    ],
+    sources: ['NHTSA', 'USA TODAY'],
+  },
+  {
+    slug: 'kia-ev9-battery-recall-one-suv-16-complaints-october-2026',
+    title: 'Kia’s EV9 Battery Recall Covers Just One SUV — After 16 Owners Reported Failing Packs',
+    description:
+      'Recall 26V431 lists one 2024 EV9 and seven EV6s with SK On cells that may short, while owners filed 16 battery-failure complaints.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'One car recalled, sixteen owners complaining: the gap between Kia’s recall list and the complaint file is the story.',
+    body: [
+      'Kia’s EV9 battery fire recall, 26V431 (Kia code SC375), covers exactly one 2024 EV9 in the United States, built on October 28, 2023. Kia’s Part 573 report, filed July 2, 2026, lists 8 vehicles in total: seven EV6s and one EV9, all with SK On cells that may have a misaligned electrode, a defect that can short and start a fire. The recall list came from production and supplier records, not from owner reports.',
+      'An analysis of NHTSA’s public complaint file, pulled October 28, tells a different story. Sixteen different 2024 EV9 owners had already told federal regulators their high-voltage battery was failing, in complaints filed between November 6, 2024 and February 26, 2026 — out of 210 total complaints on file for the 2024 EV9. Nine of the sixteen reported a dash warning, and nine said they were told not to drive or were towed. Because Kia’s recall population came from supplier records, if your EV9 is one of the sixteen, the recall letter is almost certainly not coming to you.',
+      'The caveat matters: owner complaints are unverified, and some may describe a different failure than the misaligned-electrode defect in the recall. The gap is still a legitimate question for regulators, because 603 days passed between the first battery complaint and the recall filing. The practical move for any 2024 EV9 owner with battery warnings, sudden power loss or a tow is to get the failure documented with the dealer and NHTSA now, and to check the VIN — not to assume a recall covers a car that the supplier records missed.',
+    ],
+    sources: ['NHTSA', 'Kia'],
+  },
+  {
+    slug: 'hyundai-tucson-phantom-braking-recall-analysis-october-2026',
+    title: 'Hyundai Tucson Phantom-Braking Recall: Filing Counts 4 Crashes, Owners Reported 22',
+    description:
+      'An analysis of NHTSA complaints finds a wide gap with recall 26V316, which covers unintended braking in 2025 Tucsons.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 4,
+    excerpt:
+      'Hyundai’s recall filing and the owner complaint file measure different things — but a five-fold gap still deserves a question.',
+    body: [
+      'Hyundai’s recall report for unintended braking in the Tucson says that as of its decision it had received 376 reports about the forward collision system, and four described a crash in which a Tucson was rear-ended, with four alleged injuries. NHTSA’s public complaint file tells a bigger story: filtering 2025 Tucson, Tucson Hybrid, Tucson Plug-In Hybrid and Santa Cruz complaints to the forward collision component and to Hyundai’s own window, owners checked the crash box 22 times and reported 12 injuries.',
+      'The two counts measure different things, and that must be said plainly. Owner complaints are unverified, some crashes may not be caused by the defect, and Hyundai only counted rear-end crashes it tied to the condition. But nobody had published the gap, and a factor of five is a question NHTSA can ask in public — especially for a defect where the car brakes for nothing and the car behind does the crashing.',
+      'The chronology in Hyundai’s own filing is the second story. Its safety office replicated the unintended braking in a fleet car on June 19, 2025. NHTSA’s defects office asked about Tucson owner complaints on September 23, 2025, 96 days later. Hyundai then briefed regulators five times while it tested at its own lab, the California Proving Grounds and tracks in South Korea. Fixed camera software went into production at Ulsan on March 12, 2026 and at the Alabama plant on April 2. The recall was filed on May 18, and owner letters were mailed July 17: 393 days after the first replication. During the talks that followed NHTSA’s inquiry, another 113 complaints arrived, including 15 that reported a crash. If your Tucson brakes unexpectedly, report it to NHTSA as well as to the dealer — the complaint file is, evidently, part of the record.',
+    ],
+    sources: ['NHTSA', 'Hyundai'],
+  },
+  {
+    slug: 'jetson-one-police-work-florida-polytechnic-october-2026',
+    title: 'A Personal Flying Vehicle Takes Up Police Work at a Florida University',
+    description:
+      'Florida Polytechnic University will integrate Jetson’s $98,000 Jetson One eVTOL into police work, Jetson says.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'From demo flights to a campus police fleet: the personal eVTOL is starting to find institutional jobs.',
+    body: [
+      'A personal flying vehicle from Jetson has been selected by Florida Polytechnic University to integrate the electric vertical takeoff and landing vehicle into police work. The Jetson One already took its maiden flight in the United States, and Jetson also received an operational authorization from the Italian Civil Aviation Authority to fly unmanned Jetson One vehicles remotely — a standard practice for numerous new eVTOL vehicles working through early operations.',
+      'The commercial signal is the order book. Jetson said the company has already sold more than 300 Jetson One vehicles at $98,000 each. That is a real, if small, market for a machine that most people still think of as a concept: a single-seat, open-frame eVTOL that a buyer can, in principle, own and fly without the infrastructure of an airport or a commercial air taxi network.',
+      'This is not the first time a personal aerial vehicle has flown in the United States, as others have been doing so for some time during development phases. What is new is the job description: a university police operation is now a named, institutional use case rather than a test flight. The report does not detail which police duties the Jetson One will perform, so the sensible reading is that this is an early operational trial — useful, visible, and still a long way from replacing a patrol car.',
+    ],
+    sources: ['Jetson', 'Florida Polytechnic University'],
+  },
+  {
+    slug: 'skydrive-singapore-mou-six-companies-october-2026',
+    title: 'SkyDrive Signs Singapore R&D Pact With Six Tech Companies',
+    description:
+      'The October 29 memorandum links SkyDrive with Singapore partners on advanced air mobility R&D and supply chains.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'SkyDrive’s path to a 2028 service runs through partnerships — and Singapore is now part of the supply chain plan.',
+    body: [
+      'SkyDrive signed a memorandum of understanding with six Singapore tech companies on October 29 to collaborate on advanced air mobility research and development. The collaborations reflect the companies’ capabilities as technology and supply chain partners, opening opportunities for them to participate in emerging global value chains and pursue new areas of growth, according to the announcement.',
+      'The Singapore pact fits SkyDrive’s wider pattern of building the ecosystem before the aircraft is certified. SkyDrive has separately launched a joint initiative with aviation, infrastructure, energy, tourism, finance and insurance companies in Japan’s Kansai region — led by MUFG Bank — to advance the commercial deployment of eVTOL aircraft in western Japan. Partnerships, not just prototypes, are how a small eVTOL maker assembles the maintenance, infrastructure and financing a real air taxi network needs.',
+      'SkyDrive is a Japanese compact eVTOL company aiming, in its own words, “to take the lead in the once-in-a-century mobility revolution.” It began testing eVTOL prototypes in 2014, was incorporated in 2018, and in 2019 became the first company to fly a crewed eVTOL in Japan. In 2025 it showcased SKYDRIVE, its first commercial eVTOL product, with demonstration flights at the Osaka Expo witnessed by thousands of visitors over a month. Production began in March 2024 at a plant owned by Suzuki Motor Corporation, SkyDrive’s official production partner, and the company is working with civil aviation authorities in Japan and the United States toward launching the aircraft into service in 2028.',
+    ],
+    sources: ['BusinessWire', 'SkyDrive', 'Aviation Week'],
+  },
+  {
+    slug: 'october-lease-deals-283-offers-ranked-october-2026',
+    title: 'October’s 283 Lease Deals, Ranked: Land Cruiser at $449 Leads the Value List',
+    description:
+      'A ranking of every advertised October lease scores the 2027 Land Cruiser at $449 a month, the XC90 at $599 and the Sportage PHEV at $309.',
+    date: 'October 29, 2026',
+    dateISO: '2026-10-29',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Ranked by true monthly cost against sticker price, October’s best leases are hybrids, plug-ins and one very surprising Land Cruiser.',
+    body: [
+      'A ranking of all 283 advertised lease offers for October 2026 scores each deal by lease value ratio — true monthly cost divided by sticker price, where lower is better — and the winner is a vehicle that usually holds its value too well to discount. The 2027 Toyota Land Cruiser leases for $449 a month with $4,999 at signing, a 36-month term on a $58,180 hybrid off-roader, for a total cost of $21,163. The offers in the ranking expire November 2, so the window is days, not weeks.',
+      'The rest of the top ten shows how strong October is for electrified SUVs. The 2026 Volvo XC90 is $599 a month with $3,719 at signing on a $68,800 sticker, a total cost of $25,283. The 2026 Kia Sportage Plug-in Hybrid is $309 a month with $3,999 at signing, a total of $15,123 on a $40,490 sticker — the cheapest monthly payment among the plug-ins in the ranking. The 2026 Kia EV9 slips from third to ninth at $439 a month with $4,999 at signing, a total of $20,803, with $1,000 more upfront than in September.',
+      'The Mazda CX-70 PHEV, at $357 a month with $3,999 at signing on a $44,250 sticker, improved its ratio after Mazda dropped the deposit from $7,919 to $3,999. The lesson of the ranking is not to pick a car on the ratio alone: monthly payment, due-at-signing, mileage limits, region and what the car is worth at lease end all change the real cost. Get competing prices from multiple dealers in your area before signing anything — and confirm the offer is still live, since most of these expire November 2.',
+    ],
+    sources: ['FindTheBestCarPrice'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
