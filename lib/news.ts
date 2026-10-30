@@ -4387,6 +4387,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['FindTheBestCarPrice'],
   },
+{
+    slug: 'q3-tariff-chip-diesel-headwinds-automakers-october-2026',
+    title: 'Q3 Earnings, One Shared Warning: Tariffs, Chips and Diesel Are the New Cost Squeeze',
+    description:
+      'GM, Ford and Stellantis all grew Q3 revenue — and all warned that tariffs, chips and diesel costs are eating into profits heading into 2027.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Revenue is up across Detroit, but so are the costs nobody controls: tariffs, memory chips and diesel.',
+    body: [
+      'The third-quarter earnings season has produced an unusually consistent message from America’s automakers: sales and revenue are holding up, but a trio of cost pressures — tariffs, computer chips and diesel — is squeezing profits. General Motors reported revenue up 2.9% to $50 billion, Ford revenue up about 2% to $49.5 billion, and Stellantis revenue up 1% to €37.6 billion, yet all three flagged the same headwinds on their earnings calls, according to coverage of the results.',
+      'The numbers attached to those warnings are large. GM forecast that materials including chips and diesel could cost it as much as $2 billion this year, and said it is still paying about $2.5 billion in tariff costs, lower than earlier forecasts partly thanks to tariff refunds. Ford chief executive Jim Farley put the company’s commodities, memory and logistics headwind at about $2 billion year over year. Stellantis said it expects $1.1 billion in tariff costs for the full year, including $667 million incurred through September, and warned of additional fourth-quarter costs from pricey chips and rising recall expenses.',
+      'What this means for buyers is less dramatic than a price spike, but it matters: when costs rise $2 billion at a time, automakers have less room to discount. GM chief financial officer Paul Jacobson warned that prices at current levels make next year more challenging, and Ford chief financial officer Sherry Ann House echoed the caution. The average new-vehicle transaction price was just over $50,000 in September, close to a record high, according to Kelley Blue Book figures cited in the coverage — so the industry is already selling expensive cars into a cost squeeze, not cheap ones.',
+    ],
+    sources: ['NPR', 'Foley', 'Detroit Free Press'],
+  },
+  {
+    slug: 'october-us-sales-saar-15-6-million-october-2026',
+    title: 'October US Sales Pace Holds at 15.6 Million as Prices Stay Near Record Highs',
+    description:
+      'JD Power and GlobalData put October’s US sales pace at 15.6 million a year, with average transaction prices still just over $50,000.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The market is not collapsing — but at $50,000-plus average prices, it is not getting cheaper either.',
+    body: [
+      'US new light-vehicle sales are projected to reach a seasonally adjusted annual rate (SAAR) of 15.6 million in October, according to a joint forecast from JD Power and GlobalData cited in Foley’s October 29 automotive update. The SAAR is the industry’s standard way of expressing a single month’s sales pace as an annual figure, adjusted for seasonal patterns — so 15.6 million is a pace, not a forecast that 15.6 million cars will actually be sold in October itself.',
+      'The price backdrop explains why that pace is not higher. The average new-vehicle transaction price was just over $50,000 in September, close to a record high, according to Kelley Blue Book data cited in earnings coverage. That is the context for the record monthly payments reported earlier in October: buyers are financing ever-larger amounts, for ever-longer terms, because the cars themselves cost more, not because they are buying more cars.',
+      'The confidence picture is split. According to the third-quarter Automotive News Auto Industry Confidence Index cited by Foley, suppliers and retailers are expressing less optimism than automakers, with policy uncertainty and rising costs named as the drag. That split is worth watching into November and December: automakers set the incentives, but dealers and suppliers feel the floor traffic first, and their caution usually shows up in discounting — or the lack of it — before it shows up in the sales totals.',
+    ],
+    sources: ['Foley', 'JD Power', 'GlobalData', 'Kelley Blue Book'],
+  },
+  {
+    slug: 'volkswagen-id-unyx-09-china-755km-october-2026',
+    title: 'Volkswagen’s ID. UNYX 09 Launches in China: 755 km of Range From About $26,800',
+    description:
+      'The five-metre electric fastback from Volkswagen Anhui went on sale in China on October 24 with 5C fast charging and three trims.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Built with Xpeng, priced like a mainstream sedan, and sold only in China — for now.',
+    body: [
+      'The Volkswagen ID. UNYX 09, a five-metre battery-electric fastback sedan from Volkswagen Anhui, went on sale in China on October 24, 2026, in three trims. The Ultra costs RMB 179,900 (about $26,830), the Fully Equipped RMB 219,900 (about $32,800), and the dual-motor all-wheel-drive Max RMB 249,900 (about $37,300), according to launch coverage citing Chinese pricing. It is the second model Volkswagen Anhui has developed together with Xpeng, after the ID. UNYX 08 SUV.',
+      'The headline technical claim is range and charging speed: Volkswagen claims up to 755 km of CLTC range (705 km for the all-wheel-drive Max), 5C fast charging, about 250 km of range added in 5 minutes, and 10 to 80 percent charging in under 12 minutes. Those are Chinese CLTC figures, which are generally more generous than the US EPA cycle, so American readers should not compare them directly with EPA ratings. Series production began on September 24, 2026, the day pre-sales opened, at Volkswagen Anhui in Hefei.',
+      'The important caveat is availability: the ID. UNYX 09 is for sale only in China, and neither Volkswagen nor the outlets covering the launch mention an export plan. The car is framed as part of Volkswagen’s in-China-for-China strategy, and its sibling, the ID. UNYX 08 SUV, has already seen its entry price cut from RMB 229,900 at launch in April 2026 to a limited-time RMB 189,900 in September. For US buyers, the ID. UNYX 09 is therefore a signal about where Volkswagen’s EV pricing is heading — not a car you can buy here.',
+    ],
+    sources: ['CnEVPost', 'Electric Cars Report', 'Volkswagen Anhui'],
+  },
+  {
+    slug: 'avatr-t09-paris-1000hp-flagship-october-2026',
+    title: 'Avatr T09 Debuts in Paris: A 1,000-plus-hp Six-Seat Flagship With Huawei Tech',
+    description:
+      'Avatr’s new Prestige Luxury flagship, shown as a concept in Paris on October 11, is due in production before the end of 2026.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Huawei driver assistance, CATL batteries, six seats and four-figure horsepower — China’s luxury EV bar keeps rising.',
+    body: [
+      'Avatr has unveiled the T09, a six-seat flagship luxury SUV with more than 1,000 horsepower, Huawei’s latest driver-assistance system and an expected price above 500,000 yuan (about $74,500). The concept version made its world premiere in Paris on October 11, 2026, and the production model is scheduled to go on sale before the end of 2026, according to coverage of the debut.',
+      'The T09 is built with Huawei and battery giant CATL, and it is the first model in Avatr’s new Prestige Luxury lineup — described in the coverage as the most technology-dense vehicle the brand has produced to date. That positioning matters because Avatr is not a volume brand chasing the cheapest EV; it is chasing the top of the Chinese luxury market, where buyers expect flagship SUVs to double as technology showcases, with driver-assistance hardware and cabin tech as central to the pitch as horsepower.',
+      'Two honest limits apply. First, the Paris car was a concept, so production specifications, final pricing and range figures may change before the on-sale date. Second, Avatr has no US sales channel, so American readers will not be able to buy a T09 — but they will feel its influence, because the Huawei-CATL technology stack and the six-seat luxury format are the template Chinese brands are exporting to Europe, the Middle East and Southeast Asia, where they increasingly compete directly with German luxury SUVs.',
+    ],
+    sources: ['China Auto Daily', 'Avatr'],
+  },
+  {
+    slug: 'omoda-x-cross-off-road-debut-october-2026',
+    title: 'OMODA X Debuts as the “World’s First CROSS Off-Road Vehicle”',
+    description:
+      'Shown on October 20 at OMODA X Night, the crossover blends SUV practicality, off-road ability and sports-car character.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      '200 mm of clearance, 700 mm-plus wading, 1,800 kg of towing — and a deliberate refusal to pick one category.',
+    body: [
+      'On October 20, OMODA X made its global debut at OMODA X Night in Wuhu, China, positioned by the brand as the world’s first CROSS OFF-ROAD VEHICLE — a machine that combines the practicality of an SUV, the adventurous spirit of an off-road vehicle and the dynamic character of a sports car. The announcement, carried by GlobeNewswire on October 29, frames CROSS as freedom to move between lifestyles rather than a single vehicle category.',
+      'The numbers behind the claim are concrete: 200 mm of ground clearance, a designed wading capability of over 700 mm, towing capacity of up to 1,800 kg, a roof load capacity of 75 kg and 39 storage spaces for equipment such as cycling and surfing gear. At the debut, four users from Indonesia, Brazil, South Africa and Poland presented four interpretations of the car, drawing on their cultural backgrounds and interests — a deliberate signal that OMODA is pitching this as a global lifestyle vehicle, not a China-only product.',
+      'The “world’s first” label should be read as marketing, not engineering history — crossovers with off-road pretensions are decades old. What is genuinely new is the branding strategy: OMODA takes its three core DNA elements — MECHA, CROSS and SMART — and pushes them further with bolder mecha styling, greater crossover versatility and personalised intelligent experiences. The car follows the OMODA 4’s Paris Motor Show debut earlier in October, and it arrives in a month when OMODA and JAECOO posted a record UK September, with 22,296 registrations, up 106% year over year.',
+    ],
+    sources: ['GlobeNewswire', 'OMODA'],
+  },
+  {
+    slug: 'deepal-s09-mea-flagship-launch-october-2026',
+    title: 'DEEPAL S09 Launches in the Middle East and Africa as a Six-Seat Range-Extended Flagship',
+    description:
+      'Changan’s DEEPAL brand launched its flagship six-seat luxury 4WD SUV in Oman and Egypt on October 27, co-developed with Huawei.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A range-extended flagship, launched in Muscat and Cairo — China’s EV brands are expanding region by region.',
+    body: [
+      'Changan Automobile has officially launched the all-new DEEPAL S09 in the Middle East and Africa region, with launch events held in Oman and Egypt on October 27, 2026, according to a GlobeNewswire announcement. The S09 is the brand’s flagship six-seater luxury 4WD SUV in the region, combining range-extended electric performance with intelligent technology and comfort-focused luxury.',
+      'The S09 is a full-size, six-seat Range Extended EV (REEV) flagship co-developed with Huawei. The REEV format is a deliberate choice for the region: a petrol engine acts as a generator for the battery, so drivers get electric driving without depending on a dense fast-charging network — a real constraint in parts of the Middle East and Africa that pure battery EVs still face. It is the same logic that has made range-extended models popular in China’s less-developed charging regions.',
+      'The launch is also a map of where Chinese EV expansion is actually happening. DEEPAL, Changan’s new-energy vehicle brand, is not launching the S09 in the US or Europe first; it is building presence in Oman, Egypt and the wider Middle East and Africa, where buyers want large, comfortable, technology-rich SUVs and where Chinese brands face fewer trade barriers than in the US. For American readers, the S09 is a preview of the format — big, six-seat, range-extended, Huawei-assisted — that may arrive in other markets next.',
+    ],
+    sources: ['GlobeNewswire', 'Changan Automobile', 'DEEPAL'],
+  },
+  {
+    slug: 'chery-summit-robotaxi-lingxiao-evtol-october-2026',
+    title: 'Chery’s User Summit Puts Robotaxi and a 1,000-km eVTOL Centre Stage',
+    description:
+      'At the 2026 Chery International User Summit, the Lingxiao J506 eVTOL and a Robotaxi programme shared the stage with smart parking.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A five-seat tilting-rotor aircraft, a robotaxi, and valet parking you trigger from your phone — Chery’s future, shown working.',
+    body: [
+      'Chery Auto moved its technologies beyond the exhibition floor at the 2026 Chery International User Summit in Wuhu, China, on October 26, with real-world driving demonstrations, public crash tests and intelligent parking systems visitors could activate from their smartphones. A central feature was SIVP (Super Intelligent Valet Parking), presented as an example of Chery’s intelligent driver-assistance capabilities for overseas markets, according to the GlobeNewswire report.',
+      'The future-mobility centrepieces were a Robotaxi programme and the Lingxiao electric vertical take-off and landing (eVTOL) aircraft. The Lingxiao J506 is a five-seat eVTOL with a fully tilting six-rotor configuration, designed for a top speed of 350 km/h, a range of more than 1,000 kilometres and autonomous flight. Both programmes draw on Chery’s All World Engine (AWE) and CheryMind, its domain-specific foundation model for physical AI — the same software-first approach that underpins its driver-assistance systems.',
+      'Read the specifications as design targets, not certified performance: the J506’s 1,000-km range and 350 km/h top speed are what the aircraft is designed for, and neither Chery nor the summit report claims certification or a service date. What the summit does prove is breadth — Chery is now publicly developing cars, robotaxis and air taxis on a shared AI and engineering base, and showing them to international users rather than keeping them as domestic concepts. That is a different kind of car company pitch than a single new model.',
+    ],
+    sources: ['GlobeNewswire', 'Chery Automobile'],
+  },
+  {
+    slug: 'china-evtol-corridors-ehang-xpeng-october-2026',
+    title: 'China’s Flying-Car Corridors: EHang and XPeng Are Testing the Sky as a Commute Lane',
+    description:
+      'Certified aircraft, city trials and a sceptical public — China’s urban air mobility push is further along than the headlines suggest.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The aircraft are real and certified. The open question is whether anyone will actually ride in them unsupervised.',
+    body: [
+      'China’s urban air mobility story is no longer about a single demo flight. EHang obtained Chinese type certification for its autonomous passenger-carrying EH216-S eVTOL in 2023, delivered a certified unit to a customer, and received aviation approvals for operators in 2025, according to reporting summarised this month. By the second quarter of 2026, EHang reported 36 eVTOL aircraft deliveries across its product lines, and its Guangzhou and Hefei passenger operations remain in regulatory trials while broader public ticket sales await approval.',
+      'XPeng’s aviation arm is on a parallel track: XPeng-backed ARIDGE has demonstrated a detachable flying module carried by a six-wheeled road vehicle, with trial manufacturing under way and customer deliveries targeted for 2027, according to the same reporting. The pattern in both cases is the same — certification and manufacturing first, public service second — which is the opposite order from the stunt-driven flying-car headlines that dominate Western coverage, where a brief thruster-assisted hop is presented as a breakthrough.',
+      'The honest obstacle is public acceptance, not just engineering. A 2026 Chinese survey cited in recent coverage found only 34% of urban residents would ride an autonomous eVTOL unsupervised, citing noise, reliability and emergency-response concerns. That means the corridor trials in Shenzhen, Guangzhou and other pilot cities are as much about proving safety routines, traffic management and emergency procedures as they are about the aircraft. Until those routines are proven at scale, China’s flying cars will remain certified, delivered and still waiting for their first ordinary passengers.',
+    ],
+    sources: ['Medium', 'EHang', 'XPeng AeroHT'],
+  },
+  {
+    slug: 'pal-v-production-approval-road-air-october-2026',
+    title: 'PAL-V Clears a Production Milestone on the Long Road to a Real Flying Car',
+    description:
+      'The Dutch roadable gyroplane maker gained European automotive approval and, in September 2026, aviation production approval.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A car you can drive and an aircraft you can fly, from one vehicle — PAL-V is closer than the stunt cars, and still not certified.',
+    body: [
+      'PAL-V, the Dutch company developing a roadable gyroplane, has obtained European automotive approval and, in September 2026, aviation production-organisation approval, according to reporting summarised this month. That combination matters because a true flying car must satisfy two regulators, not one: the road authorities who certify it as a car, and the aviation authorities who certify it as an aircraft and approve the factory that builds it.',
+      'The important qualification is that final aircraft certification remains unfinished. Production-organisation approval means the factory and its processes meet aviation standards; it is not the same as a type certificate for the finished aircraft, which is what would allow ordinary customers to buy and fly one. PAL-V has been developing the concept for years, which is precisely why the milestone is significant — it is slow, bureaucratic progress, not a viral video, and it is the kind of progress that actually leads to a saleable vehicle.',
+      'PAL-V therefore sits in a different category from both the stunt cars and the air-taxi startups. Unlike Tesla’s thruster-assisted Roadster demonstration, which is a road car performing a brief airborne stunt with no airworthiness certification, PAL-V is designed to function in both environments. And unlike Joby or Archer, which are building piloted air taxis for fleets, PAL-V is building a personal vehicle its owner drives and flies. Neither path has yet produced a certified flying car you can buy — but PAL-V’s September approval is one of the few 2026 milestones that moved the paperwork, not just the headlines.',
+    ],
+    sources: ['Medium', 'PAL-V'],
+  },
+  {
+    slug: 'tesla-free-cash-flow-30b-credit-october-2026',
+    title: 'Tesla’s Cash-Flow Beat: $1.5B Free Cash Flow, a $20B Capex Cut — and $30B of Credit Lined Up',
+    description:
+      'Tesla cut its 2026 spending forecast, beat Wall Street’s cash-flow expectations, and still arranged up to $30 billion in borrowing.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Better cash flow today, heavier spending tomorrow — Tesla is funding the AI and robot bet from a position of strength, not desperation.',
+    body: [
+      'Tesla’s third-quarter numbers contain an apparent contradiction that is actually a strategy: management lowered its 2026 capital spending forecast to approximately $20 billion, down from more than $25 billion projected in July, while also lining up as much as $30 billion in credit it does not intend to draw in 2026. The credit line is insurance for the spending surge to come, not a sign of a cash crisis — Tesla ended the quarter with almost $36 billion in net cash, according to analysis of the results.',
+      'The quarter itself beat the cash-flow expectations Wall Street had pencilled in. Instead of the $3.8 billion cash outflow and $7.9 billion in capital expenditure expected by analysts surveyed by S&P Global Market Intelligence, Tesla generated $1.5 billion in free cash flow while spending only $4.7 billion in capital expenditure. Part of the improvement came from stronger automotive gross margins, but part came from timing: spending deferred is not spending avoided, and management has signalled that capital spending will ramp up again as Robotaxi, Cybercab and Optimus scale.',
+      'The Optimus timeline is the clearest example of that tension. In January, chief executive Elon Musk said Tesla would probably unveil Optimus 3 in a few months; the latest October update calls for an Optimus video in a month or so, and Musk confirmed early production on the high-volume line in Fremont, California, while cautioning it would take probably at least a year, maybe a little longer, to reach an annualised rate of 20,000 units a week. The long-term goal remains 1 million Optimus units in Fremont. The cash-flow beat buys time for that ramp — it does not shorten it.',
+    ],
+    sources: ['Motley Fool', 'S&P Global Market Intelligence', 'Tesla'],
+  },
+  {
+    slug: 'india-diwali-ev-offers-2026-october-2026',
+    title: 'Diwali 2026: India’s Best EV Deals Are on Outgoing Stock, Not New Models',
+    description:
+      'India registered 35,995 electric cars in September, up 94% year over year — but the biggest Diwali discounts sit on older cars.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Up to ₹3.35 lakh off a Curvv EV — if you accept the pre-SeriesX car. Current models get a fraction of that.',
+    body: [
+      'Diwali is a good time to buy an electric car in India — but only for some buyers, according to an October analysis of the festive offers. It works if you need a car within weeks, want delivery for Dhanteras on Friday, November 6, 2026, or are targeting outgoing stock. India registered 35,995 electric cars in September 2026, up 94% from 18,520 a year earlier, so the market is growing fast — but the discounts are not spread evenly.',
+      'The largest reported offers sit on older stock. The pre-SeriesX Tata Curvv EV carries up to ₹3.35 lakh off, and the older Tiago EV and Punch EV up to ₹1.45 lakh off, while the current SeriesX Curvv EV gets only ₹65,000. Tata’s top figures have not moved since July, according to the analysis — Diwali did not create these numbers, it merely repackaged them. Buyers who already own a Tata and qualify for a loyalty bonus can get up to ₹2.75 lakh off the Harrier EV, about 12.6% of its entry price.',
+      'Current-generation cars get small offers by comparison: the Syros EV gets ₹20,000 and the Nexon EV ₹45,000, and the Clavis EV has no cash discount at all, only exchange, loyalty, scrappage and corporate benefits. Reported October offers on current models equal roughly 1.5% to 4.2% of entry price. The buying advice that follows is straightforward: if you want an outgoing car, buy now before stock sells out; if you want a current-generation model, or a car that has not launched yet such as the Safari EV, there is no festive rush — November’s offer sheets are not out yet, and waiting costs little.',
+    ],
+    sources: ['EVFY', 'Tata Motors'],
+  },
+  {
+    slug: 'tesla-barclays-450-target-stock-strain-october-2026',
+    title: 'Tesla Stock Strains as Barclays Lifts Its Target to $450 Despite a 56% Profit Drop',
+    description:
+      'Tesla closed at $404.22 on October 29 after Q3 operating profit fell 56% — and Barclays still raised its price target.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A court win in Korea removed one FSD refund threat. It did not fix the margin problem.',
+    body: [
+      'Tesla stock closed 0.8% lower at $404.22 on October 29, 2026, and was indicated around $401 in overnight trading, even as Barclays lifted its Tesla price target to $450. The tension in those two facts is the whole Tesla investment story right now: the autonomy and robotics future that analysts are pricing in, versus the car business margins that are actually paying for it today.',
+      'The margin numbers are stark. Tesla’s third-quarter revenue edged down to $28.05 billion, while operating profit plunged nearly 56% to $718 million and the operating margin slipped to about 2.6%, reflecting heavier spending on AI, robotics and new products. Paid Full Self-Driving adoption is accelerating — active subscriptions are up 67% year over year, and more than 75% of new North American deliveries include paid FSD, according to the analysis — but subscription growth has not yet offset the spending surge.',
+      'The week’s legal news cut the other way. On October 29, the Seoul Central District Court dismissed a lawsuit by 88 Tesla owners seeking refunds for Full Self-Driving, ruling that the company had not promised fully autonomous vehicles and had already provided some of the functions in the package. That removes an immediate refund overhang in South Korea, though it does not decide similar disputes elsewhere, and it does not prove Level 5 autonomy. Barclays’ higher target is therefore a bet on the future monetisation of that autonomy — not a verdict on today’s 2.6% margin.',
+    ],
+    sources: ['Invezz', 'Barclays', 'Reuters'],
+  },
+  {
+    slug: 'ford-f150-super-duty-structure-recall-30123-october-2026',
+    title: 'Ford Recalls 30,123 F-150 and Super Duty Trucks Over a Structure Issue',
+    description:
+      'The recall covers certain 2026–2027 F-150 and 2026 Super Duty trucks, reported to NHTSA in the week of October 19–25.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Ford’s best-sellers are in the recall column again — this time for structure, not software.',
+    body: [
+      'Ford is recalling certain 2026–2027 F-150, 2026 F-250 Super Duty, F-350 Super Duty and F-450 Super Duty trucks over a structure issue, according to the NHTSA weekly recall summary for October 19–25, 2026. The campaign covers 30,123 vehicles in total, making it the third-largest recall reported that week, behind only the Toyota Sienna seat-back recall and the Lexus NX display recall.',
+      'The summary lists the component as structure, but does not publish the detailed defect description, remedy or owner-letter timing in the weekly roundup — owners should check their VIN on NHTSA.gov for the full campaign record, as the weekly summary is a headline list, not the complete filing. Repairs for safety recalls are free at the brand’s dealers, and that applies here as it does to every NHTSA safety recall.',
+      'The recall lands in a busy month for Ford’s truck recalls: earlier October campaigns covered F-150 fuel tanks (223,472 vehicles), Expedition and Super Duty headlights, and Ram’s rival TPMS recall, among others. None of that makes the F-150 a bad truck — it is still America’s best-selling vehicle line — but it does mean F-150 and Super Duty owners should make a VIN check a habit, not a one-off: new campaigns for these high-volume trucks have been arriving almost weekly through October.',
+    ],
+    sources: ['NHTSA', 'KC Nebula'],
+  },
+  {
+    slug: 'kenworth-peterbilt-fuel-system-recall-26729-october-2026',
+    title: 'Kenworth and Peterbilt Recall 26,729 Trucks Over a Diesel Fuel-System Defect',
+    description:
+      'PACCAR’s recall covers certain 2022–2027 Kenworth and Peterbilt medium- and heavy-duty trucks, reported October 19–25.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A fuel-system defect on work trucks is a different kind of recall — downtime is the cost, not just the repair.',
+    body: [
+      'PACCAR is recalling certain 2022–2023 Kenworth T370 and T270, 2022–2027 Kenworth T280 and Peterbilt 548, and 2023–2027 Kenworth T480, T380 and Peterbilt 536 and 537 trucks over a fuel-system defect involving diesel, according to the NHTSA weekly recall summary for October 19–25, 2026. The campaign covers 26,729 vehicles and parts, making it one of the largest commercial-vehicle recalls reported that week.',
+      'Fuel-system defects on diesel trucks deserve more attention than their passenger-car equivalents, because the failure mode is not just a warning light: a diesel fuel leak near hot exhaust components is a fire risk, and a fuel-system failure on a working truck also means a vehicle out of service. The weekly summary lists the component as fuel system, diesel, and does not publish the full defect narrative — fleet owners and owner-operators should check VINs on NHTSA.gov and contact their Kenworth or Peterbilt dealer for the complete campaign details and remedy timing.',
+      'Commercial recalls rarely make consumer headlines, but they affect the same supply chains car buyers depend on: the trucks that deliver cars, parts and groceries. PACCAR’s recall is a reminder that the October recall wave is not only about passenger SUVs and EVs — it spans the whole vehicle parc, from a 7-seat Sienna to a heavy-duty Peterbilt, and the free-dealer-repair rule applies to all of them.',
+    ],
+    sources: ['NHTSA', 'PACCAR', 'KC Nebula'],
+  },
+  {
+    slug: 'hyundai-elantra-tucson-small-recalls-october-2026',
+    title: 'Hyundai’s Two Smallest October Recalls: 17 Elantras, 24 Elantras and Tucsons',
+    description:
+      'Two tiny Hyundai campaigns — wheels on 17 Elantras, suspension on 24 Elantras and Tucson Hybrids — show how narrow recalls can be.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Forty-one vehicles, two campaigns — proof that a recall is about a specific production batch, not a whole model line.',
+    body: [
+      'Hyundai reported two of the smallest recalls of the week of October 19–25, 2026: 17 Elantra, Elantra Hybrid and Elantra N vehicles over a wheels issue, and 24 Elantra and Tucson Hybrid vehicles over a suspension issue, according to the NHTSA weekly recall summary. Together, the two campaigns cover just 41 vehicles — a rounding error next to the 228,367-vehicle Toyota Sienna recall reported the same week, but no less real for the owners involved.',
+      'Small recalls like these are usually the most precise kind: they trace to a specific supplier batch, a specific production window, or a specific assembly-line event, rather than a design flaw affecting every car with the badge. That is why the model-year and component listings matter more than the headline count — an Elantra owner whose car was built outside the affected batch is not affected, and an owner inside it needs the free dealer repair even though only a handful of cars share the defect.',
+      'The weekly summary does not publish the full defect descriptions for these two campaigns, so owners should check their VIN on NHTSA.gov rather than guessing from the model name. The broader lesson for buyers is reassuring in an odd way: when a manufacturer can narrow a recall to 17 cars, its traceability is working. The recalls to worry about are the ones that start small and grow — and the only way to know which kind yours is, is to check.',
+    ],
+    sources: ['NHTSA', 'Hyundai', 'KC Nebula'],
+  },
+  {
+    slug: 'polestar-4-25000-off-november-2-october-2026',
+    title: 'Polestar 4 Is $25,000 Off Through November 2 — Over 40% of Its Sticker Price',
+    description:
+      'Polestar’s cash offer cuts the $56,400–$57,800 crossover to about $31,400, but delivery must happen by November 2.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'A $25,000 rebate, a $499 lease, or 0% financing for $18,000 — pick one, and pick fast.',
+    body: [
+      'Polestar is offering up to $25,000 off the Polestar 4 in the United States through November 2, 2026, a rebate worth more than 40 percent of the electric crossover’s sticker price. The Polestar 4 carries a sticker price of $56,400 to $57,800, according to Electrek’s October report on Kelley Blue Book pricing data, so the full discount would bring the lowest-priced version down to about $31,400 before destination charges, taxes and fees. Polestar’s own offers page is explicit about the window: valid until November 2, 2026.',
+      'The deal has three faces, and they are not combinable. On a cash purchase, the offer is $25,000 off MSRP, for vehicles delivered by November 2 — ordering late in the window is a risk, since delivery, not just ordering, must happen by the deadline. Buyers who prefer to lease can take the dual-motor model for $499 a month for 27 months with $1,500 due at signing, a deal that includes a $19,000 Clean Vehicle Incentive. Financing carries a different trade: 0 percent APR for up to 60 months comes with an $18,000 Clean Vehicle Incentive rather than the full $25,000, so the interest-free loan costs $7,000 in discount.',
+      'The context is the post-tax-credit EV market. Kelley Blue Book reported that the average new EV transaction price in September was $55,879, up about 2.4 percent from August’s revised $54,574 but 3 percent below a year earlier, with incentives averaging 11 percent of transaction price — the lowest this year. Polestar’s 40-percent-plus rebate is therefore an outlier, not the market: it reflects a brand clearing stock of a car that, according to earlier reporting, will be banned from US sale as of the 2027 model year due to the automaker’s ties to China. A $31,400 Polestar 4 is a remarkable deal; a Polestar 4 with an uncertain US future is a deal to enter with eyes open.',
+    ],
+    sources: ['Electrek', 'Kelley Blue Book', 'Polestar'],
+  },
+  {
+    slug: 'audi-rs-etron-gt-37500-off-october-2026',
+    title: 'Audi RS e-tron GT: Up to $37,500 Off, the Biggest EV Discount of October',
+    description:
+      'A $20,000 customer credit plus an unadvertised $17,500 marketing credit cut the $171,895 super-EV to about $135,000.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Even at $135,000, it is not cheap. But $37,500 off a 2.4-second super-EV is the month’s headline discount.',
+    body: [
+      'The biggest EV incentive of October 2026 belongs to the Audi RS e-tron GT. By combining a $20,000 customer credit incentive and an unadvertised $17,500 marketing credit, customers can potentially save up to $37,500 when purchasing a new RS e-tron GT, according to Autoblog’s roundup of October deals based on CarsDirect findings. The offer applies to the 2026 model and runs until November 2, 2026.',
+      'The arithmetic still leaves a very expensive car: the 2026 RS e-tron GT has a base price of $171,895 including destination, so even after the full $37,500 discount it costs around $135,000. What that buys is, by any measure, extraordinary performance — a 0–60 mph time of 2.4 seconds — in a large, luxurious, four-door electric grand tourer. At $135,000, the buyer is not cross-shopping a Model 3; they are cross-shopping a Porsche Taycan Turbo and a Lucid Air Sapphire, and the Audi’s discount is what puts it in that conversation.',
+      'The “unadvertised” part of the $17,500 marketing credit matters for shoppers: it may not appear on Audi’s public offers page, and it may depend on dealer participation, region and stock. The practical advice is the same as for every big October EV deal — confirm the full discount in writing at a specific dealer, confirm the car is in stock for delivery by November 2, and do not assume the headline $37,500 applies to every RS e-tron GT on every lot. With that caveat, this is the month’s most eye-catching EV price cut, and it shows how far luxury EV makers will go to move 2026 stock before the model year turns.',
+    ],
+    sources: ['Autoblog', 'CarsDirect', 'Audi'],
+  },
+  {
+    slug: 'volkswagen-id4-12500-customer-bonus-october-2026',
+    title: 'Volkswagen Is Cutting ID.4 Prices by $12,500 as Production Ends in Chattanooga',
+    description:
+      'The $12,500 customer bonus on 2025 ID.4 models runs September 1 to November 2, beating the old $7,500 federal credit.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'A bigger discount than the tax credit it replaces — but only on 2025 models, at participating dealers, while stock lasts.',
+    body: [
+      'Volkswagen is giving drivers a customer bonus of $12,500 toward the lease or purchase of a 2025 Volkswagen ID.4, according to EV news site Electrek, as reported by USA Today. The offer is available from September 1 to November 2, 2026, and is limited to 2025 model year ID.4 EVs at participating dealerships, which can be challenging to find as stock thins. Volkswagen is also offering a separate $6,000 customer bonus for drivers leasing or purchasing the 2026 ID.4.',
+      'The $12,500 bonus exceeds the $7,500 federal electric vehicle tax incentive eliminated in September, which is precisely the point: with the federal credit gone and EV demand slowed in 2026, Volkswagen must offer aggressive pricing to make the ID.4 appealing against rivals like the Tesla Model Y, Hyundai Ioniq 5 and Kia EV6. The discount also reflects a model changeover — ID.4 production in Chattanooga, Tennessee, has ended to clear inventory and make way for the vehicle’s replacement, the upcoming ID. Tiguan EV, according to Car and Driver reporting cited in the coverage.',
+      'The reality check is the price after the discount. The most affordable 2026 ID.4 in one reported region, the Pro trim, is listed for $47,477 before taxes and fees — even after the $6,000 bonus for the 2026 model, it costs more than $40,000, which is not great for its segment. By contrast, Hyundai’s 2027 Ioniq 5 starts at $35,250 for the SE Standard Range trim, and the Tesla Model Y starts at $39,990 for rear-wheel drive. The ID.4 deal is therefore best on the 2025 model, where the $12,500 bonus does the heavy lifting — and only if you can find one before November 2.',
+    ],
+    sources: ['USA Today', 'Electrek', 'Car and Driver'],
+  },
+  {
+    slug: 'kia-ev-deals-ev3-ev9-niro-ev6-october-2026',
+    title: 'Kia’s October EV Deals: $10,000 Off EV9 and Niro, $349-a-Month EV3 Leases',
+    description:
+      'With the new $30,000 EV3 in dealerships, Kia is offering up to $10,000 in customer cash across its electric range until November 2.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'A $30,000 EV3, a $10,000-off EV9, and a $289 Niro lease — Kia’s October sheet covers every EV budget.',
+    body: [
+      'With the new EV3 now arriving at dealerships, Kia is throwing extra savings into the mix with up to $10,000 off in customer cash on select EVs, according to Electrek. The 2027 EV3 went on sale in mid-August, starting at about $30,000 as Kia’s most affordable electric vehicle, and Kia announced that it has officially arrived at dealerships across the US. The EV3 is available in five trims — Light, Wind, Land, GT-Line and a range-topping GT — with a $1,500 customer cash discount on all EV3 models, or 0.9% APR for 48 months.',
+      'The lease numbers are the headline for budget buyers. Kia is offering a special lease on the EV3 Wind front-wheel drive starting at $349 a month with $3,999 due at signing for 24 months, or $359 a month for 36 months with the same amount due. The three-row EV9 carries up to $10,000 in customer cash, or 0% APR for 60 months plus $5,000 APR bonus cash, with leases for the Light Long Range rear-wheel drive listed at $399 a month for 24 or 36 months with $4,999 due at signing. The outgoing all-electric Niro also gets $10,000 in customer cash while supply lasts, with leases as low as $289 a month for 36 months, and the EV6 gets a $5,000 customer cash discount with leases from $369 a month.',
+      'All of Kia’s current electric offers end on November 2, 2026, and may vary by state — the usual, but important, caveat. The strategic picture is that Kia is now covering the EV market from $30,000 to three-row family hauler in a single October sheet, at a moment when the federal tax credit is gone and rivals are discounting just as hard. For buyers, the EV3 is the car to watch: a $30,000 starting price, a $349 lease, and the EV9’s technology in a smaller package is the closest thing the US market has right now to a mainstream-priced EV that does not feel like a compromise.',
+    ],
+    sources: ['Electrek', 'Kia'],
+  },
+  {
+    slug: 'waymo-tesla-robotaxi-mileage-gap-october-2026',
+    title: 'Waymo vs Tesla, in Miles: 3.9 Million a Week Against 558,000',
+    description:
+      'Electrek’s comparison puts Waymo’s rider-only mileage at seven times Tesla’s latest reported week — but the weeks differ.',
+    date: 'October 30, 2026',
+    dateISO: '2026-10-30',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Waymo is widening the map inside cities it already serves. Tesla is widening its Houston geofence. The mileage gap is still huge.',
+    body: [
+      'Waymo is adding nearly 250 square miles to its driverless ride-hailing service over the next week across five cities it already serves — Los Angeles, Nashville, Orlando, San Diego and the San Francisco Bay Area — according to the company’s October 27 blog post. Electrek notes that the expansion is about as big as Tesla’s entire Houston Robotaxi geofence after this week’s expansion, which Robotaxi Tracker puts at about 254 square miles with 34 vehicles in Houston.',
+      'The mileage comparison is starker. Electrek reports Waymo logged 3.9 million rider-only miles per week in the second quarter of 2026, while Tesla’s driverless fleet did 558,000 miles in its latest reported week, mostly in Austin — a different week, so the comparison is directional, not a head-to-head race on the same days. Even allowing for that caveat, the gap is roughly seven to one, and it reflects a structural difference: Waymo operates a large, multi-city, rider-only fleet, while Tesla’s driverless service is still concentrated in Austin and Houston with a much smaller vehicle count.',
+      'Waymo’s expansion strategy is also different in kind: it is widening the map inside cities it already serves, rather than naming a new city. In Los Angeles it extends to the South Bay including Torrance, in Nashville further south including the zoo, in Orlando nearly doubling eastern coverage with enhanced downtown service, in San Diego north to La Jolla, and in the Bay Area further south including a new BART connection at Berryessa Station. The company did not break out square mileage by city or say how many vehicles it is adding. That restraint is the point: Waymo’s growth right now is measured in square miles and rider-only miles, not in new-city announcements.',
+    ],
+    sources: ['Electrek', 'Waymo', 'FourWeekMBA'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
