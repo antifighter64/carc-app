@@ -4767,6 +4767,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['Electrek', 'Waymo', 'FourWeekMBA'],
   },
+  {
+    slug: 'joby-beta-tampa-bay-evtol-first-flights-october-2026',
+    title: 'Joby and BETA Retrace the First Airline Flight Across Tampa Bay in Electric Air Taxis',
+    description:
+      'Joby and BETA flew electric aircraft across Tampa Bay on Oct 30, retracing the 1914 first airline route under the FAA eIPP program.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'No paying passengers yet, but Florida just ran its first eIPP air-taxi flights — and mapped the first leg of an aerial highway.',
+    body: [
+      'The Florida Department of Transportation hosted an Advanced Air Mobility test flight at Tampa International Airport on October 30, with battery-powered electric aircraft from Joby Aviation and BETA Technologies flying in coordination with the Federal Aviation Administration. The demonstration began at Albert Whitted Airport in downtown St. Petersburg and crossed Tampa Bay to Tampa International Airport, retracing the route of the world’s first scheduled airline flight, flown by Tony Jannus on January 1, 1914, carrying former St. Petersburg mayor Abram Pheil as its first paying passenger.',
+      'Joby said the flight opens a week-long series of piloted electric air-taxi flights across Florida, from Tampa to Orlando and on to the Space Coast. The aircraft will fly at Orlando International Airport, landing near Terminal C and its train station at a new vertiport, and at the Shuttle Landing Facility at Kennedy Space Center. The flights are Florida’s first under the White House-backed eVTOL Integration Pilot Program, announced by the U.S. Department of Transportation in March 2026, and they will help map the first phase of Florida’s planned Aerial Highway Network, a system of dedicated aerial corridors connecting major hubs, initially following Interstate 4.',
+      'The honest status: these are demonstration and mapping flights, not commercial service. Neither Joby nor BETA holds an FAA type certificate for a commercial air taxi yet, and no paying passengers were carried in Tampa Bay. Joby’s S4 is designed to carry one pilot and four passengers at up to 200 mph with a maximum range of about 100 miles. Florida officials pitch the network as a way to bypass road congestion between cities, airports and population centers, with cargo, emergency medical and organ transport as early uses alongside air taxis — but certification, vertiports and operating rules still stand between a Tampa Bay flyover and a ticketed ride.',
+    ],
+    sources: ['Tampa International Airport', 'Joby Aviation', 'Florida Department of Transportation'],
+  },
+  {
+    slug: 'ehang-thailand-hub-25-evtol-southeast-asia-october-2026',
+    title: 'EHang Plants a Thailand Hub and 25 Pilotless Air Taxis for Southeast Asia',
+    description:
+      'EHang will base 25 EH216-S pilotless eVTOLs in Thailand as it pushes validation flights in Sri Lanka, Vietnam and Malaysia.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Thailand is the beachhead: a regional hub, a 25-aircraft fleet, and four countries’ worth of sandbox flights before year-end.',
+    body: [
+      'EHang announced on October 30 that it has established an overseas regional hub in Thailand to support international deployment of its electric vertical takeoff and landing aircraft across Southeast Asia and other emerging markets. The hub will coordinate regional resources and project implementation, and in the near term EHang plans to deploy an initial fleet of 25 EH216-S pilotless passenger-carrying eVTOL aircraft in Thailand for market-specific flight validation, operational preparation and project work.',
+      'The regional calendar is crowded. In Sri Lanka, which joined EHang’s Global Fast Track Program in August 2026, sandbox launch and validation flights at Port City Colombo are expected to begin in November 2026, with commercial operations under the local sandbox framework targeted by year-end. Vietnam, which joined in September, is expected to conduct validation flights within the Hanoi sandbox area in November. In Malaysia, an initial EH216-S flight demonstration in Putrajaya is planned for November following sandbox cooperation with the Civil Aviation Authority of Malaysia announced in October. In Thailand itself, EHang plans EH216-S demonstration flights during the International Civil Aviation Organization’s AAM Symposium in Bangkok in December 2026.',
+      'The caveat matters: every one of those steps remains subject to local laws, safety assessments and regulatory approvals, and EHang says so itself. The EH216-S is the aircraft that obtained the world’s first type certificate, production certificate and standard airworthiness certificate for a pilotless passenger-carrying eVTOL from China’s Civil Aviation Administration, and it has entered operation under China’s first batch of commercial operation qualifications for such aircraft. Exporting that precedent to four new regulatory systems at once is the real test of the Thailand hub — and the reason EHang is leading with validation flights rather than ticket sales.',
+    ],
+    sources: ['EHang', 'GlobeNewswire'],
+  },
+  {
+    slug: 'tesla-spacex-merger-china-risk-bofa-october-2026',
+    title: 'BofA: China Is the Biggest Regulatory Risk to a Tesla–SpaceX Merger',
+    description:
+      'Bank of America warns a merger would put Tesla’s Shanghai plant under a major U.S. defense contractor, raising national-security flags.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Shanghai builds about half of Tesla’s cars. SpaceX is a defense contractor. A merger would join those two facts in Beijing’s view.',
+    body: [
+      'Bank of America warned on October 30 that a potential Tesla–SpaceX merger could face its biggest regulatory challenge in China, citing Tesla’s dependence on its Shanghai factory and SpaceX’s ties to the U.S. defense industry. According to the bank’s analysis, reported by Investing.com, a merger would involve SpaceX acquiring Tesla through an all-stock deal, and Tesla’s Shanghai plant — with installed annual capacity exceeding 950,000 vehicles and accounting for roughly half of Tesla’s global production for domestic and overseas markets — would come under the ownership of a major U.S. defense contractor.',
+      'That combination, BofA argued, could raise national-security concerns and complicate regulatory approval in China. Former Tesla board member Steve Westly raised similar concerns in a CNBC interview the previous week. The warning landed the same week Elon Musk confirmed that independent committees at both companies are exploring a merger, while stressing that no terms have been agreed and no deal is certain. BofA maintained its Buy rating and $460 price target on Tesla even while flagging the China risk.',
+      'The market reaction was cautious: Tesla shares fell about 1.8% and SpaceX shares fell more than 5% at the time of the report, with retail sentiment on both stocks trending bearish. Tesla shares are down about 9% so far in 2026, while a sharp October sell-off has brought SpaceX close to its $135 IPO price. The China angle reframes the merger debate: the question is no longer only whether Tesla and SpaceX shareholders want a $3.5 trillion combination, but whether Beijing would let the Shanghai Gigafactory change hands to a defense-linked owner at all.',
+    ],
+    sources: ['Bank of America via Investing.com', 'TradingView', 'CNBC'],
+  },
+  {
+    slug: 'tesla-q3-rd-surge-fsd-subscriptions-october-2026',
+    title: 'Tesla’s Q3: R&D Jumps 69% to $2.76B as FSD Subscriptions Hit 1.74 Million',
+    description:
+      'Tesla’s auto revenue fell 3% in Q3, but services grew 33% and FSD subscriptions jumped 67% as AI spending drove profit down.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Profit fell 29% while the AI bill more than doubled the gross-profit gain — Tesla is paying now for robots, robotaxis and chips.',
+    body: [
+      'Tesla reported a mixed third quarter on October 21, with total revenue of $28.05 billion. Automotive revenue fell 3% year over year to $20.56 billion and energy revenue declined 16% to $2.88 billion, while services and other revenue rose 33% to $4.61 billion, offsetting part of the weakness in the core vehicle business. Net income attributable to common shareholders fell 29% to $787 million, and operating profit declined 56% year over year to $718 million — though that was up from $398 million in the second quarter, helped by a one-time tariff refund.',
+      'The spending story is the quarter. Research and development expenses jumped 69% year over year to $2.76 billion, an increase of $1.13 billion that was more than twice the roughly $440 million increase in gross profit. Tesla attributed the R&D rise largely to AI development and related programs, including Optimus humanoid robots, silicon development, battery technologies and new vehicles, plus higher stock-based compensation. The company separately expects more than $20 billion in 2026 capital spending, including computing infrastructure, data centers, manufacturing facilities and other long-lived assets.',
+      'Two numbers cut against the profit decline. Automotive gross margin actually improved from 17% to 18.5% year over year, and companywide gross profit rose about 9% to $5.49 billion — so the margin squeeze was a spending story, not a pricing collapse. And Full Self-Driving subscriptions rose 67% year over year to 1.74 million, with FSD Supervised adoption up 20 percentage points from the second quarter. Tesla plans to give some customer vehicles access to its forthcoming FSD Unsupervised system around the second quarter of 2027. Investors are being asked to judge whether that software and robotics bill is an investment or a cost — and Q3 did not settle it.',
+    ],
+    sources: ['CNBC', 'Motley Fool', 'Tesla SEC filings'],
+  },
+  {
+    slug: 'tesla-cybercab-nhtsa-certification-deadline-october-2026',
+    title: 'Tesla’s Cybercab Faces Its Paperwork Test as NHTSA Response Deadline Arrives',
+    description:
+      'NHTSA gave Tesla until Oct 30 to answer its Cybercab certification audit after denying an eight-week extension request.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The steering-wheel-free Cybercab’s safety certification is under audit — and Oct 30 was the day Tesla’s answers were due.',
+    body: [
+      'Tesla shares slipped 0.79% to $400.12 by 12:30 p.m. ET on October 30 as a federal safety-certification response deadline arrived for its Cybercab program. The National Highway Traffic Safety Administration’s September 29 memorandum records Tesla’s request for an eight-week extension to November 20; the agency granted 30 days instead, setting October 30 as the response date. The audit examines the basis for Tesla’s certification of the steering-wheel-free Cybercab under federal vehicle-safety standards.',
+      'Reaching the deadline does not mean the review is finished, and it does not guarantee Tesla’s answers will immediately become public. That distinction matters for investors trying to read the Cybercab timeline: a submitted response is a procedural milestone, not an approval. The Cybercab is central to Tesla’s robotaxi bet — a purpose-built, steering-wheel-free vehicle whose entire safety case rests on its certification — so the audit’s questions go to the heart of the program, not to a paperwork footnote.',
+      'The valuation context shows why the market watches a paperwork date at all. GuruFocus put Tesla’s market capitalization at about $1.58 trillion with a price-to-earnings ratio above 440, meaning investors are paying heavily for future earnings from autonomy, robotics and AI rather than current vehicle profits. Until NHTSA’s audit is resolved, the Cybercab’s path from Austin test fleets to a certified, saleable vehicle remains an open regulatory question, whatever the share price does on deadline day.',
+    ],
+    sources: ['NHTSA', 'TradingView', 'GuruFocus'],
+  },
+  {
+    slug: 'tesla-supercharger-36-owner-picked-sites-october-2026',
+    title: 'Tesla Reveals 36 New Supercharger Sites Picked by Owners, From Utah to Japan',
+    description:
+      'Tesla’s Q3 2026 community vote added 36 Supercharger sites across 19 markets, and voting for Q4 locations is already open.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Owners chose the map: 36 winning sites, 19 markets, and a network now past 85,000 stalls at 9,000 locations.',
+    body: [
+      'Tesla has announced the latest batch of community-picked Supercharger sites, with the official Tesla Charging account on X sharing 36 new winning locations for the third quarter of 2026. The sites span 19 markets, from Hanksville, Utah, in the United States to Miyazu, Japan, and are now marked on Tesla’s Find Us map. Voting for the next round of locations, for the fourth quarter, is already open, with winners to be announced early next year.',
+      'The scale of the network behind the vote is now enormous: Tesla recently passed 85,000 Supercharger stalls at 9,000 locations worldwide. During the third quarter the company also debuted pre-assembled Accordion Superchargers, which ship 16 stalls per truck and expand out between parking spaces, making installation faster and about 20% cheaper. The community vote follows the same pattern as the second quarter, which also produced 36 winning sites.',
+      'For drivers, the vote is more than a popularity contest. It is how Tesla finds the gaps its own planning misses — a remote highway stop in Utah, a coastal town in Japan — and it gives owners a direct say in where the next charger goes. Owners can vote through Tesla’s Supercharger Voting portal whether they want a charger on a daily route or one that fills a gap along a remote highway. The Q3 winners are a reminder that charging infrastructure, like the cars themselves, is now partly crowdsourced.',
+    ],
+    sources: ['Tesla Charging', 'Not a Tesla App'],
+  },
+  {
+    slug: 'tesla-optimus-reservations-disputed-musk-october-2026',
+    title: 'Musk Disputes Report of December Tesla Optimus Reservations With a One-Word Reply',
+    description:
+      'A report said Optimus reservations could open in early December; Elon Musk replied “No” on X, leaving the plan disputed.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'One investor said December. Musk said “No.” Either way, outside deliveries are still about a year away.',
+    body: [
+      'Tesla could open Optimus reservations in early December, robotics investor Modar Alaoui told The San Francisco Standard, saying Tesla told him reservations would open during the December 1–2 Humanoids Summit in San Mateo or in the following days. Alaoui, an investor at ALM Ventures and organizer of the summit, said Tesla is a key conference partner and plans to demonstrate Optimus V3 at the event. The Standard put the expected price above $20,000, while the reservation deposit has not been established.',
+      'Elon Musk appeared to deny the plan. Responding on X on October 30, the Tesla chief executive posted a single word: “No.” The conflicting accounts leave any proposed reservation opening disputed, and the dispute matters because it separates a marketing moment from a delivery promise. Musk has put deliveries to outside companies around the end of 2027 — roughly a year after any December reservation window would open.',
+      'Musk’s own timeline explains the gap. During Tesla’s October earnings call he said Optimus production had started at the Fremont facility, where Model X and Model S production is being converted to robot manufacturing, but acknowledged the robot still has problems with its AI, electromechanical design and operating duration. “I do expect these issues to be solved around the end of next year,” he said. Tesla says it needs to produce between 10,000 and 20,000 robots to gather training data as they practice tasks, and Musk has said the Fremont facility should reach production of 20,000 Optimus robots per week by roughly the end of 2027. A reservation, if it ever opens, would be a deposit on that schedule — not a delivery date.',
+    ],
+    sources: ['The San Francisco Standard', 'Humanoid Guide', 'Tesla'],
+  },
+  {
+    slug: 'tesla-v2l-adapters-broken-update-october-2026',
+    title: 'Tesla Update 2026.38.5.1 Reportedly Breaks Third-Party V2L Adapters',
+    description:
+      'Owners say third-party vehicle-to-load adapters shut down minutes after installing Tesla software 2026.38.5.1 or later.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A cooler, tools or a house on a third-party adapter may now cut out after minutes — and Tesla has not commented.',
+    body: [
+      'Owners who power a cooler, tools or a house from a Tesla with a third-party vehicle-to-load adapter should think twice before installing software update 2026.38.5.1 or later, according to reports on the Tesla Motors Club forum picked up on October 29. Adapters such as Elejoy’s plug into the car’s CCS fast-charging port and start what the car sees as a DC charging session, then reverse the flow to pull power out of the battery. After the update, owners report the car throws a BMS_a076_SW_Dch_While_Charging fault and shuts the session down.',
+      'The failure is fast. One Model 3 owner who had used an adapter almost daily for about a year and a half said a session at about 3 kW now ends after roughly three minutes. Another owner said sessions cut out after 15 to 20 minutes no matter the load. One owner said Elejoy sent test firmware, but it did not fix the problem. Forum members theorize the car now checks that energy is really flowing into the battery during a charging session — but that is their theory, not a Tesla explanation. Tesla has not commented, and it is not clear whether the change was deliberate.',
+      'The timing is awkward, and it matters more in Canada. Tesla just announced its own Powershare outlet feature for new cars, but only for the United States and Mexico, leaving Canadian owners who relied on third-party adapters with fewer options. Owners in the forum thread suggest holding off on 2026.38.5.1 or later if you rely on a third-party adapter. Keep the caveat in view: these are owner reports, not a Tesla statement, and individual cars may behave differently.',
+    ],
+    sources: ['Tesla Motors Club', 'Not a Tesla App', 'Tesla Canada Group'],
+  },
+  {
+    slug: 'vw-group-battery-recall-85402-eu-court-october-2026',
+    title: 'VW Battery Recall Reaches 85,402 EVs Worldwide — and a German Court May Let Buyers Return Them',
+    description:
+      'Audi Q4 e-tron joins VW’s battery recall at 85,402 vehicles, while a German court weighs a new return path for EV buyers.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 4,
+    excerpt:
+      'The 80% charge cap now spans five VW Group nameplates — and EU product-safety law could add a buyback route.',
+    body: [
+      'Volkswagen Group’s high-voltage battery recall has reached 85,402 electric vehicles worldwide, with Audi Q4 e-tron and Q4 Sportback e-tron models now added to the affected list. The Audi action covers 12,734 vehicles in total, including 9,048 in the United States: 7,040 Q4 e-tron and 2,008 Q4 Sportback e-tron models from 2024–2025, filed with NHTSA on October 21 under campaign 26V698. The initial U.S. recall, filed October 23, covered 22,524 ID.4 SUVs from model years 2023–2026. In Europe, Germany’s Federal Motor Transport Authority has issued three separate recalls covering 72,668 vehicles worldwide, including 9,881 in Germany, across the ID.3, ID.4, ID.7, ID.Buzz and Cupra Born ranges built between 2022 and 2025.',
+      'The defect family is the same across the badges: certain battery cells supplied by SK Battery Manufacturing in Komarom, Hungary, may not meet required production quality standards, and under certain charging conditions — particularly above 80% state of charge — they carry an elevated risk of thermal propagation, the chain reaction that turns one overheated cell into a battery fire. The root cause remains under investigation and no permanent remedy has been published, so owners are advised to limit charging to 80% until inspected. Audi expects to send interim safety letters on December 18, 2026. Audi estimates only about 0.1% of its recalled population — roughly 10 vehicles — may contain the defect, and it has reported no confirmed Q4 e-tron fires, crashes or injuries tied to this specific issue; the recall is preventive, driven by thermal events in other Volkswagen Group vehicles.',
+      'The new legal twist comes from Germany. The Offenburg Regional Court, hearing a case over a Cupra Born affected by the March 2026 battery recall campaign 93S4 — covering almost 100,000 Volkswagen Group vehicles, including 74,579 ID-range cars and 19,452 Cupra Borns, where modules may lose range, trigger a warning light and carry a fire risk — gave a preliminary assessment citing Article 37 of EU Regulation 2023/988, the EU Product Safety Regulation in force since December 13, 2024. The plaintiff seeks to rescind the purchase, and the court’s order is not a judgment: defendants have until November 6, 2026, to respond, and whether the regulation applies in this case remains to be clarified. The consumer firm handling the case points to two first-instance rulings for buyers over Mercedes EQA and EQB battery issues. If Offenburg issues a corresponding judgment, it could give affected EV buyers an additional return path beyond the recall itself.',
+    ],
+    sources: ['NHTSA', 'Electrek', 'Top Car News', 'Smartcarz'],
+  },
+  {
+    slug: 'toyota-chr-ev-recall-8521-power-loss-october-2026',
+    title: 'Toyota Recalls 8,521 C-HR EVs: A Software Error That Can Cut Power on the Road',
+    description:
+      'Toyota recalls 2026 C-HR EVs built Feb–July 2026 because a battery-control software error can overcharge the pack and shut down drive.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The battery can be managed incorrectly, overcharge, and then kill propulsion — the second Toyota EV battery-control recall this year.',
+    body: [
+      'Toyota is recalling 8,521 model-year 2026 C-HR electric vehicles in the United States because a software error in the battery-electric vehicle control unit could cause the high-voltage battery to be managed incorrectly under certain driving conditions. In the worst case, the battery could become overcharged and the electric drive system could shut down, leaving the vehicle unable to provide propulsion. The recall covers certain C-HR EVs built between February 6 and July 10, 2026.',
+      'The C-HR is not the only Toyota-related EV hit by this kind of issue in 2026. In June, a separate recall covered 20,991 model-year 2026 Toyota bZ, Lexus RZ and Subaru Solterra electric vehicles because of a separate battery-control problem that could also cause the electric drive system to shut down while driving. Together the two campaigns cover 29,512 vehicles. The two recalls should not be treated as the same defect, since Toyota has not confirmed they share a root cause — but the pattern is clear: on these EVs, battery-management software is now a safety-critical system, and a software error can strand a car as surely as a mechanical failure.',
+      'Toyota has also dealt with charging-related software issues outside these safety recalls. In July, the automaker released information concerning DC fast-charging errors affecting the 2026 bZ, bZ Woodland and electric C-HR. Owners of an affected C-HR should check their VIN, watch for a dealer remedy notice, and treat any sudden loss of propulsion warning as a reason to pull over safely and contact a dealer rather than continuing to drive on a possibly overcharged pack.',
+    ],
+    sources: ['AutoPost Global', 'NHTSA'],
+  },
+  {
+    slug: 'land-rover-range-rover-camera-drainage-recall-october-2026',
+    title: 'Land Rover Recalls 93,997 Range Rovers: Water Can Damage the Rearview Camera',
+    description:
+      'Jaguar Land Rover recalls 2022–2026 Range Rovers because inadequate drainage can damage the rearview camera and raise crash risk.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A drainage defect, not a software bug: trapped water can kill the camera a driver relies on when reversing a large SUV.',
+    body: [
+      'Jaguar Land Rover North America is recalling 93,997 model-year 2022–2026 Land Rover Range Rover vehicles because insufficient drain holes may prevent water from draining away from the rearview camera, potentially damaging it and increasing crash risk. The campaign, NHTSA 26V678, was part of the October 19–23 recall roundup covering more than 218,000 vehicles across Toyota, Land Rover, Porsche, Ram and Volvo for fuel leaks, wheel defects, stability-control loss, camera failure and injury risk.',
+      'The failure mode is simple and physical. Water that cannot drain collects around the camera assembly, and over time it can damage the camera itself. A rearview camera that fails — or shows a degraded, distorted image — removes a safety system drivers of large SUVs depend on most when reversing, where blind zones are largest and children, pets and low obstacles are hardest to see. The recall does not allege a software fault: the fix starts with drainage, not code.',
+      'Interim letters notifying owners of the safety risk are expected to be mailed December 11, 2026. Owners should check their VIN in NHTSA’s recall database now rather than waiting for the letter, and if the rearview camera image looks degraded, flickers or disappears, treat reversing with extra caution and book a dealer inspection promptly. Recall repairs are free regardless of where the vehicle was bought.',
+    ],
+    sources: ['NHTSA', 'Vehicle Service Pros'],
+  },
+  {
+    slug: 'ford-2027-profit-plateau-iran-inflation-october-2026',
+    title: 'Ford Warns 2027 Profit Will Plateau as Iran-War Inflation Adds a $2 Billion Headwind',
+    description:
+      'Ford raised its 2026 profit floor to $10.5B, but says 2027 EBIT will be roughly flat as commodity, chip and logistics costs climb.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Q3 beat estimates. The 2027 message was blunter: no relief from commodity inflation, and $2 billion more pressure next year.',
+    body: [
+      'Ford reported third-quarter results on October 28 that beat Wall Street estimates, then used the earnings call to warn that next year will not build on them. Third-quarter company-wide revenue fell 2% to $49.5 billion, net income declined to $2 billion from $2.4 billion a year earlier, while adjusted EBIT increased to $2.7 billion from $2.6 billion. Adjusted earnings of 49 cents per share exceeded the roughly 39–40 cent consensus, and automotive revenues of $46.08 billion beat the $45.67 billion consensus. Ford raised the lower end of its 2026 adjusted EBIT guidance to $10.5–11 billion, from $10–11 billion, with adjusted free cash flow guidance held at $6–7 billion.',
+      'The 2027 outlook is where the call turned cautious. Chief executive Jim Farley said 2027 adjusted EBIT will be roughly in line with 2026, and chief financial officer Sherry House said the company is not expecting relief any time soon from commodity inflation. Ford raised its 2026 commodity-cost headwind estimate to nearly $2.5 billion, from about $2 billion, citing more expensive copper, steel, fuel and chips, and said inflation stoked by the war in Iran will add a $2 billion headwind next year through higher logistics, raw-material and chip costs, with a further $2 billion in additional commodity, memory and logistics pressures expected in 2027. The plan to offset it is cost cuts plus growth in batteries, software and services, targeting an 8% adjusted EBIT margin by 2029.',
+      'The divisional picture shows where the pressure lands. Ford Blue, the traditional internal-combustion and hybrid business, earned about $1.4 billion before interest and taxes, down 10% from a year earlier, hurt by lower sales tied to discontinued models such as the Escape and by war-related costs. Ford Pro, the commercial division, generated $1.7 billion in quarterly EBIT, down 16%, on higher commodity costs and temporary Oakville production-launch costs for Super Duty pickups, though it still expects $7 billion in full-year EBIT. The bright spots were trucks: U.S. quarterly deliveries totaled 509,764 vehicles, down 6.6% on planned portfolio changes, but adjusted retail market share rose 0.4 points to 12.1%, Maverick Hybrid sales rose 59.6% to a record 27,793, and Super Duty production rose 4.4% to 110,275 trucks, its strongest quarterly result in 19 years.',
+    ],
+    sources: ['Ford', 'Reuters', 'Zacks', 'Automotive News'],
+  },
+  {
+    slug: 'byd-outsells-toyota-south-korea-japan-october-2026',
+    title: 'BYD Outsold Toyota in South Korea — but Japan Is Proving a Rougher Road',
+    description:
+      'BYD passed Toyota plus Lexus in South Korea in the first nine months of 2026, while Japanese buyers stayed loyal to hybrids.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'A $18,500 Dolphin and a two-year wait for a Hyundai Casper EV: price and availability did what branding could not in Korea.',
+    body: [
+      'BYD sold more than 20,000 vehicles in South Korea in the first nine months of 2026, overtaking the combined sales of Toyota and its Lexus brand, according to market research firm Carisyou, in a Reuters report published October 30. BYD sold about 18,000 electric and hybrid vehicles in the first eight months alone, a ninefold increase from a year earlier, according to Bloomberg Intelligence data, and cumulative registrations through September already more than doubled BYD’s annual target. BYD entered the South Korean market early last year and has overtaken Volvo and Toyota in the country’s imported-car market — all the more notable because BYD was excluded from government subsidies in July after failing to meet some requirements.',
+      'The buyer story explains the numbers. Kim Min-seon bought a BYD Dolphin in July for around $18,500: inexpensive, well equipped and, crucially, available. She had initially wanted a Hyundai Casper EV but was told she would have to wait more than two years for delivery. Petrol prices have surged almost 10% since the U.S.-Israeli war on Iran started, and Hyundai and Kia focus mainly on premium EVs, offering only a few for under $30,000, according to analyst Lee Jae-il of Eugene Investment and Securities. Hyundai Motor and Kia still account for about 72% of South Korea’s auto market, and Hyundai’s global sales fell 6% to about 139,000 over the same eight-month period, with Samsung Securities analyst Esther Yim forecasting Hyundai’s full-year global sales could fall short of its 4.16 million-unit target, coming in below 4 million for the first time since 2010 outside the pandemic year.',
+      'Japan is a different story. BYD started selling cars in Japan in 2023, has more than 75 dealerships, and still sees muted sales. Foreign brands account for only about 6% of passenger-car sales, drivers prefer the hybrids championed by Toyota, and only about 3% of new cars sold in Japan this year were EVs, versus roughly a quarter in South Korea. A Pew Research Center survey this year found 88% of Japanese and 71% of South Koreans hold an unfavorable view of China, though BYD Auto Japan said diplomatic strains have had no particular impact on its sales, showroom visits or inquiries. Geely’s Zeekr brand began taking orders for its 7X SUV in South Korea in June and plans up to 14 showrooms by year-end, while Chery is expected to enter in 2027. Korea shows Chinese EVs can win on price and availability; Japan shows they still have to win trust.',
+    ],
+    sources: ['Reuters', 'Bloomberg', 'Carisyou'],
+  },
+  {
+    slug: 'byd-passes-ford-europe-registrations-october-2026',
+    title: 'BYD Passes Ford in Europe as Chinese Brands Take Share From Every Legacy Rival',
+    description:
+      'ACEA data: BYD registered 283,997 cars in Europe in Jan–Sep 2026, up 134.6%, ahead of Ford and just behind a surging Chery group.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'BYD more than doubled in nine months. Ford, Hyundai and Dacia each lost 0.7 points of share. The shift is no longer a forecast.',
+    body: [
+      'BYD has overtaken Ford in European registrations, according to ACEA figures for the EU, UK and EFTA reported on October 22. BYD registered 283,997 cars between January and September 2026, up 134.6% year over year, compared with Ford’s 277,269. Chery Automobile, covering Chery, Jaecoo, Jetour and Omoda, increased registrations by 255.9% to 260,650 — putting it just 75 cars ahead of Tesla in the same period. The Chinese groups are no longer niche importers: BYD’s European market share rose from 1.2% to 2.7%, a gain of 1.5 percentage points in nine months.',
+      'The share losses were broad. Ford, Hyundai and Dacia each lost 0.7 percentage points of share, while Peugeot and Nissan dropped 0.4 points each. Toyota’s share slipped from 6.5% to 6.2%, even as its volumes rose 1.0% — a reminder that in a growing market, standing still in units still means losing share to faster-growing rivals. The pattern mirrors BYD’s breakthroughs elsewhere in October: the same month it passed Toyota in South Korea and hit 150,000 deliveries in Australia, it passed Ford in Europe on volume, not just growth rate.',
+      'What the numbers do not say matters too. Registrations are not profits, and Chinese brands are still building service networks, residual values and brand trust that legacy brands spent decades accumulating. But the direction is now documented across three continents in a single month, and it is driven by the same formula: lower prices, newer electric lineups and faster model cycles than incumbents are matching. Europe’s legacy brands are not losing to a single model — they are losing share, point by point, to an entire new competitive set.',
+    ],
+    sources: ['ACEA', 'AM Online'],
+  },
+  {
+    slug: 'hyundai-q3-global-sales-hybrids-october-2026',
+    title: 'Hyundai Sold 931,211 Cars in Q3 as Hybrids Carried the Quarter',
+    description:
+      'Hyundai’s Q3 global sales hit 931,211, with hybrid sales up 19% in nine months and North America hybrids up 56%.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Electrified cars are now more than a quarter of Hyundai sales — and hybrids, not pure EVs, are doing the heavy lifting.',
+    body: [
+      'Hyundai Motor announced on October 29 that it sold 931,211 units globally in the third quarter of 2026 and 2,879,590 vehicles in the first nine months of the year, as the company readies what it calls an ambitious product offensive. Hybrid sales grew 19% globally to 524,437 units in the nine-month period, and North America hybrid sales grew 56% during the same period. Electrified vehicles — battery EVs, hybrids and plug-in hybrids combined — accounted for more than one quarter of total global sales.',
+      'North America was the standout region. Total sales there rose 3% in the first nine months to 920,555 units, the best nine-month result in the region’s history, buoyed by strong demand for hybrids and core models such as the Tucson and Elantra. In the United States, Hyundai and Genesis delivered 759,197 units in the nine-month period, up 3%, with Santa Fe and Sonata hybrids both setting September sales records. North America hybrid sales reached 229,187 units in the nine months, up 56% year over year.',
+      'India was the other growth engine: Hyundai sold 150,039 units there in the third quarter and 444,301 units in the nine-month period, both nearly 10% higher year over year. The company says India is a key pillar of its global product offensive, with 26 launches planned by 2030, beginning with the all-new Bayon SUV that goes on sale in October. Overall sales fell 5% year to date compared with 2025, which Hyundai attributed to disruptions — a reminder that even a hybrid-led quarter sits inside a tougher global year, and that Hyundai’s answer is more models, not fewer.',
+    ],
+    sources: ['Hyundai Motor Company'],
+  },
+  {
+    slug: 'vw-id-tiguan-replaces-id4-id5-october-2026',
+    title: 'Volkswagen’s ID. Tiguan Replaces the ID.4 and ID.5 — From €42,695, Up to 600 km',
+    description:
+      'VW’s best-selling name goes electric: the ID. Tiguan arrives in early 2027 with 58/77 kWh batteries and up to 600 km WLTP range.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Two electric lines become one familiar name — and the ID.4’s replacement will be imported to the U.S. from Germany.',
+    body: [
+      'Volkswagen unveiled the ID. Tiguan in Wolfsburg on October 9, 2026, the brand’s best-selling name going electric on the updated MEB+ platform. The new SUV succeeds both the ID.4 and ID.5, of which more than 950,000 have been built, and it will go on sale in Europe in early 2027, with German pre-sales from October 13 at €42,695. It will be offered in four trims — Trend, Life, Style and R-Line — and it will not replace the conventional Tiguan, which continues with petrol, diesel and hybrid powertrains.',
+      'The specifications are a step up from the ID.4 it replaces. Three drive levels are offered — 140 kW, 210 kW and 220 kW, or 190, 286 and 299 PS — with 58 kWh and 77 kWh battery options and a maximum WLTP range of up to 600 km (about 372 miles), which Volkswagen calls a new benchmark for its electric SUVs in Europe. The current U.S.-spec ID.4, by comparison, uses an 82 kWh battery with an EPA-estimated range of up to 291 miles in rear-wheel-drive form. Volkswagen also highlights one-pedal driving, a feature not available in the U.S.-spec ID.4.',
+      'The U.S. story is still unwritten. Volkswagen has confirmed the ID. Tiguan will replace the ID.4 in North America, but has not announced U.S. pricing or a launch timeline, saying details will follow in due course. German media report production will begin in November 2026 at Volkswagen’s Emden plant, which will build the vehicle exclusively, and WardsAuto reported in September that the company plans to import the ID. Tiguan to the U.S. from Emden after ending ID.4 production in Chattanooga, Tennessee, in mid-April 2026. For American buyers, that makes the ID. Tiguan an import story as much as an electric one.',
+    ],
+    sources: ['Volkswagen', 'Electrek', 'WardsAuto'],
+  },
+  {
+    slug: 'range-rover-electric-bentley-torcal-ev-wave-october-2026',
+    title: 'The October Luxury EV Wave: Range Rover Electric, Bentley’s First EV, and a 322 hp ID.3 GTI',
+    description:
+      'EV Powered’s October issue rounds up the Range Rover Electric at £154,070, Bentley Torcal at up to 876 hp, and Audi’s A2 revival.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Luxury went electric in October — at prices from £32,000 to £173,000, and with ranges pushing past 400 miles at the cheap end.',
+    body: [
+      'EV Powered’s October 2026 issue brings together a busy wave of electric-car announcements, from high-output luxury SUVs to lower-cost city models, and its news coverage is led by the Range Rover Electric. The electric flagship is listed with 542 bhp, a claimed range of 372 miles and a starting price of £154,070, following what the magazine describes as a delay of almost two years. It is joined by the Bentley Torcal, described as Crewe’s first EV, offering up to 876 bhp and up to 375 miles of range, with an expected price of around £173,000.',
+      'The performance story runs down the price ladder. Volkswagen is marking 50 years of its GTI badge with the ID.3 GTI, which EV Powered reports produces 322 bhp, making it Volkswagen’s most powerful GTI to date. Audi, meanwhile, is reviving the A2 name for a new electric model focused on efficiency, listed with a 401-mile range and a projected starting price of around £32,000. Nissan is expanding the small-EV field with the Pixo, a city car based on the Twingo, while the issue also reviews the Vauxhall Corsa GSE and carries a long-term test of the Cupra Raval.',
+      'The affordable end is where the issue’s other theme lands. EV Powered compiled a feature on the 10 cheapest electric cars currently on sale in the UK, covering models from Dacia to Hyundai, and its coverage also includes an updated Polestar 4 SUV, which now receives a rear window, and the Ceer Exobot, described as Saudi Arabia’s first carmaker’s newly revealed model delivering 1,095 bhp. Treat the magazine’s figures as reported listings, not all as confirmed manufacturer specifications — but taken together, October’s announcements show luxury, performance and budget EVs all moving in the same month, rather than in separate seasons.',
+    ],
+    sources: ['EV Powered'],
+  },
+  {
+    slug: 'foxconn-model-a-k-plus-ev-references-october-2026',
+    title: 'Foxconn Unveils Three New EVs — as Reference Models, Not Cars You Can Buy',
+    description:
+      'At HHTD26 on Oct 30, Foxconn showed the MODEL A+ SUV, MODEL K+ lifestyle SUV and MODEL K compact truck, taking its portfolio to 12.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The iPhone maker’s car portfolio is now 12 models deep — and still zero cars for sale. That is the point.',
+    body: [
+      'Foxconn, officially Hon Hai Technology Group, introduced three new electric vehicle reference models at its Hon Hai Tech Day 2026 (HHTD26) in Taipei, Taiwan, on October 30, 2026. The models are the MODEL A+, a B-segment SUV; the MODEL K+, a lifestyle-focused electric SUV; and the MODEL K, a compact electric commercial truck. Each vehicle is designed for a different market segment, and with the three additions Foxconn’s electric vehicle reference portfolio has expanded to 12 models.',
+      'The distinction to keep in mind is reference versus production. These are not production-ready vehicles available for public purchase, and as of October 31, 2026, Foxconn has not announced confirmed commercial production dates, retail prices or customer delivery schedules for them. Foxconn uses such models to demonstrate its vehicle design, engineering and manufacturing capabilities to potential automotive partners — the same contract-manufacturing pitch it built its electronics business on, applied to cars.',
+      'That pitch is why the announcement matters even without a price tag. Foxconn, founded in 1974, is one of the world’s leading electronics manufacturers, and its EV strategy is to sell capability to carmakers rather than to sell cars to drivers. A 12-model reference portfolio spanning a B-segment SUV, a lifestyle SUV and a compact truck shows a partner could, in principle, pick a nearly complete lineup off Foxconn’s shelf. Whether any partner does — and on what timeline — is the question HHTD26 leaves unanswered.',
+    ],
+    sources: ['Foxconn', 'Hon Hai Tech Day 2026'],
+  },
+  {
+    slug: 'einride-driverless-electric-trucks-ohio-daily-october-2026',
+    title: 'Driverless Electric Trucks Are Now Hauling Freight Daily in Ohio — With Nobody in the Cab',
+    description:
+      'Einride and EASE put two cab-less SAE Level 4 electric trucks into daily warehouse-to-warehouse freight service in Marysville, Ohio.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Two trucks, short warehouse runs, remote operators watching: a real daily service, not a demo — and not yet interstate freight.',
+    body: [
+      'Einride and EASE Logistics announced on October 5–6, 2026, that two SAE Level 4 autonomous, cab-less electric trucks are now live in daily freight operations between EASE warehouses in Marysville, Ohio. The trucks run scheduled routes on EASE property and local public roads, carrying freight between EASE facilities. Nobody rides in the vehicle: a remote operator monitors each truck off-site and can step in if needed. Operations began generating data in September, building on a deployment the companies announced in May 2026.',
+      'The deployment sits inside the Truck Automation Corridor Project, an $8.8 million, multi-year initiative launched in 2021 by the Ohio Department of Transportation, DriveOhio and the Indiana Department of Transportation to prepare Ohio and Indiana interstates for automated freight. It is EASE’s third autonomous trucking deployment with DriveOhio. The companies plan to use operational data from daily service — miles driven, loads moved and uptime — to guide the next phase and to inform discussions with the state agencies and prospective logistics partners about scaling autonomous freight across the region.',
+      'The honest limits are as important as the headline. This is a two-truck pilot on short warehouse-to-warehouse runs in one town, partly on private property and partly on local public roads — not interstate freight, which remains the corridor project’s goal. Neither company has published route lengths, speeds, daily loads, miles, uptime, remote-operator intervention rates or safety outcomes for the deployment. “Daily” describes the schedule, not yet a performance record. The number that will decide the business is supervision per truck, and that number is still unpublished.',
+    ],
+    sources: ['Einride', 'EASE Logistics', 'Ohio Department of Transportation'],
+  },
+  {
+    slug: 'us-ev-sales-down-30-percent-nov2-deals-october-2026',
+    title: 'U.S. EV Sales Fell 30% This Year — and the Best Deals All Expire November 2',
+    description:
+      'U.S. battery-EV sales hit 725,888 through September, down 30%, while Kia, Hyundai and Toyota incentives end Nov 2.',
+    date: 'October 31, 2026',
+    dateISO: '2026-10-31',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Q3 sales fell 40% after the $7,500 credit ended. What is left on offer ends Monday — and it does not replace the credit.',
+    body: [
+      'Sales of battery-electric vehicles in the United States came to 725,888 through September, down 30% from a year earlier, according to Car and Driver’s count using estimates from Cox Automotive. The third quarter was down 40% from 2025, when shoppers were still taking a federal credit of up to $7,500 that ended on September 30. Kelley Blue Book put the September new-EV transaction price at $55,879, with incentives averaging 11% of transaction price — about $6,147 per vehicle — the lowest this year and down from 14.2% a year earlier.',
+      'What is still on offer ends November 2, and the terms show how the post-credit market works. Kia will put $5,000 toward a new 2026 EV6 if you buy it and take delivery by that Monday; the money must go into the purchase and does not apply to a lease. Kelley Blue Book lists one EV6 lease, on the Light Long Range, at $369 a month for 36 months with $4,499 due at signing, plus 0% financing for 60 months. Hyundai’s deadline is the same Monday: a 2026 Ioniq 5 can be financed at 0.9% for 60 months with Hyundai Motor Finance approval, with listings showing $3,500 in bonus cash when financing with Hyundai, which may not combine with other specials. Toyota’s offer on the bZ is 1.49% financing through November 2, and Toyota is the electric brand that grew.',
+      'The arithmetic buyers should do is first-year cost, not just the headline cash. Kelley Blue Book’s cost-to-own model takes $15,371 off a 2026 EV6 in year one, so Kia’s $5,000 is about a third of that first-year drop. Insurance is the smaller bill: Insurify, using quotes from its own database, puts the national average at $2,960 a year for an Ioniq 5 and $2,478 for a RAV4, a gap of about $40 a month. The practical advice from the listings is blunt: have the store print the line you are actually getting before November 2, because a rate on a worksheet is a different offer from the $5,000 purchase cash.',
+    ],
+    sources: ['Car and Driver', 'Cox Automotive', 'Kelley Blue Book', 'Insurify'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
