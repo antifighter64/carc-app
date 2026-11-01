@@ -5147,6 +5147,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['Car and Driver', 'Cox Automotive', 'Kelley Blue Book', 'Insurify'],
   },
+  {
+    slug: 'tesla-robotaxi-20-hour-service-2am-november-2026',
+    title: 'Tesla Robotaxi Now Runs 20 Hours a Day, Until 2 AM',
+    description:
+      'Tesla extended Robotaxi hours to 6 AM–2 AM on Oct 30, adding Calm Mode, trip sharing and a rear-camera view.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A 20-hour window leaves only a four-hour overnight gap — but Tesla has not said which cities get the 2 AM close.',
+    body: [
+      'Tesla extended its Robotaxi service hours to 6 AM to 2 AM, a 20-hour daily window, announcing the change through its official Robotaxi account on X on October 29–30, 2026. The same update added a rear-camera view during rides, trip sharing with a friend, a redesigned Live Activity display, a Calm Mode for quieter rides, and Grok on Model Y robotaxis. The move closes most of the gap to round-the-clock service, leaving a four-hour overnight window for charging, cleaning and software work.',
+      'The path to 2 AM has been a slow climb with reversals. Coverage of the timeline reports the service launched with a 6 AM to midnight window, stretched to 2 AM in September 2025, then pulled back to 10 PM in August 2026, before stepping back up through 11 PM, midnight and 1 AM in October. Tesla AI lead Ashok Elluswamy had flagged a 2 AM window as coming soon on the third-quarter earnings call, framing it around bar closing time — the late-night trips ride-hailing fleets prize most.',
+      'The honest gap in the announcement is geography. Tesla did not say which markets receive the 2 AM close, and independent coverage disagrees on whether the change is service-wide or Austin-specific, with one report tying it to Austin while others treat it as general. Waymo still runs 24 hours a day in most of its markets, so Tesla remains four hours short of its main rival on hours even after this step. Riders should check the app in their own city rather than assume the new close applies everywhere.',
+    ],
+    sources: ['Tesla Robotaxi', 'Drive Tesla Canada', 'TeslaNorth', 'Runtime Wire'],
+  },
+  {
+    slug: 'tesla-cybercab-dallas-november-nevada-5000-las-vegas-november-2026',
+    title: 'Tesla Cybercab Heads to Dallas in November as Nevada Clears 5,000 Robotaxis for Las Vegas',
+    description:
+      'Tesla expands Cybercab beyond Austin while Nevada authorizes up to 5,000 autonomous vehicles in Las Vegas.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Dallas is next, Las Vegas is permitted at scale — and the economics still hinge on a $0.30 cost per paid mile.',
+    body: [
+      'Tesla plans to expand its Cybercab presence in Dallas in November, beyond its initial deployment in Austin, while Nevada regulators have authorized the company to operate up to 5,000 fully autonomous vehicles in the Las Vegas area during its first year under the new permit. The two moves together mark the shift from a single-city pilot to a multi-city robotaxi business, with Austin as the template, Dallas as the next market and Las Vegas as the largest permitted fleet so far.',
+      'The number that decides whether that business works is cost. During the third-quarter earnings call, chief financial officer Vaibhav Taneja reiterated a goal of reducing robotaxi operating costs to approximately $0.30 per paid mile — a target Tesla has not yet reached. At the 2024 Cybercab unveiling, Elon Musk projected passenger fares of approximately $0.30 to $0.40 per mile, which means the service only becomes highly profitable if operating costs fall to that level while vehicles stay busy enough to spread fixed costs across many paid miles.',
+      'Management expects robotaxis to begin making a noticeable financial contribution in the second quarter of 2027, according to the report, which sets the clock: permits and new cities in late 2026 must convert into utilization and cost discipline in early 2027. A 5,000-vehicle Las Vegas authorization is a ceiling, not a fleet on the road — the vehicles, safety record and rider demand still have to arrive. Watch Dallas launch timing and Las Vegas vehicle counts, not permit headlines, for the real pace.',
+    ],
+    sources: ['Motley Fool', 'Tesla'],
+  },
+  {
+    slug: 'tesla-fsd-supervised-referral-program-overseas-november-2026',
+    title: 'Tesla Launches an FSD Supervised Referral Program in Overseas Markets',
+    description:
+      'Tesla owners abroad can now refer other owners for a free month of FSD Supervised, earning credits or free months.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Both sides get a free month of FSD Supervised — but only owners who already have FSD can send a referral link.',
+    body: [
+      'Tesla has launched a new referral reward program in overseas markets for the Supervised version of Full Self-Driving, according to a November 1 report citing IT Home. Current Tesla owners can share a referral link with another Tesla owner; the invitee receives one month of complimentary FSD Supervised access, and the referrer earns a reward once the invitee actually uses it. It is a try-before-you-buy funnel aimed squarely at owners who have not yet paid for the driver-assistance package.',
+      'Eligibility is narrow on both sides. Referrers must already hold either the full FSD purchase option or an FSD subscription — owners on a one-year FSD trial are not eligible to refer or to receive a link. Invitees must own a registered Tesla vehicle and must not have purchased FSD or paid for an FSD subscription in the past 12 months. Each referrer can earn a maximum of 12 rewards per calendar year, rewards start as pending in the app and are only credited on their release date, and each reward expires 12 months after it is issued.',
+      'The rewards differ by how the referrer paid for FSD. A referrer with an FSD subscription receives one month of free FSD usage per qualifying referral, while a referrer who purchased FSD outright receives a $99 Tesla credit — up to approximately $1,200 in credits per year, redeemable at Superchargers, toward vehicle purchases, subscription payments or in the Tesla Shop. The structure tells you what Tesla is optimizing for: converting non-subscribers into paying FSD users, one free month at a time, rather than discounting the package itself.',
+    ],
+    sources: ['CoinDesk', 'IT Home'],
+  },
+  {
+    slug: 'tesla-analyst-consensus-moderate-buy-414-target-november-2026',
+    title: 'Wall Street on Tesla: Moderate Buy, $414.51 Average Target After a Volatile October',
+    description:
+      'Forty-nine firms rate Tesla a Moderate Buy on average, with a $414.51 twelve-month target and a $399.81 close.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Twenty-seven buys, seventeen holds, four sells — and a target range wide enough to argue almost any outcome.',
+    body: [
+      'Tesla carries an average recommendation of Moderate Buy from the 49 ratings firms covering the stock, according to MarketBeat data reported November 1, 2026. The split is 27 buy ratings, 17 holds, 4 sells and 1 strong buy, with an average twelve-month price objective of $414.51. Shares closed at $399.81 on October 30, down $3.49 or 0.86 percent on the day — just below that average target, which means the consensus implies only modest upside from here.',
+      'Recent moves show how divided the street remains. Canaccord Genuity set a $442 price objective with a buy rating on October 22, while BNP Paribas Exane raised Tesla from underperform to neutral on the same day and lifted its target from $266 to $420 — a near-doubling of its target that still stops short of a buy. The spread between the most bearish and most bullish views remains enormous, and the consensus average hides it.',
+      'The stories driving the debate are familiar: robotaxi optimism, with driverless miles reportedly up eightfold and a Quiet Mode added to Model Y robotaxis; $1.5 billion in third-quarter free cash flow and a reduced 2026 capital-spending forecast of $20 billion; record September European registrations with Model Y and Model 3 ranking first and second; and, on the other side, a possible Tesla-SpaceX merger that Bank of America warns could face Chinese regulatory obstacles, plus a Seeking Alpha downgrade arguing the valuation already prices in promises whose timelines keep slipping. A Moderate Buy average is not a verdict — it is an average of strong disagreements.',
+    ],
+    sources: ['MarketBeat', 'Ticker Report', 'Canaccord Genuity', 'BNP Paribas Exane'],
+  },
+  {
+    slug: 'waymo-toyota-bz4x-japan-2027-uk-robotaxi-november-2026',
+    title: 'Waymo Picks the Toyota bZ4X as Its Next Robotaxi, Starting in Japan in 2027',
+    description:
+      'Toyota will build Waymo robotaxis start to finish at Takaoka, with Japan tests in 2027 and the UK to follow.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'No retrofit shop: the bZ4X will roll off a Toyota line already fitted with Waymo hardware — a first for both companies.',
+    body: [
+      'Toyota and Waymo announced on October 30, 2026 that Toyota will build autonomous versions of its bZ4X electric SUV for Waymo robotaxi service, with initial test operations in Japan in 2027 and deployment to the United Kingdom and other markets where Waymo operates in the following years. The vehicles will be manufactured and fitted with Waymo self-driving hardware at Toyota Takaoka plant in Toyota City, Aichi Prefecture — the entire process under one roof, from assembling the base vehicle to integrating the autonomous system, rather than retrofitting finished cars after the fact.',
+      'That factory-built approach is the real news. Waymo current fleet is mostly Jaguar I-Pace SUVs, a model Jaguar no longer produces, with Zeekr-built vehicles and Hyundai Ioniq 5 models being added; the bZ4X becomes a fourth platform and the first built for driverless work from the start on a high-volume line. Rider-focused changes reported for the vehicle include extra rear legroom, automatic doors, a power liftgate and ambient lighting, though sensor specifications, volumes and per-vehicle costs were not shared. Neither company said how many cars Toyota will build or which Japanese cities will host the first fleet — Toyota says only that the first fleet will be small.',
+      'The deal builds on a preliminary agreement the two companies signed in April 2025 and marks Waymo first major autonomous ride-hailing expansion into Japan, a right-hand-drive market where Waymo has said it targets fully driverless commercial rides in Tokyo in 2027 with partners, scaling to about 100 vehicles pending regulatory approval. Waymo has also been testing Jaguar I-Pace vehicles in London for months and plans a launch there once permits arrive, which is why the UK is named as the next market after Japan. The timeline to watch is not the announcement — it is the first driverless bZ4X carrying a paying passenger, which no one has yet dated.',
+    ],
+    sources: ['Toyota', 'Waymo', 'Reuters', 'TechCrunch'],
+  },
+  {
+    slug: 'xpeng-october-record-50237-overseas-13326-november-2026',
+    title: 'XPeng Sets a Monthly Record: 50,237 Deliveries in October, With Overseas Sales Up 166%',
+    description:
+      'XPeng topped 50,000 monthly deliveries for the first time as overseas volume hit a record 13,326 units.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A record month on both fronts — domestic growth plus an export surge — and a new L05 model starting deliveries Nov 1.',
+    body: [
+      'XPeng delivered 50,237 vehicles in October 2026, a new monthly record, up 22 percent month over month and 20 percent year over year, the company announced October 31. Overseas deliveries also reached an all-time monthly high of 13,326 units, up 166 percent year over year — a sign that export markets are becoming a real second engine rather than a rounding error. XPeng electric vehicles delivered from January to October 2026 are expected to reduce life-cycle greenhouse gas emissions by more than 5.77 million tons compared with combustion vehicles, according to the company.',
+      'Product timing helped. The XPeng L05 was officially launched in mainland China in October, with deliveries set to begin November 1, 2026, giving the company a fresh model entering the final two months of the year. On October 26, XPeng also obtained a demonstration operation license to conduct Level 4 robotaxi services in Guangzhou — a regulatory step toward commercializing its autonomous driving work, not yet a commercial service.',
+      'The contrast with its Chinese rivals is the story of October. While XPeng set records, NIO and Li Auto both posted year-over-year and month-over-month declines, as detailed in the wider industry roundup. XPeng record rests on two legs that its rivals currently lack in combination: a new model launch landing on schedule and an overseas business growing at triple-digit rates. Whether overseas demand holds once the first wave of new-market launches passes is the question for November and December.',
+    ],
+    sources: ['XPeng', 'PR Newswire', 'CnEVPost'],
+  },
+  {
+    slug: 'li-auto-october-29025-lowest-since-february-november-2026',
+    title: 'Li Auto October Deliveries Fall to 29,025, Lowest Since February',
+    description:
+      'Li Auto deliveries fell 8.63% year over year in October as it swaps in its own battery, motor and driving chip.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Second straight annual decline — but the company is betting its in-house Lianshan hardware reverses the slide.',
+    body: [
+      'Li Auto delivered 29,025 vehicles in October 2026, down 8.63 percent year over year and 8.78 percent from September 31,817 units, the company announced November 1. It is the lowest monthly total since February, when the company delivered 26,421 vehicles, and the second consecutive month of annual declines. Cumulative deliveries reached 1,862,676 as of October 31. The new Li MEGA delivered more than 3,000 units in October, while deliveries of the updated i6 SUV have begun.',
+      'The product story is a technology swap. The 2026 Li i6, launched October 28, is equipped with the proprietary Lianshan Battery and MACH M100 assisted-driving chip plus more than 20 additional upgrades, and the company also introduced its Lianshan Motor alongside a Lianshan Battery Warranty Program. The updated i6 keeps its official starting price of 249,800 yuan (about $37,210), with introductory benefits through November 30 bringing the price to 239,800 yuan for early buyers. The rear-wheel-drive version uses a 96-kWh Lianshan 5C lithium iron phosphate battery for a CLTC range of 780 kilometers, about 485 miles.',
+      'The operational plan is aggressive: Li Auto said cumulative Li i6 production reached 200,000 units as of October 30, and it plans to raise monthly production capacity to 20,000 units in November with a further increase in December, while current i6 wait times run 7 to 8 weeks. In November the company will begin rolling out OTA 9.2, featuring the upgraded MACH VLA 2.5 and refined cockpit agent features. The bet is that in-house batteries, motors and chips — and the cost control they promise — matter more than one soft month. The delivery count in November will be the first test.',
+    ],
+    sources: ['Li Auto', 'GlobeNewswire', 'CnEVPost'],
+  },
+  {
+    slug: 'nio-october-34246-ends-growth-streak-november-2026',
+    title: 'NIO Delivers 34,246 in October, Ending 31 Straight Months of Year-Over-Year Growth',
+    description:
+      'NIO deliveries fell 15.23% year over year in October, though Firefly set a record for a second straight month.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The headline ends a long growth streak — but the brand breakdown shows a split story, not a uniform slide.',
+    body: [
+      'NIO delivered 34,246 vehicles in October 2026, down 15.23 percent year over year and 8.45 percent month over month, ending 31 consecutive months of year-over-year growth, according to the company figures reported November 1. Year-to-date deliveries reached 334,547 vehicles, up 38.5 percent compared with the same period in 2025, and cumulative deliveries stood at 1,332,139 as of October 31. A single soft month against a strongly positive year is the context the headline misses.',
+      'The brand split explains the decline. The core NIO brand delivered 18,125 vehicles, up 5.73 percent year over year but down 14.98 percent month over month. ONVO delivered 8,383 vehicles, down 51.66 percent year over year and 4.34 percent month over month — the weakest leg. FIREFLY, by contrast, delivered 7,738 vehicles, up 30.89 percent year over year and 5.61 percent month over month, setting a record for the second consecutive month. The small-car brand is growing while the mass-market ONVO brand struggles.',
+      'One milestone softened the month: the all-new NIO ES8 reached its 160,000th delivery on October 23, 2026. The question for NIO is whether October is a model-cycle pause or the start of a harder fight. With XPeng setting records in the same month and Li Auto also declining, October looks like a sorting month for Chinese EV makers — winners separated from strugglers by new models and export strength, not by brand size alone.',
+    ],
+    sources: ['NIO', 'CnEVPost'],
+  },
+  {
+    slug: 'china-october-deliveries-divergence-saic-leapmotor-november-2026',
+    title: 'China October Deliveries Split the Field: SAIC at 430,018, Leapmotor Over 100,000, Startups Sliding',
+    description:
+      'October deliveries ranged from SAIC 430,018 to falling NIO and Li Auto, with Leapmotor and Xiaomi over 50,000.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'One month, two stories: scale players and record-setters on one side, former growth darlings declining on the other.',
+    body: [
+      'Deliveries by major automakers in China in October 2026 diverged sharply, according to figures compiled by CnEVPost from company announcements on November 1. SAIC led with 430,018 vehicles, followed by GWM at 120,374 and Leapmotor at 106,127. Nevo recorded 63,648, GAC Toyota 53,022, XPeng 50,237 and Xiaomi Auto more than 50,000 — its exact figure was not disclosed, so its precise rank is unknown. Further down came NIO at 34,246, Huawei HIMA at 33,537, Deepal at 32,602, Zeekr at 32,483 and Li Auto at 29,025.',
+      'The pattern is divergence, not a rising tide. XPeng monthly deliveries topped 50,000 for the first time, while NIO and Li Auto both saw declines on both a yearly and monthly basis. Leapmotor crossing 100,000 in a month puts it in a different tier from the startup pack it once belonged to, and Xiaomi holding above 50,000 shows its automotive bet has reached real scale. GAC Toyota 53,022, with its bZ4X passing 150,000 cumulative deliveries, shows a joint-venture brand can still grow in a market dominated by domestic names.',
+      'For buyers and investors, the October table is a reminder that China is no longer one EV market. It is several: giant state-linked groups at hundreds of thousands of units, a fast-scaling second tier around 50,000 to 100,000, and former leaders fighting model-cycle gaps. Monthly delivery tables reward new models and export momentum; they punish brands between launches. November will show whether the October split hardens into a trend.',
+    ],
+    sources: ['CnEVPost', 'XPeng', 'Li Auto', 'NIO'],
+  },
+  {
+    slug: 'india-october-festive-records-maruti-mahindra-hyundai-november-2026',
+    title: 'India Festive Season Delivers Records: Maruti, Mahindra and Hyundai All Post Best-Ever Octobers',
+    description:
+      'Maruti sold 276,120 vehicles in October, Mahindra hit record SUV sales and Hyundai India set a monthly record.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Festive demand plus new models: four makers set records in the same month, with domestic growth in double digits.',
+    body: [
+      'Indian automakers reported a festive-season surge in October 2026, with several posting their best month ever, according to figures published November 1. Maruti Suzuki India sold 276,120 units including exports, its highest-ever monthly total, with domestic wholesales — dispatches to dealers — reaching an all-time high of 216,789 units, up 20 percent year over year from 180,675 in October 2025. Tata Motors Passenger Vehicles recorded domestic wholesales of 73,894 units, up 21 percent from 61,134 a year earlier.',
+      'Mahindra and Mahindra said it sold 73,338 vehicles in the domestic market, up 2 percent year over year, calling it a landmark month with SUV sales topping 73,338 and total vehicle sales of 131,109, both the highest the company has ever recorded in a month. Hyundai Motor India achieved its highest-ever total monthly sales of 82,299 units including exports, up 17.7 percent year over year, with 62,799 domestic units up 16.7 percent. JSW MG Motor India dispatched 8,013 units, up 19 percent from 6,397 a year earlier.',
+      'Two cautions keep the celebration honest. First, these are wholesales — vehicles shipped to dealers — not retail sales to customers, so some of the record reflects dealers stocking up for the festive season rather than cars already in driveways. Second, the two-wheeler side was just as strong, with Honda Motorcycle and Scooter India dispatching 664,831 units versus 598,952 a year earlier, suggesting broad festive demand rather than a single-brand story. Even with those caveats, a month in which the market leader, the SUV specialist and the Korean challenger all set records is a strong month by any measure.',
+    ],
+    sources: ['The Hindu BusinessLine', 'Maruti Suzuki', 'Mahindra', 'Hyundai Motor India'],
+  },
+  {
+    slug: 'byd-second-gen-seal-07-launch-november-5-november-2026',
+    title: 'BYD Second-Generation Seal 07 Launches November 5, Growing to 5,080 mm',
+    description:
+      'BYD refreshes its Seal 07 sedan with BEV and PHEV options, second-generation Blade Battery and flash charging.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Display cars are already in 131 Chinese cities — but pricing is still unannounced days before launch.',
+    body: [
+      'BYD will launch the second-generation Seal 07 sedan on November 5, 2026, refreshing its Ocean lineup with a larger sedan offering battery-electric and plug-in-hybrid options, according to CnEVPost reporting on November 1. The new model grows to 5,080 mm in length and adopts the Ocean Aesthetics 2.0 design language, with styling aligned with the Seal 08. First display cars have already arrived at dealerships in 131 Chinese cities, and the battery-electric version opened for reservations on October 26 — without pricing being announced.',
+      'The hardware updates are substantial. The battery-electric version will feature the second-generation Blade Battery and flash charging technology, plus the DiSus-M intelligent magnetorheological body control system. Regulatory filings show two electric motor options with peak outputs of 245 kW (329 hp) and 300 kW. The plug-in-hybrid version retains the Seal 07 DM-i name, pairing a 1.5-liter turbocharged engine with a 160 kW drive motor and a 38.029-kWh battery pack for a WLTC electric range of 245 kilometers (152 miles).',
+      'The refresh comes as the Seal lineup faces sales pressure: cumulative sales fell 14.11 percent year over year in the first nine months, and the lineup sold 46,718 vehicles in September, down 9.04 percent year over year. A bigger, better-equipped sedan without a price yet is a deliberate teaser strategy — it builds showroom traffic before the number that decides the deal is revealed. November 5 will show whether BYD prices the new Seal 07 to defend volume or to defend margin.',
+    ],
+    sources: ['CnEVPost', 'BYD', 'Auto Home'],
+  },
+  {
+    slug: 'xpeng-aeroht-land-aircraft-carrier-ras-al-khaimah-november-2026',
+    title: 'A Ruler Takes Delivery of a Flying Car: XPeng AeroHT Land Aircraft Carrier Heads to the UAE',
+    description:
+      'Ras Al Khaimah ruler took delivery of an XPeng AeroHT Land Aircraft Carrier for UAE sandbox deployment.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A 6x6 ground carrier plus a detachable two-seat flying module — priced under RMB 2 million, bound for a regulatory sandbox.',
+    body: [
+      'Sheikh Saud bin Saqr Al Qasimi, Ruler of Ras Al Khaimah, visited XPeng AeroHT manufacturing plant in China and officially took delivery of an initial production-grade Land Aircraft Carrier eVTOL (X3-F) intended for deployment in the United Arab Emirates, according to a Gasgoo report published October 31, 2026. The vehicle is a split-body modular design: an all-wheel-drive 6x6 ground carrier paired with a detachable two-seat electric vertical takeoff and landing flight module. The system is priced under RMB 2 million.',
+      'The aircraft will operate under a regulatory sandbox overseen by the UAE General Civil Aviation Authority, which will evaluate airworthiness standards and potential inter-emirate flight routes. That sandbox framing matters: this is not yet a commercial air-taxi service with tickets on sale, but a government-supervised trial in which regulators, routes and safety standards are developed alongside the vehicle itself. Ras Al Khaimah is positioning itself as an early test bed for advanced air mobility in the Gulf.',
+      'The delivery is also a statement about where flying-car competition is heading. While American and European eVTOL makers work through FAA and EASA certification, XPeng AeroHT is putting production-grade hardware into the hands of a Gulf government partner willing to build the rules around it. A modular flying car that drives on roads and flies as a separate module solves the last-mile problem differently from a pure air taxi — but it also faces two certification regimes, one for the road and one for the sky. The UAE sandbox will be the first real test of whether that dual approach can work in practice.',
+    ],
+    sources: ['Gasgoo', 'XPeng AeroHT'],
+  },
+  {
+    slug: 'new-horizon-cavorite-x5-hybrid-evtol-2030-certification-november-2026',
+    title: 'New Horizon Cavorite X5: A Hybrid Flying Machine Targeting 2030 Certification',
+    description:
+      'New Horizon targets 2030 certification for its fan-in-wing hybrid eVTOL, with 250 mph speed and 500-mile range.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Batteries for lift, a turbine for cruise: a regional hybrid design aimed at operators, not at running an air-taxi network.',
+    body: [
+      'New Horizon Aircraft (NASDAQ: HOVR) said it is developing a hybrid-electric vertical takeoff and landing aircraft, the Cavorite X5, targeting certification in 2030 and beginning flight testing of a full-scale demonstrator next year, according to a company presentation reported October 31, 2026. The five-seat aircraft is designed for regional transportation, using batteries to power its vertical-lift fans and a turbine engine to power a rear propeller during forward flight.',
+      'The design differs from many advanced air mobility concepts through its patented fan-in-wing system and hybrid-electric propulsion. New Horizon says the proposed aircraft is designed to reach speeds of 250 mph, a range of 500 miles and a useful load of 1,500 pounds — figures that, if achieved, would put it in a different class from short-hop urban air taxis, closer to a regional aircraft that happens to take off vertically. Chief executive Brandon Robinson, a former Canadian Air Force fighter pilot, founded the company about 13 years ago.',
+      'The business model is equally distinct: New Horizon does not intend to operate an urban air-taxi network. Instead, it plans to manufacture aircraft and sell them to existing operators serving defense, medical evacuation, logistics and cargo, executive transport and disaster-relief markets. That avoids the hardest part of the air-taxi business — building a passenger network from scratch — but it means the company needs operators willing to buy an uncertified aircraft type years before it can fly commercially. The 2030 certification target is honest about that timeline, and investors should treat the performance figures as design targets, not demonstrated results.',
+    ],
+    sources: ['New Horizon Aircraft', 'The Stock Observer'],
+  },
+  {
+    slug: 'lincoln-nautilus-corsair-neutral-shift-recall-11623-november-2026',
+    title: 'Ford Recalls 11,623 Lincoln Nautilus and Corsair Hybrids That May Shift Into Neutral While Driving',
+    description:
+      'Lincoln recalls 2026–2027 Nautilus Hybrid and 2027 Corsair Hybrid SUVs over a corrosion-related neutral shift.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Corrosion in a park-lock circuit board can drop the vehicle into neutral — dealers will replace the module free.',
+    body: [
+      'Ford is recalling 11,623 Lincoln Nautilus Hybrid and Corsair Hybrid vehicles because they may unexpectedly shift into neutral while driving, due to corrosion in the transmission park lock actuator circuit board, according to NHTSA records reported in October 2026. The recall covers certain 2026–2027 Lincoln Nautilus Hybrid and 2027 Lincoln Corsair Hybrid vehicles, under NHTSA campaign 26V-688 and Ford number 26S75. NHTSA received the report on October 20, 2026, and VINs in the recall became searchable on NHTSA.gov on October 26.',
+      'A vehicle that drops into neutral at speed loses drive power without warning, which raises crash risk — particularly in merging or highway traffic where a sudden loss of propulsion leaves the driver coasting. Dealers will replace the Integrated Park Module free of charge. Interim owner letters notifying owners of the safety risk are expected to be mailed November 2, 2026, with additional letters to follow once the remedy is available — wording that owners should read carefully, since it implies the replacement parts pipeline and the notification schedule may not move in lockstep.',
+      'Owners should not wait for a letter to check. Enter the 17-character VIN at nhtsa.gov/recalls to confirm whether a specific vehicle is included, and if it is, contact a Lincoln dealer about the module replacement and about what to do if the vehicle shifts into neutral before the repair. This recall sits alongside other campaigns on the Nautilus Hybrid lists, including software errors affecting the pedestrian warning sound, so a VIN check may return more than one open campaign.',
+    ],
+    sources: ['NHTSA', 'Ford', 'Automotor News'],
+  },
+  {
+    slug: 'honda-accord-crv-tire-repair-kit-rerecall-4804-november-2026',
+    title: 'Honda Re-Recalls 4,804 Accord and CR-V Vehicles: The Tire Kit Fix Itself Was Faulty',
+    description:
+      'Honda recalls 4,804 Accord and CR-V hybrids and fuel-cell models after faulty tire-kit parts were mixed into repairs.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A recall of a recall: some vehicles fixed under the first campaign received yet another faulty part by mistake.',
+    body: [
+      'Honda is recalling 4,804 Accord and CR-V vehicles because a tire repair kit component can fail, according to NHTSA documents reported in October 2026. The campaign covers the 2025–2026 Honda CR-V Fuel Cell EV, the 2023–2026 Honda CR-V Hybrid and the 2023–2026 Honda Accord Hybrid. When using the tire repair kit, pressure may build within the sealant bottle, causing the bottle cap to detach — a failure that can injure someone using the kit and leave the vehicle without a usable flat-tire repair.',
+      'What makes this campaign notable is that it is a recall of a recall. The vehicles were previously remedied under an earlier NHTSA campaign, 26V366, for the same tire-kit issue — but documents indicate some vehicles repaired during the prior recall received yet another faulty part, because the supplier accidentally combined the initial faulty parts with the updated components designed to correct the problem. The new campaign carries NHTSA number 26V663 and Honda number PPW.',
+      'Dealers will inspect and replace the tire repair kit nozzle as necessary, free of charge, with owner notification letters expected to be mailed November 16, 2026. Owners of affected Accords and CR-Vs should check their VIN at nhtsa.gov/recalls rather than assuming a prior repair closed the issue, and should avoid using the tire repair kit until the nozzle has been checked. The episode is a quality-control lesson: a recall remedy is only as good as the parts segregation behind it.',
+    ],
+    sources: ['NHTSA', 'Honda', 'Carveeta'],
+  },
+  {
+    slug: 'gac-toyota-october-53022-bz4x-150k-november-2026',
+    title: 'GAC Toyota Sells 53,022 in October as the bZ4X Passes 150,000 Cumulative Deliveries',
+    description:
+      'GAC Toyota October sales hit 53,022 with new-energy and hybrid vehicles over 75% of volume, plus November OTA updates.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A joint-venture brand growing in a domestic-dominated market — on the back of one electric SUV and a hybrid-heavy mix.',
+    body: [
+      'GAC Toyota announced October 2026 sales of 53,022 vehicles, with new-energy and hybrid vehicles accounting for more than 75 percent of total sales, according to figures reported November 1. The bZ4X all-electric SUV has now surpassed 150,000 cumulative deliveries since its launch, with the 150,000th unit — a special Nebula Limited Edition — delivered in a report dated October 11. For a Sino-Japanese joint venture competing against fast-growing domestic brands, holding above 50,000 monthly units on a mostly electrified mix is a meaningful result.',
+      'The bZ4X milestone matters beyond one model. The same vehicle is the platform Toyota and Waymo just chose for their Japan robotaxi tests starting in 2027, which means the bZ4X is becoming Toyota global electric workhorse across very different roles: family SUV in China, robotaxi base in Japan and the UK. A model that can carry both jobs needs manufacturing scale, and 150,000 cumulative deliveries is evidence that scale exists.',
+      'Looking ahead, GAC Toyota said both the bZ7 and the bZ4X are set to receive significant over-the-air updates in November. Software updates are now a retention tool as much as a feature: they let a maker improve a car already on the road without a dealer visit, and they give existing owners a reason to stay in the brand. With more than three-quarters of GAC Toyota sales already electrified, the company next test is whether it can convert that mix into growth while domestic rivals set monthly records around it.',
+    ],
+    sources: ['GAC Toyota', 'IT Home'],
+  },
+  {
+    slug: 'australia-november-ev-deals-atto1-19990-november-2026',
+    title: 'Australia November EV Deals: BYD Atto 1 at $19,990 Driveaway Leads a Packed Month',
+    description:
+      'November EV deals in Australia include a $19,990 BYD Atto 1, $28,888 Dolphin and $4,000 Sealion 8 cashback.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Twenty-seven active offers: the cheapest new car in Australia is now an EV — but the fine print is all about delivery dates.',
+    body: [
+      'Australia November 2026 EV deals roundup lists 27 active offers, updated October 29, with the headline being the BYD Atto 1 Essential at $19,990 driveaway — described as Australia cheapest new car on sale, electric or petrol. The offer runs until December 15, 2026, with delivery required by December 31, and the site notes the 5 percent novated lease offer cannot be stacked on top of this price. The BYD Dolphin Essential is available from $28,888 driveaway, with orders placed between September 15 and December 15 qualifying and delivery required by December 31.',
+      'Larger family vehicles carry cashback rather than headline price cuts. BYD is offering $4,000 cashback on the Sealion 8 Dynamic front-wheel-drive, Dynamic all-wheel-drive and Premium all-wheel-drive seven-seat plug-in-hybrid SUVs, bringing the range down to an effective $52,990 before on-road costs, for orders between October 1 and December 21 with delivery by December 31. GWM offers a $1,000 launch offer on the new Haval H7 Lux hybrid and Lux plug-in hybrid, with driveaway pricing from $45,990 and $49,990 respectively through November 30, plus a choice of a $2,000 driveaway cash bonus or a $2,000 fuel card on the Cannon plug-in-hybrid ute, starting at $50,990 driveaway for the Lux and $54,990 for the Ultra in Victoria for private buyers.',
+      'Finance and servicing sweeteners fill out the month: XPeng offers 2.88 percent per annum fixed-rate consumer finance on the new G6 with no deposit or balloon, and KGM offers three years of free scheduled servicing on the Musso EV, covering three years or 60,000 km whichever comes first. The pattern across all 27 offers is the same: the discount is real, but it is gated by order windows, delivery deadlines and state-specific pricing. Australian buyers should confirm driveaway versus before-on-roads pricing in writing, since the two are not comparable.',
+    ],
+    sources: ['Zecar', 'BYD', 'GWM', 'XPeng'],
+  },
+  {
+    slug: 'november-zero-down-leases-217-models-20750-november-2026',
+    title: 'November Zero-Down Leases: 217 Models Carry Lease Cash, Up to $20,750 on a Genesis G70',
+    description:
+      '217 models offer manufacturer lease cash that can cut due-at-signing to $0, led by Genesis, Infiniti and Audi.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Lease cash is not a down payment you get back — it is a cap-cost reduction the manufacturer pays. The biggest is $20,750.',
+    body: [
+      'A November 2026 roundup counts 217 models with manufacturer lease cash that can bring due-at-signing to $0, with the highest lease cash available at $20,750. Lease cash reduces the capitalized cost of the lease without requiring a down payment from the customer — the manufacturer pays it, applied as a cap-cost reduction by the dealer. That distinction matters: a $0-due lease is not a free car, it is a lease whose upfront cost has been absorbed into the manufacturer incentive structure.',
+      'The largest offers cluster in luxury and large SUVs. The 2026 Genesis G70 carries $20,750 in lease cash within up to $23,750 in total savings across six incentives. The 2026 Infiniti QX80 carries $19,800 in lease cash within up to $59,800 in total savings across twelve incentives. The 2026 Audi A8 carries $15,000 in lease cash, the 2026 Porsche Macan $12,250, and the 2026 BMW X5 $8,000. Mainstream models appear too, including the 2027 Nissan Armada and Rogue, the 2027 Ram 1500, the 2026 Mazda CX-90 and CX-70, and Jeep Wrangler and Grand Cherokee models.',
+      'Electric vehicles also feature, with the 2026 Ford Mustang Mach-E, Nissan Leaf, Volkswagen ID.4 and Kia EV6 all listed with lease incentives — the ID.4 at $12,500 in total incentives and the EV6 at $5,000, for example. The practical advice for shoppers is to compare the monthly payment and the total of all payments, not the due-at-signing figure alone: two $0-down leases can carry very different monthly payments, mileage limits and end-of-lease charges. Lease cash is a real saving, but only the full contract shows how much of it reaches the driver.',
+    ],
+    sources: ['CarWhere'],
+  },
+  {
+    slug: 'november-deals-mazda-kia-ev9-hyundai-zero-percent-november-2026',
+    title: 'Last Call Before November 2: Mazda, Kia EV9 and Hyundai Zero-Percent Deals Expire Monday',
+    description:
+      'Mazda CX-5 0% APR, Kia EV9 0% plus $10,000 cash and Hyundai 0% financing all run through November 2.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Three brands, one deadline: several headline offers end Monday, and cash and low APR usually cannot be combined.',
+    body: [
+      'Several headline new-car offers run through November 2, 2026, making this weekend the decision point for shoppers who want them, according to an October 27 roundup of official offers. Mazda lists 0 percent APR for up to 60 months on certain 2026 CX-5 trims, alongside customer cash on several 2026 vehicles including the CX-5 and CX-50 — but the CX-5 cash offer is not combinable with the special APR offer, so buyers must choose one path. The vehicle-specific details and exact trims matter more than the headline rate.',
+      'Kia lists a 2026 EV9 offer of 0 percent APR for 60 months including $5,000 in APR bonus cash for qualified customers, plus a separate $10,000 customer cash offer toward an eligible 2026 EV9 purchase. Hyundai lists 0 percent APR financing for up to 60 months on certain 2026 Tucson and Santa Fe vehicles for well-qualified buyers using Hyundai Motor Finance. These are the post-federal-credit market in action: with the $7,500 federal credit ended September 30, manufacturers are replacing it with their own APR and cash combinations, brand by brand.',
+      'The lesson from the November 2 cluster is to get the offer in writing before the deadline and to compare the two paths honestly. A 0 percent loan on a higher price can cost more overall than a cash discount on a lower price, depending on the term and the amount financed — and an offer that expires Monday may be replaced Tuesday by something better or worse, which no one can know in advance. Shoppers should also note these offers sit alongside the Kia EV6, Hyundai Ioniq 5 and Toyota bZ offers ending the same Monday, covered in earlier CARC reporting, so the whole EV incentive landscape resets at once.',
+    ],
+    sources: ['Mazda', 'Kia', 'Hyundai', 'The Top Selected'],
+  },
+  {
+    slug: 'tesla-model-s-x-line-torn-down-46-days-optimus-november-2026',
+    title: 'Tesla Tore Down the Model S and X Line in 46 Days to Make Room for Optimus Robots',
+    description:
+      'Tesla stripped the Fremont Model S/X line in 46 days, clearing the floor for Optimus humanoid robot production.',
+    date: 'November 1, 2026',
+    dateISO: '2026-11-01',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'From luxury sedans to robots in under seven weeks — but Tesla has not confirmed any Optimus weekly build rate.',
+    body: [
+      'Tesla spent 46 days stripping the Fremont assembly line that built the Model S and Model X, according to InsideEVs reporting summarized November 1, 2026, and plans to fill that floor with equipment for the Optimus humanoid robot. The last Model S and Model X rolled off the line in May 2026, after Musk announced the end of both models on the fourth-quarter 2025 earnings call in January. For a line that built cars for 14 years, a teardown completed in about six and a half weeks — reportedly finished in late June — is a fast exit, and the clearest physical sign yet that Musk wants hardware volume in robots rather than in low-selling luxury EVs.',
+      'The reporting around what happens next needs careful reading. One outlet reports limited Optimus production starting in July or August, a few dozen units a week in the second quarter and several hundred a week by late September, with supply-chain orders pointing to 2,500 units a week by the end of 2026 — but Tesla has not published a weekly Optimus build rate, and the second-quarter deck language does not match a second-quarter output of dozens a week, so those figures should be treated as unconfirmed. The same outlet reported hand durability issues threatening an internal target of 1,000 units a week, and zero Optimus units doing useful work inside Tesla own operations. What is confirmed is thinner: Musk posted a photo with the Optimus production team on July 1 and said production would start extremely slowly, with formal production on the new line not yet started in late July.',
+      'The longer-term target reported for meaningful volume is summer 2027 at Giga Texas, which frames the Fremont teardown as preparation, not production. Clearing a factory floor in June and reaching volume more than a year later is normal for a new product category — and it is why the 46-day number, while striking, should not be mistaken for a robot production rate. The figure to watch is the first Tesla-confirmed Optimus build number, whenever the company chooses to publish one.',
+    ],
+    sources: ['InsideEVs', 'Startup Fortune', 'TechTimes', 'Tesorb'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
