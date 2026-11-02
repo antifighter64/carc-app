@@ -5527,6 +5527,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['InsideEVs', 'Startup Fortune', 'TechTimes', 'Tesorb'],
   },
+  {
+    slug: 'tesla-model-3-cybercab-inverter-fewer-parts-november-2026',
+    title: '2026 Tesla Model 3 Is Getting Cybercab Tech: A Simpler Inverter With Far Fewer Parts',
+    description:
+      'Tesla is bringing a Cybercab-designed inverter into Model 3 production in 2026, with fewer components and multi-supplier parts — but no change to range or price.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The robotaxi hardware trickle-down has started: the Model 3 inherits the Cybercab inverter, not its steering-wheel-free cabin.',
+    body: [
+      'Tesla is putting hardware designed for its purpose-built Cybercab robotaxi into a car ordinary buyers can actually purchase. According to Autoblog reporting on a Munro Live factory tour, Nick Verzini, Tesla head of drive unit engineering, said a new printed circuit board assembly and power stage from the Cybercab inverter will enter Model 3 production in 2026. The inverter converts battery DC power into the AC power that spins the motor, so it sits at the heart of efficiency and cost — and the new design uses substantially fewer electronic components than the current Model 3 inverter, though no exact figure was given.',
+      'Two practical details matter for owners and for Tesla suppliers. First, the new unit accepts parts from multiple suppliers, which reduces dependence on any single source — a quiet but important resilience gain for a high-volume car. Second, Verzini said the whole interface was kept compatible with a Model Y drive unit, though Tesla has not announced a Model Y change yet. For the Cybercab itself, Tesla 2025 Impact Report figures cited in the coverage target at least 6.1 miles per kWh, a number that matters for a vehicle meant to run all day, and the Cybercab front motor uses an 11:1 gear ratio versus about 9:1 in many other Teslas, with a mechanical oil pump replacing an electric one.',
+      'Buyers should not expect a spec-sheet jump from this change. The reporting is explicit that efficiency, range and price figures remain the same for the Model 3. That is the honest way to read a parts-consolidation story: it is about manufacturing simplicity and cost, not a new model. If the simpler inverter proves itself in the Model 3, it becomes a template for how robotaxi engineering pays for itself across the regular lineup — even before any customer Cybercab is sold.',
+    ],
+    sources: ['Autoblog', 'Drive Tesla Canada', 'Munro Live'],
+  },
+  {
+    slug: 'tesla-us-ev-share-52-percent-valuation-warning-november-2026',
+    title: 'Tesla US EV Share Is Back to 52% — and One Prominent Investor Says the Valuation Still Does Not Add Up',
+    description:
+      'Tesla recovered US EV share to about 52% in early 2026 after falling to 41% in 2025, but investor Gary Black warns a P/E above 200 times needs a reversal story.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'From 80% in 2020 to 41% in 2025 to about 52% in early 2026: the share recovery is real, and so is the valuation question.',
+    body: [
+      'Tesla is losing the dominance it once took for granted in its home EV market, and even its partial recovery leaves a hard question unanswered. Investor Gary Black of The Future Fund, quoted in a November 2 market report, warned that Tesla is losing its first-mover advantage as rivals close in. The numbers in that report trace the slide: Tesla held about 80% of the US electric vehicle market in 2020, fell to a record low of about 41% in 2025, and recovered to around 52% in the first eight months of 2026.',
+      'Black framed the challenge as arithmetic, not sentiment. How, he asked, does Tesla reverse the share trend far enough to justify a price-to-earnings ratio above 200 times, based on an estimated adjusted earnings per share of about $2 in 2026? The same report names Hyundai, Toyota, General Motors, Ford and Rivian as the top-performing manufacturers in the space — a reminder that the competition is no longer a single rival but a full field of legacy and startup brands, each with its own EV lineup and pricing.',
+      'The counter-argument Tesla bulls will make is that the company is no longer valued as a carmaker alone: robotaxis, Full Self-Driving and Optimus robots are the growth story in the Q3 call narrative. That is a legitimate thesis, but it is also unproven at scale — robotaxi revenue is not expected to become financially noticeable until the second quarter of 2027 on Tesla own guidance. Until then, the share numbers are the scoreboard everyone can check, and 52% is both a recovery and a long way from 80%.',
+    ],
+    sources: ['KuCoin News', 'Woofun AI', 'The Future Fund'],
+  },
+  {
+    slug: 'byd-geely-october-year-high-exports-double-november-2026',
+    title: 'BYD and Geely Hit Year-High October Sales as Exports More Than Double — While the China Home Market Slides',
+    description:
+      'BYD sold 490,168 vehicles in October, up 11%, with exports over 170,000; Geely sold 310,183, up 1%, with exports more than doubled.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'October was the best month of 2026 for both giants — and growth now comes almost entirely from outside China.',
+    body: [
+      'BYD and Geely Auto, China two biggest automakers, both posted their best monthly sales of 2026 in October, even as the wider Chinese market kept sliding. BYD delivered 490,168 vehicles in China and overseas during the month, up 11% from a year earlier, according to company statements reported November 2. Geely sold 310,183 petrol and electric vehicles globally, up 1% year over year. For both companies, the headline growth hides a split: the home market is weak, and exports are doing the heavy lifting.',
+      'The export numbers are striking. BYD exports more than doubled to 170,194 units in October — Morningstar reports 170,194, while Inside China Auto puts the overseas figure at 169,564 for BYD group, a small definitional difference worth noting rather than smoothing over. Geely exports also more than doubled, to 107,153 units. Independent Shanghai-based analyst Gao Shen attributed the leaders performance to new model launches and cost and technology advantages, and said their growth has intensified pressure on weaker automakers fighting for survival at home.',
+      'The backdrop explains why exports matter so much. Nomura estimates Chinese domestic sales fell around 25% in October, returning demand to roughly 2014 levels, and the China Passenger Car Association estimated retail sales would fall 28% year over year. In that market, a company that can sell abroad is insulated; one that cannot is exposed. BYD and Geely October results are therefore less a story of a booming China market than of two scale players outrunning it.',
+    ],
+    sources: ['Morningstar', 'Dow Jones', 'IndexBox', 'Inside China Auto'],
+  },
+  {
+    slug: 'india-october-ev-top10-tata-mahindra-mg-november-2026',
+    title: 'India October EV Top 10: Tata Outsells Mahindra and MG Combined — and VinFast Is Already Fourth',
+    description:
+      'Tata led India EV sales in October 2026 with 14,552 units, ahead of Mahindra at 8,472 and MG at 5,877, in a 35,777-unit top-10 table.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The top three brands took 28,901 of 35,777 top-10 EV sales — but the surprise is who sits in fourth.',
+    body: [
+      'Tata Motors led India electric vehicle sales in October 2026 with 14,552 units, according to a November 1 sales table, followed by Mahindra at 8,472 and MG at 5,877. The gap between first and second alone was 6,080 units, and the top three together sold 28,901 EVs out of 35,777 units listed across the ten brands in the table — a concentration that shows how top-heavy India EV market still is, despite a growing cast of entrants.',
+      'The most interesting line in the table is fourth place. VinFast, the Vietnamese maker, sold 2,565 units in October — well below MG, but comfortably ahead of the rest of the field. Kia ranked fifth at 1,386 units on the Clavis EV and Syros EV, followed by Maruti Suzuki at 1,188 units, a maker that builds the e Vitara in Gujarat for local and global markets. Hyundai followed at 753, BYD at 735, Toyota at 189 and Stellantis at 60, rounding out a table where the tail is still very small.',
+      'Read alongside the wider October wholesale records — Maruti at an all-time monthly high and Tata passenger vehicles at a record 75,426 units with EV sales up roughly 75% to 16,244 — the EV table tells a two-speed story. The overall Indian market had a festive boom, but pure EV sales remain a Tata-led niche within it, with Mahindra and MG as the only other scale players so far. VinFast fourth-place finish is the number to watch next month: if it holds, India EV race has a genuine fourth contender.',
+    ],
+    sources: ['GaadiWaadi', 'Particle News'],
+  },
+  {
+    slug: 'leapmotor-xiaomi-firefly-zeekr-october-breakdown-november-2026',
+    title: 'Beyond BYD: Leapmotor Holds 100,000 for a Fourth Month, Xiaomi Tops 50,000, and NIO firefly Sets a Record',
+    description:
+      'Leapmotor delivered 106,127 vehicles in October, Xiaomi more than 50,000, Zeekr 32,483, and NIO firefly hit a record 7,738 — while Huawei HIMA fell 51%.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'The China October breakdown rewards mainstream pricing and punishes premium softness — with one small-car exception.',
+    body: [
+      'Leapmotor delivered 106,127 vehicles globally in October 2026, up 51% year over year and broadly flat month over month, marking a fourth consecutive month above 100,000 deliveries. The B10 was a significant contributor, with global sales of 15,576 units in October across 40 countries and regions. In the first ten months of the year Leapmotor delivered 772,666 vehicles, reaching more than 77% of its annual target. The mainstream market below RMB 200,000 — about $30,000 — has become the key growth driver of the September-October peak season, and Leapmotor is its clearest beneficiary.',
+      'Xiaomi Auto delivered more than 50,000 vehicles in October, its best month of 2026 and only the second time it has passed that mark, after December 2025. Its year-to-date total is at least 336,490, a little over 61% of its 550,000 target for the year. Zeekr delivered 32,483 vehicles. Inside NIO Inc., the standout was the premium small-car brand firefly, which set a new monthly record of 7,738 deliveries and launched a 60 kWh long-range option, reflecting a shift of emphasis toward smaller premium models as the main NIO brand softened.',
+      'The other side of the month was Huawei HIMA alliance, which delivered 33,537 vehicles, down 51% year over year in its fifth straight annual decline. Competition now centers on the mainstream sub-RMB 200,000 and export-ready segments, but the risks named in the October snapshot are real: seasonal buyer hesitation, model timing around NIO Day, ramp constraints and margin pressure from discounts. October marked the end of China traditional September-October peak season, and a further decline in the overall auto market appeared inevitable — which makes the brands still growing, rather than the market, the story.',
+    ],
+    sources: ['ChinaEVHome', 'Inside China Auto', 'The Electric Viking'],
+  },
+  {
+    slug: 'saic-changan-chery-october-group-sales-november-2026',
+    title: 'China Group Scoreboard: SAIC NEV Sales Near 259,000, Changan Up 18%, and Chery Exports 200,618 Vehicles',
+    description:
+      'SAIC Group NEV sales rose 25.1% to around 259,000 in October, Changan NEV sales rose 18% to about 140,500, and Chery exported 200,618 vehicles.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Brand tables miss the groups: at group level, SAIC is now second behind BYD, and Chery is an export machine.',
+    body: [
+      'At group level, October reshuffles the China leaderboard in ways brand-only tables miss. SAIC Group NEV sales were around 259,000 in October, up 25.1%, putting SAIC second behind BYD at group level, with exports of 163,000 vehicles of all types. Geely Auto sold 214,996 vehicles and Chery Group sold 140,893, while Chery also exported 200,618 vehicles of all types — an export figure larger than its group sales total for the month, because exports include vehicles built for overseas markets beyond the domestic sales count.',
+      'Changan sold around 140,500 NEVs in October, up 18% year over year and 17.4% on September, with overseas sales of 102,400 vehicles of all types, up 77%. Within the groups, Changan Qiyuan moved up to fifth among NEV brands, and XPeng and Xiaomi both sat at or above 50,000 for the first time this year. BYD own brand sold 423,843 cars, up 7.3% on both September and October last year, with the wider BYD group including Denza, Fangchengbao, Yangwang and commercial vehicles reaching 490,168.',
+      'Why group numbers matter: a brand can fall while its group rises, as new sub-brands take over volume, and export strength at group level can offset a weak home market in a way no single brand table shows. SAIC second-place group position, Chery export scale and Changan overseas growth of 77% all point the same way — the October winners are the groups with somewhere else to sell when China cools.',
+    ],
+    sources: ['Inside China Auto', 'Morningstar'],
+  },
+  {
+    slug: 'gm-six-traverse-acadia-seat-weld-recall-november-2026',
+    title: 'GM Recalls Just Six 2026 Traverse and Acadia SUVs Over Faulty Seat Welds — and That Tiny Number Is the Point',
+    description:
+      'Six 2026 Chevrolet Traverse and GMC Acadia SUVs are recalled under NHTSA 26V696 over insufficient seat welds, with owner notices from December 7.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Four vehicles in the US, two in Canada — a recall so small it shows how precisely modern weld data can trace a defect.',
+    body: [
+      'General Motors is recalling six 2026 vehicles — three GMC Acadias and three Chevrolet Traverses — over improperly welded seats, according to Autoblog reporting on November 1. Four vehicles are recalled in the United States under NHTSA recall number 26V696, while the remaining two are covered by a recall in Canada. GM is not aware of any accidents or injuries related to the issue, and all covered vehicles are still under warranty, so no separate reimbursement program will be offered.',
+      'The defect was found after the driver seatback frame in a 2026 Chevrolet Traverse was replaced in July 2026. GM supplier then reviewed laser-welding data from more than 94,000 seat components and identified six additional suspect parts, all manufactured on November 3, 2025. The problem is insufficient welds, also known as cold welds, in the seat structure — a defect that matters because a seat that fails in a crash cannot protect its occupant, even if the failure mode sounds like a factory footnote.',
+      'The small number is itself informative. Modern suppliers can trace a weld batch to individual parts across tens of thousands of components, so a recall can be surgical rather than sweeping — the opposite of the million-vehicle camera recalls that dominate headlines. GM will begin notifying affected US owners on December 7, while VINs are already searchable in the NHTSA recall database. If you own a 2026 Traverse or Acadia, a VIN check settles it in seconds; almost every owner will find they are not affected.',
+    ],
+    sources: ['Autoblog', 'NHTSA'],
+  },
+  {
+    slug: 'gm-62-v8-investigation-nov13-deadline-november-2026',
+    title: 'GM 6.2L V8 Investigation: NHTSA Sets a November 13 Deadline for Engine-Failure Records on Nearly 1 Million Trucks and SUVs',
+    description:
+      'NHTSA engineering analysis EA26005 covers an estimated 997,743 model-year 2021-2026 GM vehicles with the L87 6.2L V8; GM must answer most requests by Nov 13.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'November 13 is a paperwork deadline, not a recall decision — but it is the next documented step in a case covering nearly a million vehicles.',
+    body: [
+      'Federal safety investigators have given General Motors until November 13, 2026, to answer most of a detailed request for engine-failure records in the 6.2-liter V8 investigation, according to a November 1 report on an October 25 deadline-extension memo. The extension applies to requests 2 through 6; request 1, covering vehicle-production information, remained due October 30. The National Highway Traffic Safety Administration September 15 information request seeks complaints, field reports, warranty and goodwill claims, lawsuits and incident records related to alleged engine seizure from internal component failure.',
+      'The investigation, engineering analysis EA26005, opened August 20 to examine the recall remedy and failures in later-production engines. It lists an estimated 997,743 model-year 2021-2026 vehicles equipped with the L87 6.2-liter V8, including the Chevrolet Silverado 1500, Tahoe and Suburban; GMC Sierra 1500, Yukon and Yukon XL; and Cadillac Escalade and Escalade ESV. The existing recall, 25V-274, covers 597,571 vehicles from model years 2021-2024, which GM attributed to manufacturing problems involving connecting rods and crankshafts that could damage the engine and lead to loss of propulsion.',
+      'The distinction in the August opening document is what owners should watch: NHTSA wrote that its Office of Defects Investigation continues to receive reports of engine failures after completion of the recall remedy. That does not by itself prove the remedy failed, and November 13 does not promise a new recall or a decision date — it is the date GM evidence is due so investigators can evaluate failures and the existing remedy. Owners can check their VIN through the NHTSA recall lookup and ask their dealer about any open recall in the meantime.',
+    ],
+    sources: ['Pickup Truck Talk', 'NHTSA'],
+  },
+  {
+    slug: 'catl-blue-vector-skyla-v30-battery-november-2026',
+    title: 'CATL Picks a Flying-Car Bet: Exclusive Battery Deal for Blue Vector 6-Seat Skyla V30 Tiltrotor',
+    description:
+      'CATL will develop custom aviation batteries for Blue Vector Skyla V30, a 6-seat all-electric tiltrotor for intercity travel with 60 pre-sales orders.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The world largest battery maker is now an exclusive partner on a Chinese intercity eVTOL — but no deal value or timeline was disclosed.',
+    body: [
+      'CATL has signed strategic and product cooperation agreements with Blue Vector Intelligent Technology to develop aviation batteries for the Chinese eVTOL maker, CnEVPost reported November 2. Blue Vector, based in Hangzhou, selected CATL as its exclusive battery partner. The partnership will focus on the Skyla V30, a product of Skyla Aviation — Blue Vector eVTOL business — for which CATL will develop custom batteries. The statement did not disclose the deal value, battery specifications or a supply timeline, so the commercial weight of the deal cannot yet be judged.',
+      'The aircraft itself is aimed at a different mission from city air taxis. The Skyla V30 is a 6-seat, all-electric tiltrotor designed for intercity passenger travel. Its first full-scale technology demonstrator, A/C01, rolled out on August 31, 2026, in Harbin, and under plans disclosed at the time it will undergo systems integration, ground testing and tilt-transition flight tests — the shift from design to full-aircraft engineering validation. Blue Vector said on September 24 that it had signed pre-sales orders for 60 V30 aircraft during the Global Digital Trade Expo in Hangzhou, including 30 from Singapore-based aviation operator Moon Aero.',
+      'CATL is not new to this sector: in November 2025, Autoflight unveiled a floating vertiport jointly developed with CATL, integrating an eVTOL takeoff and landing platform, energy storage, charging and other systems into a battery-powered vessel. The Skyla deal extends that logic from infrastructure to the aircraft powerplant itself. Blue Vector eVTOL business completed five funding rounds in nearly six months to June 30, raising more than 400 million yuan in total — momentum, but not certification, and certification remains the long pole for any intercity eVTOL.',
+    ],
+    sources: ['CnEVPost', 'CATL'],
+  },
+  {
+    slug: 'doroni-h1x-600-preorders-filings-crowdfunding-november-2026',
+    title: 'Doroni Says Its H1-X Flying Car Has 600+ Pre-Orders — but Filings Show Crowdfunding, Not Deposits, Funds the Work',
+    description:
+      'Doroni claims 600+ H1-X pre-orders and $60M+ raised, while its H1 2026 filing shows $329,895 in customer deposits and $21.65M from preferred-share sales.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'A headline order count says little until deposits are counted — and Doroni own filing counts very few of them.',
+    body: [
+      'Doroni Aerospace says on its website that more than 600 people have placed pre-orders for the H1-X, a two-seat personal eVTOL, and that it has raised more than $60 million. Both figures are the company own claims. Its filing for the six months to June 30, 2026, tells a more precise story: $329,895 in customer deposits in that period, alongside a net $21.65 million raised from preferred shares through equity crowdfunding, a Regulation A public offering and a private placement. Cash on hand was $13.42 million at June 30. The filing does not say how many pre-orders carry a deposit, and it describes deposits as refundable on request.',
+      'That gap matters because personal eVTOL programs of this kind are bankrolled by investor equity long before customers pay in, so a headline order count says little about demand until deposit and conversion terms are known. The H1-X itself, unveiled as a showroom model at Dania Beach, Florida, on March 26, 2026, is specified by the company with eight vertical and two horizontal ducted fans, a top speed of 120 mph and a range of 100 miles — but the aircraft has not yet flown in its final form. Founder and CEO Doron Merdinger piloted an early H1 prototype on July 3, 2023, which the company called the first US flight test of a two-seat personal eVTOL, a claim that is not independently verified.',
+      'The certification route is also distinct from the air-taxi path. Doroni is targeting light-sport certification under the FAA MOSAIC rule, finalised in July 2025, rather than the type certification Joby and Archer are pursuing for air taxis. It aims to submit the H1-X to the FAA in late 2027, subject to financing, with production in 2028, and on September 29, 2026, it announced a partnership with Seattle engineering firm TLG Aerospace for loads analysis, structural and fluid modelling and flight mechanics. The next dated milestones are the close of the Regulation A offering, expected into the first quarter of 2027, and that late-2027 FAA submission — both tied to financing, which is why the filing numbers, not the website headline, are the ones to track.',
+    ],
+    sources: ['Avi-Go', 'SEC Form 1-SA', 'Doroni Aerospace'],
+  },
+  {
+    slug: 'skydrive-osaka-rooftop-vertiport-feasibility-november-2026',
+    title: 'SkyDrive Flying-Car Story Now Depends on the Roof: Osaka Rooftop Vertiport Feasibility Study',
+    description:
+      'SkyDrive and Osaka Metro are studying whether existing rooftop emergency landing sites can become eVTOL vertiports, covering wind, noise and charging.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A roof with a landing mark is not a passenger terminal — and SkyDrive October study treats it that way.',
+    body: [
+      'SkyDrive September and October 2026 announcements move the flying-car question outside the aircraft, to the places it could actually land. On September 24, the company published a design-concept explanation for its compact multi-rotor approach, arguing that short urban trips make hovering performance, available landing space and power redundancy central to aircraft design. That is the manufacturer engineering case, not an independent certification finding — but it frames the harder problem that followed a week later.',
+      'On October 1, SkyDrive announced a feasibility study into using existing Osaka rooftop emergency landing sites as eVTOL vertiports, involving Osaka Metro and other public and private partners. Its scope includes obstacles, wind, noise, building capacity, passenger movement and charging. The study also concerns alternate landing locations, not simply adding more destinations: SkyDrive describes the need for options when an aircraft cannot reach its intended destination, and identifies emergency-response access and coexistence with the original lifesaving purpose of rooftop sites as issues to be worked through. Those are unresolved operating questions, not permissions already granted.',
+      'For an eventual passenger service, the evidence that matters goes beyond the aircraft: usable weather windows, turnaround times, accessible boarding, charging and the backup plan, alongside the vehicle itself. Counting roofs is not the same as counting places where a service can operate. SkyDrive rooftop work is encouraging as reporting — it makes the dependencies tangible — but it is not a reason to declare the service ready.',
+    ],
+    sources: ['SVGN', 'SkyDrive'],
+  },
+  {
+    slug: 'archer-ita-airways-italy-air-taxi-network-november-2026',
+    title: 'Archer and ITA Airways Plan an Italy Air-Taxi Network: Rome Airport to City Centre in 10 to 20 Minutes',
+    description:
+      'Archer Midnight eVTOLs and ITA Airways aim to replace 60 to 90 minutes of Rome ground travel with 10 to 20 minutes of flight, starting with Fiumicino.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Italy is the latest country to get an Archer network plan — airport-to-city first, with the airline as integrator.',
+    body: [
+      'Archer Aviation and ITA Airways have established a partnership to develop an all-electric air taxi network within Italy advanced air mobility sector, according to a November 2 report. The collaboration uses electric vertical takeoff and landing aircraft to provide rapid transit between major airports and metropolitan centers, with initial implementation targeting the route between Rome Fiumicino Airport and the Rome city center. Fiumicino crossed 50 million passengers last year for the first time in its history, which is why an airport corridor is the natural first route.',
+      'The technical pitch is a time saving, not just a novelty. Archer supplies the Midnight electric aircraft, engineered for zero-operating-emission flights and rapid turnaround times between consecutive short-haul routes, while ITA Airways facilitates integration into its existing flight network. The system is designed to replace 60 to 90 minutes of ground transportation with 10 to 20 minutes of flight time. Recent operational testing in complex urban airspace validated the aircraft transit capabilities, completing flights between regional hubs in the San Francisco Bay Area in approximately 10 minutes, according to the report.',
+      'What is not yet announced is a launch date, pricing or Italian certification timeline — and those are the gating items for any eVTOL network, in Italy or elsewhere. The partnership model itself is the news: rather than building a standalone air-taxi brand, Archer is plugging into a national carrier distribution and airport footprint. If that model works in Rome, it is repeatable at other ITA hubs; if certification slips, the network plan slips with it, however compelling the 10-minute flight sounds.',
+    ],
+    sources: ['Aero-Defence Tech', 'Archer Aviation'],
+  },
+  {
+    slug: 'zeekr-7x-australia-2027-450kw-11-minute-charge-november-2026',
+    title: '2027 Zeekr 7X Arrives in Australia: More Power, 450kW Charging, 11-Minute Top-Up — and No Price Rise',
+    description:
+      'The updated Zeekr 7X costs from A$57,900 in Australia, with 500kW flagship power, up to 627km WLTP range and 10-80% charging in as little as 11 minutes.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'More power and more kit at the same price: the Chinese-brand playbook, applied to a Model Y rival.',
+    body: [
+      'Zeekr has announced the updated 2027 7X electric SUV for Australia, with more powerful motors, faster acceleration, revised styling and additional technology — without increasing prices. Available to order from November 1, with deliveries beginning in December, the refreshed 7X retains its three-variant lineup, priced from $57,900 before on-road costs: the entry RWD at $57,900, the Long Range RWD at $63,900, and the flagship Performance AWD at $72,900. The first 2,000 orders also get a launch package including a home wallbox and two years of servicing.',
+      'Every version gains 25kW and 80Nm. Both rear-drive models now make 335kW and 520Nm, and the Performance AWD makes 500kW and 790Nm. WLTP driving ranges are 482km for the RWD with a 75kWh LFP battery, 627km for the Long Range RWD and 544km for the Performance AWD, both with 100kWh NCM batteries. Built on an 800-volt architecture, the updated 7X supports DC charging at up to 450kW, with Zeekr claiming a 10-80% recharge in as little as 11 minutes under suitable conditions — a claim that depends on finding a charger capable of that rate, which remains rare.',
+      'The pattern is one Chinese brands keep repeating: more power and more equipment at the same price, rather than a price cut. The 7X is a direct rival to the Tesla Model Y and BYD Sealion 7, and Australia is becoming a key test market for Chinese brands, with Zeekr adding the 7GT wagon and 8X and 9X plug-in hybrids during 2027. Standard additions include a built-in dashcam, rear privacy glass, revised exterior styling, a redesigned centre console and new colours — small items individually, but together they explain why a no-price-rise update can still feel like a new car.',
+    ],
+    sources: ['WhichCar', 'CarBike Insight', 'Zeekr'],
+  },
+  {
+    slug: 'india-november-launches-glc-denza-mini-bmw-november-2026',
+    title: 'November 2026 India Launches: Mercedes GLC Electric on Nov 4, Denza on Nov 13, Mini on Nov 27 — Plus BMW M Editions',
+    description:
+      'India November car calendar: Mercedes-Benz GLC Electric November 4, BYD luxury brand Denza D9 and Z9 GT November 13, Mini Cooper SE November 27.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'After a nine-launch October, November is quieter — four launches, headlined by a luxury EV and a new luxury brand.',
+    body: [
+      'With the festive season and its typical barrage of car launches mostly behind us, carmakers are winding down launches as the end of the year approaches. October featured more than nine notable launches, while for November only four are lined up in India, according to Autocar India. The first major arrival is the Mercedes-Benz GLC Electric, scheduled for November 4. The electric SUV will be assembled in India and is expected to be offered in the 400 4MATIC variant, serving as the entry point to Mercedes-Benz India electric SUV lineup.',
+      'BYD luxury brand Denza will make its India debut on November 13, expected to introduce two models: the D9 luxury MPV and the Z9 GT electric shooting brake. The D9 is an executive MPV in the mould of the Toyota Vellfire and MG M9, while the Z9 GT is a large shooting brake offered in plug-in hybrid and electric variants internationally. Mini will introduce the all-electric Cooper SE and the Paul Smith Edition on November 27. BMW could also bring several exclusive M models to India in November, including the M3, M5 Touring, M4 and M5 Sedan 100 Jahre Nürburgring Editions, plus the M2 xDrive Turbo Edition — though BMW items are described as expected, not confirmed, and pre-orders for the Nürburgring collection opened in October 2026.',
+      'The calendar matters for buyers because November launches in India now skew luxury and electric, not mass-market. A locally assembled GLC Electric, a new luxury brand entry and a second-generation Mini Cooper SE all point to where manufacturers see margin in late 2026: premium EVs with local assembly or strong brand cachet, launched after the festive volume peak has passed.',
+    ],
+    sources: ['Autocar India', 'V3Cars', 'GaadiWaadi'],
+  },
+  {
+    slug: 'toyota-innova-hycross-facelift-fortuner-december-debut-november-2026',
+    title: 'Toyota November-December Double Act: Innova Hycross Facelift on Nov 25-26, Next-Gen Fortuner Global Debut Dec 1',
+    description:
+      'Toyota will launch the facelifted Innova Hycross in India in late November, with the next-generation Fortuner due for a global debut December 1, 2026.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A facelift for India best-selling MPV, then a global debut for its D-segment SUV king — Toyota is closing 2026 with its two biggest names.',
+    body: [
+      'Toyota is set to launch the facelifted Innova Hycross in India on November 26, 2026, according to CarToq, with Autocar India putting the date at November 25 — a one-day discrepancy in reporting that buyers should treat as late November, not a fixed day, until Toyota confirms. Launched four years ago, the Hycross is due for an update, and the facelift is expected to be the first flex-fuel strong hybrid car to launch in India. Toyota has not confirmed engine details, equipment changes or the launch timeline in full, so specifics beyond the timing remain expected rather than official.',
+      'That is just the beginning of a Toyota sequence. Several more launches are expected in the following months, including the much-awaited next-generation Fortuner. The Fortuner, long the ruler of India D-segment SUV market, is known to be under development and is scheduled to make its global debut on December 1, 2026, with an India launch expected next year. The Urban Cruiser Hyryder is also expected to receive a facelift or mid-life update soon, though Toyota has not confirmed its timeline either.',
+      'The pairing is strategically neat: refresh the volume MPV that families actually buy, then debut the halo SUV that anchors the brand image, with the Fortuner India launch held for next year to avoid cannibalising the Hycross moment. For shoppers, the practical advice is to wait for Toyota official Hycross specification sheet before comparing it with the outgoing model — facelift reports that promise more than cosmetics have not yet been confirmed by the maker.',
+    ],
+    sources: ['CarToq', 'Autocar India', 'GaadiWaadi'],
+  },
+  {
+    slug: 'la-auto-show-november-20-29-r2-highlander-telluride-november-2026',
+    title: 'LA Auto Show Nov 20-29: 24 Brands, Free Test Drives From 16, and the R2, 2028 Highlander and Telluride Hybrid to Compare',
+    description:
+      'The 2026 Los Angeles Auto Show runs November 20-29 with 24 brands, including Rivian R2, the all-electric 2028 Toyota Highlander and Kia Telluride Hybrid.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The show worth shopping, not just seeing: hybrids, trucks and 3-row SUVs you can drive, side by side, with admission.',
+    body: [
+      'The 2026 Los Angeles Auto Show runs November 20 to 29 at the Los Angeles Convention Center, with 24 automotive brands and test drives and ride experiences from 16 of them, all included with admission. The participating brands are Acura, Alfa Romeo, Buick, Cadillac, Chevrolet, Chrysler, Dodge, Fiat, Ford, Genesis, GMC, Honda, Hyundai, Jeep, Kia, Lucid, Nissan, Porsche DTLA, Ram, Rivian, Subaru, Tesla, Toyota and Volkswagen. Organizers note brands and vehicles are subject to change, so the lineup should be checked closer to opening day.',
+      'The highlights worth comparing side by side are hybrids, trucks and 3-row SUVs. They include the all-electric Rivian R2, with up to 656 horsepower, 0 to 60 mph in as quick as 3.6 seconds, an EPA-estimated 330 miles of range and dual-motor all-wheel drive with Rivian Autonomy+ hands-free driving; the all-new all-electric 2028 Toyota Highlander; the first-ever Kia Telluride Hybrid; the next-generation 2027 Chevrolet Silverado with new V8 engines; and Nissan first US e-POWER hybrid in the 2027 Rogue. The redesigned 2027 Chrysler Pacifica adds illuminated front-end styling, enhanced driver-assistance technology and available all-wheel drive, keeping Stow n Go seating for up to eight.',
+      'The redesigned 2027 Volkswagen Atlas Cross Sport gets a 282-horsepower turbocharged engine, available 4MOTION all-wheel drive and an available 15-inch touchscreen with AI-powered voice assistance. For shoppers, the LA show format — many rival SUVs in one hall, with drives included — is more useful than a press-release comparison: a Telluride Hybrid, a Highlander EV and a Silverado can be sat in, back to back, before any dealer visit. That is the point of going in November, while 2027 model decisions are still open.',
+    ],
+    sources: ['Torque News', 'LA Auto Show'],
+  },
+  {
+    slug: 'rivian-q3-revenue-beat-guidance-raise-r2-november-2026',
+    title: 'Rivian Q3 Beat: $2.16B Revenue, Loss Narrower Than Expected, and Delivery Guidance Raised on R2 Demand',
+    description:
+      'Rivian raised 2026 delivery guidance to 67,000-70,000 vehicles on R2 strength, with Q3 revenue up 38% to $2.16B and a second Illinois shift added.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The R2 is now outselling the R1T and R1S combined — and Rivian raised the bar for the full year.',
+    body: [
+      'Rivian delivered a clear third-quarter beat and raised its 2026 delivery outlook on the back of early R2 strength. The company reported third-quarter revenue of $2.16 billion, up 38% year over year and ahead of consensus estimates near $1.99 billion. The adjusted loss narrowed to $0.48 per share, better than the roughly $0.56 loss analysts had projected. Shares gained after the double beat, in a week when the EV spotlight swung firmly to Rivian over Tesla steady robotaxi rollout and more incremental affordable-EV updates from legacy names.',
+      'The company raised its full-year 2026 delivery outlook to 67,000-70,000 vehicles from 65,000-70,000 and improved its adjusted core guidance by $100 million at the midpoint, while lowering expected capital expenditures to $1.4 billion-$1.5 billion. The hike is driven by the new R2 SUV, deliveries of which began in June; the company now expects R2 to represent the majority of total delivery volume in the fourth quarter and has added a second shift at its plant in Illinois to scale production. A separate briefing notes R2 now outsells both R1 models combined, with overall Rivian sales up 46% over last year.',
+      'CEO RJ Scaringe said Rivian remains on track to hit an autonomy milestone by year-end that would unlock a $250 million tranche of Uber planned investment, and the company plans a supervised point-to-point autonomous driving service starting at the end of 2026, with a target of Level 4 autonomy by 2028, initially for its R2 robotaxi in partnership with Uber. Those autonomy dates are targets, not delivered products — but the Q3 numbers themselves are delivered: revenue, loss and guidance all moved in the right direction at once, which is rarer in EV earnings than it should be.',
+    ],
+    sources: ['Stocktwits', 'Benzinga', 'Car and Driver'],
+  },
+  {
+    slug: 'ford-fathom-ac-home-power-escape-ev-2029-rumour-november-2026',
+    title: 'Ford Fathom Home Power Explained: AC Output, No Wall Inverter — and an Unconfirmed Escape EV Return in 2029',
+    description:
+      'Ford Fathom sub-$30,000 electric pickup promises AC vehicle-to-home power without a wall inverter, while insiders say the Escape could return as an EV in 2029.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The Fathom detail that matters is not just the $28,350 price — it is AC power from the truck itself. The Escape EV is a rumour, flagged as such.',
+    body: [
+      'Ford CEO Jim Farley said testing of the upcoming sub-$30,000 Fathom midsize electric pickup completely blew him away, citing its capabilities and low cost of ownership, during the company third-quarter 2026 earnings call. The vehicle remains on track for a late-2027 launch, with production of large aluminum unicastings advancing and a new bidirectional charging system designed to reduce home-power costs. Ford also reiterated its longer-term EV financial targets, still aiming for Model e breakeven by 2029, while Model e posted a Q3 EBIT loss of approximately $1.06-$1.1 billion on revenue of $1.2 billion — a roughly 25% improvement from the $1.41 billion loss in the year-ago quarter.',
+      'The home-power detail is what separates the Fathom from earlier trucks. Unlike the F-150 Lightning and GM vehicles that deliver DC output requiring more expensive home hardware to convert to AC power, the Fathom should deliver AC power to start with, so owners can power their homes without installing a wall-mounted inverter. A November 2 market report puts the Fathom expected price at $28,350 on the earnings call — a figure that exceeded the CEO expectations, and slightly below the $29,995 list price cited in a separate briefing, a discrepancy that shows why final pricing should wait for Ford official announcement rather than call commentary.',
+      'Separately, insiders say the Ford Escape could return in 2029 as an all-electric crossover built on the company Universal EV platform, though the automaker has not confirmed it. That is a rumour, not a product announcement, and it should be read that way: a plausible platform reuse story, not a launch commitment. The confirmed part is the Fathom timeline and its AC home-power approach; the Escape EV is the unconfirmed second act to watch.',
+    ],
+    sources: ['Stocktwits', 'Mac Motor City Garage', 'KuCoin News'],
+  },
+  {
+    slug: 'cox-november-sales-forecast-down-8-percent-november-2026',
+    title: 'Cox November Forecast: US New-Vehicle Sales Expected Down 8% as Higher Prices and the EV Slump Bite',
+    description:
+      'Cox Automotive expects November US sales of 1.27 million, down 7.8% year over year, with SAAR near 15.7 million versus 16.5 million a year ago.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'November is forecast to fall from last year on both volume and pace — the post-credit, post-tariff slowdown arriving in the data.',
+    body: [
+      'November new-vehicle sales in the United States are expected to fall in both volume and pace from last year levels, according to a Cox Automotive forecast reported November 2. Sales volume is expected to reach 1.27 million, down 7.8% from last year and down 1% from last month. The seasonally adjusted annual rate, or SAAR, is forecast near 15.7 million, up slightly from October 15.3 million pace in this forecast series, but down from last year 16.5 million level. November has 25 selling days, two fewer than last month and one fewer than last year, which accounts for some of the expected volume decline.',
+      'Cox senior economist Charlie Chesbrough attributed the slowdown to higher prices and fewer government subsidies for electric vehicles finally slowing the market after a surprisingly strong previous six months. Sales began surging in the spring as buyers rushed to market to beat expected higher prices after announced tariffs; now, with more tariffed products replacing existing non-tariffed inventory, prices are drifting higher, leading to slower sales which may last through the remainder of the year and into next year. Electric vehicle sales are expected to remain low following the tax credit expiration, which will affect November totals, and Cox reported that October marked a sharp reversal for the EV market after three months of accelerated pre-credit sales.',
+      'Through October, the monthly SAAR has averaged 16.2 million in this series — so November 15.7 million would be a step down, not a collapse. The forecast is a forecast, not a result: actual November sales, when announced next week in the report framing, will show whether the tariff-price effect or the selling-day shortfall explains more of the drop. Either way, the direction is the story: the spring rush is over, and the market is settling into a slower, more expensive fourth quarter.',
+    ],
+    sources: ['Cox Automotive', 'Webull'],
+  },
+  {
+    slug: 'australia-november-ev-deals-geely-gwm-byd-november-2026',
+    title: 'Australia November EV Deals Round 2: Geely 0.68% Finance, GWM $2,000 Bonuses, and BYD Sealion 8 $4,000 Cashback',
+    description:
+      'Australia November EV offers: Geely 0.68% finance Nov 2-30 plus a $1,000 factory bonus Nov 11-14, GWM Haval H7 and Cannon PHEV bonuses, BYD Sealion 8 cashback.',
+    date: 'November 2, 2026',
+    dateISO: '2026-11-02',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'A second November round for Australia, beyond the Atto 1 headline: finance rates, factory bonuses and ute cash, all with November deadlines.',
+    body: [
+      'Australia EV deal board refreshed November 2 with 31 active offers, and the new November entries go beyond the BYD Atto 1 $19,990 headline covered in earlier CARC reporting. Geely is running a four-day sale from Wednesday November 11 to Saturday November 14, 2026, with an additional $1,000 factory bonus on every eligible Geely bought during the promotional period. Separately, Geely is offering a 0.68% per annum comparison rate over a 3-year term on the EX2, EX5 and Starray EM-i from November 2 to 30, 2026, with approval, settlement dates, fees and the comparison-rate warning on Geely Australia offers page.',
+      'GWM adds two November offers. The all-new Haval H7 carries a $1,000 launch offer, with driveaway pricing from $45,990 for the Lux HEV and $49,990 for the Lux PHEV, ending November 30, 2026. The GWM Cannon PHEV, the Hi4-T plug-in hybrid ute, carries a choice of a $2,000 driveaway cash bonus or a $2,000 fuel card, with the Cannon Lux PHEV from $50,990 driveaway and the Cannon Ultra PHEV from $54,990 driveaway, both quoted for private buyers in Victoria on 2026 build vehicles; the bonus is deducted from the advertised driveaway price and is not redeemable for cash, ending November 30.',
+      'BYD Sealion 8 buyers get $4,000 cashback on the Dynamic FWD, Dynamic AWD and Premium AWD seven-seat plug-in hybrid SUVs, bringing the range down to an effective $52,990 before on-road costs, for orders placed between October 1 and December 21, 2026, with delivery by December 31. Geely trade-in buyers in November also receive a 1,000kWh public charging credit for the Evie network, valid for one year from activation. As with all deal roundups, driveaway and comparison-rate figures are state- and eligibility-dependent — the offer page, not the headline, is the contract.',
+    ],
+    sources: ['ZeCar', 'Geely Australia', 'GWM'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
