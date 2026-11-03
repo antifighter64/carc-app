@@ -5907,6 +5907,406 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['ZeCar', 'Geely Australia', 'GWM'],
   },
+  {
+    slug: 'tesla-robotaxi-fort-worth-launch-november-2026',
+    title: 'Tesla Robotaxi Launches in Fort Worth, Its Seventh Driverless City, With a 143-Square-Mile Geofence',
+    description:
+      'Tesla opened unsupervised Robotaxi rides in Fort Worth on November 2, its first new city in about three months, covering 143 square miles.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Fort Worth is the seventh unsupervised Robotaxi city and the third-largest geofence in the network, behind Austin and Houston.',
+    body: [
+      'Tesla opened its unsupervised Robotaxi service to riders in Fort Worth, Texas, at 6 a.m. CT on Monday, November 2, 2026, after announcing the launch window the night before on its official Robotaxi account. Fort Worth becomes the seventh US city with fully driverless Tesla rides, joining Austin, Houston and Dallas in Texas and Miami, Orlando and Tampa in Florida, and it is the first new city added in roughly three months, since the Florida trio came online in July 2026.',
+      'The Fort Worth geofence covers 143 square miles, according to tracker figures cited in launch-day coverage, making it the third-largest service area in the network behind Austin at 272 square miles and Houston at 254 square miles, and well ahead of Dallas at 81 square miles. The San Francisco Bay Area runs a separate, supervised Robotaxi program with a safety driver aboard every vehicle under California law, so Fort Worth counts specifically as the seventh unsupervised market rather than the seventh market overall.',
+      'The stock market noticed. Tesla shares rose 1.00 percent to close at $403.82 on November 2, a session in which the Nasdaq Composite fell 1.07 percent, with financial coverage linking the gain to the Fort Worth launch. Trading volume ran 18.27 percent above average, though the shares still closed 19.05 percent below their 52-week high of $498.83. The roughly 90-day gap between city launches had drawn attention from the Tesla community, so the Fort Worth opening also reads as a signal that the rollout pace is resuming after a quiet stretch.',
+      'What to watch next is whether Fort Worth expands as Austin and Houston did, and whether Tesla names an eighth unsupervised city before year end. The company has previously said it expects robotaxis to begin making a noticeable financial contribution in the second quarter of 2027, and management has reiterated a goal of cutting robotaxi operating costs to about $0.30 per paid mile, a target it has not yet reached.',
+    ],
+    sources: ['Investor\'s Business Daily via Gotrade', 'TeslaNorth', 'Azat TV', 'EuropeSays'],
+  },
+  {
+    slug: 'tesla-cybercab-europe-tour-zurich-november-2026',
+    title: 'Tesla Cybercab Begins a 12-City European Tour on November 5 in Zurich, Running Through January 2027',
+    description:
+      'Tesla announced a second European tour for the steering-wheel-free Cybercab, starting November 5 at Auto Zurich and visiting 12 cities into January 2027.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'The tour opens November 5 to 8 in Zurich, then runs through Germany, Slovakia, Czechia, Austria and Poland, with Warsaw dates still to come.',
+    body: [
+      'Tesla has announced a 12-city European tour for the Cybercab, its purpose-built robotaxi with no steering wheel, pedals or mirrors. Tesla Europe announced the tour in the early hours of Monday, November 2, 2026, and the vehicle goes on display first at Auto Zurich 2026 in Switzerland from November 5 to 8, according to Tesla\'s official events page.',
+      'The published schedule then pairs stops across Central Europe: Düsseldorf, Germany, and Bratislava, Slovakia, both host the Cybercab from November 20 to 21, followed by Hamburg, Germany, and Prague, Czechia, from November 27 to 28. Berlin follows from December 4 to 6, and the final German stop is Vaterstetten, near Munich, from December 11 to 12. The tour continues to Vienna Drive 2027 in Austria from January 14 to 17, 2027, and Warsaw, Poland, is also on the itinerary, although Tesla has not provided dates for that appearance.',
+      'This is the Cybercab\'s second European tour. The first ran in November 2024, visiting London, Paris, Berlin, Amsterdam, Oslo and Stockholm, with displays at Tesla stores and shopping centres. The new tour lands in a different context: the vehicle is now in production at Gigafactory Texas, according to tour coverage, and the robotaxi fleet is already operating in Austin and Fort Worth, so European visitors are seeing a production-intent vehicle rather than a one-off show car.',
+      'Notably absent, again, is Canada. The Cybercab made only one public appearance in Canada, at the 2025 Canadian International AutoShow in Toronto, and a planned Vancouver appearance was cancelled after Tesla was removed from that event amid protests over Elon Musk. Tesla has not announced any Canadian dates for this tour, and a North American tour would be the natural next step once the European run ends.',
+    ],
+    sources: ['Drive Tesla', 'ChargeNews', 'Tesla Europe'],
+  },
+  {
+    slug: 'tesla-china-made-sales-october-67829-november-2026',
+    title: 'Tesla China-Made Sales Rise 10.3 Percent in October to 67,829, a 12th Straight Month of Annual Growth',
+    description:
+      'Reuters reported November 3 that Tesla Shanghai-plant deliveries, including exports, rose 10.3 percent year on year in October, though they fell 28.9 percent from September.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'October marked 12 straight months of annual growth for Tesla\'s China-made sales, even as the monthly total dropped sharply from September.',
+    body: [
+      'Tesla\'s China-made electric vehicle sales grew at a faster annual pace in October 2026, according to data from the China Passenger Car Association reported by Reuters on Tuesday, November 3. Deliveries of Model 3 and Model Y vehicles produced at the Shanghai plant, including exports to Europe, Asia Pacific and Canada, rose 10.3 percent year on year to 67,829 units in October, up from a 5 percent annual rise in September and marking a 12th straight month of annual growth.',
+      'The monthly picture cuts the other way: October sales fell 28.9 percent from September, a reminder that the annual growth streak is measured against weak year-ago comparisons as much as current momentum. South Korea stood out among export destinations, with Tesla leading imported car sales there in a market that accounted for one fifth of Shanghai-made Tesla exports in the first nine months of 2026.',
+      'The China numbers arrive alongside two other Tesla storylines from the same Reuters report. The company lowered its annual capital expenditure outlook by a fifth and surprised investors with positive third-quarter free cash flow, as spending on its AI and robotics push came in well below analysts\' expectations. Separately, a potential mega-merger between Tesla and SpaceX will likely encounter regulatory scrutiny on both sides of the Pacific, with concerns over national security and the transfer of data and technology presenting a major obstacle.',
+      'For buyers, the practical read is narrower: Shanghai output remains the swing factor for Tesla pricing and availability in export markets, and a 12-month growth streak that survives a near-29 percent monthly drop says more about the depth of the 2025 trough than about a demand boom. The next check comes with November delivery data and with the European registration figures for Germany and the UK, which will confirm or undercut the October rebound seen in Scandinavia.',
+    ],
+    sources: ['Reuters', 'China Passenger Car Association'],
+  },
+  {
+    slug: 'tesla-europe-registrations-sweden-norway-october-november-2026',
+    title: 'Tesla Europe Rebound Gathers Pace: Sweden Registrations Jump 248 Percent, Norway 131 Percent in October',
+    description:
+      'Tesla registrations surged across Northern Europe in October, with Sweden up 248 percent, Norway up 131 percent and Denmark up 34 percent year on year.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'October was a sharp improvement on September, when Norway and Denmark grew just 2.2 and 2.9 percent, but Germany and UK figures are still to come.',
+    body: [
+      'Tesla is showing continued signs of recovery in Europe, with registrations of new Tesla vehicles surging across key Northern European markets in October 2026. Registrations jumped 248 percent year on year in Sweden, 131 percent in Norway and 34 percent in Denmark, according to data cited by Reuters from local automotive authorities and industry platforms.',
+      'The latest figures mark a sharp improvement from September, when registrations in Norway and Denmark increased by just 2.2 and 2.9 percent respectively. Higher fuel prices, government incentives and easier year-ago comparisons supported the October rebound, according to the reporting, and Tesla shares were up close to 1 percent in overnight trading on the news.',
+      'The context matters. Tesla\'s annual deliveries fell for the first time in 2024 and declined again in 2025, allowing China\'s BYD to overtake it as the world\'s largest electric vehicle seller. Elon Musk has outlined plans to expand annual vehicle production to 5 million units by 2030 and has said Tesla ended the third quarter with its largest order backlog in four years. A strong final quarter, supported by improving European demand, could help Tesla return to annual sales growth in 2026.',
+      'The honest caveat is that Scandinavia is not Europe. Tesla\'s ability to sustain the latest momentum will become clearer once registration figures from Germany and the UK are released. If those two markets confirm the rebound, the market will re-rate Tesla from stabilizing to growing again; if they do not, October will look like a weak-comparison bounce in small markets rather than a sustained demand recovery.',
+    ],
+    sources: ['Reuters via Invezz'],
+  },
+  {
+    slug: 'nhtsa-borgwarner-battery-pack-recall-query-november-2026',
+    title: 'NHTSA Opens Recall Query Into BorgWarner Battery Packs on Electric Trucks and Buses After Repeat Recalls',
+    description:
+      'NHTSA opened a recall query into six recalls of BorgWarner Akasol Gen3 battery packs, citing repeated recall expansions and failures after the remedy.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A recall query is a step up from a preliminary probe: regulators are asking why the same battery packs keep being recalled, including after fixes.',
+    body: [
+      'The National Highway Traffic Safety Administration has opened a recall query into six recalls of BorgWarner (Akasol) Gen3 battery packs fitted to electric trucks and buses, according to a November 2, 2026 recall roundup. The query cites repeated recall expansions and failures that occurred after the remedy had been applied, two patterns regulators treat as red flags that an earlier fix may not have solved the underlying defect.',
+      'A recall query sits above a routine investigation in NHTSA\'s process: it signals the agency is formally examining whether the scope of the recalls was adequate and whether the remedy actually works, rather than simply collecting complaints. For fleet operators, that distinction matters, because trucks and buses with battery packs under a recall query face longer downtime, closer inspection requirements and potential further recall expansions while the query runs.',
+      'The report seen by CARC does not give a vehicle count, a list of affected truck and bus models, or a failure mode beyond the battery packs themselves, so this article does not invent those details. Owners and fleet managers running vehicles with Akasol Gen3 packs should check their VINs against NHTSA\'s recall database and with their vehicle manufacturer, and should treat any interim guidance on charging or parking as mandatory until a final remedy is confirmed.',
+      'The query also fits a wider 2026 pattern in which high-voltage battery defects, rather than software glitches alone, are driving the largest commercial-vehicle safety actions. Battery-pack recalls now routinely span multiple vehicle brands from a single supplier, which is why a supplier-level query like this one can matter more to an operator than a single-model recall.',
+    ],
+    sources: ['The EV Report', 'NHTSA'],
+  },
+  {
+    slug: 'mercedes-eqb-recall-11895-battery-fire-november-2026',
+    title: 'Mercedes Recalls 11,895 EQB Electric SUVs Over Battery Fire Risk After Two Software Fixes Fall Short',
+    description:
+      'Mercedes-Benz USA is recalling 11,895 EQB SUVs because battery cells can short and cause a fire; owners must park outside and cap charging at 80 percent until packs are replaced.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 4,
+    excerpt:
+      'Two earlier recalls relied on software to limit charging; Mercedes later concluded those remedies were insufficient after further testing and European incidents.',
+    body: [
+      'Mercedes-Benz USA is recalling 11,895 EQB electric SUVs because certain high-voltage battery cells can short internally and trigger a thermal event, including a fire. Owners are told to park outdoors and away from structures and to limit charging to 80 percent until dealers replace battery packs free of charge. The recall is tracked by NHTSA as campaign 26V073.',
+      'The recall covers specific EQB variants built from December 2021 through May 2024, spanning 2022 to 2024 EQB 300 4MATIC and EQB 350 4MATIC models plus EQB 250+ models listed in reporting as model years 2023 to 2024. Two earlier recall attempts relied on software to limit charging; Mercedes later concluded those remedies were insufficient after additional testing and European incidents, which is why this action moves to physical battery pack replacement rather than another software cap.',
+      'No injuries have been reported in the coverage seen by CARC, and reports indicate no US fires after the prior software updates, though earlier incidents were documented and European incidents helped drive deeper scrutiny. That split, no recent US fires but a remedy judged insufficient, is exactly why owners should not treat the 80 percent cap and outdoor parking guidance as optional: the interim measures reduce risk while the packs are replaced, they do not eliminate it.',
+      'If you own an affected EQB, the steps are straightforward: check your VIN on NHTSA\'s recall site, follow the park-outside and 80 percent charging guidance until your dealer appointment, and book the free pack replacement as soon as Mercedes contacts you. Battery recalls are repaired free of charge, and an open recall can dent resale value until it is closed.',
+    ],
+    sources: ['Daily 360', 'NHTSA'],
+  },
+  {
+    slug: 'lucid-air-recall-27185-lighting-fire-november-2026',
+    title: 'Lucid Recalls 27,185 Air Sedans Over Lighting Software That Can Overheat and Catch Fire',
+    description:
+      'Lucid is recalling model year 2022 to 2026 Air sedans after finding exterior lighting circuit software may allow overheating and fire; NHTSA recall 26V540 carries a park-outside advisory.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The defect is software in the exterior lighting circuit, but the consequence is physical: overheating that can lead to fire, with a park-outside warning for owners.',
+    body: [
+      'Lucid is recalling 27,185 model year 2022 to 2026 Air sedans after finding that exterior lighting circuit software may allow overheating and fire. NHTSA recall 26V540 carries a park-outside consumer advisory, the warning regulators attach when a parked vehicle itself can present a fire risk.',
+      'The size of the recall is the story: 27,185 cars spans essentially the Air\'s production run to date, so most Air owners should assume they are affected until a VIN check says otherwise. A lighting-circuit defect sounds minor until it is not; wiring and control software that overheats can damage surrounding components and, in the worst case, ignite, which is why the remedy conversation here starts with where you park, not with a software update alone.',
+      'Lucid has not, in the reporting seen by CARC, published a detailed remedy timeline for this campaign, so owners should watch for the official notification and check their VIN rather than assuming an over-the-air update will close the recall. Until then, follow the park-outside advisory, keep the vehicle away from structures, and contact Lucid or your service centre if you notice lighting faults, warning messages or unusual heat or smells around the lighting assemblies.',
+      'The recall lands in a difficult quarter for Lucid, which CARC previously covered after third-quarter deliveries fell 7 percent while production plunged 38 percent. A 27,000-car safety action does not change the car\'s driving qualities, but it does add a service visit to every affected owner\'s calendar and a line to every used-Air listing until the remedy is applied.',
+    ],
+    sources: ['The EV Report', 'NHTSA'],
+  },
+  {
+    slug: 'hyundai-elantra-hybrid-recall-54337-hpcu-november-2026',
+    title: 'Hyundai Recalls 54,337 Elantra Hybrids Over Hybrid Power Unit That Can Overheat and Catch Fire',
+    description:
+      'Hyundai is recalling model year 2024 to 2026 Elantra Hybrid sedans after a transistor inside the Hybrid Power Control Unit was found to overheat under high electrical loads.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The defect is in the Hybrid Power Control Unit: a transistor that can overheat under high electrical loads, creating a fire risk.',
+    body: [
+      'Hyundai is recalling 54,337 model year 2024 to 2026 Elantra Hybrid sedans after a transistor inside the Hybrid Power Control Unit was found to overheat under high electrical loads, creating a fire risk. The Hybrid Power Control Unit, often shortened to HPCU, manages power flow between the engine, the electric motor and the battery in a hybrid, so a fault there can affect both performance and safety.',
+      'This is a different defect from the smaller Hyundai recalls CARC has covered recently, including a lug-nut issue affecting certain 2026 Venue and Elantra models. Owners should not assume that a car cleared in one recall is cleared in another: each campaign has its own VIN list, and a 2024 to 2026 Elantra Hybrid can be affected by the HPCU recall even if it was never part of the wheel-hardware action.',
+      'The reporting seen by CARC does not describe the final remedy in detail, so this article does not claim a specific fix. The standard pattern for a fire-risk hybrid recall is a dealer inspection and replacement of the affected unit free of charge, with interim guidance until parts are available. Elantra Hybrid owners should check their VIN on NHTSA\'s recall site, watch for Hyundai\'s official notification, and contact a dealer promptly if they notice warning lights, reduced hybrid performance or burning smells.',
+      'Scale matters here for a practical reason: 54,337 cars is a large service population, so appointment waits can stretch once notifications go out. Booking early, as soon as your VIN shows the recall, is the fastest way to get the car closed out and to protect resale value, since open recalls are visible to any buyer who runs a VIN check.',
+    ],
+    sources: ['The EV Report', 'NHTSA'],
+  },
+  {
+    slug: 'chrysler-pacifica-phev-recall-17277-battery-november-2026',
+    title: 'Chrysler Recalls 17,277 Pacifica Plug-In Hybrids Over High-Voltage Battery Fire Risk',
+    description:
+      'Chrysler is recalling model year 2020 to 2022 Pacifica plug-in hybrids over a high-voltage battery that may fail and cause a fire.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The Pacifica plug-in hybrid is a family workhorse, which makes a battery fire-risk recall one owners should act on quickly, not file away.',
+    body: [
+      'Chrysler is recalling 17,277 model year 2020 to 2022 Pacifica plug-in hybrids over a high-voltage battery that may fail and cause a fire. The Pacifica PHEV pairs a V6 engine with a plug-in hybrid system, and a battery failure in that system presents the same thermal risk seen in other high-voltage recalls this year: a fault that can escalate from a warning light to a fire if left unaddressed.',
+      'The reporting seen by CARC does not spell out the interim charging or parking guidance for this campaign, so owners should rely on Chrysler\'s official notification rather than assuming the guidance from another brand\'s battery recall applies to them. The safe default until that letter arrives is to check your VIN on NHTSA\'s recall site, note any battery or charging warnings, and contact a Chrysler dealer to confirm whether your vehicle is included and what to do while waiting for the remedy.',
+      'For a minivan that often serves as the family car, the practical stakes are higher than the headline count suggests. Pacifica PHEVs from these model years are now squarely in the used market, where an open recall shows up on every VIN report and can hold up a sale. The repair is free of charge, and closing the recall protects both safety and resale value.',
+      'This campaign is also a reminder that plug-in hybrid batteries age into recall territory just like pure EV packs. A 2020 to 2022 Pacifica PHEV has had years of charge cycles behind it, which is why battery-related actions keep appearing for vehicles that left the factory long before the current recall wave.',
+    ],
+    sources: ['The EV Report', 'NHTSA'],
+  },
+  {
+    slug: 'toyota-rav4-phev-south-africa-recall-77-november-2026',
+    title: 'Toyota Recalls 77 RAV4 Plug-In Hybrids in South Africa Over the Same Motor ECU Fault as the US Recall',
+    description:
+      'South Africa\'s National Consumer Commission announced a recall of 77 RAV4 plug-in hybrids built April to September 2026 over a motor generator ECU fault; dealers will reprogram it free.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Small count, same defect: the South African action covers the MG-ECU fault behind the 30,978-car US recall CARC covered in October.',
+    body: [
+      'South Africa\'s National Consumer Commission has issued an urgent safety recall for 77 Toyota RAV4 plug-in hybrid electric vehicles, according to reports on November 2 and 3, 2026 from Cape Town ETC, TimesLIVE, IOL and TopAuto. The vehicles were manufactured between April 2 and September 3, 2026, and sold across South Africa.',
+      'The defect is the motor generator electronic control unit, or MG-ECU. In certain instances the component may not complete its initialisation process correctly, leaving the motor control mode used at higher speeds unavailable. In more severe cases the system may enter fail-safe mode or shut down entirely, causing a loss of motive power while the vehicle is in motion and raising the risk of a crash.',
+      'The fix is a software job, not a parts replacement: owners are advised to visit an authorised Toyota dealership for reprogramming of the MG-ECU, provided free of charge. Toyota South Africa Motors has acted on the Commission\'s notice, and owners seeking further information can contact the company directly.',
+      'South African readers should note this is not a new defect, it is the same fault behind the much larger US recall CARC covered in October, when Toyota recalled 30,978 model year 2026 RAV4 Plug-in Hybrids in America, plus a related Australian action covering about 5,925 cars. The South African count is small because it reflects only the vehicles sold in that market in the affected build window, not a milder version of the fault. If your RAV4 PHEV was built between April and September 2026, check with a dealer regardless of which market it was sold in.',
+    ],
+    sources: ['Cape Town ETC', 'Sowetan', 'National Consumer Commission of South Africa'],
+  },
+  {
+    slug: 'hayesx-250-sema-debut-flying-vehicle-november-2026',
+    title: 'HayesX-250 Personal Flying Vehicle Debuts at SEMA: 245 Pounds, 62 MPH, $146,600, No Runway Needed',
+    description:
+      'HayesX unveiled the single-seat HayesX-250 at the 2026 SEMA Show in Las Vegas, a foldable personal eVTOL designed around FAA Part 103 rules.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The HayesX-250 folds to about 4.25 by 9.1 feet for transport in a pickup or trailer, and HayesX says no pilot certificate is needed if it qualifies under Part 103.',
+    body: [
+      'HayesX, a Las Vegas-based personal aviation company, announced that the HayesX-250 will make its public debut at the 2026 SEMA Show, running November 3 to 6 at the Las Vegas Convention Center. The single-seat electric vertical takeoff and landing aircraft is showcased in Central Hall, Booth 24655, with a product unveiling and press conference on Wednesday, November 4, from 10:30 to 10:50 a.m.',
+      'The numbers define the pitch. The HayesX-250 weighs 245 pounds including batteries, has a published top speed of 62 mph, and uses eight electric motors with dual power and control buses, dual inertial measurement units and an integrated whole-aircraft ballistic parachute system. Its four folding arms reduce the aircraft to approximately 4.25 feet by 9.1 feet for transport in a suitably sized pickup or trailer, and vertical-flight capability eliminates the need for a runway. A HayesX Pilot Support App provides a flight guide, digital logbook and pre-flight checklist.',
+      'The regulatory angle is what makes SEMA, an automotive aftermarket show, a plausible launch venue. The HayesX-250 is designed to comply with FAA Part 103, and in the United States an FAA pilot certificate is not required to operate a vehicle that qualifies under Part 103. That qualification matters enormously, and it is also the limit: Part 103 covers recreational and sporting use, so commercial or patrol work would need a different approval path, as the Florida police Jetson One story elsewhere in today\'s CARC news shows.',
+      'Reservations are now open at a listed price of $146,600, with a $6,600 deposit that is refundable within six days. HayesX says it is accepting a limited number of orders for 2026 delivery, subject to availability and final configuration. Founded by Ciaran Hayes and Tim Hayes, the company cites a family aviation legacy connected to the SR-71 Blackbird. For buyers, the honest checklist is: confirm Part 103 qualification in writing, understand where you may legally fly an ultralight, and treat the six-day refund window as the decision deadline.',
+    ],
+    sources: ['HayesX', 'SEMA'],
+  },
+  {
+    slug: 'florida-police-jetson-one-astro-faa-hurdle-november-2026',
+    title: 'Florida Police Flying Vehicle Gets a Name, Astro, and an FAA Problem: Patrols Are Barred Under Part 103',
+    description:
+      'Florida Polytechnic police nicknamed their Jetson ONE Astro, but FAA rules bar patrol use under Part 103 ultralight rules, so operational flights still need authorization.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Astro is the first piloted eVTOL in a US law enforcement fleet, but the university still needs FAA authorization before officers can use it on patrol.',
+    body: [
+      'The Florida Polytechnic University Police Department in Lakeland has introduced a flying patrol vehicle that the university has nicknamed Astro, after the dog in the classic cartoon The Jetsons. Jetson, the company behind the Jetson ONE personal flying machine, built the single-seat aircraft, and the university says it is the first US law enforcement agency to add this type of piloted electric aircraft to its fleet. CARC previously covered the selection of the Jetson ONE for Florida Polytechnic police work; the November 2 reporting adds the name, the training picture and the regulatory catch.',
+      'Astro uses electric vertical takeoff and landing technology, so it can lift straight into the air without a runway, and a four-axis joystick allows the pilot to control its movement. The aircraft arrived during summer 2026, and police personnel have since completed flight training, according to Jetson, including Police Chief Aaron Murray. Jetson also identifies the aircraft by its registration number, N911FP, and a photo dated October 20, 2026 shows Chief Murray maneuvering Astro over the Lakeland campus.',
+      'The FAA hurdle is the heart of the story. Jetson developed the ONE as a recreational aircraft designed around the FAA\'s Part 103 ultralight rules, which allow qualifying ultralight vehicles to operate without traditional aircraft or pilot certification. But Part 103 limits use to recreational or sporting purposes, and FAA guidance specifically identifies aerial surveying and patrolling as activities that cannot operate under Part 103. Astro therefore still needs FAA authorization before officers can use it for operational police patrols, and the university is seeking that approval.',
+      'The commercial picture is also worth noting carefully. Jetson says its entire 2026 and 2027 production is sold out, and it is now accepting orders for 2028 at a listed price of $148,000. That figure differs from the $98,000 price cited in earlier coverage of the Florida Polytechnic selection, and CARC flags the discrepancy rather than resolving it: list pricing may have changed, or the two figures may reflect different configurations. Astro is also scheduled to appear at the public UP.Summit event at Kennedy Space Center on November 7 and 8, where the public can see the aircraft the police cannot yet fly on patrol.',
+    ],
+    sources: ['New York Post', 'Jetson', 'Florida Polytechnic University'],
+  },
+  {
+    slug: 'nasa-max-power-up-summit-flying-cars-november-2026',
+    title: 'NASA Max Power Expo Brings Flying Cars, eVTOLs and the Thunderbirds to Kennedy Space Center This Weekend',
+    description:
+      'NASA\'s Max Power aerospace expo runs November 7 to 8 at Kennedy Space Center, with the UP.Summit tech showcase featuring flying cars, eVTOLs, drones and humanoid robots.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The two-day festival spans the KSC Visitor Complex, the UP.Summit showcase and a Salute to America in Space air show, after private VIP sessions November 4 to 6.',
+    body: [
+      'Kennedy Space Center will host NASA\'s large-scale Max Power aerospace expo this weekend, featuring futuristic exhibits, a gathering of hundreds of VIP innovators, and an air show starring the US Air Force Thunderbirds. The two-day festival will showcase events at three sites: the KSC Visitor Complex, the UP.Summit technology showcase at Space Florida\'s Launch and Landing Facility at KSC, and the Salute to America in Space air show at the northern end of the former shuttle strip. Both public venues open at 9 a.m. on Saturday, November 7, and Sunday, November 8.',
+      'UP.Summit mission commander Cyrus Sigari described the high-tech event in terms car readers will recognise: visitors are going to see flying cars, eVTOLs (electric vertical takeoff and landing aircraft), delivery drones and humanoid robots. Attractions will include a SpaceX Falcon 9 rocket, the upper stage of a Blue Origin New Glenn rocket, and NASA\'s X-59 supersonic research aircraft. There will also be robots that 3D-print drones out of sheet metal, satellite companies, Formula E race cars, autonomous cars and flying-wing future airliners.',
+      'The scale of the industry gathering is substantial. Prior to the public showcase, 242 companies, agencies and investors are expected to gather during private VIP sessions from Wednesday, November 4, to Friday, November 6. The lineup includes 24 space companies such as SpaceX, Blue Origin, Stoke Space, Sierra Space and Axiom Space, and 27 aviation and advanced air mobility companies, including Eve Air Mobility. Eve, an Embraer spinoff whose US headquarters are at Melbourne Orlando International Airport, is developing a four-passenger eVTOL.',
+      'Practical notes for anyone planning to go: general admission tickets are sold out for the restricted-access air show, while information and tickets for the other events are available through NASA\'s Max Power pages, and parking areas at the KSC Visitor Complex off Space Commerce Way will accommodate visitors. For the flying-car world, the weekend matters because it puts eVTOL developers in front of the public alongside rockets and supersonic aircraft, rather than in a trade-show hall alone.',
+    ],
+    sources: ['Florida Today', 'NASA', 'UP.Summit'],
+  },
+  {
+    slug: 'ehang-malaysia-aam-sandbox-november-2026',
+    title: 'EHang Starts Malaysia Air Mobility Sandbox With the Civil Aviation Authority as Regulators Test eVTOL Rules',
+    description:
+      'EHang announced a sandbox cooperation with the Civil Aviation Authority of Malaysia to examine safety, technical and regulatory questions for advanced air mobility.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The Malaysia sandbox is a regulatory test bed, distinct from EHang\'s Thailand hub work CARC covered earlier: it shapes how eVTOL operations may be approved before commercial service.',
+    body: [
+      'China\'s EHang has announced a sandbox cooperation with the Civil Aviation Authority of Malaysia to examine the safety, technical and regulatory considerations associated with advanced air mobility, according to Aviation Week\'s November 2026 business aviation briefs. EHang is working with civil aviation authorities in different markets to develop regulatory pathways tailored to local requirements, and the Malaysia sandbox is the latest such arrangement.',
+      'A sandbox matters because it is how a new aircraft category gets rules before it gets passengers. Rather than certifying a vehicle in isolation, the regulator and the operator test operating concepts, safety cases and technical standards together, so that by the time commercial service is proposed, the approval path already exists. For readers following the eVTOL sector, sandbox announcements are therefore leading indicators: they show where a company expects to fly next, even when no launch date is given.',
+      'This Malaysia cooperation is distinct from EHang\'s Thailand hub work that CARC covered in an earlier batch, and it should not be conflated with it. Different countries, different regulators, different operating environments. EHang\'s strategy is visibly one of parallel regulatory tracks across Asia, building a portfolio of local approvals rather than betting on a single market.',
+      'No commercial service date, vehicle count or route was given in the briefs seen by CARC, and this article does not invent one. The honest takeaway is narrower: Malaysia is now a live test bed for EHang\'s advanced air mobility work, and the sandbox results will shape whatever service proposal follows.',
+    ],
+    sources: ['Aviation Week'],
+  },
+  {
+    slug: 'jeep-wrangler-scrambler-srt-sema-470hp-november-2026',
+    title: 'Jeep Wrangler Scrambler SRT Debuts at SEMA With a 470 HP HEMI V8 and the First Independent Front Suspension on a Wrangler',
+    description:
+      'Jeep unveiled the Wrangler Scrambler SRT concept at SEMA 2026 on November 3, a two-door pickup with desert-racing suspension and rear bed seats that rotate 180 degrees.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The concept revives the 1980s CJ-8 Scrambler name, and Jeep has confirmed plans to revive Scrambler for production, though specs and dates are unannounced.',
+    body: [
+      'Jeep has unveiled a Wrangler that trades its traditional front axle for racing suspension and adds a pickup bed with seats that can face backward. Called the Jeep Wrangler Scrambler SRT Concept, the two-door pickup made its debut at SEMA 2026 in Las Vegas on November 3, featuring a 470-horsepower HEMI V8 and hardware developed for high-speed desert driving. The concept brings back the Scrambler name from the 1980s Jeep CJ-8 pickup.',
+      'The headline numbers are 470 horsepower and 470 lb-ft of torque, figures Jeep confirms on its official concept page, although it has not published the engine displacement or transmission specifications. The more significant engineering change is underneath: the Scrambler SRT is the first Wrangler-branded concept to use independent front suspension, developed with off-road racing champion Casey Currie. Traditional Wranglers use a solid front axle, prized for articulation and durability, so an independent setup signals a deliberate trade toward high-speed desert stability over rock-crawling orthodoxy.',
+      'The bodywork is just as unconventional. The concept uses the chassis of the Jeep Wrangler but introduces major changes to its suspension, body and seating, and the rear seats fitted inside the pickup bed can rotate 180 degrees to face backwards, turning the bed into a viewing platform when parked. It is a show-vehicle flourish, but it also hints at how Jeep is thinking about the pickup bed as social space rather than cargo space alone.',
+      'Will Jeep build it? Jeep confirmed plans to revive the Scrambler name for production vehicles earlier in 2026, and the SEMA concept offers an early look at the direction the company is considering. According to Car and Driver, production versions could arrive around 2028, potentially with an SRT performance variant, but Jeep has not announced an official launch date, production price or final mechanical specifications. For now the Scrambler SRT remains a concept, and Jeep has not confirmed whether the independent front suspension will carry over to the production Scrambler.',
+    ],
+    sources: ['PakWheels', 'Jeep', 'Car and Driver'],
+  },
+  {
+    slug: 'nissan-sema-offroad-concepts-frontier-pathfinder-armada-november-2026',
+    title: 'Nissan Brings Three Off-Road Concepts to SEMA: Twin-Turbo Frontier RONIN, Pathfinder XE-V6 Throwback and Armada Jungle Patrol',
+    description:
+      'Nissan will show three off-road concepts at the 2026 SEMA Show, led by a Frontier pickup with a twin-turbocharged V6; all three are show builds, none is for sale.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The Frontier, Pathfinder and Armada concepts sit on Nissan\'s stand in Central Hall from November 3 to 6, pointing to the rugged style planned for future trucks and SUVs.',
+    body: [
+      'Nissan is heading to the 2026 SEMA Show with three off-road concepts. The most interesting is a Frontier pickup with a twin-turbocharged V6, and all three are show builds, none is for sale. The Frontier, Pathfinder and Armada concepts will be on Nissan\'s stand in Central Hall at the Las Vegas Convention Center from November 3 to 6, and Nissan says they point to the rugged style and performance it plans for future trucks and SUVs.',
+      'The Frontier RONIN takes its name from the Japanese term for a masterless warrior. The headline change is a twin-turbo version of the Frontier\'s 3.8-litre V6, paired with a wider stance. Nissan has not published power figures in the coverage seen by CARC, so this article does not guess at them, but the direction is clear: a factory-blessed performance Frontier that leans into forced induction rather than a bigger naturally aspirated engine.',
+      'The Pathfinder XE-V6 is the nostalgic entry. The Pathfinder turns 40 this year, and the XE-V6 concept looks back to the first-generation WD21 model, the boxy original that established the nameplate. The biggest transformation goes to the Armada: the Jungle Patrol concept pays tribute to Nissan SUVs that earned their reputation in desert and safari conditions, wrapping the full-size SUV in expedition hardware.',
+      'There is also a quiet product tease tucked into the SEMA coverage. Kim Less, Nissan Americas\' vice president of aftersales and customer loyalty, named an all-new Xterra among the more capable trucks and SUVs to come. Nissan has not confirmed Xterra timing, pricing or specifications, so treat that as a direction of travel, not a launch announcement, and treat the three concepts themselves as design studies for the rugged look Nissan wants its future trucks and SUVs to carry.',
+    ],
+    sources: ['Tarmac Life', 'Nissan'],
+  },
+  {
+    slug: 'byd-q3-profit-miss-record-october-sales-november-2026',
+    title: 'BYD Profit Jumps 28 Percent in Q3 but Still Misses Every Analyst Estimate as Nine-Month Profit Slips',
+    description:
+      'BYD reported Q3 net profit of RMB 10.02 billion, up 28 percent, below the RMB 11.4 to 12.95 billion analysts expected, while nine-month profit fell 4.24 percent despite record October EV sales.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Record October volumes and a profit miss arrived together: exports more than doubled, but the home price war and inventory write-downs kept earnings below forecasts.',
+    body: [
+      'BYD closed the third quarter of 2026 with more money coming in and more cars rolling off the line, yet neither was enough to settle the argument over whether its growth is translating into earnings that satisfy the market. The company reported net profit attributable to shareholders of RMB 10.02 billion for the three months through September, a 28.08 percent increase from a year earlier, according to company figures cited by Reuters. Revenue climbed 13.6 percent to RMB 221.49 billion. Both figures fell short of forecasts: brokerage estimates compiled by Reuters ranged from RMB 11.4 billion to RMB 12.95 billion for profit, and revenue also came in below consensus. The quarterly report was unaudited.',
+      'The nine-month picture is weaker than the quarterly bounce. Over the first nine months of 2026, net profit declined 4.24 percent to RMB 22.34 billion, according to company disclosures. In a Friday filing, BYD disclosed credit and asset impairments of RMB 3.654 billion for January through September 2026, of which RMB 2.794 billion stemmed from inventory write-downs, a line item that speaks directly to the cost of carrying stock through a domestic price war.',
+      'October delivery data, released a day earlier and covered in CARC\'s earlier BYD exports reporting, adds the second lens. BYD sold 490,168 new-energy vehicles in October, up 11 percent year on year, its sixth consecutive month of annual growth and its highest monthly total of the year, with pure battery-electric passenger sales hitting a record 305,743 units. But that 11 percent pace was slower than September\'s 17 percent gain, exports did the heavy lifting at 170,194 units, up 102.8 percent, and sales for the year through October remained 2.16 percent below the prior-year level. International expansion is acting as a counterweight to a sluggish home market, not yet as proof of a broad-based rebound.',
+      'A concrete near-term checkpoint arrives on November 5, when the second-generation Seal 07 is scheduled to hit the market, with both battery-electric and plug-in hybrid versions and pre-orders already open according to media reports. The launch is a product event first and foremost: new models can widen the sales base, but only the coming delivery and earnings reports will show whether they deepen the bottom line.',
+    ],
+    sources: ['Reuters via Ad-Hoc News', 'BYD', 'CnEVPost'],
+  },
+  {
+    slug: 'corvette-suv-ev-plans-shelved-gm-november-2026',
+    title: 'Corvette SUV and Electric Sports Car Plans Reportedly Shelved as GM EV Sales Fall 62 Percent in Q3',
+    description:
+      'Reports say GM has shelved Corvette SUV and electric sports car plans; the reports are unconfirmed by GM, but they fit a quarter in which Corvette sales rose while GM EV sales plunged.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'GM has not confirmed the reports, but the market context is real: Q3 EV sales fell 62 percent against the pre-tax-credit-expiry spike, while Corvette sales rose 28.5 percent.',
+    body: [
+      'Plans for a Corvette SUV and an electric Corvette sports car have reportedly been shelved, according to reporting circulating in early November 2026. The vehicles were reportedly expected to launch by 2026, but so far there has been nothing but silence, and the reports have not been confirmed by GM itself. CARC flags that distinction plainly: this is a report about a shelved plan, not a GM announcement, and readers should not treat it as official until the company speaks.',
+      'The market context makes the reports plausible, even if unconfirmed. The electric vehicle market had strong momentum at the start of this decade, with Ford even expanding the Mustang lineup with an EV spin-off called the Mustang Mach-E. In the third quarter of 2026, however, GM\'s EV sales declined 62 percent compared to the same period last year. That comparison needs its own caveat: the third quarter of 2025 saw a huge spike as buyers rushed purchases before the $7,500 federal EV tax credit expired, so part of the drop is a comparison effect rather than a collapse in underlying demand.',
+      'Slowing EV sales have also affected other brands. Ford ended production of the all-electric F-150 Lightning, while Ram dropped plans for an all-electric 1500 pickup. An all-electric Corvette powertrain would introduce additional uncertainties into a nameplate whose appeal is tightly bound to its engine character, and an SUV extension would test how far the Corvette badge can stretch before it dilutes the sports car itself.',
+      'What is more interesting is that Corvette sales are up. The American sports car sold 6,585 units in the third quarter of 2026, a 28.5 percent increase over the 5,123 units sold during the same period last year. A growing, gasoline-powered Corvette business alongside a shrinking EV business is a combination that makes a pause on Corvette electrification understandable, whether or not the shelving reports prove exactly right.',
+    ],
+    sources: ['Daily8', 'GM'],
+  },
+  {
+    slug: 'australia-november-new-car-arrivals-seltos-xpeng-november-2026',
+    title: 'Australia November New-Car Arrivals: Hybrid Seltos, XPeng L03, Leapmotor B03X and a Cheaper Tesla Model 3',
+    description:
+      'Australia\'s November new-car diary brings a hybrid-only Kia Seltos, the XPeng L03 from $41,900, Leapmotor\'s $29,990 B03X, a diesel LDV D90 and a $45,900 Tesla Model 3.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'Beyond the November deal headlines CARC covered yesterday, the arrivals diary shows the price ladder resetting: hybrids at the volume end, new Chinese brands under $50,000.',
+    body: [
+      'Australia\'s November new-car diary, compiled by GoAuto, shows a month of arrivals rather than a month of launches, and the pattern is clear: hybrid power at the volume end and new Chinese brands priced under $50,000. Kia\'s second-generation Seltos arrives from $39,990 driveaway, with a six-model range switching exclusively to 1.6-litre hybrid power and electric all-wheel drive available on the flagship GT-Line, in a new, larger body with upgraded technology. CARC covered the Seltos Hybrid\'s European premiere at the Paris Motor Show in October; the Australian arrival is the same car in a different market, with local pricing attached.',
+      'The Chinese arrivals cluster tightly on price. XPeng\'s L03 medium SUV starts at $41,900 plus on-road costs, with battery-electric and range-extended versions priced identically, four variants offering up to 520 km WLTP electric range or 1,017 km combined range with a petrol generator, and pre-orders now open. Leapmotor\'s B03X compact electric SUV arrives in November from $29,990 driveaway, with two variants offering 130 kW or 145 kW, up to 382 km WLTP range, a standard 14.6-inch touchscreen and comprehensive safety technology. Chery\'s premium Lepas brand launches its L6 electric SUV in November from $47,990 plus on-road costs, with a 160 kW motor and 65 kWh battery delivering 440 km WLTP range, and a plug-in hybrid following in 2027.',
+      'The diary also covers buyers who are not shopping for EVs at all. LDV reintroduces diesel power to its D90 seven-seat SUV with a 163 kW and 520 Nm 2.5-litre turbo-diesel and 3,500 kg towing capacity, in five variants including a new Luxe flagship, priced from $43,674 driveaway before promotional discounts. LDV\'s updated T60 ute arrives with the same diesel, an eight-speed automatic and 3,500 kg towing, with revised styling, cabin and technology. GWM\'s new Haval H7 also arrives this month; CARC covered its November deal pricing separately in yesterday\'s deals roundup, so this article notes the arrival without repeating the offer terms.',
+      'At the top and bottom of the price ladder, Mercedes-Benz adds plug-in hybrid GLE 450 e SUV and Coupe variants from $156,900 plus on-road costs, with a six-cylinder petrol-electric drivetrain producing 320 kW and 680 Nm and up to 91 km WLTP electric range. Tesla\'s new entry-level Model 3 Rear-Wheel Drive arrives priced from $45,900 plus on-road costs, offering 572 km WLTP range, 6.2-second 0 to 100 km/h acceleration and revised equipment, with Model Y upgrades alongside. For Australian buyers, the honest summary is that November is a buyer\'s month for choice, not just for discounts.',
+    ],
+    sources: ['GoAuto'],
+  },
+  {
+    slug: 'stellantis-europe-ev-sales-leapmotor-q3-november-2026',
+    title: 'Stellantis European EV Sales Jump 65 Percent in Q3 as Leapmotor Nearly Quadruples',
+    description:
+      'Stellantis said battery-electric car sales in Europe rose 65 percent in the third quarter, while Leapmotor sales it distributes nearly quadrupled on demand growth in France, Germany and the UK.',
+    date: 'November 3, 2026',
+    dateISO: '2026-11-03',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Including Leapmotor, EU30 fully electric passenger sales rose 93 percent; Leapmotor shipments reached about 44,000 in the quarter, with its B03 hatchback due in the UK in early 2027.',
+    body: [
+      'Stellantis said its battery-electric car sales in Europe rose 65 percent in the third quarter of 2026, while sales of Leapmotor vehicles it distributes nearly quadrupled, as demand for EVs grew in France, Germany and the UK. Including Leapmotor, sales of fully electric passenger vehicles in the EU30 region, which covers the European Union, the UK, Norway, Switzerland and Iceland, rose 93 percent from a year earlier, the company said in its results on October 28.',
+      'Stellantis did not give unit figures for its own electric sales, or a breakdown for hybrids or plug-in hybrids, but it did quantify the Leapmotor contribution. Leapmotor\'s sales nearly quadrupled year on year, and shipments of Leapmotor-branded vehicles rose by about 34,000 units to about 44,000 in the quarter, the company said on October 13. Europe accounted for 13 percent of Leapmotor\'s global sales in 2026, Stellantis said on October 5, and the brand plans to launch its B03 electric hatchback in the UK in early 2027.',
+      'The European strength sits inside a mixed global quarter that CARC covered in its third-quarter earnings reporting. Stellantis\' shipments in its Enlarged Europe region rose 10 percent to 588,000 vehicles, supported by battery-electric growth, continued momentum for its Smart Car platform and rising Leapmotor volumes. Worldwide, Stellantis sold 1.31 million vehicles in the third quarter, down 3 percent, while its global market share edged up 10 basis points to 6.5 percent, and including Leapmotor, sales were nearly flat at 1.35 million.',
+      'The strategic read is that Stellantis\'s European EV story is increasingly a Leapmotor story. The Chinese brand gives Stellantis affordable electric volume in exactly the markets where its own brands face intense competition from BYD, Volkswagen and Renault, and the B03 UK launch in early 2027 will test whether that volume can convert into a durable brand presence rather than a distribution spike. For buyers, the practical effect is more choice at lower prices, with Leapmotor models arriving through an established dealer and service network rather than as a direct-import gamble.',
+    ],
+    sources: ['Stellantis', 'Eletric-Vehicles.com'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
