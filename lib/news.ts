@@ -6307,6 +6307,386 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['Stellantis', 'Eletric-Vehicles.com'],
   },
+  {
+    slug: 'tesla-model-y-l-third-row-reports-november-2026',
+    title: 'Tesla Model Y L Reported With an Adult-Sized Third Row — But Tesla Has Not Confirmed Specs, Price, or Availability',
+    description:
+      'Motor1 and CleanTechnica reported a long-wheelbase Tesla Model Y L with a third row sized for adults after hands-on inspections — with no official Tesla announcement behind the claims yet.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Two outlets describe a longer Model Y with a usable third row, but wheelbase, legroom, pricing, and market availability all remain unconfirmed.',
+    body: [
+      'Motor1 and CleanTechnica have both published coverage of a Tesla Model Y L variant, describing a long-wheelbase Model Y with a third row sized for adult occupants rather than children. CleanTechnica followed with a hands-on first look after inspecting the Model Y L alongside the standard Model Y and the Model 3 in person, with coverage dated November 3, 2026. The adult-sized third-row characterization is the outlets\' assessment, not a Tesla specification.',
+      'That distinction matters for shoppers. Neither report cited in the coverage includes an official Tesla announcement, and no specific dimensions, pricing, production location, or availability figures were included in the summarized coverage. Whether the Model Y L is a production model, a prototype, or a market-specific variant is not established by these reports, and whether a US introduction could follow remains speculation.',
+      'What is confirmed is narrower: two independent automotive outlets have now described the same vehicle concept, with a focus on interior packaging and a third row. Until Tesla publishes official specifications, treat every detail beyond the existence of these reports — wheelbase increase, third-row legroom, overall length, price, and where it will be sold — as tentative. Buyers comparing three-row electric SUVs should wait for Tesla\'s own numbers before treating the Model Y L as a purchase option.',
+    ],
+    sources: ['Motor1', 'CleanTechnica'],
+  },
+  {
+    slug: 'tesla-unsupervised-fsd-delayed-q2-2027-robotaxi-zones',
+    title: 'Tesla Pushes Unsupervised FSD in Customer Cars to Q2 2027 — and Only Inside Robotaxi Zones',
+    description:
+      'On the Q3 earnings call, Tesla said unsupervised Full Self-Driving for customer-owned cars arrives in mid-2027 at the earliest, and only as part of its managed Robotaxi fleet inside existing geofences.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'No nationwide unsupervised update is coming: qualifying customer cars would join the Robotaxi fleet, under fleet rules, inside areas Tesla already serves.',
+    body: [
+      'Tesla has pushed back its timeline for unsupervised Full Self-Driving (FSD) in customer-owned vehicles to the second quarter of 2027, according to comments by Ashok Elluswamy, Tesla\'s vice president of AI and director of Autopilot software, on the company\'s Q3 2026 earnings call on October 21, 2026. The announcement was first reported by Electrek and corroborated by other outlets. It marks the latest shift in a timeline Tesla has revised for roughly ten years.',
+      'The rollout will not look like the nationwide autonomy Tesla has long promised. Instead of a software update that lets an owner\'s car drive unsupervised anywhere, qualifying vehicles would be added to Tesla\'s managed Robotaxi fleet, operating under the same fleet management and geofencing rules that govern its commercial robotaxi service. The new language is narrower and more conditional: middle of next year, and only inside existing Robotaxi zones.',
+      'The same call set the nearer-term robotaxi agenda: Cybercab service in Dallas in November 2026, after Cybercab rides opened to the public in Austin on September 3, 2026, reportedly running roughly 35 percent cheaper than Model Y robotaxis on the same routes. Tesla has also said it is working toward delivering Cybercabs to customers by the end of 2026, though no official sale price has been established. For owners, the honest takeaway is that unsupervised driving in a personally owned Tesla remains a fleet-bound, geofenced product for 2027 — not a general release.',
+    ],
+    sources: ['Electrek', 'Ground News', 'Tesla Q3 2026 earnings call'],
+  },
+  {
+    slug: 'tesla-q3-2026-results-28b-revenue-fsd-174m-customers',
+    title: 'Tesla Q3: $28.05B Revenue, $787M Net Income, and 1.74 Million Paying FSD Customers',
+    description:
+      'Tesla beat earnings estimates in Q3 2026 on flat revenue, with paid FSD customers up 67 percent and more than 75 percent of North American deliveries including a paid FSD sign-up.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Revenue held roughly flat at $28.05B while GAAP profit fell 43 percent — but FSD adoption, not vehicle sales, was the quarter\'s demand story.',
+    body: [
+      'Tesla reported third-quarter 2026 revenue of $28.05 billion, essentially flat year over year, with adjusted earnings of $0.48 per share beating the consensus estimate of $0.45. GAAP net income fell 43 percent year over year to $787 million as operating expenses rose 39 percent. Global vehicle deliveries totaled 486,532, and energy storage deployments reached 13.7 GWh in the quarter.',
+      'Full Self-Driving was the demand story management emphasized. Paid FSD customers climbed 67 percent year over year to 1.74 million, with subscriptions accounting for about half, and more than 75 percent of North American deliveries included a paid FSD sign-up. CEO Elon Musk identified FSD as a major driver of vehicle demand, and Tesla ended the quarter with its largest passenger vehicle backlog in four years.',
+      'Capital spending is also being reined in: management cut 2026 capital expenditure guidance to about $20 billion from about $25 billion, citing more efficient deployment. Robotaxi expansion, Optimus commercialization targeted for late 2027, and the Dallas Cybercab launch remain the forward catalysts — but the quarter itself shows a company whose profit engine is under pressure while its software attach rate keeps climbing.',
+    ],
+    sources: ['Zacks', 'Tesla Q3 2026 earnings call'],
+  },
+  {
+    slug: 'tesla-robotaxi-seven-cities-november-2026-cost-target',
+    title: 'Tesla Robotaxi Now Runs in Seven US Cities — but the $0.30-Per-Mile Cost Target Is Still Out of Reach',
+    description:
+      'As of November 3, Tesla\'s unsupervised Robotaxi service runs in seven US cities with nearly 2 million cumulative unsupervised miles, while CFO Vaibhav Taneja says the $0.30 cost target has not been met.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Seven cities, nearly 2 million unsupervised miles, and a Nevada conditional approval for up to 5,000 vehicles — profitability is still the missing piece.',
+    body: [
+      'Tesla\'s Robotaxi service was operating in seven US cities as of November 3, 2026: Austin, Dallas, Houston, and Fort Worth in Texas, plus Miami, Orlando, and Tampa in Florida, with Fort Worth launching on November 2. Cumulative unsupervised Robotaxi miles approached 2 million by the end of the third quarter, up roughly eightfold sequentially, and the two-seat Cybercab began commercial service in Austin in early September ahead of a planned Dallas launch in November.',
+      'The money side is still unproven. CFO Vaibhav Taneja said Tesla had not yet reached its target operating cost of $0.30 per paid Robotaxi mile, and management has said robotaxi operations could become financially noticeable in the second quarter of 2027. The version sold to customers remains FSD (Supervised) at $99 per month by subscription in the US, requiring the driver to stay attentive — driverless rides are limited to the Robotaxi service in selected areas.',
+      'Regulatory expansion continues alongside the cost challenge. Nevada approved conditional paid service in Clark County for up to 5,000 vehicles in the first 12 months after permit issuance, while NHTSA is investigating the Cybercab\'s federal safety self-certification. Tesla closed at $403.82 per share on November 2. The network is scaling; the economics are not yet there, and that gap is the number to watch into 2027.',
+    ],
+    sources: ['Tesla Q3 2026 earnings call', 'Reuters'],
+  },
+  {
+    slug: 'lincoln-nautilus-hybrid-recall-11623-park-module-november-2026',
+    title: 'Lincoln Recalls 11,623 Nautilus and Corsair Hybrids That Can Shift to Neutral While Driving',
+    description:
+      'Ford recall 26S75 (NHTSA 26V688) covers 2026-2027 Nautilus Hybrids and 2027 Corsair Hybrids after a supplier\'s undisclosed oil change corroded the park module circuit board.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A supplier changed anti-rust oil without telling Ford or validating compatibility — and the resulting corrosion can knock the car into neutral.',
+    body: [
+      'Ford has recalled 11,623 vehicles under NHTSA campaign 26V688 (Ford 26S75) because they may unexpectedly shift into neutral while driving, due to corrosion in the transmission\'s park lock actuator circuit board. The recall covers 11,560 Nautilus Hybrids from the 2026 and 2027 model years built between September 9, 2025 and August 6, 2026, and 63 Corsair Hybrids from 2027 built between March 12 and July 8, 2026.',
+      'The root cause is a supplier story: Ford\'s recall report, filed with NHTSA on October 20, says the supplier changed the anti-rust oil used on the park module, did not tell Ford, and did not validate that the new oil was compatible with the coating protecting the module\'s circuit board. As of September 28, Ford had 15 US warranty claims and 106 worldwide, plus one US field report and one US customer report.',
+      'Ford expected to notify dealers on October 26 and mail owner letters November 2 through 6, and NHTSA\'s record shows affected VINs became searchable on October 26. Dealers will replace the Integrated Park Module free of charge. Owners who notice unexpected neutral shifts should contact a dealer promptly rather than waiting for the letter.',
+    ],
+    sources: ['NHTSA', 'The Auto Wire'],
+  },
+  {
+    slug: 'ford-f150-super-duty-tailgate-cable-recall-30123-november-2026',
+    title: 'Ford Recalls 30,123 F-150 and Super Duty Trucks Over a Tailgate Cable That Can Drop Under Load',
+    description:
+      'NHTSA recall 26V689 covers 2026-2027 F-150 and 2026 Super Duty trucks whose left-side tailgate cable can detach from a bad crimp, letting the tailgate fall.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A broken crimping die left some cables with an incomplete connection — Ford caught it before any warranty claims or field reports, it says.',
+    body: [
+      'Ford is recalling 30,123 trucks because the left-side tailgate cable may fail under certain heavy load conditions and let the tailgate drop onto the rear bumper. The recall covers 2026-2027 F-150 models and 2026 F-250, F-350, and F-450 Super Duty trucks built between May 31 and June 16, 2026, under NHTSA campaign 26V689 (Ford 26S78).',
+      'The culprit is a bad crimp on the cable\'s eyelet: NHTSA says a broken crimping die left some cables with an incomplete connection at the bolt end, so the cable can detach when something heavy — such as a UTV or equivalent load — pushes down on the tailgate. Ford says there have been no warranty claims or field reports tied to the issue as of October 19, 2026, meaning the automaker caught this one before it caused real-world damage.',
+      'Owners should expect two mailings: interim notification letters between December 14 and 18, 2026, explaining the risk even though parts are not ready yet, and a second round confirming the remedy is available, scheduled for January 2027. Dealers will replace the left-side cable. VINs become searchable on NHTSA\'s website starting December 7. It is Ford\'s latest in a long run of 2026 recalls — more than 80 campaigns this year, by one count, well ahead of its rivals.',
+    ],
+    sources: ['NHTSA', 'TopSpeed'],
+  },
+  {
+    slug: 'toyota-sienna-hybrid-recall-228367-seatbacks-november-2026',
+    title: 'Toyota Recalls 228,367 Sienna Hybrids Because Second-Row Seatbacks May Fail in a Crash',
+    description:
+      'Toyota recall 26TB24/26TA24 covers 2022-2026 Sienna Hybrid 7-passenger vehicles whose second-row seatbacks may not remain secured in a crash.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The largest recall of the week: nearly 229,000 minivans, with owner letters expected December 7.',
+    body: [
+      'Toyota is recalling 228,367 Sienna Hybrid vehicles in the United States because the second-row seat backs may fail to remain secured in the event of a crash, according to the National Highway Traffic Safety Administration. The recall covers 2022-2026 Sienna Hybrid 7-passenger vehicles, and a seatback that does not stay secured may fail to properly protect an occupant, increasing the risk of injury.',
+      'Owner notification letters are expected to be mailed December 7, 2026. Toyota\'s recall numbers are 26TB24 and 26TA24, and owners may contact Toyota customer service at 1-800-331-4331. The Sienna recall was the largest filing in a busy NHTSA week that also included Ford, Chrysler, BMW, and GM campaigns totaling tens of thousands more vehicles.',
+      'For Sienna owners, the practical step is simple: check the VIN in NHTSA\'s recall database now rather than waiting for the December letter, and schedule the remedy as soon as it is available. A seatback defect is not a cosmetic issue — it is the structure that is supposed to hold occupants in place in the crash it is designed for.',
+    ],
+    sources: ['NHTSA', 'Reuters'],
+  },
+  {
+    slug: 'dodge-durango-recall-13330-tail-lights-november-2026',
+    title: 'Chrysler Recalls 13,330 Dodge Durangos Over Tail Lights That Can Fail',
+    description:
+      'NHTSA recall 26V701 covers 2026 Dodge Durangos whose damaged tail light wiring harness terminals may cause the tail lights to fail, violating federal lighting standards.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Damaged terminals in the tail light wiring harness can kill the tail lights entirely — dealers will inspect and replace assemblies as needed.',
+    body: [
+      'Chrysler is recalling 13,330 vehicles: 2026 Dodge Durangos in which damaged terminals in the tail light wiring harness may cause the tail lights to fail, which violates Federal Motor Vehicle Safety Standard No. 108. A vehicle with no working tail lights is hard to see from behind at night and in poor weather, and the failure gives following drivers no braking signal.',
+      'Dealers will inspect and replace tail light assemblies as needed. Owner notification letters are expected to be mailed December 3, 2026, and VINs are searchable on NHTSA\'s website. The Durango filing was one of five recalls filed with NHTSA between October 20 and 22, alongside the Lincoln Nautilus park module, Ford tailgate cable, BMW starter cable, and a small GM seat-weld campaign.',
+      'Four of those five filings trace back to how the car was built or fixed, not to a part that wore out — a supplier\'s undisclosed oil change, weak welds, damaged terminals, and a cable that can loosen on cars that already had one recall repair. Owners of any 2026 Durango should check their VIN now and not assume a new vehicle is automatically clear.',
+    ],
+    sources: ['NHTSA', 'The Auto Wire'],
+  },
+  {
+    slug: 'gm-220m-data-sale-settlement-november-2026',
+    title: 'GM to Pay $220 Million to Settle Claims It Sold Drivers\' Location and Behavior Data',
+    description:
+      'General Motors will pay $220 million to settle allegations that it illegally sold drivers\' private behavior and location data to brokers, per the November 1 weekly auto news wrapup.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The settlement is a reminder that the data a connected car generates is a product in itself — and one owners never agreed to sell.',
+    body: [
+      'General Motors will pay $220 million to settle allegations that it illegally sold drivers\' private behavior and location data to brokers, according to the November 1 weekly auto news wrapup from The Auto Channel. The item was listed among the week\'s top auto stories for October 25-31, 2026, alongside the week\'s major recalls.',
+      'The allegation goes to the heart of the connected-car business model. Modern vehicles continuously generate location traces, driving behavior, and usage data, and the value of that data to brokers and insurers has grown alongside the vehicles\' connectivity. A $220 million settlement puts a concrete price on getting the consent side of that business wrong.',
+      'For owners, the practical lesson is to check what data-sharing settings are active in a vehicle\'s connected services and apps, and to read privacy notices before enrolling in usage-based programs. The settlement does not change how any individual GM vehicle drives — but it does change how seriously automakers should take the data their cars collect every mile.',
+    ],
+    sources: ['The Auto Channel'],
+  },
+  {
+    slug: 'porsche-koenigsegg-recalls-center-lock-parking-brake-november-2026',
+    title: 'Supercar Recalls: Porsche Expands Center-Lock Wheel Recall and Every US Koenigsegg CC850 Is Recalled',
+    description:
+      'Porsche added 548 center-lock-wheel vehicles to an earlier recall, and all seven US-allocated 1,185-horsepower Koenigsegg CC850s were recalled over a parking brake that will not engage in reverse.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Two tiny, expensive recalls with outsized stakes: a wheel that must stay attached, and a parking brake that must engage.',
+    body: [
+      'Porsche is expanding an earlier recall first reported in October 2024 covering vehicles with center-lock wheels. A supplier traceability investigation found an additional 548 vehicles affected, including the 2024 Porsche 718 Cayman GT4 RS, the 2024 Porsche 911 S/T, and the 2024 Porsche 911, according to the November 1 weekly auto news wrapup. Center-lock wheels trade lug nuts for a single central locking nut, which makes correct torque and traceability critical.',
+      'Koenigsegg\'s recall is smaller and more absolute: all seven of the US-allocated 1,185-horsepower CC850s are being recalled over a faulty parking brake, according to NHTSA. The recall, filed on October 21, 2026, covers every CC850 delivered to the US and focuses on an electronic parking brake that will not engage while the vehicle is in reverse.',
+      'Seven cars is the smallest recall imaginable, and it is also the most complete: 100 percent of the US fleet. For owners of either brand, the message is the same as for mass-market recalls — check the VIN, book the fix, and do not assume rarity means immunity. A parking brake that fails in reverse on an 1,185-horsepower car is not a minor defect.',
+    ],
+    sources: ['NHTSA', 'The Auto Channel'],
+  },
+  {
+    slug: 'waymo-los-angeles-south-bay-expansion-november-2026',
+    title: 'Waymo Pushes Into LA\'s South Bay as Its Robotaxi Map Widens Across 15 US Cities',
+    description:
+      'Waymo extended its Los Angeles service south to Torrance, El Segundo, and Manhattan Beach on November 3, taking its LA area to about 210 square miles as part of a five-city expansion.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'LA grew by 88 square miles in one move — but LAX is still a gap, and Boyle Heights and East LA are still waiting.',
+    body: [
+      'Waymo extended its Los Angeles robotaxi service south along the coast on November 3, adding Torrance, El Segundo, and Manhattan Beach, the Los Angeles Times reported. The Los Angeles service area now covers about 210 square miles, while independent tracker Robotaxi Tracker, which pulls maps from Waymo\'s app, put the new total at 213 square miles — an 88-square-mile increase, up 70.7 percent. The expansion also takes in destinations including Universal Studios and The Beverly Hills Hotel.',
+      'The Los Angeles move is part of a wider push Waymo announced on October 27: scaling in five cities and adding nearly 250 square miles of territory across Los Angeles, Nashville, Orlando, San Diego, and the San Francisco Bay Area. Waymo\'s website now lists 15 areas where riders can ride, including Atlanta and Austin through Uber, plus Dallas, Denver, Houston, Las Vegas, Los Angeles, Miami, Nashville, Orlando, Phoenix, San Antonio, San Diego, the San Francisco Bay Area, and Tampa.',
+      'The map still has gaps that matter. It leaves a gap around Los Angeles International Airport, which Waymo still cannot serve, and Boyle Heights, East Los Angeles, Huntington Park, South Gate, Bell, and Maywood remain outside the passenger service area, with no launch date announced for those communities. Waymo runs between 3,500 and 4,000 driverless vehicles across its US markets and completes more than 500,000 paid trips a week, it said in September, with a year-end target of one million weekly trips — backed by a $16 billion funding round at a $126 billion valuation and a $5 billion term loan closed on October 8.',
+    ],
+    sources: ['Los Angeles Times', 'Waymo'],
+  },
+  {
+    slug: 'toyota-waymo-bz4x-japan-uk-robotaxi-november-2026',
+    title: 'Toyota and Waymo Will Test a bZ4X Robotaxi Fleet in Japan in 2027, With the UK to Follow',
+    description:
+      'Toyota and Waymo announced November 1 that Toyota will build autonomous bZ4X vehicles at its Takaoka plant for testing in Japan in 2027, the next phase of a collaboration begun in April 2025.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Japan gets its first domestically manufactured, fully autonomous ride-hailing test fleet — built by Toyota, driven by Waymo.',
+    body: [
+      'Toyota Motor Corporation and Waymo announced on November 1, 2026, the next phase of their autonomous driving collaboration: initial operations to test and validate an autonomous Toyota bZ4X fleet in Japan in 2027, with deployment to the United Kingdom and other Waymo-serviced markets planned for the following years. Building on a preliminary agreement announced in April 2025, the partnership marks a milestone in the expansion of Japan\'s first fully autonomous ride-hailing service using high-volume, domestically manufactured vehicles.',
+      'Toyota will build the vehicles at its Takaoka plant in Toyota City, Aichi Prefecture, Japan. By pairing Toyota\'s global manufacturing and vehicle development expertise with Waymo\'s fully autonomous technology, the companies aim to accelerate scaling of safety-validated Level 4 autonomous vehicles globally. Waymo has already tested its autonomous services in Tokyo using the Jaguar I-Pace, but the bZ4X is the first vehicle built in Japan for the job.',
+      'The honest caveats: testing starting next year is a concrete step, but no public launch date has been attached for Japan or the UK, and the UK rollout still awaits regulatory approval. The companies also said they will continue to explore whether Waymo\'s technology could eventually reach personally owned Toyota vehicles, not just robotaxi fleets. For now, this is a production commitment with a named vehicle, a named factory, and a named timeline for testing — not a street-ready service date.',
+    ],
+    sources: ['Toyota', 'Waymo', 'JCN Newswire'],
+  },
+  {
+    slug: 'joby-beta-florida-air-taxi-flights-eipp-november-2026',
+    title: 'Joby and BETA Open Florida\'s Air Taxi Trials With a St. Petersburg-to-Tampa Flight',
+    description:
+      'On October 30, a Joby S4 and a BETA ALIA CX300 flew from downtown St. Petersburg to Tampa International in about 20 minutes, opening Florida\'s part of the White House-backed eVTOL Integration Pilot Program.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'No tickets yet and no FAA type certification yet — but Florida\'s demonstration flights are real aircraft, on real routes, gathering real data.',
+    body: [
+      'On Friday, October 30, 2026, two electric aircraft took off from Albert Whitted Airport in downtown St. Petersburg and landed at Tampa International Airport about 20 minutes later. One was a Joby S4 (registration N545JX, a conforming prototype); the other was BETA Technologies\' first production-conforming ALIA CX300 (N916LF). The flights opened Florida\'s part of the eVTOL Integration Pilot Program (eIPP), the White House-backed program the US Department of Transportation announced in March 2026.',
+      'More flights were planned for the first week of November, including a landing at a new vertiport near Orlando International\'s Terminal C and train station on November 2, and Kennedy Space Center flights on November 7-8 during UP.Summit. Joby says the Orlando vertiport procedures were developed over two years of simulation with the FAA, NASA, the Greater Orlando Aviation Authority, and local air traffic controllers. BETA says its CX300s have already completed 14 eIPP flights covering nearly 700 nautical miles around Tampa and Orlando.',
+      'What these flights are not: a bookable service. Joby\'s announcement does not mention tickets, and no eVTOL in Florida — or anywhere in the US — holds FAA type certification today. Joby describes itself as being in the final stages of certification, with five aircraft flying in that final stage and 12 more in production, and reports its Q3 results on November 4. Separately, a federal judge narrowed Joby\'s trade-secret claims against Archer on September 29 while dismissing Archer\'s counterclaims outright — a reminder that the air taxi race is being fought in court as well as in the air.',
+    ],
+    sources: ['Joby Aviation', 'AIN', 'FLYING Magazine'],
+  },
+  {
+    slug: 'evtol-type-certification-reality-check-november-2026',
+    title: 'The eVTOL Reality Check: No Western Flying Car Has a Type Certificate Yet',
+    description:
+      'As of late 2026, no piloted eVTOL has secured a type certificate from the FAA, EASA, the UK CAA, Brazil\'s ANAC, or Japan\'s JCAB — only EHang\'s EH216-S, certified in China, holds the full set of passenger approvals.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Archer is in Phase 4 and Joby is deep in Stage 5 — but demonstration flights under a pilot program are not the same as a certified air taxi.',
+    body: [
+      'No piloted eVTOL has yet secured a type certificate from any of the major aviation authorities: the FAA, EASA, the UK CAA, Brazil\'s ANAC, or Japan\'s JCAB. That single fact is the sharpest summary of where eVTOL type certification stands in late 2026, years after the first commercial service targets were announced. The one certificate that exists belongs to EHang\'s EH216-S, awarded its CAAC type certificate on October 13, 2023, and it stands alone as the only eVTOL anywhere to have obtained all three regulatory approvals required for passenger-carrying operations.',
+      'Among Western frontrunners, Archer sits furthest along the formal FAA path: the FAA has accepted 100 percent of Archer\'s Means of Compliance submissions, and Archer completed Phase 3 of the FAA\'s four-phase process in April 2026 before confirming on May 11, 2026 that it had moved into Phase 4. Joby\'s position is more granular: its Q2 2026 shareholder letter, dated July 31, 2026, showed Stage 5 of its five-stage certification process at 20 percent complete on Joby\'s side, with 10 percent accepted by the FAA, while Stage 4 stood at 83 percent complete on Joby\'s side and 77 percent accepted by the regulator. TIA flight testing of Joby\'s first FAA-conforming aircraft got under way in March 2026.',
+      'The regulatory timetable itself signals how far out full certification remains: the FAA has said it plans to publish a comprehensive advisory circular on VTOL aircraft in summer 2027. Meanwhile, the Middle East is moving in parallel — Dubai\'s partnership with Joby targets a vertiport network with the Roads and Transport Authority, Abu Dhabi is developing its ecosystem with Archer, and a GCAA delegation visited Joby and Archer in California in October 2026 to review certification and operational requirements. Demonstration flights under the eIPP are real progress, but they are not certification, and any air taxi launch date should be read with that distinction in mind.',
+    ],
+    sources: ['Drone Intelligence', 'FutureWatchLog', 'AeroCapacity'],
+  },
+  {
+    slug: 'us-ev-sales-q3-2026-239k-57-percent-share',
+    title: 'US EV Sales Held Near 6 Percent in Q3 2026 — Rivian Grew 45 Percent While Ford\'s EVs Fell 80 Percent',
+    description:
+      'Cox Automotive estimates put US Q3 battery-electric sales at about 239,000 vehicles, or 5.7 percent of the market — down about 45 percent from Q3 2025 after the federal tax credit expired.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Stabilized, not recovered: the market held near 6 percent, but the winners and losers split sharply by brand.',
+    body: [
+      'Americans bought about 239,000 new battery-electric vehicles in the third quarter of 2026, according to Cox Automotive estimates, putting EV share at about 5.7 percent of new vehicle sales. The share stayed near 6 percent through much of 2026, and September also came in near 6 percent. The quarter fell about 3 percent from the second quarter of 2026, and about 45 percent from the third quarter of 2025 — the year-ago quarter that was inflated by buyers rushing to claim the $7,500 federal tax credit before it expired.',
+      'Brand results varied dramatically. Rivian grew 45 percent in the quarter, delivering 19,248 vehicles, while Toyota\'s electrified sales rose 28.5 percent. Ford sold only 6,047 electric vehicles in the quarter, an 80.2 percent fall, and Chevrolet Equinox EV sales dropped 92 percent. Tesla delivered 486,532 vehicles globally in the quarter, with Model 3 and Model Y making up 98 percent of deliveries. Cox also counted nearly 127,000 used electric vehicle sales in the quarter.',
+      'The verdict from analysts covering the numbers is simple: stabilized, not recovered. The post-credit market has found a floor near 6 percent, but growth now depends on products that sell on their own merits — which is exactly what Rivian\'s R2 quarter and Toyota\'s hybrid strength demonstrate, and what Ford\'s collapse shows the cost of getting wrong.',
+    ],
+    sources: ['Cox Automotive', 'Green Living Guy'],
+  },
+  {
+    slug: 'rivian-q3-2026-216b-revenue-guidance-67k-70k',
+    title: 'Rivian Q3 Revenue Tops $2.16B as the R2 Becomes Its Best Seller — but Q4 Must Deliver Up to 28,000 Vehicles',
+    description:
+      'Rivian raised full-year delivery guidance to 67,000-70,000 vehicles after Q3 revenue grew 38 percent to $2.16 billion on a record 19,248 deliveries, led by the new R2.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'The R2 is now outselling the R1T and R1S combined — and the raised guidance means the fourth quarter has to be Rivian\'s biggest yet.',
+    body: [
+      'Rivian posted third-quarter earnings on October 29 with revenue growing 38 percent year over year to $2.16 billion, beating analysts\' estimates by $160 million. Total deliveries rose 46 percent year over year to a record 19,248 vehicles, boosting year-to-date deliveries to 41,804 vehicles. Adjusted net loss per share narrowed to $0.48 from $0.65 in the year-ago period.',
+      'The R2 is the story. CEO RJ Scaringe said the R2 was the company\'s best-selling vehicle by volume in the third quarter, and analysts believe at least 10,000 R2s have been delivered since its June 2026 launch. Rivian is currently delivering only the top-tier R2 Performance (Launch Package), which starts at $57,990, with the cheaper R2 Premium AWD for $53,990 planned for late 2026 or early 2027, followed by the R2 Standard RWD (Long Range) for $48,490 in early 2027 and the R2 Standard (Base) for $45,000 in late 2027.',
+      'Rivian raised its full-year delivery guidance from 65,000-70,000 vehicles to 67,000-70,000 vehicles — which means it will need to deliver roughly 25,000 to 28,000 vehicles in the fourth quarter. That is a steep ramp, and it is why analysts are watching the R2 production rate more than the stock\'s recent pop: UBS upgraded the shares to Buy, and Jefferies called a 30 percent drop a new entry point, but the guidance math leaves no room for a slow quarter.',
+    ],
+    sources: ['Rivian', 'Motley Fool'],
+  },
+  {
+    slug: 'byd-october-2026-sales-490k-korea-great-han',
+    title: 'BYD Sold More Than 490,000 New-Energy Vehicles in October — and Passed Toyota and Lexus Combined in South Korea',
+    description:
+      'BYD\'s October deliveries rose 11 percent to 490,168, with pure-electric sales topping 300,000 for the first time, while its new Great Han flagship sedan hit 4,000 sales in 19 days.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Exports more than doubled to 170,194, South Korea is a breakthrough market, and the second-generation Seal 07 arrives November 5.',
+    body: [
+      'BYD sold more than 20,000 vehicles in South Korea during the first nine months of 2026, according to Reuters citing Carisyou — a total that puts the Chinese automaker ahead of Toyota and Lexus combined in that market. October extended the momentum: deliveries of new-energy vehicles reached 490,168 units, up 11 percent year on year, with battery-electric passenger cars accounting for 305,743 of that total, up 37.38 percent, while plug-in hybrids made up 177,382. Exports came in at 170,194 vehicles, more than doubling from a year earlier.',
+      'The flagship story is the Great Han. Launched on October 13 as the first fully electric D-segment flagship sedan in BYD\'s Dynasty lineup, the Great Han — or Da Han in China — reached 4,000 sales just 19 days after launch, according to BYD. Measuring 5,256 mm long, 1,999 mm wide, and 1,510 mm high on a 3,130 mm wheelbase, it is slightly bigger than the Tesla Model S and Lucid Air. The Great Tang SUV joined it as a flagship performer, with 14,000 sales in October, its fourth month above 10,000.',
+      'The sales mix is tilting toward pure electric, and BYD plans to launch the second-generation Seal 07 on November 5, 2026, in both battery-electric and plug-in hybrid form, according to media reports. Third-quarter results reported in late October showed revenue up 13.59 percent year on year to RMB 221.488 billion and net profit up 28.08 percent to RMB 10.02 billion — but as analysts noted, the question the October sales report does not answer is how much each vehicle contributes to profit, with exports doing the heavy lifting against sluggish demand and intense price competition at home.',
+    ],
+    sources: ['Reuters', 'Carisyou', 'BYD'],
+  },
+  {
+    slug: 'los-angeles-auto-show-2026-november-20-29-preview',
+    title: 'LA Auto Show 2026 Preview: 24 Brands, the Rivian R2, an Electric Highlander, and a 1,139-Horsepower Porsche',
+    description:
+      'The 2026 Los Angeles Auto Show runs November 20-29 with 24 brands and test drives from 16 of them, headlined by the Rivian R2, the all-electric 2028 Toyota Highlander, the Kia Telluride Hybrid, and the Porsche Cayenne Turbo Electric.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Hybrids, trucks, and 3-row SUVs dominate the lineup — and Chinese newcomer FullGood Motor is using the show to seek American partners.',
+    body: [
+      'The 2026 Los Angeles Auto Show runs November 20 to 29 at the Los Angeles Convention Center, with 24 automotive brands and test drives and ride experiences from 16 of them, all included with admission. Participating brands include Acura, Alfa Romeo, Buick, Cadillac, Chevrolet, Chrysler, Dodge, Fiat, Ford, Genesis, GMC, Honda, Hyundai, Jeep, Kia, Lucid, Nissan, Porsche DTLA, Ram, Rivian, Subaru, Tesla, Toyota, and Volkswagen. AutoMobility LA, the media and industry day, takes place November 19.',
+      'The headliners span every powertrain. The all-electric Rivian R2 offers up to 656 horsepower, 0 to 60 mph in as quick as 3.6 seconds, an EPA-estimated 330 miles of range, and dual-motor all-wheel drive. The all-new 2028 Toyota Highlander seats seven with an all-electric powertrain offering up to 315 miles of range, front- or all-wheel drive, and bidirectional backup power. Kia\'s first-ever turbocharged hybrid Telluride makes 329 horsepower and 339 lb-ft of torque, with up to an EPA-estimated 35 mpg combined and a 637-mile range. The next-generation 2027 Chevrolet Silverado gets new 5.7-liter and 6.6-liter V8 engines, and Nissan\'s first US e-POWER hybrid arrives in the 2027 Rogue, estimated at up to 41 mpg city.',
+      'The extremes are covered too: the Porsche Cayenne Turbo Electric is Porsche\'s most powerful production vehicle ever at up to 1,139 horsepower, with 0 to 60 mph in 2.4 seconds and up to 317 miles of range, while Genesis shows its first full-size electric flagship SUV, the GV90. One debut to watch for a different reason: Beijing-based FullGood Motor exhibits in the US for the first time, showing its retro-styled Summer 7-seat plug-in hybrid people mover at AutoMobility LA on November 19 to seek US-based investment, assembly, and distribution partners. Its American availability will depend entirely on the partnerships it finds in Los Angeles.',
+    ],
+    sources: ['Los Angeles Auto Show', 'PR Newswire'],
+  },
+  {
+    slug: 'stellantis-q3-2026-results-376b-ram-surge',
+    title: 'Stellantis Q3 Revenue Rises 1 Percent to €37.6B as Ram Surges in North America',
+    description:
+      'Stellantis reported Q3 2026 net revenues of €37.6 billion, with North America sales up 1 percent driven by a Ram 1500 up 73 percent in the US, even as North American revenues fell 3 percent.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Ram was the fastest-growing brand in North America by industry share gains — while the overall US industry trend was down 0.8 percent.',
+    body: [
+      'Stellantis reported Q3 2026 financial results on October 28, with net revenues increasing 1.0 percent year over year to €37.6 billion. Enlarged Europe rose 3 percent and South America rose 3 percent, while North America fell 3 percent on lower volumes tied to planned production downtime, Middle East and Africa fell 19 percent, and Asia Pacific fell 7 percent.',
+      'North America was the bright spot in unit terms. Sales increased 1 percent versus Q3 2025, with a 0.3 percent decrease in both the US and Canada and a 24 percent increase in Mexico (28 percent including Leapmotor). Stellantis US sales outperformed the US industry trend, which was down 0.8 percent in Q3 2026, driven by the Ram 1500, up 73 percent, the Dodge Durango up 14 percent, and the Chrysler Pacifica up 6 percent year over year. North America market share increased to 7.5 percent, up 10 basis points year over year, driven by new product and powertrain offerings — specifically Ram, whose North America sales increased 30 percent year over year and represented the fastest-growing brand in North America based on year-over-year industry share gains.',
+      'Management guided to broadly stable pricing in Q4 2026 compared with Q3, and to North America inventory converging by December 2026 to a similar level as December 2025. In South America, the Fiat Strada rose 13 percent, the Toro rose 26 percent, the Fiat Pulse rose 20 percent, and the Ram brand rose 33 percent, driven by the all-new Dakota. The quarter reads as a Ram-led recovery story inside an otherwise flat revenue picture.',
+    ],
+    sources: ['Stellantis'],
+  },
+  {
+    slug: 'average-new-car-payment-october-record-823-november-2026',
+    title: 'The Average New-Car Payment Just Hit an October Record: $823 a Month',
+    description:
+      'J.D. Power and GlobalData forecast the average October 2026 new-vehicle payment at $823, up 2.6 percent, even though the average transaction price barely moved at $46,329.',
+    date: 'November 4, 2026',
+    dateISO: '2026-11-04',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'Prices stopped rising and incentives rose 13 percent — but payments went up anyway, because the money costs more and the loans run longer.',
+    body: [
+      'The average monthly payment on a new vehicle financed in October will be $823, up 2.6 percent and the highest ever for an October, J.D. Power and GlobalData forecast on October 22. The average transaction price is barely changed, at $46,329, down 0.1 percent, and incentives are up 13.1 percent, to $3,304 a vehicle. Sales are holding up: the forecasters expect 1,327,100 new vehicles sold in October, a seasonally adjusted annual pace of 15.6 million, unchanged from a year ago.',
+      'The payment paradox has a simple explanation: the price of the car stopped rising, but the cost of borrowing it did not, and loan terms keep stretching. Hybrid share of retail sales reached 18.6 percent, up 4.0 points, while EV share of retail sales was 6.9 percent, down 0.3 point — consistent with the post-tax-credit EV market settling near 6 percent. Used cars are not getting cheaper either: Manheim\'s wholesale used-vehicle value index was up 2.2 percent from a year earlier in the first half of October, which Cox Automotive put down to leaner inventory rather than stronger buying.',
+      'For shoppers, the numbers argue for negotiating the loan, not just the sticker. With incentives averaging $3,304 and transaction prices flat, the monthly payment is now driven more by rate and term than by the price on the window. Final October sales arrive in early November, and whether loan rates ease before the year-end sales push will decide whether the $823 record stands or falls.',
+    ],
+    sources: ['J.D. Power', 'GlobalData', 'Cox Automotive'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
