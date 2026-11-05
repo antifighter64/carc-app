@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: 'Car News — Latest Automotive News, Recalls & Prices',
   description:
     'Stay current with CARC News: EV sales data, recalls, new-car prices, and 2026 model coverage. Honest automotive news for smart car buyers.',
+  alternates: { canonical: 'https://www.carc.com/news' },
 }
 
 const CATEGORY_COLORS: Record<string, string> = {

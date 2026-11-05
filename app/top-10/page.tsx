@@ -8,6 +8,7 @@ export const metadata: Metadata = {
   title: 'Top 10 Cars 2026 — Best EVs, SUVs, Trucks, Sports Cars & More',
   description:
     'CARC\'s top 10 car rankings for 2026: best EVs, SUVs, sedans, trucks, luxury cars, sports cars, supercars, and family SUVs. Honest picks, real prices.',
+  alternates: { canonical: 'https://www.carc.com/top-10' },
 }
 
 export default function Top10HubPage() {
