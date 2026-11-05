@@ -13,6 +13,394 @@ export interface NewsArticle {
 }
 
 export const ARTICLES: NewsArticle[] = [
+  {
+    slug: 'gm-recalls-67380-evs-brake-software-loss-november-2026',
+    title: 'GM Recalls 67,380 Cadillac and Chevy EVs Over Brake Software That Can Briefly Cut Braking',
+    description:
+      'GM is recalling 67,380 Lyriq, Vistiq, Celestiq and Blazer EV models because brake-control software can briefly release the brakes at low speed; the fix is a free software update.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 4,
+    excerpt:
+      'A software glitch in the brake system control module can cause a momentary loss of braking — GM knows of 20 minor crashes and two minor injuries.',
+    body: [
+      'General Motors is recalling 67,380 electric vehicles because a software defect can cause a temporary loss of braking at low speeds. The company told the National Highway Traffic Safety Administration about the problem on October 29, and the campaign is listed as NHTSA 26V717, with GM’s internal number N262570900. The fix is a software update, delivered over the air where owners have opted in, or installed free at a dealership.',
+      'The defect lives in the brake system control module. In a specific sequence — light braking in a tight turn at low speed, combined with a bump or dip in the road — the software can misread wheel movement in its slip calculation and briefly release brake pressure before reapplying it. GM says normal braking returns on the next brake press. Only vehicles with performance all-wheel drive are affected, identified by the RPO X0E production code; for the Blazer EV that means the SS and Police Pursuit trims, while two-wheel-drive Lyriqs are not included.',
+      'The recall covers the 2023–2027 Cadillac Lyriq, the 2025–2026 Cadillac Celestiq, the 2026–2027 Cadillac Vistiq, and the 2024–2027 Chevrolet Blazer EV. Lyriqs are the largest group, including 22,819 from model year 2024, 11,926 from 2025, and 9,322 from 2026, plus 13,627 Vistiqs from 2026 and 5,175 from 2027. GM reviewed 24 field complaints from early 2024 through June 2026 and counted 20 minor collisions and two crashes with alleged minor injuries. The investigation began after a 2024 Lyriq struck a garage at low speed, reported through GM’s Speak Up for Safety program in April 2026.',
+      'Owners should know this is the second bite at the same problem. GM recalled 21,469 Lyriqs for a similar brake issue in 2024, but later found that vehicles with that earlier software patch were still susceptible to the newly described condition, so they need the latest update too. The corrected software is already in production — on Blazer EVs built from August, Lyriqs from September, and Vistiqs from October — and GM expects to begin mailing owner notification letters on December 14, 2026. Owners can already check their VIN on NHTSA’s website.',
+    ],
+    sources: ['Kelley Blue Book', 'Jalopnik', 'GM Authority', 'NHTSA'],
+  },
+  {
+    slug: 'toyota-recalls-176737-vehicles-china-bz-land-cruiser-november-2026',
+    title: 'Toyota Recalls 176,737 Vehicles in China: bZ EVs, Land Cruiser Prado and Lexus GX Hit by Defects',
+    description:
+      'Toyota is recalling 121,260 bZ3X and bZ7 EVs in China over suspension, braking and steering defects, plus 55,477 Land Cruiser Prado and Lexus GX hybrids over a fuel-line fault.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 4,
+    excerpt:
+      'Three separate filings cover the bZ EVs, while a fuel-line connection defect pulls in 55,477 Prado and GX 550h hybrids.',
+    body: [
+      'Toyota is recalling 176,737 vehicles in China across several campaigns published by the State Administration for Market Regulation (SAMR) on November 4, 2026. The largest group is 121,260 bZ3X electric SUVs and bZ7 sedans, recalled over three defects involving front suspension fasteners, braking software, and steering assistance. A separate campaign covers 55,477 Land Cruiser Prado and Lexus GX 550h hybrid SUVs over a fuel-line connection defect.',
+      'The bZ3X accounts for the bulk of the EV recall, with 100,175 SUVs built between February 27, 2025 and March 26, 2026 covered by filing S2026M0124V. The bZ7 sedan accounts for 21,085 vehicles, covered by two further filings spanning production from October 2025 to August 2026. The bZ3X launched in March 2025 and was developed with Guangzhou Automobile Group (GAC) as part of Toyota’s shift toward locally directed EV development in China.',
+      'The fuel-line campaign covers 47,347 China-produced Land Cruiser Prado hybrids and 8,130 imported Lexus GX 550h hybrids, built between July 2024 and October 2026, under filings S2026M0133I and S2026M0134I. The defect involves a fuel-line connection that can detach, creating a leak risk. The Chinese action follows separate Toyota Land Cruiser Hybrid fuel-system campaigns in North America covering about 106,000 vehicles in the United States and 6,721 in Canada.',
+      'The recalls come as Toyota consolidates its China engineering under the Intelligent ElectroMobility R&D Centre by Toyota (IEM by Toyota), formed in 2023 to speed up local electrification and intelligent-driving development. It is also not the bZ7’s first recall: a July 2026 campaign covered about 24,000 bZ7s over software faults affecting the smart Bluetooth module and thermal management controller.',
+    ],
+    sources: ['CarNewsChina', 'SAMR', 'Y-Auto'],
+  },
+  {
+    slug: 'toyota-sequoia-2027-pricing-69900-trailhunter-november-2026',
+    title: '2027 Toyota Sequoia Starts at $69,900 With Standard 4WD and a New Trailhunter Trim — and Can Top $100,000 Loaded',
+    description:
+      'Toyota priced the 2027 Sequoia from $69,900, up $4,175, with four-wheel drive now standard and a first-ever Trailhunter package; a fully loaded Capstone can pass $100,000.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Four-wheel drive that cost $3,000 last year is now standard — but the price still climbs $4,175, and the options list can push a Capstone past six figures.',
+    body: [
+      'Toyota has priced the 2027 Sequoia from $69,900, up $4,175 from the prior model year, with four-wheel drive now standard across the lineup — equipment that cost $3,000 as an option on the 2026 model. With the mandatory $2,195 destination charge, the base SR5 starts at $72,095. Toyota published the pricing on November 4, 2026, and the SUV is expected at dealerships this fall.',
+      'The lineup runs through six trims: SR5 at $69,900, Limited at $75,500, Platinum at $83,400, 1794 Edition at $84,400, TRD Pro at $85,925, and Capstone at $87,900, all before destination. Headlining the changes is the first-ever Sequoia Trailhunter, a $3,500 package on the SR5 that adds upgraded suspension, front recovery hooks, trail tires, bronze-colored wheels, crawl control, and multi-terrain select. The TRD Pro gets major off-road upgrades of its own, and maximum towing capacity is 9,520 pounds.',
+      'Inside, the 2027 Sequoia replaces the old 8.0-inch display with a 14-inch center touchscreen, and Toyota Safety Sense 4.0 is standard. The Limited adds heated and ventilated front seats with SofTex upholstery, the Platinum adds a panoramic roof, the 1794 Edition gets real wood accents and custom leather, and the Capstone tops the range with 22-inch chrome wheels, semi-aniline premium leather, and a head-up display.',
+      'The price ceiling is the story. With options, accessories, destination, and taxes, a fully equipped Capstone can reach an estimated $109,530 — a six-figure Toyota that would have been unthinkable a decade ago. For context, the Chevrolet Tahoe starts at $67,295 and the Ford Expedition at $69,715, both with destination included, so the Sequoia now sits at the expensive end of the full-size SUV class even before options.',
+    ],
+    sources: ['Toyota', 'Kelley Blue Book', 'WiseVoter'],
+  },
+  {
+    slug: 'germany-ev-share-record-37-percent-october-2026',
+    title: 'Germany’s EV Share Hits a Record 37% as Battery-Electrics Beat Gas and Diesel Combined',
+    description:
+      'Battery-electric cars took a record 37% of Germany’s new-car market in October 2026, outselling gasoline and diesel cars combined, according to federal KBA data.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'October was the month battery-electrics stopped being a niche in Europe’s biggest car market — they beat combustion cars outright.',
+    body: [
+      'Battery-electric cars took a record 37% of Germany’s new-car market in October 2026, according to data released by the Kraftfahrt-Bundesamt (KBA), the country’s federal motor vehicle authority. For the first time, battery-electrics outsold gasoline and diesel cars combined in Europe’s largest auto market.',
+      'The milestone matters because Germany is the home market of Volkswagen, BMW, and Mercedes-Benz, and its buyers have historically been slower to embrace electric cars than buyers in Norway or the Netherlands. A 37% share means more than one in three new cars registered in Germany in October was a pure battery-electric, with hybrids and plug-in hybrids taking additional share on top.',
+      'The result also lands in a year when the US EV market has cooled sharply after federal tax credits expired, with US EV share settling near 6% of retail sales. Germany’s record month shows the two markets moving in opposite directions: European demand is being carried by a widening range of affordable electric models and strong domestic brands, while American EV sales have fallen back. For automakers planning where to send their electric inventory, the German numbers are a clear signal about where the demand is.',
+    ],
+    sources: ['Electrek', 'Kraftfahrt-Bundesamt (KBA)'],
+  },
+  {
+    slug: 'range-rover-axes-evoque-velar-entry-level-ev-november-2026',
+    title: 'Range Rover Is Axing Its Two Cheapest SUVs to Make Way for a New Entry-Level EV',
+    description:
+      'Range Rover is dropping the Evoque and Velar — its two most affordable models — as a new entry-level electric SUV steps into the lineup.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The Evoque and Velar are out. Range Rover is betting its entry point is electric from here on.',
+    body: [
+      'Range Rover is pulling the plug on its two most affordable models, the Evoque and the Velar, as a new entry-level EV steps into the lineup. The move ends the run of the two SUVs that served as the brand’s gateway models and pushes Range Rover further upmarket, with electric power as the new entry point.',
+      'The Evoque has been Range Rover’s compact style statement since 2011, and the Velar slotted in as the sleek mid-size option. Dropping both at once is a decisive break: instead of keeping a cheaper combustion-engine model to pull buyers in, Range Rover is betting that its next generation of customers will arrive through an electric SUV.',
+      'The timing fits the wider luxury shift. Range Rover’s first full-size electric flagship is already on the way, and rivals including Bentley are racing to electrify their lineups. For used-car shoppers, the news has a silver lining: the Evoque and Velar are about to become discontinued models, which historically puts downward pressure on prices for the remaining new stock and recent used examples.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'kia-ev7-midsize-electric-suv-revealed-november-2026',
+    title: 'Kia EV7 Revealed as an Upcoming Midsize Electric SUV Slotting Between the EV6 and EV9',
+    description:
+      'A leaked document revealed Kia plans to add the EV7, a midsize electric SUV filling the gap between the EV6 and the three-row EV9.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Kia already covers entry-level SUVs through the three-row EV9 — the EV7 fills the one gap left in the middle.',
+    body: [
+      'Kia plans to add the EV7, a new midsize electric SUV, to fill the gap between the EV6 and the three-row EV9, according to a leaked document. The reveal shows Kia continuing to build out one of the most complete electric lineups in the industry, ranging from entry-level SUVs to the three-row EV9 and the PV5 van.',
+      'The positioning is deliberate. The EV6 is Kia’s sporty crossover, the EV9 is the big three-row family hauler, and the EV7 would give buyers a conventional midsize SUV — the heart of the American market — with no third row to pay for. It is the segment where the Tesla Model Y, Hyundai IONIQ 5, and Toyota’s electric SUVs all compete, so the EV7 would put Kia directly into the highest-volume EV fight.',
+      'No pricing, range, or launch date has been confirmed, and the leak is the first public sign of the model. But Kia’s recent pace — the EV3, EV4, EV5, and EV9 have all arrived in quick succession — suggests the EV7 is not a distant concept. For shoppers, the practical takeaway is to watch for official details before committing to an EV6 or EV9, since a midsize option may change the value equation.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'byd-denza-n9-ev-8200-pounds-weight-problem-november-2026',
+    title: 'BYD’s New Luxury Electric SUV Has One Big Problem: It Weighs Over 8,200 Pounds',
+    description:
+      'BYD’s new full-size Denza N9 EV was revealed in a regulatory filing weighing over 8,200 lbs — heavier than many full-size pickup trucks.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'At 3,760 kg, the Denza N9 EV outweighs a Ford F-150 — and that weight has real consequences for range, tires, and efficiency.',
+    body: [
+      'BYD’s new full-size electric SUV, the Denza N9 EV, was revealed in a regulatory filing weighing in at over 8,200 lbs (3,760 kg). That creates one obvious issue: at that mass, the N9 is heavier than many full-size pickup trucks, and weight is the enemy of everything an EV is supposed to be good at.',
+      'The weight problem is physics, not opinion. Every extra pound costs range, wears tires faster, demands bigger brakes, and needs a bigger battery to move — which adds more weight in turn. Luxury buyers may forgive a heavy SUV if it is quiet, quick, and comfortable, but the N9’s mass will show up in its efficiency ratings and in how often it needs charging on long trips.',
+      'The N9 is BYD’s flagship play under its premium Denza brand, aimed at buyers who would otherwise shop a Range Rover or a Mercedes GLS. The filing confirms the model is real and close to market; the open question is whether BYD can make an 8,200-pound SUV feel effortless rather than ponderous — and whether buyers will accept the efficiency trade-off that comes with it.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'hyundai-ioniq-5-sales-33000-2026-november-2026',
+    title: 'Hyundai’s Electric SUV Finds Some Footing, With IONIQ 5 Sales Topping 33,000 in 2026',
+    description:
+      'Hyundai’s IONIQ 5 has topped 33,000 sales in 2026, finding momentum in a US EV market that has cooled sharply since tax credits expired.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'In a year when US EV sales fell back, the IONIQ 5 is one of the few electric models still gaining ground.',
+    body: [
+      'Hyundai’s IONIQ 5 is finding its footing in a difficult year for electric cars, with sales of the electric SUV topping 33,000 in 2026. The number stands out because the wider US EV market has cooled sharply since federal tax credits expired, with EV share of retail sales settling near 6% and several brands reporting steep year-over-year declines.',
+      'The IONIQ 5’s appeal is easy to explain. It offers fast charging, distinctive retro-futuristic styling, a roomy interior, and pricing that undercuts many rivals — and Hyundai has kept incentives flowing while other brands pulled back. It is also built on the same E-GMP platform as the Kia EV6 and Genesis GV60, giving Hyundai scale advantages its competitors lack.',
+      'The 33,000 figure is a milestone, not a victory lap. Hyundai still needs the IONIQ 5 — and its upcoming siblings — to carry the brand through a market where hybrids are currently outselling EVs by a wide margin. But in a year when many electric models are going backwards, a 33,000-unit pace is evidence that the right EV at the right price still sells.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'tesla-fsd-korea-accusation-november-2026',
+    title: 'Tesla Accused of Selling Full Self-Driving to Korean Owners Who Can’t Legally Use It',
+    description:
+      'Tesla is accused of selling its Full Self-Driving package to owners in South Korea who cannot legally use it on Korean roads.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The accusation is simple: customers paid for a feature their country’s rules do not allow them to switch on.',
+    body: [
+      'Tesla is accused of selling its Full Self-Driving (FSD) package to owners in South Korea who cannot legally use it. The complaint, reported this week, is that customers paid thousands of dollars for a driver-assistance feature that Korean regulations do not permit them to operate on public roads.',
+      'The accusation goes to the heart of how Tesla sells FSD around the world. The package is marketed as a single product, but what it can actually do varies sharply by country, because each market has its own rules on driver assistance, hands-off driving, and autonomous features. A feature that works in the United States may be restricted or entirely unavailable elsewhere — and buyers may not discover that until after they have paid.',
+      'Tesla has not publicly detailed how it handles refunds or disclosures for FSD in markets where the feature is restricted. For prospective buyers outside the US, the lesson is concrete: before paying for FSD or any supervised-driving package, check exactly which features are enabled in your country, not just what the global marketing promises.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'tesla-fsd-europe-speed-margin-cut-november-2026',
+    title: 'Tesla Cuts Full Self-Driving’s Speed Margin From 50% to 10% Over the Limit in Europe',
+    description:
+      'Tesla has cut how far above the speed limit its Full Self-Driving system will go in Europe, from 50% over to 10% over, as regulators tighten the rules.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'European FSD just got a lot more law-abiding: the system’s allowed speed margin dropped from 50% over the limit to 10%.',
+    body: [
+      'Tesla has cut the speed margin of its Full Self-Driving system in Europe from 50% above the posted limit to 10% above it. The change means European Teslas running FSD will now stay much closer to the legal speed limit than they did before — a significant tightening of how the system behaves on European roads.',
+      'The cut reflects the regulatory reality Tesla faces in Europe, where driver-assistance systems are governed by stricter UNECE rules than in the United States. European regulators have been scrutinizing how far assistance systems may exceed speed limits, and Tesla’s previous 50% margin was far more permissive than what the rules contemplate. The 10% margin brings FSD closer to how a careful human driver behaves — and closer to what European law allows.',
+      'For Tesla, the change is a reminder that FSD is not one product worldwide but a patchwork of regional behaviors shaped by local law. American owners still get the more permissive version, while European owners get a system that hews to the limit. As Tesla pushes toward unsupervised driving, these regional differences — not just the technology — will decide where robotaxis can actually operate.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'byd-3000hp-ev-crash-280mph-driver-unharmed-november-2026',
+    title: 'BYD’s 3,000-HP EV Crashes at About 280 MPH — Watch the Driver Escape Unharmed',
+    description:
+      'A BYD electric car with a claimed 3,000 horsepower crashed at roughly 280 mph during testing, and the driver walked away unharmed.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A 280-mph crash that the driver walked away from is a safety story as much as a speed story.',
+    body: [
+      'BYD’s 3,000-horsepower electric vehicle crashed at about 280 mph, and the driver escaped unharmed. The incident, captured on video, is a striking demonstration of both the extreme performance BYD is chasing and the crash protection built into its latest electric architecture.',
+      'The speed alone is hard to process: 280 mph is faster than a Formula 1 car at full tilt, and it is territory previously reserved for land-speed-record machines, not production-based electric cars. That a driver could walk away from a crash at that velocity says as much about the car’s safety cell, restraint systems, and battery protection as it does about its powertrain.',
+      'BYD has not presented the crash as a planned test, and the circumstances of the incident remain unclear from the available reporting. What is clear is that the company is pushing electric performance into territory no road car has occupied before — and that its safety engineering is being tested at the same extremes as its horsepower claims.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'cheaper-cars-selling-faster-affordability-edmunds-november-2026',
+    title: 'Cheaper Cars Are Selling Much Faster as Affordability Concerns Reshape the Auto Market',
+    description:
+      'Cars priced $20,000–$29,999 sold 20% faster in Q3 2026 than in Q1, Edmunds found, as buyers hunt for affordable transportation and expensive cars sit.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'The market has split in two: cars under $50,000 sell in under 60 days, while cars over $50,000 sit for more than two months.',
+    body: [
+      'Lower-priced vehicles are selling much faster, with cars priced between $20,000 and $29,999 moving off dealer lots 20% faster in the third quarter of 2026 than they did in the first quarter, according to Edmunds. The findings, reported by CNBC, suggest consumers are increasingly seeking lower-priced transportation as household budgets come under pressure.',
+      'The pattern holds across price bands. Models priced between $30,000 and $39,999 sold about 18% faster, while those priced between $40,000 and $49,999 saw their time on dealer lots decline by nearly 12%. Cars priced below $50,000 generally sold in fewer than 60 days, while vehicles costing more than $50,000 took longer than 60 days to sell. The average advertised price of a new vehicle reached $49,726 in September, according to Cox Automotive — putting the typical new car well beyond what many households can comfortably afford.',
+      'Edmunds Director of Insights Ivan Drury said trade-in data suggest many buyers purchasing lower-priced vehicles are either entering the new-car market for the first time or buying an additional vehicle for their household. Compact car sales were down about 4% since the start of the year and compact SUV sales fell nearly 8% — not because demand vanished, but because affordable supply is thin: vehicles priced under $30,000 made up just 7.5% of November sales, down from 10.3% a year earlier. The market wants cheap cars; the industry is barely building them.',
+    ],
+    sources: ['Edmunds', 'CNBC', 'Cox Automotive'],
+  },
+  {
+    slug: 'buying-2026-model-year-car-good-deal-november-2026',
+    title: 'Is Buying a 2026 Model-Year Car a Good Deal in Late 2026?',
+    description:
+      'With 2027 models arriving and the average new-car price at $50,562, outgoing 2026 models can be genuine bargains — if the model has inventory, incentives, and financing behind it.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 5,
+    excerpt:
+      'The average new car costs $50,562 and the average incentive is $3,359 — but on the right 2026 model, the deal can be far better than average.',
+    body: [
+      'By November, 2027 models are arriving at dealerships, and the 2026 cars still on the lot are the outgoing model year. That can make them a good deal — if the model has a lot of unsold inventory, manufacturer incentives or low-rate financing behind it, and the 2027 version does not bring changes you actually want. The national data, from Cox Automotive, Kelley Blue Book, Edmunds, and CarEdge, supports a careful yes.',
+      'Start with the market. KBB’s September 2026 report put the average new-vehicle transaction price at $50,562, up 0.7% from a year earlier and just $52 below the all-time high of $50,614 set in December 2025. The average manufacturer incentive was $3,359, or 6.6% of the transaction price — down from 7.3% a year earlier. Cox Automotive’s September inventory report found 2.80 million new vehicles available and an 82-day supply, with an average listing price of $49,726. Model-year 2027 vehicles already made up 22.4% of available inventory at the end of September, up from 12.4% in August.',
+      'Financing is where the outgoing models shine — sometimes. CarEdge’s mid-September scan found 35 new models with a genuine 0% APR offer, and every one was a 2026 model-year vehicle, though most of those offers expired September 30 and it is unclear which were renewed. Edmunds’ Q3 2026 data put the average new-car loan APR at 7%, so a subsidized rate on a 2026 model can be worth thousands over the life of the loan. Manufacturers may also offer seasonal incentives in November and December as dealers clear outgoing models, with customer cash, promotional financing, or lease specials — and Black Friday deals come with eligibility rules worth reading.',
+      'The honest bottom line: a 2026 model is a good deal when three things line up — heavy inventory on that specific model, a manufacturer incentive or low APR, and a 2027 replacement that does not add something you need. National averages do not predict what your local dealer will do, so check the specific model’s days-of-supply and current offers before you buy, and negotiate the loan as hard as the sticker: with transaction prices flat, the monthly payment is now driven more by rate and term than by price.',
+    ],
+    sources: ['Kelley Blue Book', 'Cox Automotive', 'Edmunds', 'CarEdge'],
+  },
+  {
+    slug: 'biggest-new-car-deals-november-2026-silverado-niro-ev',
+    title: 'America’s 5 Biggest New-Car Deals Right Now — One Pickup Is Nearly 22% Off',
+    description:
+      'Dealers are clearing outgoing 2026 models: a Silverado near 22% off, $10,000 cash on the Kia Niro EV, $6,500 on the Rogue PHEV, and $5,500 on the Pacifica.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'End-of-model-year clearance is real this November — but the deals are uneven, ZIP-code dependent, and tied to specific trims.',
+    body: [
+      'If you have been thinking about buying a new car, the end of a model year can be one of the better times to start looking. Dealers need space for incoming 2027 inventory, while manufacturers often put extra cash behind outgoing 2026 models still sitting on lots. The deals are not equally strong everywhere, and incentives can change by ZIP code, financing, loyalty programs, and dealer inventory — but several mainstream vehicles are currently selling well below sticker.',
+      'The mildest deal in the group is the 2026 Chrysler Pacifica: a front-wheel-drive Select carries an MSRP of about $46,440, with typical negotiated pricing around $45,300 before factory cash, and Chrysler is offering $5,500 in national retail bonus cash on remaining 2026 models, with some dealers adding their own discounts on top — savings of roughly 14% to 16% depending on vehicle and location. The 2026 Volkswagen ID.4 offers the next step up, especially for buyers comfortable with an EV near the end of its current model cycle: the rear-wheel-drive Pro starts at $46,570, while TrueCar puts the average market price at about $43,800, roughly 6% below sticker before additional promotional cash.',
+      'The trucks are where the discounts get dramatic. Chevrolet has offered several thousand dollars in factory cash on the 2026 Silverado 1500 as dealers work through outgoing inventory, and listings have shown trucks with window stickers around the mid-$45,000 range advertised near $35,500 — a reduction close to 22% in some cases. The 2026 Nissan Rogue Plug-In Hybrid is one of the stranger deals on the market: Nissan lists it from $45,990 and is advertising as much as $6,500 in combined customer and bonus cash on eligible purchases.',
+      'The largest discount opportunity belongs to the 2026 Kia Niro EV. Kia currently offers $10,000 in customer cash toward a purchase, unusually aggressive on a vehicle that starts at $41,195 including destination for the Wind trim. TrueCar puts the average market price around $40,450 before dealer incentives, while some advertised inventory has fallen close to or below the low-$30,000 range. The caveat applies to all five: verify the offer in your ZIP code, confirm which trim and financing terms qualify, and remember that the deepest discounts cluster on the exact configurations dealers most want gone.',
+    ],
+    sources: ['AutoPost Global', 'TrueCar'],
+  },
+  {
+    slug: 'waymo-ends-uber-exclusivity-january-2028-november-2026',
+    title: 'Waymo Is Ending Its Uber Exclusivity in January 2028 — and Uber Says Only It Can Make Robotaxis Pay',
+    description:
+      'Waymo will end its exclusive Uber arrangement in Austin and Atlanta in January 2028 and sell rides through its own app, hours before Uber argued fleet operators need its platform.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Waymo wants its own customers; Uber wants everyone’s fleet. The robotaxi business just had its first public breakup.',
+    body: [
+      'Waymo will end its exclusivity with Uber in the Austin and Atlanta markets starting in January 2028, co-CEO Tekedra Mawakana told Bloomberg News in a report published November 4. The robotaxi company will offer rides directly through its own smartphone app, as it does in other cities. Uber confirmed it still plans to host Waymo robotaxis on its app for as long as the two companies agree.',
+      'The split has a specific cause: Waymo was not happy that Uber app users requesting a Waymo ride were not guaranteed to get one. Waymo initially partnered with Uber because the ride-hail giant offered scale, and the deal was set to expire in May 2028. Mawakana’s comments follow reporting earlier this year that Waymo was looking to get out of the arrangement — and Uber told Bloomberg it was Waymo’s idea not to add an option in the ride-hail app to book a robotaxi directly.',
+      'The news landed on the same day Uber announced its quarterly results, and CEO Dara Khosrowshahi used the moment to argue the opposite case: that Uber is the natural home for robotaxi fleet operators, because it already delivers around 30% higher trips per vehicle per day than apps run by autonomous cab companies. Uber users booked $59.8 billion worth of services in the third quarter, up 20% year over year. Khosrowshahi also outlined plans to put around 2,000 robo-cabs on the road in 2027, before a much larger commercial ramp beginning in 2028 — meaning Uber will run some cars itself and rely on third-party operators who allow bookings on its app.',
+      'The honest read is that both companies are right about different things. Waymo, with 4,000-plus driverless vehicles and more than 500,000 paid rides a week, is big enough to own its customer relationship in its core cities. Uber, with unmatched demand density, can genuinely make a smaller fleet more productive. January 2028 will show whether riders follow the Waymo app — or stay where the cars are easiest to summon.',
+    ],
+    sources: ['TechCrunch', 'The Register', 'Bloomberg'],
+  },
+  {
+    slug: 'robotaxi-tracker-november-2026-where-to-ride-driverless',
+    title: 'Robotaxi Tracker: Where You Can Actually Ride a Driverless Taxi in November 2026',
+    description:
+      'Waymo runs driverless rides in 15 US metros at 500,000 paid trips a week, Tesla’s Cybercab is live in Austin and reaching Dallas, and London still has no driverless taxi.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Driverless taxis have stopped being a novelty in parts of America — but the map is still very uneven, and London has none at all.',
+    body: [
+      'Robotaxis have stopped being a novelty in parts of the United States. In some American cities you can now open an app, get into a car with nobody in the driver’s seat, and pay for the trip like any other taxi. In others, the car still has a human behind the wheel, or the service is for invited riders only. And in London, despite the headlines, there is not yet a single robotaxi you can ride without a driver on board.',
+      'Waymo is the clear leader. Owned by Google’s parent company Alphabet, it is the only operator running a large, fully driverless public service in the West, operating in 15 US metro areas — including Phoenix, San Francisco, Los Angeles, Austin, Atlanta, Miami, and Las Vegas — and carrying more than 500,000 paid rides a week. October was busy: on October 14 Waymo opened its service to anyone in San Antonio, San Diego, and Tampa, including rides to San Antonio’s airport, and on October 27 it said it was adding nearly 250 square miles of coverage within a week across Los Angeles, Nashville, Orlando, San Diego, and the San Francisco Bay Area. In most cities you book through the Waymo app; in Austin and Atlanta, Waymo rides come through Uber instead — an arrangement that ends in January 2028.',
+      'Tesla is the challenger. Its steering-wheel-free Cybercab joined the public fleet in Austin on September 4, and Tesla says it will reach Dallas this month. Waymo logged 3.9 million miles a week with no one at the wheel in the second quarter, while Tesla’s driverless fleet covered 558,000 miles in its latest reported week — a roughly seven-to-one gap. Baidu and Zoox operate in their own markets, and Britain’s first robotaxi rides began in London on September 3, when Wayve and Uber launched supervised trips in electric Ford Mustang Mach-Es — supervised being the key word, since a safety driver is still on board.',
+      'The map keeps moving. Waymo is mapping Toronto for first riders in 2028 and has said it will start testing in Madrid, while London’s regulator has confirmed no vehicle has yet been listed under the Automated Vehicles Act and no application has reached it for consent. The honest summary for November 2026: if you want a driverless ride, book a Waymo in one of its 15 US metros; if you are in London, you are still waiting.',
+    ],
+    sources: ['Modern Robotics', 'Waymo'],
+  },
+  {
+    slug: 'robotaxi-fleet-sizes-waymo-tesla-november-2026',
+    title: 'How Many Robotaxis Are Actually on the Road? Waymo 4,000+, Tesla ~400 — a 50-to-1 Gap That Is Starting to Close',
+    description:
+      'Roughly 4,000 Waymo vehicles and about 400 Tesla robotaxis are deployed driverless in the US as of November 2, 2026 — but both fleets are set to grow fast.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Waymo outnumbers Tesla roughly 50-to-1 in deployed driverless cars — but Tesla’s Texas registrations jumped past 1,000 in a single week.',
+    body: [
+      'Roughly 4,000-plus Waymo vehicles and about 400-plus Tesla robotaxis are deployed as driverless vehicles in the US as of November 2, 2026 — about a 50-to-1 gap, though both fleets are set to grow under new permits. The counts, compiled by RoboTaxi Report and refreshed weekly from sourced fleet data, are the clearest public picture of the robotaxi race.',
+      'Waymo’s scale is the story. About 4,000 vehicles nationwide handle 500,000 paid rides a week, and Semafor reported on October 19 that Waymo aims for roughly 8,000 vehicles by the end of 2026 and 20,000 by the end of 2027 — figures Waymo did not comment on. Texas registrations tell the same story at state level: 1,259 Waymo AVs registered statewide on the November 2 pull, up 52 from 1,207 a week earlier, with about 5,100 Zeekr-built Ojai units on track to be imported by year-end for Texas, Florida, and Las Vegas.',
+      'Tesla is smaller but accelerating. Community tracking counts 397 driverless vehicles in Austin — more than half of them Cybercabs — plus 34 unsupervised Model Ys in Houston, with smaller counts in Dallas and Florida. Tesla’s own claim is 300-plus Cybercabs serving Austin. Texas registrations rose to 1,244 on the November 2 pull (573 Cybercab and 671 Model Y), up from 970 a week earlier and above 1,000 for the first time on October 27 — though registered is not the same as deployed, and Tesla still discloses no total fleet number. NHTSA estimates about 1,000 Model Y and Cybercab robotaxis in its school-zone petition file.',
+      'The gap is real, but the trajectory matters more than the snapshot. Waymo is adding thousands of vehicles and new cities; Tesla is adding hundreds and new zones. The next twelve months — Waymo toward 8,000, Tesla toward its seven-city plan — will show whether the 50-to-1 gap is a durable lead or a head start.',
+    ],
+    sources: ['RoboTaxi Report', 'TechCrunch', 'Electrek', 'Semafor'],
+  },
+  {
+    slug: 'cheapest-hybrids-2026-2027-truecar-november-2026',
+    title: 'The 20 Cheapest Hybrids for 2026 and 2027 — Starting Under $25,000',
+    description:
+      'TrueCar’s cheapest-hybrid ranking starts with the 2027 Toyota Corolla at $24,620 and runs through the Prius, Elantra, Maverick, and Camry — hybrids are now the value buy.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'The cheapest way into a new hybrid in late 2026 is a Corolla at about $25,000 — and the list is dominated by Toyotas and Hyundais.',
+    body: [
+      'Hybrids are the value buy of late 2026, and the cheapest ones start well under $30,000. TrueCar’s ranking of the 20 cheapest hybrids for 2026 and 2027 puts the 2027 Toyota Corolla first: a five-seater in six trim levels, with the popular Hybrid LE front-wheel drive starting at $26,470 and the range opening at $24,620, returning 34–50 mpg with 13.1 cubic feet of cargo space.',
+      'The rest of the top five shows how competitive the segment has become. The 2026 Hyundai Elantra Hybrid Blue starts at $26,945 with a 1.6-liter hybrid four-cylinder. The 2026 Ford Maverick XLT all-wheel drive starts at $32,490 — a hybrid pickup for the price of a midsize sedan. The 2027 Toyota Prius LE front-wheel drive starts at $30,050, and the 2027 Hyundai Sonata Hybrid Blue front-wheel drive starts at $30,745. The Honda Civic Hybrid Sport sedan, at $30,990, and the 2027 Toyota Camry SE, at $33,495, round out a top tier where every entry returns strong fuel economy.',
+      'The pattern is worth noting: hybrids now make up 18.6% of retail sales, up 4.0 points, while EV share has settled near 6% after tax credits expired. For buyers who want lower fuel bills without the charging homework, the cheapest hybrids deliver most of the savings at a much lower entry price than the cheapest EVs. The full list runs to 20 models, ending with the 2027 Hyundai Santa Fe Hybrid SE at $38,300 — a seven-seater for the price many EVs charge for five seats.',
+    ],
+    sources: ['TrueCar'],
+  },
+  {
+    slug: 'nhtsa-2025-recalls-891-software-fix-shift-november-2026',
+    title: 'Recalls Are Now a Software Business: 891 Campaigns in 2025, and Nearly Half of 2026 Recalls Can Be Fixed Over the Air',
+    description:
+      'NHTSA tallied 891 vehicle recalls covering 29 million vehicles in 2025, and BizzyCar counted 5.7 million of 12.2 million recalled vehicles in Q1 2026 as fixable by software update.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The recall notice used to mean a trip to the dealer. Increasingly it means a download in your driveway.',
+    body: [
+      'In its 2025 annual recalls report, NHTSA tallied 891 vehicle recalls covering more than 29 million vehicles. The scale is staggering — roughly one in ten vehicles on American roads was covered by a recall last year — but the more important shift is how those recalls are being fixed. BizzyCar, a firm that compiles recall data, counted about 5.7 million vehicles in the first quarter of 2026 that could be repaired over the air, close to half of the 12.2 million recalled in the quarter.',
+      'GM’s latest recall is the perfect illustration. The company’s recall of 67,380 Cadillac and Chevy EVs over a brake software defect has no new part: the remedy is a file, delivered over the air to owners who opted in or installed at a dealer. The brake system control module gets corrected code, and the car never needs a lift. A decade ago, a braking recall meant a service bay, a loaner car, and a parts backlog; today it increasingly means a download.',
+      'The shift cuts both ways. Over-the-air fixes mean defects can be corrected faster and more completely, with no appointment needed — but they also mean software defects can reach millions of cars before anyone notices, and a bad update can itself become a safety problem. GM’s own history proves the point: its 2024 brake software patch did not fully fix the condition, so the same cars are being recalled again. The recall system is adapting — NHTSA’s counts now track a world where the fix is code — and owners should treat recall notices for software with the same urgency as a mechanical defect.',
+    ],
+    sources: ['NHTSA', 'BizzyCar', 'Sparknify'],
+  },
+  {
+    slug: 'costco-november-car-discounts-2026',
+    title: 'Costco’s November 2026 Car Buying Discounts: What Members Can Actually Get',
+    description:
+      'Costco is rolling out member-exclusive new-car discounts for November 2026, with reported savings including $2,500 off select SUVs and $1,000 extra on hybrids and EVs.',
+    date: 'November 5, 2026',
+    dateISO: '2026-11-05',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Costco’s November car offers are real, but they vary by location and model — the headline savings are examples, not guarantees.',
+    body: [
+      'This November 2026, Costco members can explore potential savings with new car buying discounts. Every November, Costco launches new member-exclusive offers, and this year is no different: the program offers pre-negotiated prices with various manufacturers, aiming to streamline the buying experience with perks such as extended warranties or maintenance plans.',
+      'While exact deals vary, reports of the November 2026 offers describe savings such as $2,500 off select SUVs from popular brands like Ford and Toyota, plus an additional $1,000 discount on hybrid or electric vehicles. Membership level matters: Gold Star and Executive members may be entitled to different benefits, with Executive members often getting the better terms. With the average cost of a new car at approximately $48,000, according to a 2026 AutoTrader study, pre-negotiated discounts can matter more than ever for budget-conscious buyers.',
+      'The honest caveats are important. Specific offers vary month to month and by location, and dealer markups have increased significantly this year, according to the National Automobile Dealers Association. Use Costco’s auto buying price sheet to understand average vehicle prices before you buy, confirm the exact discount with the participating dealer in your area, and compare it against the end-of-model-year clearance deals available on 2026 models — a Costco price is a good starting point, not necessarily the best price on the lot.',
+    ],
+    sources: ['FindTopResults', 'AutoTrader', 'National Automobile Dealers Association'],
+  },
 
   {
     slug: 'musk-confirms-tesla-spacex-merger-talks-october-2026',
