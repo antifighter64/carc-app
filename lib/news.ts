@@ -13,6 +13,400 @@ export interface NewsArticle {
 }
 
 export const ARTICLES: NewsArticle[] = [
+{
+    slug: 'tesla-cybertruck-production-winds-down-mid-2027-cybercab-november-2026',
+    title: 'Musk Says Tesla Will Wind Down Cybertruck Production in Mid-2027 to Make Room for the Cybercab',
+    description:
+      'Elon Musk said Tesla will wind down Cybertruck production at Gigafactory Texas around mid-2027 so the plant can build more Cybercabs — ending the stainless-steel pickup after a four-year run.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      '“Winding down” is not “ending” — Musk gave no hard stop date, but the factory floor is being handed to the robotaxi.',
+    body: [
+      'Tesla will wind down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production, Elon Musk said in a post on X on Friday, November 6. The two-seat robotaxi takes over the factory floor from the stainless-steel pickup that Tesla unveiled in November 2019 and spent years bringing to market.',
+      'Musk said “winding down,” not “ending,” and gave no hard stop date, no production volumes, and no word on whether Cybertruck assembly moves elsewhere or what happens to existing orders. Cybertruck lead engineer Wes Morrill moved quickly to answer the question owners care about most, replying that Tesla will maintain spare parts and service support for trucks already on the road. Tesla had already cancelled Cybertruck plans for Australia and New Zealand in October, refunding reservation holders there.',
+      'The sales picture explains the decision. Cox Automotive estimates Tesla sold 11,586 Cybertrucks in the US from January through September 2026, down 28 percent from a year earlier and just 1.6 percent of US electric-vehicle sales, against analysts’ expectation of about 22,000 for the full year. Tesla also ended premium Model S and X production earlier this year as Musk shifts the company’s focus and investment toward robotics and artificial intelligence.',
+      'The Cybercab is the bet replacing it. Tesla began charging for driverless rides in Austin on September 3, and the National Highway Traffic Safety Administration opened an audit of the steering-wheel-free vehicle’s safety certification, escalating on September 10 with a Special Order demanding sworn answers. Tesla’s own factory deck lists installed Texas capacity above 125,000 vehicles a year for each of the Cybertruck and the Cybercab, and after third-quarter results the company said it hopes to get Cybercabs to customers by the end of 2026. Anyone still deciding on a Cybertruck now has a rough clock: about the first half of 2027, unless Tesla fills in the blanks Musk left open.',
+    ],
+    sources: ['Reuters', 'Morningstar', 'TeslaNorth', 'Dealroom', 'Business Insider'],
+  },
+  {
+    slug: 'tesla-stock-brutal-week-november-2026-musk-80-billion',
+    title: 'Tesla’s Brutal Week: Shares Fall 11% in a Day and $80 Billion Comes Off Musk’s Fortune',
+    description:
+      'Tesla shares fell about 11% on Thursday, November 5, extending a slide of roughly 15% since the midterm elections — and the drop wiped about $80 billion from Elon Musk’s fortune in a single day.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A post-midterm selloff in Musk-linked companies met a broader AI selloff — and Tesla took the worst of it.',
+    body: [
+      'Tesla shares fell about 11 percent on Thursday, November 5 — a 10.77 percent drop by one market-data count — extending a slide of roughly 15 percent since the midterm elections. The stock was up slightly in premarket trading on Friday, November 6, after collapsing over the previous few days.',
+      'The drop wiped around $80 billion from Elon Musk’s fortune on Thursday alone, according to the Bloomberg Billionaires Index, reducing his wealth to $785 billion. The slide followed Democratic sweeps in Texas races Musk had backed with more than $200 million, and investors worried the results could affect his business empire, alongside a broader selloff in AI-related stocks.',
+      'The timing stings because Tesla is asking investors to value it on its next bets, not its current cars. Musk told investors last month that Optimus robot production has begun, with deliveries to outside companies expected by the end of 2027, and Tesla aims to get Cybercabs to customers by year-end. A smaller spending plan — about $20 billion for 2026 — produced surprise positive free cash flow, but for a stock priced on robotaxis and robots, investors read smaller spending as slower growth.',
+      'Friday brought one more headline for the pile: Musk’s announcement that Cybertruck production winds down in mid-2027 to make room for the Cybercab. The truck’s slow sales made the decision easy to explain, but the market’s verdict on the week is already in — and it is the worst stretch for Tesla shares since the company’s pivot to autonomy began.',
+    ],
+    sources: ['Business Insider', 'TipRanks', 'Dealroom', 'BeInCrypto'],
+  },
+  {
+    slug: 'toyota-raises-profit-forecast-shares-jump-16-percent-november-2026',
+    title: 'Toyota Raises Its Profit Forecast and Shares Jump 16% — the Biggest Gain Since 1987',
+    description:
+      'Toyota raised its full-year operating profit forecast 15% to 3.9 trillion yen on strong hybrid demand, and its Tokyo shares jumped more than 16% — the biggest single-day gain since 1987.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Hybrids are doing the heavy lifting: electrified vehicles were 55.6% of Toyota’s first-half volume.',
+    body: [
+      'Toyota raised its full-year operating income forecast by 15 percent to 3.9 trillion yen ($24.7 billion) for the fiscal year ending March 2027, the company said on November 5, and its shares jumped more than 16 percent in Tokyo — the biggest gain since 1987. In US trading the stock was up about 9 percent in premarket trading on Thursday.',
+      'The numbers behind the rally are strong. Operating income for the first half of the fiscal year reached 2.2 trillion yen, and profit for the three months ended September rose 34 percent to a higher-than-expected 1.1 trillion yen, the first gain in six quarters. First-half sales revenue rose 9.5 percent to just under 27 trillion yen. Quarterly net income fell nearly 19 percent year over year to 759.4 billion yen as the company grappled with rising supply costs and US tariffs, but Toyota still lifted its full-year net income guidance to 3.57 trillion yen, up from 3.25 trillion.',
+      'Hybrids are the engine of the result. Electrified vehicles were 55.6 percent of Toyota’s first-half volume, driven by strong hybrid demand in North America and Europe, and the company credited swift responses to tariffs, a weaker yen, cost reductions with suppliers, and price revisions. Toyota also expanded its buyback program to as much as 1.3 trillion yen and is allocating as much as 14 trillion yen for shareholder returns over the next five years.',
+      'There are two caveats in the same report. Toyota cut its annual group sales target to 10.99 million units, from 11.18 million, citing weaker demand in China and the situation in the Middle East, and it flagged about 1 trillion yen in rising material prices. The company also set up a dedicated robotics department, joining major rivals in building out the technology — a reminder that even the world’s largest carmaker now sees robots as part of the car business.',
+    ],
+    sources: ['Motley Fool', 'Transport Topics', 'Seeking Alpha', 'Investopedia', 'Jalopnik'],
+  },
+  {
+    slug: 'hyundai-recalls-37901-kona-ev-veloster-n-airbag-november-2026',
+    title: 'Hyundai Recalls 37,901 Kona EVs and Veloster N Cars Over Airbags That May Not Deploy',
+    description:
+      'Hyundai is recalling 29,058 Kona Electric and 8,843 Veloster N vehicles because a software error can deactivate the airbag system — with 331 alleged incidents reported and no crashes or injuries so far.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A software error in the airbag control unit can switch the whole system off — and the warning light is the only tell.',
+    body: [
+      'Hyundai is recalling 37,901 vehicles because a software error can keep the airbags and seat belt pretensioners from deploying in a crash, according to documents the company sent to the National Highway Traffic Safety Administration on November 4. The recall covers 29,058 Kona Electric vehicles from model years 2019 through 2023 and 8,843 Veloster N cars from model years 2019 through 2022.',
+      'The defect sits in the airbag control unit. Under certain driving conditions the software error can switch on the airbag malfunction indicator light and deactivate the airbag system and the seat belt pretensioners — the two systems that are supposed to work together in a collision. The campaign is listed as NHTSA 26V728, with Hyundai’s internal number 311.',
+      'Hyundai told NHTSA it is aware of 331 alleged incidents related to the issue as of October 22, 2026, but none resulted in a crash, fire, or injury. Owner notification letters are expected to be mailed January 1, 2027, and the affected vehicle identification numbers became searchable on NHTSA’s website on November 6. Owners can check their VIN at NHTSA.gov or call the agency’s Vehicle Safety Hotline at 1-888-327-4236.',
+    ],
+    sources: ['Electrek', 'NHTSA'],
+  },
+  {
+    slug: 'ford-recalls-11405-ranger-rearview-camera-november-2026',
+    title: 'Ford Recalls 11,405 Ranger Pickups Over Rearview Cameras That May Go Dark',
+    description:
+      'Ford is recalling 11,405 model-year 2026 Ranger pickups whose rearview cameras may not display an image — the fix is still being developed.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A camera that shows nothing is a backup-crashes risk — and Ford does not yet have the remedy ready.',
+    body: [
+      'Ford is recalling 11,405 model-year 2026 Ranger pickups because their rearview cameras may not display an image, increasing the risk of a crash while reversing. The campaign is listed as NHTSA recall number 26V605.',
+      'The remedy is still under development, according to the recall filing, and Ford will send additional owner letters once a fix is available. Owners of affected trucks should treat the camera as unreliable until the repair is done and rely on mirrors and a spotter when backing up.',
+      'The Ranger is not Ford’s first rearview-camera problem this year. In September 2026 Ford recalled 48,000 F-150 pickups whose rearview cameras also would not work, and in May 2026 it recalled 180,000 Ranger and Bronco vehicles over loose front seats. Ford is already the most-recalled automaker of 2026 by a wide margin, and the Ranger camera recall adds one more campaign to the count.',
+    ],
+    sources: ['MotorSafety.org', 'NHTSA'],
+  },
+  {
+    slug: 'volkswagen-recalls-tiguan-steering-bolt-260000-november-2026',
+    title: 'Volkswagen Recalls Nearly 260,000 Vehicles in Two Campaigns: Tiguans That Stall and a Steering Bolt That Can Break',
+    description:
+      'Volkswagen recalled 49,958 model-year 2025 Tiguans that can stall or lose safety systems, plus 208,724 vehicles that may lose steering from a fractured bolt.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Two separate defects, one week: a software stall and a bolt that can take the steering with it.',
+    body: [
+      'Volkswagen has recalled 49,958 model-year 2025 Tiguan SUVs that can stall or experience a loss of multiple safety systems, according to a filing published November 3. The defect raises the risk of a serious accident, and dealers will update the body control module software free of charge. The campaign is listed as NHTSA recall number 26V587, with owner letters set to be mailed November 6, 2026.',
+      'A second, larger campaign covers 208,724 vehicles that may lose steering due to a fractured bolt, listed as NHTSA recall number 26V590. The report seen did not list the affected models for the steering campaign, so owners of recent Volkswagen models should check their VIN rather than assume they are unaffected.',
+      'The two campaigns land in a heavy recall month for the industry and follow Volkswagen’s October action covering 72,700 electric vehicles worldwide over faulty battery cells. Owners can check whether their vehicle is included by entering the VIN on NHTSA.gov.',
+    ],
+    sources: ['MotorSafety.org', 'NHTSA'],
+  },
+  {
+    slug: 'toyota-recalls-8521-chr-ev-stall-november-2026',
+    title: 'Toyota Recalls 8,521 C-HR Electric SUVs That May Stall While Driving',
+    description:
+      'Toyota is recalling 8,521 model-year 2026 C-HR electric SUVs that may stall while driving, listed as NHTSA campaign 26V570.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'The C-HR is Toyota’s new electric SUV — and its first recall is a stall risk.',
+    body: [
+      'Toyota is recalling 8,521 model-year 2026 C-HR electric SUVs that may stall while driving, according to a filing listed as NHTSA recall number 26V570. A stall at speed removes motive power without warning, which is the same class of defect behind several other Toyota electric-vehicle recalls this year.',
+      'Owner notification letters were scheduled to be mailed between October 18 and November 1, 2026. Owners can check whether their vehicle is included by entering the VIN at Toyota.com/recall or NHTSA.gov/recalls.',
+      'The C-HR recall is the smallest of Toyota’s recent electric-vehicle actions — the company recalled 176,737 vehicles in China this week across bZ EVs, Land Cruiser Prado and Lexus GX models — but for the 8,521 owners affected, the advice is the same: get the free fix done before the car decides when to stop.',
+    ],
+    sources: ['MotorSafety.org', 'NHTSA'],
+  },
+
+  {
+    slug: 'us-october-auto-sales-13-million-toyota-kia-hyundai-records-november-2026',
+    title: 'US Auto Sales Rose 4% in October as Toyota, Kia and Hyundai Set Records — and Hybrids Took Nearly a Fifth of the Market',
+    description:
+      'About 1.3 million new vehicles sold in the US in October, up 4% from a year earlier. Toyota had its best October ever, Kia and Hyundai set October records, and hybrids reached 18.6% of the market.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Hybrids are the story of October: 18.6% of the market, up from 14.6% a year ago, while pure EVs sit near 6%.',
+    body: [
+      'US new-vehicle sales rose about 4 percent in October to roughly 1.3 million units, according to preliminary estimates released November 4 by GlobalData, with retail sales up 3.1 percent to about 1.1 million and the seasonally adjusted annual rate at 15.6 million. Cox Automotive put the month slightly higher, at 1.38 million units and a 16.1 million annual rate, so the exact total depends on the forecaster — but every estimate agrees the market grew.',
+      'Toyota had the month’s headline result. Toyota Motor North America sold 221,507 vehicles, up 6.5 percent, with the Toyota division at 188,392, up 5.7 percent for the company’s best October ever, and Lexus up 12 percent. Combined Toyota and Lexus electrified sales rose 35 percent to 126,054, or 57 percent of total volume, and the RAV4, Grand Highlander and Sienna all had strong months. Kia set a new sales record for a sixth straight month at 80,008 units, up 16 percent, outselling its larger corporate sibling Hyundai — 73,452, up 4.8 percent and also an October record — for the third month this year.',
+      'The rest of the monthly reporters mostly beat the market too. American Honda sold 119,952 vehicles, up 8 percent, with the CR-V up 9.8 percent and the Accord and HR-V both up 11 percent. Mazda jumped 25 percent to 31,446, its second-best October, and Subaru rose 6 percent to 54,090. Ford was the exception, slipping 0.5 percent to 173,442, though its F-Series pickup rose 8.2 percent to 73,482.',
+      'The powertrain split is the real story. Hybrids accounted for 18.6 percent of the market in October, up from 14.6 percent a year earlier, while fleets grew 9 percent to a 17 percent share of sales. Pure electric vehicles, by contrast, remain stuck near 6 percent of retail sales after the federal tax credits expired. October’s winners are the brands selling hybrids at scale — and the losers are the ones still waiting for EV demand to come back.',
+    ],
+    sources: ['GlobalData', 'CarPro', 'BestSellingCarsBlog', 'DealershipGuy', 'MarkLines'],
+  },
+  {
+    slug: 'ford-october-ev-sales-plunge-71-percent-lightning-zero-november-2026',
+    title: 'Ford Sold Just 1,355 EVs in October — Down 71% — and Zero F-150 Lightnings',
+    description:
+      'Ford’s electric-vehicle sales fell 71.2% in October to 1,355 units, and the F-150 Lightning sold zero — while trucks and gas models carried the month.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'The F-150 Lightning — Ford’s electric truck — sold exactly zero units in October.',
+    body: [
+      'Ford sold just 1,355 electric vehicles in the US in October 2026, down 71.2 percent from a year earlier, the company reported November 4. Hybrid sales fell 21 percent to 13,818, and total electrified-vehicle sales dropped 31.7 percent to 15,173. The month’s most striking line in Ford’s own release: F-150 Lightning sales were listed at zero.',
+      'The collapse is not a Ford-wide slump. Total Ford sales edged down just 0.8 percent to 174,123 units, because internal-combustion sales rose 3.6 percent to 158,950 and trucks grew 2.3 percent to 108,175. F-Series sales rose 8.2 percent to 73,482, Explorer sales surged 35.2 percent to 23,885, and the Mustang Mach-E fell 57.4 percent to 1,239. For the first ten months of 2026 Ford’s US sales are down 7.9 percent to 1.69 million, with electric-vehicle sales down 67.7 percent to 24,008.',
+      'The context is the post-tax-credit EV market. US electric-vehicle share has settled near 6 percent of retail sales since federal incentives expired, and buyers who do want an electric Ford are increasingly choosing the hybrid Maverick instead — its sales jumped nearly 60 percent in the third quarter. Ford’s answer is the Fathom, its affordable electric truck starting at $28,350 with pre-orders opening in the first quarter of 2027.',
+      'For shoppers, the October numbers cut two ways. Ford’s gas trucks and SUVs are selling well and carrying big incentives, while its electric lineup is effectively on pause until the Fathom arrives. A zero-sales month for the Lightning is the clearest sign yet that Ford’s first EV wave has run its course.',
+    ],
+    sources: ['Ford', 'Seeking Alpha', 'TradingView', 'dpa-AFX'],
+  },
+  {
+    slug: 'global-ev-registrations-record-11-million-nine-months-november-2026',
+    title: 'Global EV Registrations Hit a Record 11 Million in Nine Months — Europe Up 42%, the US Down 29%',
+    description:
+      'Battery-electric registrations reached a record 11 million in the first nine months of 2026, with Europe surging 42% while the US fell 29% after its incentives expired.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Three markets, three stories: record Europe, flat China, and a US still working through the tax-credit cliff.',
+    body: [
+      'Global registrations of battery-electric vehicles rose 12 percent in the first nine months of 2026 to a record 11 million, according to consultancy PwC’s Electric Vehicle Sales Review, published October 29. The third quarter alone set a record with 4.3 million battery-electrics registered worldwide.',
+      'Europe is driving the growth. The region accounted for 2.5 million electric cars in the first nine months, up 42 percent on the previous year, and in Germany registrations jumped 58 percent to 604,000 — narrowing the gap with the United States, the world’s second-largest market. In Europe’s five largest car markets, battery-electric registrations rose 66 percent in the third quarter and topped 600,000 in a single quarter for the first time.',
+      'China, the world’s largest electric-vehicle market, stalled in volume terms with registrations around 6 million, but its battery-electric share reached a record 49 percent in the third quarter, when it registered 2.5 million battery-electrics — the highest volume ever recorded for a third quarter. The United States moved the other way after federal incentives expired in the third quarter of 2025: registrations fell 29 percent to around 746,000 over the nine months, and its battery-electric market share fell to 6 percent in the third quarter, while hybrid sales rose 26 percent to 649,000.',
+      'The split explains where automakers are sending their electric cars. Germany’s record October — battery-electrics took 37 percent of its new-car market — shows European demand is being carried by affordable electric models and strong domestic brands, while American EV sales have fallen back to a level the market has to grow out of on price and product alone.',
+    ],
+    sources: ['PwC Autofacts', 'Qatar Reporter'],
+  },
+  {
+    slug: 'china-nev-wholesale-18-million-october-leapmotor-november-2026',
+    title: 'China’s New-Energy Vehicles Hit 1.8 Million Wholesale in October as Leapmotor Tops 100,000 for a Fourth Straight Month',
+    description:
+      'China’s new-energy passenger-vehicle wholesale reached about 1.8 million in October, up 12% year over year, with Leapmotor delivering 106,100 vehicles — its fourth straight month above 100,000.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Subsidies expire at the end of December, and buyers are pulling purchases forward — October is the rush before the deadline.',
+    body: [
+      'Wholesale sales of new-energy passenger vehicles in China reached approximately 1.8 million units in October 2026, up 12 percent year over year and 8 percent from September, according to preliminary estimates the China Passenger Car Association released November 3. After a period of adjustment, the association said the sector has entered a recovery channel, with growth significantly outpacing the overall market.',
+      'The startup rankings shifted noticeably. Leapmotor delivered 106,100 vehicles in October, up 51 percent from a year earlier, marking its fourth consecutive month above 100,000 units. BYD remained the industry leader with about 490,000 new-energy vehicles in October, up roughly 11 percent year over year — a month in which it sold more pure battery-electrics, 305,743, than the entire United States bought in the whole third quarter.',
+      'The association attributes October’s growth to three main drivers, and the most important is a deadline: subsidy programs are set to expire at the end of December, prompting consumers to pull purchases forward. China’s new-energy vehicles hit a record 67 percent of new-car sales in September, according to Carbon Brief’s analysis of association data.',
+      'The question now is what January looks like. If October’s strength is mostly buyers rushing the subsidy deadline, the first months of 2027 could be soft even for the brands setting records today — and the gap between the scale leaders and the rest of the field is widening fast.',
+    ],
+    sources: ['Gasgoo', 'China Passenger Car Association', 'EVThrottle'],
+  },
+  {
+    slug: 'lyft-waymo-nashville-fleet-expansion-year-end-november-2026',
+    title: 'Lyft Will “Significantly Grow” Its Waymo Robotaxi Fleet in Nashville by Year-End',
+    description:
+      'Lyft plans to significantly grow the Waymo robotaxi fleet it manages in Nashville by year-end, with airport rides coming soon — and it gets paid twice for every car.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Lyft earns on both sides of the robotaxi: rides booked on its app, plus a fee for every car it charges, cleans and maintains.',
+    body: [
+      'Lyft plans to “significantly grow” its Waymo robotaxi fleet in Nashville by year-end, the company said on Thursday, November 5, stepping up efforts to earn more from self-driving cars by both managing fleets and matching riders to them. Airport rides on Waymo autonomous vehicles are also “coming soon,” according to the company.',
+      'Lyft gets paid in two ways in Nashville: through Waymo rides booked on its app, and through a fee for each available vehicle it maintains, charges and cleans, chief financial officer Michael Brous told Reuters. Its Flexdrive unit has serviced the Nashville fleet since June, and Lyft opened an 80,000-square-foot depot in the city in October to charge, clean and maintain the cars.',
+      'Brous declined to give fleet size or utilization figures, two common measures of a robotaxi service’s progress, but said early indications were good, “as evidenced by expanding the service area, growing the fleet, opening up airport rides, and then we’ll take it from there.” He also cautioned that robotaxis would take “a long time” to scale meaningfully, citing hardware, regulation, operational challenges and a broader backlash against AI over data centers and job losses.',
+      'The Nashville push comes the same week Waymo said it will end its exclusivity agreement with Uber in Austin and Atlanta from January 2028. Waymo wants its own customers; Lyft wants to be the company that operates the fleets. Nashville is where that second model is being tested at scale.',
+    ],
+    sources: ['Reuters', 'Duke FM', 'Global Banking & Finance'],
+  },
+  {
+    slug: 'joby-q3-revenue-55-million-air-force-37-million-november-2026',
+    title: 'Joby’s Q3 Revenue Beat Expectations at $55 Million as the Air Force Raised Its Bet to $37 Million',
+    description:
+      'Joby Aviation reported third-quarter revenue of $55.09 million, up 144% year over year, raised its full-year outlook, and said the US Air Force increased its autonomous-flight funding to nearly $37 million.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'The revenue is mostly helicopters, not air taxis — but the loss narrowed by nearly half and the guidance went up.',
+    body: [
+      'Joby Aviation reported third-quarter 2026 revenue of $55.09 million, up 143.8 percent year over year and well above analysts’ expectations of about $38.95 million, the company said November 4. The loss per share came in at $0.22, beating the consensus of a $0.25 loss, and the net loss narrowed about 47 percent to $211.8 million from $401.2 million a year earlier. Joby raised its full-year 2026 revenue outlook by 15 percent to $135 million to $140 million, and its shares rose in after-hours trading.',
+      'Almost all of the revenue is still the old business, not the new one. The $55 million came primarily from Blade, the helicopter and seaplane passenger business Joby bought in 2025, which carried more than 44,000 passengers in the quarter. Joby ended September with $2.2 billion in cash, cash equivalents and short-term investments, and expects to use $385 million to $415 million in the second half of 2026.',
+      'The certification story advanced on two fronts. Joby said it is in the fifth and final stage of FAA type certification, completed a wide range of “for credit” testing with the regulator, and expects FAA pilots to start official flight tests in the first half of 2027. Five aircraft are flying in the final stage, with 12 more in production, and the company says Dubai flight tests with a pilot on board start later this year — though the first paying passengers now look more likely in 2027 than 2026.',
+      'Defense is becoming a second business line. The US Air Force increased its total commitment to Joby’s autonomous aviation programs to nearly $37 million and raised the maximum value of the operational testing contract to $50 million, funding autonomous flight software and expanded testing in the Pacific region. Joby’s autonomous J208 has logged 400 flights and 800 automated hours, and the company expects to close its roughly $500 million acquisition of defense-tech firm Resonant Sciences in early 2027.',
+    ],
+    sources: ['MarketBeat', 'TipRanks', 'Stocktwits', 'The Evergreen Edit', 'Aviation Analysis'],
+  },
+  {
+    slug: 'subaru-wrx-outsold-all-evs-combined-october-november-2026',
+    title: 'Subaru’s Gas-Powered WRX Outsold All Three of Its EVs Combined in October — 1,707 to 843',
+    description:
+      'Subaru sold 1,707 WRX sedans in October, up 137%, while its three electric SUVs combined managed just 843 — with the Solterra down 87% to 146 units.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'One gas sedan beat the entire electric lineup — and the Solterra barely sold more than a hundred cars.',
+    body: [
+      'Subaru of America sold 1,707 WRX sedans in October 2026 — and just 843 electric vehicles across all three of its EV nameplates combined. The gas-powered performance sedan outsold the Solterra, Trailseeker and Uncharted put together by 864 units, according to Subaru’s October sales release.',
+      'The WRX grew 137.1 percent from 720 units in October 2025 and is up 55 percent year to date. The electric side went the other way: the Solterra sold 146 units, down 86.7 percent from 1,100 a year earlier, while the newer Trailseeker managed 396 and the Uncharted 301. Subaru’s total US volume rose 6 percent to 54,090 vehicles in the month.',
+      'The rest of the lineup did the heavy lifting. The Crosstrek took the top-seller spot with 16,574 vehicles, up 1.8 percent, and the Forester sold 16,094, up 26 percent — both their best-ever Octobers — with the Forester up 18.4 percent year to date. The Outback held third at 13,711, up 2 percent, and the BRZ rose 30.2 percent for the month.',
+      'The contrast is the story. Subaru’s buyers are voting with their wallets for affordable gas performance and proven crossovers, while its electric lineup — launched into a US market where EV share has settled near 6 percent after the tax credits expired — is barely moving. The WRX, a car the industry keeps predicting will die, just had its best October in years.',
+    ],
+    sources: ['Subaru of America', 'Tech Insider', 'BestSellingCarsBlog'],
+  },
+
+  {
+    slug: 'lucid-q3-deliveries-3806-miss-earnings-november-9-november-2026',
+    title: 'Lucid Delivered Just 3,806 Cars in Q3 — Missing Estimates — and Reports Earnings on November 9',
+    description:
+      'Lucid delivered 3,806 vehicles in the third quarter, down 6.7% year over year and short of the 4,687 analysts expected, while building only 2,954. Full results arrive November 9.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Deliveries beat production by drawing down inventory — and the fourth quarter now has to be the biggest in company history.',
+    body: [
+      'Lucid delivered 3,806 vehicles in the third quarter of 2026, down 6.7 percent year over year and short of the 4,687 analysts had expected, the company disclosed in October. It built just 2,954 vehicles in the quarter, down from 3,891 a year earlier, after removing a second shift at its AMP-1 plant in June. Deliveries topped production by 852 vehicles because the company drew down existing inventory.',
+      'The math for the rest of the year is now steep. Lucid has delivered 10,852 vehicles so far in 2026, and to meet Wall Street’s full-year estimate of about 17,070 units it would need to deliver more than 6,200 vehicles in the fourth quarter — above its fourth-quarter 2025 record of 5,345. The company reports full third-quarter results after the market closes on Monday, November 9, with a call at 5:30 p.m. Eastern Time.',
+      'Analysts expect revenue of about $395.67 million and a loss of $2.27 per share, and the report will also show cash, losses and progress on management’s operating reset, which targets $1.4 billion of cash-flow improvements in 2026. With no cash figure disclosed yet, investors lack hard numbers ahead of the report — and the delivery miss means the earnings call will be judged as much on the fourth-quarter outlook as on the third-quarter results.',
+    ],
+    sources: ['TipRanks', 'MarketBeat', 'Kalkine'],
+  },
+  {
+    slug: 'ford-fathom-top-trim-under-40000-preorders-q1-2027-november-2026',
+    title: 'Ford’s Cheapest EV Truck Tops Out Under $40,000 — and Pre-Orders Open in Early 2027',
+    description:
+      'Even the most expensive version of Ford’s upcoming Fathom electric truck will cost under $40,000, with pre-orders opening in the first quarter of 2027.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The base truck starts at $28,350 — and now the ceiling is set too: under $40,000 for the works.',
+    body: [
+      'Even the most expensive version of Ford’s upcoming Fathom electric truck will cost under $40,000, according to Jalopnik’s Morning Shift roundup on November 5. Ford is still on track to open Fathom pre-orders in the first quarter of 2027, according to Andrew Frick, president of Ford Blue and Model e.',
+      'The pricing completes a picture Ford started sketching in October, when it put the Fathom’s starting price at $28,350. That makes the whole range — from the base truck to the most expensive trim — fit inside an $11,650 band, with the top of the lineup still cheaper than the average new vehicle in America, which costs just over $50,000.',
+      'The Fathom is the first vehicle on Ford’s Universal EV Platform, built around a smaller battery, a simpler design and home-backup power capability, and it arrives as Ford’s current electric lineup fades: the F-150 Lightning sold zero units in October and the Mustang Mach-E fell 57 percent. For Ford, the Fathom is not just a new truck — it is the reset of the company’s entire EV strategy around affordability.',
+    ],
+    sources: ['Jalopnik', 'Ford'],
+  },
+  {
+    slug: 'fiat-500-production-paused-fourth-week-chip-shortage-november-2026',
+    title: 'Fiat 500 Production Paused for a Fourth Straight Week as the Chip Shortage Bites Again',
+    description:
+      'Stellantis is extending the production stoppage at its Fiat 500 plant in Turin, Italy, for the whole of next week — the fourth consecutive week with no cars built.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Four weeks, no cars: the semiconductor shortage has shut the historic Mirafiori plant again.',
+    body: [
+      'Stellantis is extending the current stoppage at its Fiat 500 plant in Turin, Italy, for the whole of next week, November 9 to 13, because of a semiconductor chip shortage, according to the automaker and the FIOM trade union. The extension marks the fourth consecutive week of no production at the historic Mirafiori plant.',
+      'The pause is a reminder that the chip shortage never fully went away for smaller, lower-margin cars. The 500 is Fiat’s icon and one of Stellantis’s most recognizable nameplates, but when semiconductors are scarce, suppliers and automakers prioritize the higher-priced vehicles that carry the most profit per chip.',
+      'Stellantis reported third-quarter revenue of 37.6 billion euros, up 1 percent, with Ram surging in North America — but the Fiat stoppage shows the group’s European mass-market business is still fragile. For buyers waiting on a 500, the fourth week of silence means delivery dates keep slipping with no restart date announced.',
+    ],
+    sources: ['Jalopnik', 'Stellantis', 'FIOM'],
+  },
+  {
+    slug: 'mercedes-q3-margin-25-percent-record-bev-sales-november-2026',
+    title: 'Mercedes’ Car Margin Fell to 2.5% in Q3 Even as Its Electric Sales Hit a Record',
+    description:
+      'Mercedes-Benz Cars earned just a 2.5% adjusted margin in the third quarter as China weakness bit — even as battery-electric sales jumped 61% to a quarterly record of 68,428.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Record EV sales and a collapsing margin in the same quarter: the luxury EV transition is not paying for itself yet.',
+    body: [
+      'Mercedes-Benz Group reported third-quarter revenue of 30.7 billion euros, down 4.5 percent year over year, with group EBIT of 1.77 billion euros and net profit of 1.52 billion euros, the company said October 28. The reported profit rose mainly because the prior-year quarter carried heavy restructuring and legal charges — on an adjusted basis, group EBIT fell 15 percent to 1.78 billion euros.',
+      'The pressure is concentrated in the car division. Mercedes-Benz Cars sold 407,232 vehicles, down 8 percent, with adjusted EBIT falling by more than half to 560 million euros and the adjusted return on sales dropping to 2.5 percent from 4.8 percent a year earlier. China was the main drag, and management cut the full-year adjusted margin guidance for the car division to 2 to 3 percent, from 3 to 5 percent. Industrial free cash flow collapsed to 172 million euros from 1,367 million a year earlier.',
+      'The bright spot is electric: Mercedes-Benz Cars achieved its highest-ever quarterly battery-electric sales, up 61 percent year over year to 68,428 units, with growth in Europe and the United States. Vans stayed highly profitable at a 9.4 percent adjusted margin, and Financial Services delivered a 42 percent jump in adjusted EBIT to 445 million euros. The group’s earnings, in other words, are increasingly coming from everywhere except selling cars.',
+      'The response is strategic, not just financial. Reuters reported October 28 that Mercedes is working on a repositioning aimed at reducing its dependence on the Chinese market, and the company is selling its European fast-charging network to Electra. For a brand that built its identity on engineering margins, a 2.5 percent car margin is the number that frames everything else.',
+    ],
+    sources: ['Mercedes-Benz', 'ad-hoc-news', 'Daan Investor'],
+  },
+  {
+    slug: 'gas-prices-410-highest-ever-early-november-november-2026',
+    title: 'Gas Falls to $4.10 — but It Is Still the Highest Price Ever Recorded in Early November',
+    description:
+      'The national average for regular gas fell 12 cents in a week to $4.10, the 12th straight daily drop — yet it is more than a dollar above a year ago and the highest ever for this time of year.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Twelve straight days of falling prices — and drivers are still paying more than ever for November.',
+    body: [
+      'The national average for a gallon of regular gasoline fell 12 cents in one week to $4.10 on November 5, AAA reported, the 12th straight daily drop as crude oil dipped back into the high-$80 to low-$90 per barrel range. But the relief is relative: pump prices remain the highest ever recorded during this time of year. Before 2026, the national average had never gone above $4 per gallon in November, and the current average is more than a dollar higher than a year ago, when it was $3.08.',
+      'The Election Day number tells the same story. On Tuesday, November 3, the average was $4.14 — the highest ever on an Election Day going back to 1994, according to Energy Information Administration data. AAA’s average has been above $4 per gallon since April, and diesel is far worse at $6.26 a gallon nationally.',
+      'The state spread is enormous. California averages $5.84 a gallon, the highest in the country, while North Carolina is the cheapest at $3.34 — because the state suspended its 41-cent-per-gallon motor fuel tax on October 10 under the Relief at the Pump Act, a holiday that runs through November 30. Add the tax back and North Carolina would be about $3.75. The all-time national high remains $5.02, set June 14, 2022 — a record this November is not close to breaking, but one drivers would not have believed possible a year ago.',
+    ],
+    sources: ['AAA', 'USA Today', 'GasBuddy', 'WNC Times'],
+  },
+  {
+    slug: 'tesla-semi-volume-production-25000-capacity-2500-order-november-2026',
+    title: 'Tesla’s Semi Is Finally in Volume Production — at Half Its Planned Capacity — With a 2,500-Truck Order to Fill',
+    description:
+      'Tesla’s Nevada Semi plant is listed as in production with 25,000 trucks a year of installed capacity, half the 50,000 it was designed for, and first deliveries under a 2,500-truck order are due this quarter.',
+    date: 'November 6, 2026',
+    dateISO: '2026-11-06',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Nine years after the unveiling, the Semi has a factory, customers and a 2,500-truck order — but Tesla still will not say how many it builds.',
+    body: [
+      'Tesla has started volume production of its battery-electric Semi. In its third-quarter update, published October 21, the company lists the dedicated Semi plant in Sparks, Nevada, with the status “production” and an installed annual capacity of 25,000 trucks — half the 50,000 the factory is designed for. Tesla did not say when the remaining capacity will follow, and it does not disclose how many Semis it builds or delivers.',
+      'The first trucks off the high-volume line rolled out in April 2026, and customer deliveries began September 24 at the Nevada plant, with trucks bearing the logos of PepsiCo, DHL and US Foods parked outside. The long-range version is claimed to travel 500 miles per charge, with a 325-mile standard-range variant alongside it, and Tesla plans more than 30 Semi charging locations with over 200 megawatt-capable posts by the end of 2026.',
+      'Demand is building. In September, the ZET SCALE alliance — launched by Catalyst Mobility and the Smart Freight Centre with Microsoft and PepsiCo as founding members — selected Tesla as primary supplier for 2,500 battery-electric Class 8 trucks, with the first due in the fourth quarter of 2026 and all 2,500 to be delivered within 18 months across ten freight hubs. Europe is next: Tesla plans customer demonstrations in the first half of 2027 and deliveries by the end of 2027, with the trucks built in Nevada.',
+      'The Semi was unveiled in November 2017 with a 2019 production target, and limited deliveries to PepsiCo began in late 2022 from a pilot line. Nine years on, the program has finally moved beyond prototypes and small fleet deployments — but the test now is whether a factory running at half its designed capacity can fill a 2,500-truck order while Tesla still declines to publish a single production number.',
+    ],
+    sources: ['LEMOB News', 'Tesla', 'Billionaires.africa', 'Innovation Village'],
+  },
   {
     slug: 'gm-recalls-67380-evs-brake-software-loss-november-2026',
     title: 'GM Recalls 67,380 Cadillac and Chevy EVs Over Brake Software That Can Briefly Cut Braking',
