@@ -12,8 +12,29 @@ export const metadata: Metadata = {
 }
 
 export default function BrandsIndex() {
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Car Brands - Browse Every Major Automaker',
+    description:
+      'Browse every major car brand: Toyota, Honda, Ford, Tesla, BMW and more. Reliability reputations, what each brand does best, and their top models.',
+    url: 'https://www.carc.com/brands',
+    hasPart: {
+      '@type': 'ItemList',
+      itemListElement: BRANDS.map((b, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: `https://www.carc.com/brands/${b.slug}`,
+        name: b.name,
+      })),
+    },
+  }
   return (
     <div className="min-h-screen bg-brand-black">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <NewsNav />
       <div className="max-w-5xl mx-auto px-6 py-16">
         <p className="text-brand-blue font-medium text-sm uppercase tracking-widest mb-3">

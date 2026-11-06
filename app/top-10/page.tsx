@@ -12,8 +12,29 @@ export const metadata: Metadata = {
 }
 
 export default function Top10HubPage() {
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Top 10 Cars 2026 — Best EVs, SUVs, Trucks, Sports Cars & More',
+    description:
+      "CARC's top 10 car rankings for 2026: best EVs, SUVs, sedans, trucks, luxury cars, sports cars, supercars, and family SUVs. Honest picks, real prices.",
+    url: 'https://www.carc.com/top-10',
+    hasPart: {
+      '@type': 'ItemList',
+      itemListElement: LISTS.map((l, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: `https://www.carc.com/top-10/${l.slug}`,
+        name: l.title,
+      })),
+    },
+  }
   return (
     <div className="min-h-screen bg-brand-black">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <NewsNav />
       <div className="max-w-6xl mx-auto px-6 py-16">
         <p className="text-brand-blue font-medium text-sm uppercase tracking-widest mb-3">CARC Rankings</p>

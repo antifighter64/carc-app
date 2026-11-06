@@ -21,8 +21,29 @@ const CATEGORY_COLORS: Record<string, string> = {
 
 export default function NewsHubPage() {
   const [featured, ...rest] = ARTICLES
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Car News — Latest Automotive News, Recalls & Prices',
+    description:
+      'Stay current with CARC News: EV sales data, recalls, new-car prices, and 2026 model coverage. Honest automotive news for smart car buyers.',
+    url: 'https://www.carc.com/news',
+    hasPart: {
+      '@type': 'ItemList',
+      itemListElement: ARTICLES.slice(0, 10).map((a, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: `https://www.carc.com/news/${a.slug}`,
+        name: a.title,
+      })),
+    },
+  }
   return (
     <div className="min-h-screen bg-brand-black">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <NewsNav />
       <div className="max-w-6xl mx-auto px-6 py-16">
         <p className="text-brand-blue font-medium text-sm uppercase tracking-widest mb-3">CARC News</p>
