@@ -13,6 +13,404 @@ export interface NewsArticle {
 }
 
 export const ARTICLES: NewsArticle[] = [
+  {
+    slug: 'tesla-rebounds-friday-4-percent-cybertruck-split-november-2026',
+    title: 'Tesla Rebounds 4.2% on Friday as Musk\u2019s Cybertruck Call Splits Investors',
+    description:
+      'Tesla shares closed up 4.2% at $358.22 on Friday, November 6, clawing back part of a brutal post-midterm slide \u2014 but investors Ross Gerber and Gary Black split sharply over Musk\u2019s decision to wind down the Cybertruck.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Up 4.2% on the day, still down 11% on the week \u2014 and the Cybertruck verdict is anything but unanimous.',
+    body: [
+      'Tesla shares closed at $358.22 on Friday, November 6, up $14.53 or 4.23% on the day, trading between $347.60 and $363.84 on about 36.3 million shares. The bounce came a day after the stock fell 10.77% to close at $343.69 on Thursday, and it still left Tesla 28.2% below its 52-week high of $498.83, with a five-day return of about minus 11%.',
+      'The trigger for the rebound was Musk\u2019s Friday announcement that Tesla will wind down Cybertruck production at Gigafactory Texas around mid-2027 to free up factory space for the Cybercab robotaxi \u2014 the same announcement Carc covered on November 6. The stock rebounded with the broader market on Friday, and some reports noted the Cybertruck news itself was not necessarily the driver of the day\u2019s move.',
+      'The investor reaction to the Cybertruck call split immediately. Ross Gerber, co-founder of Gerber Kawasaki Wealth & Investment Management, called the wind-down \u201canother failure for Tesla,\u201d while longtime Tesla bull Gary Black called it a \u201cmissed opportunity.\u201d The disagreement is the point: the same decision reads as discipline to some investors and as surrender to others.',
+      'The calendar adds one more date to watch. Tesla\u2019s 2026 annual meeting is scheduled for Thursday, December 3, at 3:00 p.m. Central Time, and the deadline to enter the random drawing for limited in-person attendance passed on Friday, November 6, at 11:59 p.m. Central Time. Eligible shareholders can still participate virtually. For context, Tesla fell about 13.8% in the two days after the midterm elections, from a November 3 close of $398.50 to $343.69 on November 5, before Friday\u2019s partial recovery.',
+    ],
+    sources: ['Finnhub', 'JKN', 'Benzinga', 'AD HOC NEWS', 'Longbridge'],
+  },
+  {
+    slug: 'india-auto-market-q2-fy2027-passenger-sales-30-percent-ev-surge-november-2026',
+    title: 'India\u2019s Car Market Accelerates: Passenger Sales Up 30.7% as EV Registrations Nearly Double',
+    description:
+      'Deloitte India\u2019s Wheelwatch tracker shows passenger-vehicle wholesale sales up 30.7% to 1.4 million in Q2 FY2027, with electric passenger-car registrations up 93.6% and electric two-wheeler penetration crossing 10% for the first time.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'SUVs, cheaper finance and a GST cut set the stage \u2014 but dealer lots are now holding twice the stock they should.',
+    body: [
+      'India\u2019s automobile industry recorded strong growth in the second quarter of FY2027, the July-to-September 2026 quarter, according to the sixth edition of Deloitte India\u2019s Wheelwatch tracker. Passenger-vehicle wholesale sales climbed 30.7% year on year to about 1.4 million units, commercial vehicles rose 28.8% and two-wheelers advanced 15.1%. Deloitte India automotive sector leader Rajat Mahajan said FY2027 \u201chas maintained its strong start,\u201d with passenger and commercial vehicle growth accelerating while two-wheeler demand held firm on a higher base.',
+      'Electric vehicles are now a visible part of the story rather than a footnote. Electric passenger-vehicle registrations increased 93.6% year on year to approximately 97,000 units in the quarter, lifting EV penetration to 6.7%, up from 6% in the previous quarter. Electric two-wheeler penetration crossed the 10% threshold for the first time.',
+      'The quarter benefited from favourable financing conditions and a comparatively low base ahead of GST rate reductions, which pulled demand forward. Rising wholesale inflation and uneven commodity costs continued to challenge manufacturers, and the report notes that buyers are increasingly favouring feature-rich SUVs, premium motorcycles and alternative-fuel vehicles.',
+      'The one number to watch is inventory. Passenger-vehicle dealer stocks increased from about 33 to 35 days at the end of July to 43 to 45 days by the end of September \u2014 around twice the recommended level of 21 days. Strong wholesale growth means little if the cars sit on dealer lots, so the next quarter will show whether retail demand catches up with what factories shipped.',
+    ],
+    sources: ['NamasteCar', 'Deloitte India'],
+  },
+  {
+    slug: 'uk-october-registrations-ev-33-percent-jaecoo-7-top-seller-november-2026',
+    title: 'UK Electric Cars Hit a 2026 High at 33% of Sales \u2014 and a Chinese SUV Is the Country\u2019s Best Seller',
+    description:
+      'Battery-electric cars took almost a third of UK new-car registrations in October, SMMT data shows, while the Jaecoo 7 topped the overall sales chart for a second straight month.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Electric cars are about to overtake petrol in Britain \u2014 and the crossover could come as soon as December.',
+    body: [
+      'The UK registered 152,730 new cars in October, up 5.4% year on year and the 11th straight month of growth for the overall market, according to the Society of Motor Manufacturers and Traders (SMMT). Battery-electric cars took 32% of the market \u2014 48,858 registrations, up 32.7% \u2014 the highest monthly EV share of 2026 and just below the government\u2019s mandated figure of 33% for the year. Petrol cars fell to 37.2% of sales, down from 41% a year earlier, while plug-in hybrids rose 30.1% to 22,898.',
+      'The month\u2019s biggest surprise sits at the top of the model chart. The Jaecoo 7 recorded 3,412 sales in October, making it the country\u2019s top-selling model for the second month in a row, ahead of the Ford Puma, which remains the UK\u2019s best-selling model for the year to date. Volkswagen remained the UK\u2019s most popular brand with a 9.0% market share, while BMW moved ahead of Audi into second place with 5.6%.',
+      'Inside the EV chart, the Skoda Enyaq was October\u2019s best-selling electric model, followed by the Mini Countryman, and independent transport researcher New AutoMotive ranked Kia as the best-selling electric brand in the month.',
+      'The trend line is what matters. Through the first 10 months of the year the UK has registered 503,805 battery-electric cars, up 30.4%, for a 26.6% market share. At the current pace, electric cars will outsell petrol in the UK within a year \u2014 and it could happen as soon as this December, when automakers traditionally push volume to get closer to their zero-emission mandate targets. The mandate requires 33% of 2026 sales to be zero-emission, but SMMT now forecasts 27.2% for the full year, and it expects 32% next year against a 38% target.',
+    ],
+    sources: ['SMMT', 'Gumtree', 'Electrek'],
+  },
+  {
+    slug: 'ferrari-luce-sold-out-2028-jaguar-type-01-50000-interest-november-2026',
+    title: 'The Two Most Mocked EVs of 2026 Are Now the Two Hardest to Buy',
+    description:
+      'Ferrari says every Luce for 2027 is spoken for and the car is sold out through 2028, while Jaguar has taken more than 50,000 expressions of interest in the Type 01 \u2014 two electric flagships the critics wrote off at launch.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Skepticism at the reveal, sellouts at the order book: the Luce and the Type 01 are defying every prediction.',
+    body: [
+      'Ferrari has announced that all Luce units for 2027 are spoken for. The car is sold out through 2028, and the order books continue to fill at a brisk pace, according to Car Revs Daily. The Luce is 100% electric and comes in at a minimum of 550,000 euros in Europe \u2014 a price that has not slowed demand in the slightest.',
+      'Jaguar has reasons to be optimistic too. In an interview with Drive, brand chief Rawdon Glover said the company has already received more than 50,000 expressions of interest since the Type 01\u2019s reveal \u2014 and 80% of them were not Jaguar customers. The car\u2019s three electric motors deliver 1,030 hp and 1,365 Nm of torque, with a 0 to 60 mph time of 3.2 seconds, and its 118 kWh battery promises about 720 km of WLTP range.',
+      'What links the two cars is the reaction they faced at launch. Both the Italian and the British flagships were met with near-unanimous skepticism when they were revealed \u2014 the Luce as Ferrari\u2019s first fully electric car, the Type 01 as the centrepiece of Jaguar\u2019s wholesale reinvention as an electric-only luxury brand. The commercial reality so far is starting to defy all forecasts.',
+      'The wider lesson is about who is buying. When four out of five people registering interest in the Type 01 have never owned a Jaguar, the car is not selling to the faithful \u2014 it is pulling in new customers. Among the traditional Italian and British luxury brands, Maserati is the only other one to have dipped its toes into electric technology, with the Grecale, GranTurismo and GranCabrio Folgore. Ferrari and Jaguar are now showing that the bet can pay.',
+    ],
+    sources: ['Car Revs Daily', 'Drive'],
+  },
+  {
+    slug: 'eu-2035-compromise-39-percent-combustion-cars-november-2026',
+    title: 'Europe\u2019s 2035 Gas-Car Ban Is Softening: Up to 39% of New Cars Could Still Burn Fuel',
+    description:
+      'EU lawmakers are moving from a 100% CO2 cut to 87.5% for 2035, and Reuters and Automotive News calculate that could leave about 39% of new cars with a combustion engine \u2014 with a full Parliament vote due in December.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The 2035 ban is becoming a steep cut instead \u2014 and plug-in hybrids are the loophole that changes the math.',
+    body: [
+      'In 2023, the European Commission decided to ban the sale of new gas-powered cars starting in 2035. That plan is now being rewritten. Lawmakers first moved toward a 90% CO2 reduction instead of 100%, and a plan approved in early November 2026 shifted the intention further, toward reducing CO2 quotas to 87.5% rather than eliminating them.',
+      'The headline number needs careful reading, because 87.5% is a CO2 reduction, not a share of cars sold. Reuters and Automotive News did the math on what the remaining 12.5% of emissions headroom means in practice: it would amount to roughly 39% of new cars still having a combustion engine under the hood after 2035, once plug-in hybrids and other partial-electrification routes are counted.',
+      'For the industry, the compromise changes the post-2035 outlook completely. Instead of a hard stop for internal combustion, carmakers get a long tail in which hybrids and plug-in hybrids can keep selling alongside a growing electric majority \u2014 and the investment case for combustion engineering gets several more years of life.',
+      'Nothing is final yet. The full European Parliament must vote on the measure during December 2026, so a few more weeks will pass before the fate of the automotive industry after 2035 is settled.',
+    ],
+    sources: ['Car Revs Daily', 'Reuters', 'Automotive News'],
+  },
+  {
+    slug: 'toyota-innova-hycross-hyryder-altitude-records-november-2026',
+    title: 'Toyota Hybrids Climb From Sea Level to 14,140 Feet \u2014 One on a Single Tank of Petrol',
+    description:
+      'An Innova Hycross climbed 4,310 metres in under 24 hours and an Urban Cruiser Hyryder did the same climb on one tank of fuel, earning Toyota Kirloskar Motor two Asia Book of Records titles.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Mandarmani to Nathula Pass: 4,310 metres up, in 22 hours 52 minutes \u2014 and the Hyryder never stopped for fuel.',
+    body: [
+      'Toyota Kirloskar Motor has secured two Asia Book of Records titles after its Innova Hycross and Urban Cruiser Hyryder completed a journey from West Bengal to Sikkim. The Innova Hycross attained an altitude of 4,310 metres in 22 hours 52 minutes, meeting the 24-hour requirement for its record category. The Urban Cruiser Hyryder arrived at the same destination on a single tank of petrol.',
+      'The journey began at Mandarmani in West Bengal, just two metres above sea level, before ending at Nathula Pass in Sikkim at 4,310 metres. The Innova Hycross received recognition for the maximum elevation gained by a car within 24 hours, while the Hyryder secured a separate title for the highest elevation gained on one tank of fuel.',
+      'The hardware behind the runs is ordinary production technology. The Innova Hycross has a 2.0-litre four-cylinder petrol engine coupled with Toyota\u2019s fifth-generation hybrid technology, producing a combined 183.7 hp, with an ARAI-certified fuel economy figure of 23.24 kmpl and a 52-litre petrol tank. The Urban Cruiser Hyryder Hybrid returns a certified 27.97 kmpl and carries a 45-litre fuel tank.',
+      'Read the records for what they are: Toyota-organised driving challenges recognised by the Asia Book of Records, not independent tests. As a durability and efficiency showcase they still say something useful \u2014 a hybrid climbing more than four vertical kilometres in under a day, and a second one doing it without a fuel stop, is a real-world stress test of the powertrains thousands of buyers already own.',
+    ],
+    sources: ['GaadiWaadi', 'Asia Book of Records'],
+  },
+  {
+    slug: 'bmw-group-q3-ev-20-percent-sales-november-2026',
+    title: 'One in Five BMWs Sold Last Quarter Was Fully Electric \u2014 but the US Lags Far Behind',
+    description:
+      'BMW Group says all-electric models were 20% of global sales in Q3 and 27.4% with plug-in hybrids \u2014 with Europe at 34.7% electric, the US at just 4.7% and China at 6.5%.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Europe is nearly electric; America is barely plugged in \u2014 the same company, three different worlds.',
+    body: [
+      'BMW Group, which covers the BMW, Mini and Rolls-Royce brands, said all-electric models made up 20% of global sales in the third quarter, rising to 27.4% with plug-in hybrids included, according to its latest earnings report. Year to date through September, EVs account for 18.4% of sales and 26.1% with plug-in hybrids.',
+      'The regional split is the story. Europe leads with a 34.7% EV share \u2014 46.9% electrified once plug-in hybrids are counted \u2014 while the United States trails at 4.7% EVs, 11.4% with plug-in hybrids, and China sits at 6.5%.',
+      'Put against the wider market, BMW\u2019s US figure is weak even by American standards: Cox Automotive estimates put total US EV share at about 5.7% in the third quarter. BMW\u2019s American EV business is running behind the national average, while its European business is running far ahead of it.',
+      'The gap shows how much of BMW\u2019s electric volume still rides on Europe. With the US EV market shrinking after the federal tax credit expired and China\u2019s market dominated by domestic brands, BMW\u2019s electrification story is, for now, a European one.',
+    ],
+    sources: ['InsideEVs', 'EV News'],
+  },
+  {
+    slug: 'byd-photo-finish-2026-record-october-november-2026',
+    title: 'BYD Needs a Near-Perfect Two Months to Match 2025 After a Record October',
+    description:
+      'BYD sold a record 490,168 cars in October \u2014 its first month ever above 300,000 battery-electrics \u2014 but it still needs 980,692 sales in November and December to match last year\u2019s total.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'October was BYD\u2019s best month of the year. It still might not be enough.',
+    body: [
+      'BYD sold 490,168 cars in October, up 11% and the best month of the year for the Shenzhen-based electric vehicle maker. In total, BYD sold 305,743 battery-electric vehicles, a 37% increase from last year \u2014 the first time ever that monthly BEV sales topped 300,000, and the third consecutive month of all-time high BEV sales.',
+      'Through October, BYD has sold 3,621,744 cars. Monthly sales were underwater from January to April, and the record October narrowed the year-to-date decline to just over 2%. The recovery has been driven by strong exports, with BYD reporting higher sales for a sixth month in a row.',
+      'The arithmetic for the rest of the year is brutal. To match 2025\u2019s total sales of 4,602,436 vehicles, BYD would need to sell 980,692 units by the end of this year \u2014 an average of 490,340 EVs per month in November and December. That is a tough but not impossible proposition: last year BYD sold 480,186 EVs in November and 420,398 in December, and car sales in China tend to spike at the end of the year.',
+      'The profit picture is more mixed. BYD\u2019s third-quarter profit jumped 28%, but it still missed analyst estimates, and nine-month profit slipped \u2014 volume is holding, but profit is not. The next data points come from rivals: Nio and XPeng report earnings on November 11 and November 24 respectively.',
+    ],
+    sources: ['Investor\u2019s Business Daily', 'Bloomberg'],
+  },
+  {
+    slug: 'india-fada-october-retail-record-ev-november-2026',
+    title: 'India\u2019s October Car Retail Hits Its Second-Best Ever \u2014 and EV Sales Set an All-Time Record',
+    description:
+      'India\u2019s dealers retailed 3,172,466 vehicles in October, up 25% on September, with electric-vehicle retail at an all-time high of about 355,000 units and 11.5% penetration, FADA data shows.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Retail, not wholesale: what dealers actually sold \u2014 and EVs have never sold this well in India.',
+    body: [
+      'Indian automobile retail recorded its second-best October on record, registering a 25.05% month-on-month increase over September, according to data released by the Federation of Automobile Dealers Associations (FADA). Total vehicle retail sales reached 3,172,466 units during the month.',
+      'Clean mobility was a key growth driver. Electric-vehicle retail reached an all-time peak of approximately 355,000 units, up 44.88% year on year, pushing EV penetration to around 11.5%.',
+      'Dealers are optimistic about the month ahead: 51.65% projected sales growth in November, according to FADA\u2019s Online Members\u2019 Survey, backed by Dhanteras and Diwali falling within the month.',
+      'It matters that this is retail data, not wholesale. Carmakers including Maruti, Mahindra and Hyundai already reported best-ever Octobers on shipments to dealers; FADA\u2019s numbers show what actually reached customers \u2014 and on that measure, October was nearly as strong as the factories\u2019 figures suggested.',
+    ],
+    sources: ['The Hindu BusinessLine', 'FADA'],
+  },
+  {
+    slug: 'mercedes-glc-electric-india-assembly-pune-november-2026',
+    title: 'Mercedes Starts Building the GLC Electric in India',
+    description:
+      'Mercedes-Benz has begun assembling the GLC Electric at its Pune plant in India, days after the luxury electric SUV\u2019s November 4 launch in the country.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Launched November 4, assembled in Chakan: the GLC Electric is now a made-in-India luxury EV.',
+    body: [
+      'Mercedes-Benz has started GLC Electric assembly in India at its Pune plant, according to Electric Vehicle Talks. The move comes days after the GLC Electric launched in India on November 4, where it serves as the entry point to Mercedes-Benz India\u2019s electric SUV line-up.',
+      'Local assembly matters because it is how luxury carmakers make India pricing work. Imported cars face steep duties; assembling in Chakan lets Mercedes price the GLC Electric against locally built rivals instead of against the import tariff.',
+      'The GLC Electric is the first of a busy November for India launches: BYD\u2019s luxury brand Denza debuts on November 13 with the Z9 GT and D9, the Toyota Innova Hycross facelift is expected around November 25, and Mini launches the second-generation Cooper SE on November 27.',
+      'One honest gap: the reports seen so far do not disclose local-content levels, line capacity or how many GLC Electrics the Pune plant will build. What is confirmed is the direction of travel \u2014 Mercedes\u2019s electric flagship SUV for India is now a made-in-India car.',
+    ],
+    sources: ['Electric Vehicle Talks', 'Autocar India'],
+  },
+  {
+    slug: 'vinfast-vf-mpv-7-price-cut-india-november-2026',
+    title: 'VinFast Cuts the VF MPV 7 by Rs 4.1 Lakh in India',
+    description:
+      'VinFast has cut the VF MPV 7 by Rs 4.1 lakh to Rs 20.39 lakh in India, sharpening its price against a crowded field of electric MPVs and SUVs.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'A Rs 4.1 lakh cut on a Rs 24.5 lakh car: VinFast is pricing to move in India.',
+    body: [
+      'VinFast has cut the price of the VF MPV 7 by Rs 4.1 lakh in India, bringing it to Rs 20.39 lakh, according to Electric Vehicle Talks. The cut takes roughly a sixth off the car\u2019s previous price of about Rs 24.5 lakh.',
+      'The timing is no accident. VinFast is already the fourth-ranked EV brand in India\u2019s October top 10 \u2014 a remarkable position for a newcomer in a market where Tata outsold Mahindra and MG combined. A price cut this size is a move to convert early attention into volume.',
+      'India\u2019s EV market is now a price war as much as a product contest, and the MPV segment is where family buyers are most price-sensitive. Watch whether rivals answer: a cut that goes unanswered is a share grab; a cut that gets matched is the start of a discounting round.',
+    ],
+    sources: ['Electric Vehicle Talks'],
+  },
+  {
+    slug: 'exicom-tritium-85-million-divestment-november-2026',
+    title: 'Exicom\u2019s $85 Million Tritium Divestment Reshapes the EV Charging Map',
+    description:
+      'Exicom has struck an $85 million divestment deal involving Tritium, in a move set to fund EV charging growth \u2014 the latest consolidation in a charging industry still sorting winners from losers.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      '$85 million changes hands in EV charging \u2014 and the deal says plenty about where the money is going.',
+    body: [
+      'Exicom has agreed an $85 million divestment deal involving Tritium, the EV charging hardware maker, according to Electric Vehicle Talks. The deal is framed as a move to fuel EV growth, with the proceeds funding expansion on the charging side of the business.',
+      'Charging is consolidating fast. Hardware makers, network operators and energy companies are all trying to reach scale before the market settles, and $85 million deals are how the weaker hands exit and the stronger ones buy capacity, customers and technology in one move.',
+      'One honest flag: the reports seen so far give the headline value but not the full terms \u2014 what exactly changes hands, over what timetable, and what happens to Tritium\u2019s existing customers. Treat the $85 million as the confirmed fact and the rest as detail still to come.',
+    ],
+    sources: ['Electric Vehicle Talks'],
+  },
+  {
+    slug: 'eve-flybis-binding-evtol-order-brazil-november-2026',
+    title: 'Eve Air Mobility Lands a Binding Order for Up to 12 Air Taxis in Southern Brazil',
+    description:
+      'Brazilian startup FlyBIS has turned a 2022 letter of intent into a binding order for up to 12 Eve eVTOL air taxis, targeting some of Brazil\u2019s most congested southern routes ahead of certification in 2028.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'From a handshake in 2022 to a hard order in 2026: southern Brazil is now on the air-taxi map.',
+    body: [
+      'Brazilian air-taxi startup FlyBIS Aviation has signed a commercially binding aircraft order with Eve Air Mobility \u2014 the Embraer-backed eVTOL manufacturer \u2014 for up to 12 aircraft, targeting two of Brazil\u2019s most congested southern states. The agreement, formalised on November 4, converts a December 2022 letter of intent into a hard commercial commitment, and positions southern Brazil as one of the first regions in the world where Eve\u2019s aircraft will fly revenue passengers.',
+      'FlyBIS is primarily targeting urban air mobility and shorter regional routes within Eve\u2019s approximately 100-kilometre operational range. The Santa Catarina coast corridor \u2014 linking Navegantes, Balne\u00e1rio Cambori\u00fa and Florian\u00f3polis \u2014 concentrates some of Brazil\u2019s highest seasonal congestion into a stretch where flying would cut journey times dramatically. FlyBIS is backed by Brave Aviation, a Brazilian aircraft management firm whose fleet includes Embraer Phenom 100s and other light aircraft.',
+      'The aircraft itself is still in testing. The engineering prototype completed its 50th test flight in April 2026, having first taken to the air on December 19, 2025, and had accumulated at least 66 flights as of Eve\u2019s second-quarter earnings in August, with testing continuing through the transition phase. Reports from specialised aviation outlets suggest the total had surpassed 70 flights by early November, though Eve has not yet published an official update to that figure.',
+      'The timeline is now concrete. According to FlightGlobal, Eve plans to begin assembling six certification-conforming prototypes in 2027, and type certification and commercial entry into service are projected for 2028 \u2014 a timeline Brazil\u2019s aviation regulator ANAC has signalled it considers realistic. ANAC president Tiago Faierstein has described certifying Eve\u2019s air taxi as the agency\u2019s top priority.',
+    ],
+    sources: ['TechTimes', 'FlightGlobal'],
+  },
+  {
+    slug: 'honda-evtol-f1-ciie-shanghai-november-2026',
+    title: 'Honda\u2019s 7,000-Pound Flying Car Takes the Stage in Shanghai \u2014 Seven Months After Its First Flight',
+    description:
+      'Honda showed its full-scale F1 eVTOL demonstrator at the China International Import Expo in Shanghai \u2014 a 7,000-pound aircraft that flew for about 90 seconds in California on April 1, 2026, and is now in validation.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The headlines say \u201cmaiden flight.\u201d The flight happened in April, in California \u2014 Shanghai is the showcase.',
+    body: [
+      'Honda put its eVTOL technology on show at the ninth China International Import Expo (CIIE), which opened in Shanghai on November 5, 2026. The aircraft at the centre of the story is the full-scale F1 demonstrator, and both Dealroom and Gasgoo flagged the CIIE display as a top story on November 6.',
+      'What Honda has actually confirmed is short but concrete. The full-scale technology demonstrator, which Honda calls F1, weighs roughly 7,000 pounds and completed its first flight on April 1, 2026, in San Luis Obispo County, California \u2014 a flight lasting about 90 seconds. The company has since moved into what it calls the full-scale validation phase.',
+      'What Honda has not shown is just as important. The reports that can be verified do not list a passenger cabin, a flight demonstration on the show floor, or any commercial agreement signed at the expo. The honest framing is a technology showcase: Honda is telling visitors in Shanghai that it has a working full-scale aircraft, that the aircraft has flown, and that the program is now in validation. It is not telling them the aircraft is ready to carry customers.',
+      'The open list is longer than the confirmed one: range, passenger capacity, price and certification all remain unpublished, and Honda has not said what altitude or speed the April flight reached, or whether the aircraft hovered, transitioned or stayed in one flight mode. Readers who see headlines implying a new maiden flight at CIIE should treat that reading as unconfirmed \u2014 the flight Honda documents took place in California, not in Shanghai.',
+    ],
+    sources: ['Tech Insider', 'Gasgoo', 'Honda'],
+  },
+  {
+    slug: 'joby-launch-plans-new-york-florida-texas-blade-november-2026',
+    title: 'Joby Plans Air-Taxi Service in New York, Florida and Texas \u2014 Starting With Blade\u2019s $249 Helicopter Runs',
+    description:
+      'Joby Aviation plans to launch commercial eVTOL service in New York City, Florida and Texas under the federal pilot program, and will start by replacing Blade\u2019s helicopter trips \u2014 like JFK to Manhattan in seven minutes from $249 \u2014 with its own aircraft.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The first air-taxi passengers won\u2019t be pioneers \u2014 they\u2019ll be Blade customers on a route that already exists.',
+    body: [
+      'Joby Aviation plans to launch commercial eVTOL service in New York City, Florida and Texas as its initial markets under the federal eVTOL Integrated Pilot Program (EIPP), with flying operations planned for the 2028 Los Angeles Olympics, the company\u2019s Chief Policy Officer Greg Bowles said in an interview reported on November 6. The company entered formal FAA certification in 2018 and is now approaching type certification for its six-propeller electric aircraft.',
+      'Florida was selected as one of the first EIPP states, and Joby marked the milestone last week by recreating the world\u2019s first commercial flight \u2014 the 1914 St. Petersburg-to-Tampa route \u2014 using its own aircraft. The vehicle currently in testing targets routes up to 100 miles.',
+      'The commercial on-ramp is unusually concrete. Routes such as JFK to Manhattan \u2014 currently served by Blade Air Mobility, which Joby acquired \u2014 take roughly seven minutes and are priced from $249. Joby said it plans to begin replacing Blade\u2019s existing helicopter trips with Joby aircraft in the coming year, which means its first paying passengers will be people already buying a seven-minute hop across New York.',
+      'Bowles expressed confidence that broad public access to Joby\u2019s service will come well before 2035, though he stopped short of a firm date. The binding constraint, he said, is now manufacturing scale \u2014 not certification or airspace \u2014 to expand service beyond high-density urban corridors. Under the EIPP executive order, Joby is permitted to conduct limited commercial operations in key states ahead of full type certification.',
+    ],
+    sources: ['FreightWaves', '777 Sourcing'],
+  },
+  {
+    slug: 'waymo-safety-trust-gap-iihs-pew-november-2026',
+    title: 'Waymo\u2019s Cars Crash 68% Less Often Than Human Drivers \u2014 and 71% of Americans Still Won\u2019t Ride in One',
+    description:
+      'Waymo co-CEO Tekedra Mawakana told Bloomberg the trust gap is now the company\u2019s central problem: IIHS data shows 68% fewer crashes than human drivers, yet a 2026 Pew poll finds 71% of adults uncomfortable riding driverless.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The safety numbers keep improving. The trust numbers don\u2019t \u2014 and that\u2019s the real bottleneck for robotaxis.',
+    body: [
+      'Waymo co-CEO Tekedra Mawakana is confronting the central problem for autonomous vehicles: how to win public trust when a driverless taxi can outperform human drivers in measured crash categories yet still make highly visible mistakes. In a Bloomberg Originals interview published November 4, 2026 \u2014 titled \u201cWaymo\u2019s Bet on a Driverless Future\u201d \u2014 Mawakana discussed the company\u2019s safety research, complex road situations and the growing number of robotaxis on American streets.',
+      'The safety case is strong on the numbers. Bloomberg cites an Insurance Institute for Highway Safety analysis finding Waymo vehicles involved in 68% fewer crashes than human-driven vehicles across four cities, with a 91% lower rate of rear-end collisions.',
+      'The trust case is the opposite. The documentary also cites a 2026 Pew Research poll reporting that 71% of adults feel uncomfortable riding in a driverless vehicle. Crash comparisons measure risk; surveys measure attitudes \u2014 and attitudes, not statistics, decide whether people open the app.',
+      'Waymo\u2019s paid ridership reached 500,000 weekly trips across ten US cities by March 2026, according to company figures reported by TechCrunch, and the service now operates in 15 US metro areas. The company has also had visible stumbles: in May it recalled approximately 3,800 robotaxis over software behaviour that could allow entry into flooded roads. A separate Toyota partnership plans Japan-built bZ4X robotaxis for 2027, though planned testing is not equivalent to commercial approval.',
+    ],
+    sources: ['Bloomberg', 'TechCrunch', 'IIHS', 'Pew Research'],
+  },
+  {
+    slug: 'denza-z9-gt-spotted-india-debut-november-2026',
+    title: 'Denza Z9 GT Spotted Undisguised in India Days Before Its November 13 Debut',
+    description:
+      'BYD\u2019s luxury brand Denza\u2019s Z9 GT electric shooting brake has been spotted without camouflage in India ahead of its November 13 debut, with a 122.49 kWh battery, three motors making 1,139 bhp and a claimed 599 km range.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      '1,139 bhp, 599 km of range, and a price expected around Rs 1.25\u20131.35 crore: Denza is not easing into India.',
+    body: [
+      'The BYD Denza Z9 GT has been spotted without camouflage in India ahead of its scheduled showcase on November 13, 2026. The electric shooting brake will mark the Indian debut of Denza, BYD\u2019s luxury vehicle brand, and the model is expected to enter the market as a completely built unit (CBU), sitting above BYD\u2019s existing range of electric cars in India.',
+      'The numbers are flagship-grade. The India-bound Z9 GT is expected to get a second-generation Blade LFP battery with a capacity of 122.49 kWh, a tri-motor setup producing 1,139 bhp and a claimed 599 km range.',
+      'Pricing is not yet final. The model is expected to be priced between Rs 1.25 crore and Rs 1.35 crore ex-showroom, according to AutoX, while Times Drive reports a wider Rs 1.2 crore to Rs 1.5 crore range. Either way, the Z9 GT will be a crore-plus car \u2014 Denza is leading with its halo model, not its cheapest one.',
+      'The November 13 debut will mark Denza\u2019s entry into the Indian luxury vehicle market, with the Z9 GT introduced alongside the Denza D9 luxury MPV as part of the brand\u2019s initial product lineup in India. The company is yet to announce India-specification details, prices and a booking timeline.',
+    ],
+    sources: ['AutoX', 'Times Drive'],
+  },
+  {
+    slug: 'jetour-r700-guangzhou-debut-november-2026',
+    title: 'Chery\u2019s Boxy Jetour R700 Off-Roader Debuts November 27 on the 892-HP G700\u2019s Platform',
+    description:
+      'Chery\u2019s Jetour brand will unveil the R700 off-road SUV at the Guangzhou Auto Show on November 27, sharing its ladder-frame platform with the flagship G700 and its 892-hp plug-in hybrid system.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A two-row off-roader borrowing the bones of an 892-hp flagship \u2014 the R700 is Jetour\u2019s next big swing.',
+    body: [
+      'Chery\u2019s Jetour brand will unveil the Jetour R700 off-road SUV at the 2026 Guangzhou Auto Show, which opens on November 27. Sold under the Zongheng off-road series in China, the new model reportedly shares its ladder-frame platform with the flagship G700, according to Autohome. The R700 reportedly draws on the Jetour Zongheng G600 concept, which previewed the brand\u2019s off-road design direction in 2025.',
+      'The platform relationship is what makes the R700 interesting. The 2027 Jetour G700 uses Chery\u2019s Kunpeng Super Hybrid CDM-O plug-in hybrid system, pairing a 2.0-litre turbocharged engine with electric motors for a combined 665 kW (892 hp) and 1,135 Nm of torque, with a claimed 0-to-100 km/h time of 4.6 seconds. The G700 has an official Chinese list price of 329,900 to 442,900 yuan ($49,400 to $66,300).',
+      'Chery has yet to detail whether the R700 will use the same powertrain, battery capacity or chassis equipment. The R700 features an upright profile, a high hood and a closed front fascia, and Chery displayed the near-production R700 inside a confidential viewing area at the 2026 Beijing Auto Show in April, previewing a two-row layout ahead of its formal debut. Cabin dimensions, the final seating specification, cockpit and driver-assistance details all remain undisclosed.',
+      'The Guangzhou debut should provide the first public look at the production R700 and clarify how much of the G700\u2019s platform and technology it shares. The R700\u2019s reported five-seat layout and exterior gear-storage box give it a different emphasis from the G700 \u2014 less flagship luxury, more usable off-road kit.',
+    ],
+    sources: ['CarNewsChina', 'Autohome'],
+  },
+  {
+    slug: 'us-new-car-prices-record-loan-rates-november-2026',
+    title: 'New Cars Cost $50,562 and Loans Still Run 6.35% \u2014 but the Deals Are on Outgoing Models',
+    description:
+      'The average new vehicle sold for $50,562 in September, $52 short of the December 2025 record, with new-car loan APRs averaging 6.35% and used at 11.19% \u2014 while outgoing 2026 models carry the deepest discounts.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'Prices are $52 from a record, incentives are shrinking \u2014 and the only real bargains are the cars dealers need gone.',
+    body: [
+      'The average new vehicle sold for $50,562 in September, according to Experian\u2019s quarterly finance data \u2014 just $52 short of the record set in December 2025. Kelley Blue Book reports that new-vehicle prices rose for a fourth straight month in September, with the year-over-year increase a mild 0.7%. Factory incentives also shrank compared with a year ago: discounts averaged 6.6% of the transaction price in September, or $3,359, down from 7.3% a year earlier.',
+      'Borrowing has eased only slightly. Experian\u2019s latest quarterly finance data puts the average APR at 6.35% for new vehicles and 11.19% for used ones in the second quarter of 2026. Other measures run hotter: Edmunds put August\u2019s averages at roughly 7% for new and 10.6% for used, and Bankrate\u2019s weekly survey of advertised rates had a 60-month new-car loan at 7.06% and a 48-month used-car loan at 7.47% as of late October.',
+      'The pain is not evenly spread. Compact car prices rose 3.2% from a year earlier to $27,977, while full-size pickups averaged $67,573. The average EV sold for $55,879 in September, down 3% from a year earlier \u2014 and the $7,500 federal EV credit expired more than a year ago, so that softening is market-driven, not subsidy-driven.',
+      'The deals are on outgoing metal. Jalopnik, citing Cox Automotive, found the gap clearly on 2026 models being replaced: Kia is offering $10,000 in cash on the final-year Niro EV, Volkswagen has $6,000 on the ID.4, and Chevrolet has up to $6,500 on outgoing Silverado 1500 trims. Year-end shoppers should look for these model-specific deals rather than relying on the average. And cheap cars still exist: the 2027 Nissan Kicks starts at $22,790, the 2026 Mazda CX-30 at $26,375, the 2027 Chevrolet Bolt at $28,995 and the 2026 Nissan Leaf at $29,990 \u2014 though there was only a 63-day supply of vehicles priced below $30,000 in September, so the cheapest cars are also the scarcest.',
+    ],
+    sources: ['Experian', 'Kelley Blue Book', 'Edmunds', 'Bankrate', 'Jalopnik', 'Morningstar'],
+  },
+  {
+    slug: 'gm-express-savana-steering-nut-recall-november-2026',
+    title: 'GM Recalls 12,715 Express and Savana Vans: a Loose Steering Nut Can Cost You Steering',
+    description:
+      'GM is recalling 12,715 model-year 2025\u20132026 Chevrolet Express and GMC Savana vans because a steering-gear nut may not have been tightened properly \u2014 and if it separates, the driver can lose steering control.',
+    date: 'November 7, 2026',
+    dateISO: '2026-11-07',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A nut that was never properly tightened: the fix is an inspection, and some vans need a second look.',
+    body: [
+      'General Motors is recalling 12,715 model-year 2025\u20132026 Chevrolet Express and GMC Savana vehicles. The steering gear assembly may have a nut that was not properly tightened, and a loose nut that separates from the steering gear assembly while driving can cause a loss of steering control, increasing the risk of a crash.',
+      'Dealers will inspect the steering gear serial number and replace the assembly if necessary, free of charge. The NHTSA campaign ID is 26V718000 and GM\u2019s recall number is N262579350.',
+      'There is a wrinkle owners should know about: vehicles that were not properly inspected under the earlier recall 26V399 will need to be re-inspected under this campaign. If your van was already in for a steering inspection, check whether this new campaign still applies to it.',
+      'Owner notification letters are expected to be mailed December 14, 2026, and vehicle identification numbers became searchable on NHTSA.gov on October 29, 2026. Owners may contact GMC customer service at 1-888-988-7267 or Chevrolet customer service at 1-800-222-1020. The van recall closes out a busy November 2\u20136 NHTSA week that also brought GM\u2019s 67,380-vehicle EV brake recall and Hyundai\u2019s 37,901-vehicle airbag recall \u2014 both already covered on Carc.',
+    ],
+    sources: ['Vehicle Service Pros', 'NHTSA'],
+  },
 {
     slug: 'tesla-cybertruck-production-winds-down-mid-2027-cybercab-november-2026',
     title: 'Musk Says Tesla Will Wind Down Cybertruck Production in Mid-2027 to Make Room for the Cybercab',
