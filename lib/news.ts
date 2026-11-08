@@ -14,6 +14,412 @@ export interface NewsArticle {
 
 export const ARTICLES: NewsArticle[] = [
   {
+    slug: 'toyota-half-year-profit-14-billion-hybrids-november-2026',
+    title: 'Toyota\\u2019s Half-Year Profit Jumped 26% to $14.1 Billion \\u2014 and It Still Expects to Sell 9.7 Million Cars',
+    description:
+      'Toyota reported first-half net income of 2.236 trillion yen ($14.1 billion), up from 1.773 trillion yen a year ago, on revenues of 26.962 trillion yen \\u2014 with consolidated vehicle sales of 4.758 million units.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Fewer cars sold, much more money made \\u2014 hybrids and pricing power did the work.',
+    body: [
+      'Toyota Motor Corporation announced its financial results for the second quarter, ended September 30, 2026, on November 5. Consolidated vehicle sales totalled approximately 4,758,000 units for the April-to-September half, a decrease of about 25,000 units compared with the same period last fiscal year \\u2014 yet the company made considerably more money on them.',
+      'Net revenues rose 9.5% to 26.962 trillion yen ($169.6 billion). Operating income increased from 2.0056 trillion yen to 2.1911 trillion yen ($13.8 billion), income before income taxes reached 2.954 trillion yen ($18.6 billion), and net income jumped from 1.773 trillion yen ($12.1 billion) to 2.236 trillion yen ($14.1 billion).',
+      'The gap between flat volumes and sharply higher profits points to the same forces lifting Toyota all year: a richer mix of hybrids and higher-priced models, and pricing power that has held while rivals discount. Toyota\\u2019s electrified vehicle sales rose 18% for the year, and the company has now made the Camry and RAV4 hybrid-only \\u2014 a bet that the hybrid, not the pure EV, is where the money is in 2026.',
+      'For the fiscal year ending March 31, 2027, Toyota estimates consolidated vehicle sales of 9.70 million units. The company also raised its profit forecast earlier in the week, sending its shares up 16% \\u2014 the biggest gain since 1987 \\u2014 a reminder that in this market, selling slightly fewer cars at much better margins can be the winning trade.',
+    ],
+    sources: ['Toyota', 'Toyota USA Newsroom'],
+  },
+  {
+    slug: '2027-kia-seltos-hybrid-only-australia-turbo-dropped-november-2026',
+    title: 'The 2027 Kia Seltos Drops the Turbo and Goes Hybrid-Only',
+    description:
+      'Kia Australia has launched the next-generation Seltos: every variant is now a 1.6-litre hybrid, the turbo is gone, and the flagship GT-Line AWD gets an EV-inspired e-AWD system \\u2014 from A$37,990.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'No petrol-only Seltos, no turbo \\u2014 the small SUV goes all-in on hybrid.',
+    body: [
+      'Kia Australia has officially launched the next-generation Seltos, overhauling its popular small SUV with an electrified powertrain line-up, a larger physical footprint and a sophisticated electric all-wheel-drive system. The new model is on sale around Australia now.',
+      'Every Seltos variant is now powered by a 1.6-litre hybrid-electric powertrain mated to a six-speed dual-clutch transmission \\u2014 the 1.6L turbo is gone. Serving as the flagship is the GT-Line AWD, which introduces an EV-inspired e-AWD system. The range is built on Kia\\u2019s K3 platform, which brings a significant dimensional stretch over the previous model.',
+      'Pricing starts at A$37,990 for the Seltos S front-wheel drive (A$39,990 drive-away) and tops out at A$52,870 for the GT-Line AWD (A$55,490 drive-away). The hybrid-only move mirrors what Toyota has done with the Camry and RAV4, and it lands in a market where Kia is the fastest-growing hybrid brand in the US, with 36,000 more hybrid sales in Q3 than a year ago.',
+      'The Seltos is a bellwether for the small-SUV segment: when a volume seller like this drops its petrol turbo entirely, it signals that hybrid is no longer the eco option \\u2014 it is the default powertrain. Whether the same hybrid-only formula reaches the US Seltos, where the model is also a strong seller, is the next question.',
+    ],
+    sources: ['Driving Enthusiast', 'SlashGear'],
+  },
+  {
+    slug: 'tesla-solar-roof-fraud-ruling-conroy-2-5-million-november-2026',
+    title: 'Tesla Found Liable for Fraud Over a $110,000 Solar Roof That Never Produced Power',
+    description:
+      'A California court deemed Tesla liable for fraud and negligent misrepresentation in Conroy v. Tesla, after a $110,000 Solar Roof never passed inspection or generated electricity and the homeowner says repairs will cost well over $2.5 million.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Liability is decided. Damages are not \\u2014 and Tesla offered $5,000 against a repair bill over $2.5 million.',
+    body: [
+      'A California court has deemed Tesla liable for fraud and negligent misrepresentation over a Solar Roof installed on a home in Rancho Santa Fe, in the case known as Conroy v. Tesla. The September 11, 2026 order from San Diego Superior Court Judge Cynthia Freeland came as a sanction after Tesla repeatedly failed to hand over evidence, and it limits the remaining trial to compensatory and punitive damages.',
+      'The roof at the centre of the dispute cost about $110,000 \\u2014 the contract started at $82,210 in 2020 and grew to roughly $110,000 for an 18.2 kW roof with six Powerwalls. According to the coverage, the roof never passed inspection and never produced any power, and the homeowner, Ambrose Conroy, says fixing his home will cost well over $2.5 million. Tesla\\u2019s offer, made in April 2022, was $5,000.',
+      'The court had already ordered Tesla to pay sanctions for its discovery failures, including $15,467.50 in February 2026, with the two sanctions adding up to $28,967.50. On October 27, Judge Freeland denied Tesla\\u2019s request for reconsideration, and on October 29 Tesla asked for a stay while it petitions the California Court of Appeal. A trial readiness conference is set for December 4, 2026.',
+      'The ruling is the most serious legal setback yet for Tesla\\u2019s home energy business, and it arrives after the product itself has already ended: Tesla stopped selling the Solar Roof in 2026 after installing about 3,000 roofs. No final damages figure exists yet, so the $2.5 million-plus number is the plaintiff\\u2019s remediation estimate, not a court award \\u2014 but the liability finding itself is no longer in dispute.',
+    ],
+    sources: ['Electrek', 'Evolt News', 'Tech Insider'],
+  },
+  {
+    slug: 'cybertruck-price-rise-9-percent-entry-dual-motor-paused-november-2026',
+    title: 'Cybertruck Prices Rise Again \\u2014 Up to 9% \\u2014 and the Entry Model Is Paused',
+    description:
+      'Tesla has raised Cybertruck prices in the US by up to 9%, with the Premium AWD now starting at $92,490, and paused new orders for the entry-level Dual Motor AWD version.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The truck that was supposed to start at $39,990 now costs $92,490 in its top trim \\u2014 and the cheap one cannot be ordered at all.',
+    body: [
+      'Tesla has raised the price of the Cybertruck again in the US market, by up to 9%, and paused new orders for the entry-level Dual Motor AWD model. The Premium all-wheel-drive version now starts at $92,490, an increase of $7,500 from its previous price of $84,990.',
+      'The entry-level dual-motor all-wheel-drive model is currently unavailable for ordering, at least for now, and Tesla has not explained why it paused orders for that version. The price rise lands just days after Musk announced Tesla will wind down Cybertruck production at Gigafactory Texas around mid-2027 to free up factory space for the Cybercab robotaxi.',
+      'The context is a pickup that never found its market. Kelley Blue Book pegged US Cybertruck sales at 20,237 vehicles for 2025, a 48% slide from the prior year, and volumes through the end of September 2026 were running another 28% below the same stretch a year earlier. Tesla has not released separate Cybertruck sales figures of its own.',
+      'For buyers, the practical effect is simple: the Cybertruck is now a $92,490 vehicle with no cheaper version on the order page, and the clock is running on a production line scheduled to be dismantled around June or July 2027. Anyone still waiting on an order should expect Tesla to push to fulfil it before that window closes.',
+    ],
+    sources: ['IT Home', 'CoinMarketCap', 'Kelley Blue Book'],
+  },
+  {
+    slug: 'musk-extra-cybertruck-shift-clear-backlog-november-2026',
+    title: 'Musk Adds an Extra Cybertruck Shift to Clear the Backlog Before the Line Comes Down',
+    description:
+      'Elon Musk says Tesla will add an extra Cybertruck production shift because the order backlog is \\u201cfar more than Tesla can make\\u201d before the line is dismantled around June or July 2027 for Cybercab expansion.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The backlog is bigger than the line can build \\u2014 so Tesla is squeezing one more shift out of a truck it is about to kill.',
+    body: [
+      'Tesla will add an extra production shift to finish outstanding Cybertruck orders before it dismantles the line next year. CEO Elon Musk said on Saturday, November 7, in a post on X that the backlog is \\u201cfar more than Tesla can make\\u201d before the line comes down around June or July next year, adding: \\u201cWe will add an extra shift to try to get all orders done in time.\\u201d',
+      'The move follows Musk\\u2019s announcement a day earlier that Tesla will wind down Cybertruck production at Gigafactory Texas around mid-2027 to free capacity for the Cybercab, the two-seat robotaxi at the centre of his plan to turn Tesla from an automaker into an AI and robotics company. Tesla began building the Cybercab in Texas in April 2026, and paid robotaxi rides launched in Austin in September 2026.',
+      'The extra shift is meant to clear orders before that window closes, but the demand picture is weak: Kelley Blue Book estimated US Cybertruck sales at 20,237 vehicles for 2025, a 48% drop from the prior year, and deliveries through the end of September 2026 were down a further 28% year over year. Tesla spent $13.01 billion in the first nine months of 2026, more than double the $6.13 billion laid out in the same period a year earlier, as it retools for the robotaxi era.',
+      'The announcement also lands in a shifting political landscape in Texas. After Tuesday\\u2019s gubernatorial election, Governor-elect Gina Hinojosa wants to slow data-center projects and scrutinise Musk\\u2019s land dealings, and on Thursday she asked that talks over a further land deal in Boca Chica State Park be postponed until she takes office. The next hard date for Tesla investors is the annual shareholder meeting on December 3, 2026.',
+    ],
+    sources: ['Reuters', 'AD HOC NEWS', 'KuCoin'],
+  },
+  {
+    slug: 'tesla-shanghai-october-deliveries-10-percent-china-november-2026',
+    title: 'Tesla\\u2019s Shanghai Plant Shipped 10.3% More Cars in October \\u2014 but China Rivals Are Growing Faster',
+    description:
+      'Data from the China Passenger Car Association shows deliveries of locally built Model 3 and Model Y vehicles, including exports, climbed 10.3% year over year in October to 67,829 units \\u2014 even as BYD, Xiaomi and XPeng all posted strong months.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'October was a good month for Tesla in China. The first nine months of the year were not.',
+    body: [
+      'Shipments from Tesla\\u2019s Shanghai plant rose in October, according to data from the China Passenger Car Association cited by Reuters. Deliveries of locally built Model 3 and Model Y vehicles, including exports, climbed 10.3% year over year in October to 67,829 units.',
+      'The October gain stands out against a weak year for Tesla in China. According to CPCA data cited by Electrek, Tesla\\u2019s retail sales in China fell 11.9% year over year in the first nine months of 2026, to 381,088 vehicles, as local rivals took share with cheaper, newer line-ups.',
+      'Those rivals had a strong October of their own. BYD sold 490,168 new-energy vehicles in the month, up 11% from a year ago and its sixth straight month of sales growth, while Xiaomi delivered more than 50,000 vehicles in October \\u2014 its highest monthly total this year \\u2014 and XPeng also reported strong sales as the companies push to meet full-year targets in the final quarter.',
+      'The contrast frames Tesla\\u2019s China problem: the Shanghai plant can still grow shipments, helped by exports, while domestic retail demand softens against competitors that refresh their models faster and price them lower. October\\u2019s 10.3% rise is a welcome data point, but one month does not reverse nine months of decline.',
+    ],
+    sources: ['Reuters', 'China Passenger Car Association', 'TipRanks'],
+  },
+  {
+    slug: 'beta-technologies-first-faa-market-survey-certificate-evtol-november-2026',
+    title: 'Beta Technologies Beat Joby and Archer to an FAA First \\u2014 Flying Real Customers in Its Electric Aircraft',
+    description:
+      'The FAA granted Beta Technologies a first-of-its-kind airworthiness certificate for market surveys on October 21, letting it fly prospective customers \\u2014 a milestone neither Joby nor Archer has reached.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Not Joby, not Archer \\u2014 the cargo-focused Beta got to fly paying prospects first.',
+    body: [
+      'Not Joby Aviation, not Archer Aviation, but Beta Technologies gets bragging rights as the first electric vertical take-off and landing developer to secure Federal Aviation Administration authorisation to conduct demonstration flights with potential customers on board. On October 21, the FAA granted Beta a first-of-its-kind airworthiness certificate for market surveys.',
+      'The certificate lets Beta take prospective customers into the air \\u2014 representatives from companies that might buy Beta\\u2019s electric aircraft. It does not allow Beta to take fare-paying passengers on air-taxi rides; the company still needs additional certificates for that. But it is the first time any eVTOL developer has been allowed to fly the people it hopes will become customers.',
+      'Beta is a different kind of eVTOL company from its better-known rivals. Rather than building an air-taxi business, it focuses on the non-passenger side: hauling cargo and medical supplies. It is also building out a large electric charging network across the US that other eVTOL companies, including Archer, can use.',
+      'Joby is still furthest along on the certification path itself: it is in the fifth and final stage of FAA design approval, with FAA pilots expected to start official flight tests in the first half of 2027, while Archer closed phase three of four in April 2026. But Beta\\u2019s first shows that the race is not only about who certifies first \\u2014 it is about who can start flying real people, and real cargo, soonest.',
+    ],
+    sources: ['Motley Fool', 'FAA'],
+  },
+
+// carc-daily-news 2026-11-08 — 20 fresh articles (part 2 of 4: articles 6-10)
+  {
+    slug: 'archer-air-taxi-three-texas-cities-november-2026',
+    title: 'Archer Plans Air-Taxi Service in Three Texas Cities as the eVTOL Race Leaves the Lab',
+    description:
+      'Archer Aviation announced plans for aerial taxi services in three Texas cities last week, while Joby began air-taxi demonstrations in Florida \\u2014 the first signs of electric air taxis moving from test flights toward real routes.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Texas gets three planned air-taxi cities; Florida gets live demonstrations. The flying-car business is finally flying somewhere.',
+    body: [
+      'Archer Aviation announced plans for aerial taxi services in three Texas cities last week, and Joby Aviation began air-taxi demonstrations in Florida, according to a report on electric aviation published November 3. The two announcements mark the moment the eVTOL industry starts to look less like a laboratory project and more like a transport business.',
+      'The flights are happening under the Federal Aviation Administration\\u2019s eVTOL Integration Pilot Program, a White House-backed programme that lets companies fly real routes under FAA supervision before they are fully certified. Joby has been flying under it in Texas and Florida since September, and Archer has been touring its Midnight aircraft around the San Francisco Bay Area, with legs of roughly 12 minutes each way at up to 125 mph.',
+      'The first routes will be short \\u2014 think 10 to 40 miles, the kind of trip from downtown to an airport. Batteries still limit range: Archer says its Midnight aircraft can go about 100 miles, so short hops are the realistic starting point. Archer is also the official air taxi of the LA 2028 Olympics, and it is buying Boeing\\u2019s Wisk, Insitu and SkyGrid units, with Boeing taking a strategic stake.',
+      'Nobody should book a ticket yet. Joby is in the fifth and final stage of FAA design approval and expects FAA pilots to start official flight tests in the first half of 2027; Archer closed the third of four certification phases in April 2026. The first paying riders look more likely in 2027 than 2026 \\u2014 but for the first time, the companies are flying where the customers will be, not just where the test ranges are.',
+    ],
+    sources: ['Grist', 'Smart Cities Dive', 'Joby Aviation'],
+  },
+  {
+    slug: 'spotlight-automotive-recalls-714-electric-minis-mirror-november-2026',
+    title: 'Spotlight Automotive Recalls 714 Electric MINIs Over a Mirror That Can Fall Off',
+    description:
+      'Spotlight Automotive is recalling 714 China-built electric MINIs \\u2014 Aceman, JCW and Cooper models \\u2014 because a manufacturing flaw can loosen the interior rearview mirror until it detaches.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A mirror held on by a bad adhesive bond is a small recall with a serious failure mode.',
+    body: [
+      'Spotlight Automotive has filed a recall covering 714 domestically produced electric MINIs in China, spanning three model lines: the MINI Aceman (39 units), the MINI JCW (42 units) and the MINI Cooper (633 units). The filing, number S2026M0113V, was made with China\\u2019s State Administration for Market Regulation and reported on November 6.',
+      'The vehicles suffer from a manufacturing flaw that can compromise the adhesive bond between the interior rearview mirror bracket and the windshield. The mirror can loosen and obstruct the driver\\u2019s view, and in extreme cases it may detach entirely, raising the risk of injury to occupants.',
+      'Spotlight Automotive has commissioned BMW (China) Automotive Trading Ltd. to replace the windshield assembly on affected vehicles to eliminate the safety risk. The campaign is not an isolated incident: it expands a previous recall of 315 electric MINIs announced on July 24, 2026, in both scope and corrective measures.',
+      'Spotlight Automotive is a 50:50 joint venture between Great Wall Motor and BMW Group, and the first global EV partnership of its kind for the German automaker. Owners of affected cars should expect to be contacted about a free windshield assembly replacement.',
+    ],
+    sources: ['Gasgoo', 'State Administration for Market Regulation'],
+  },
+  {
+    slug: 'rivian-q3-revenue-beat-r2-record-software-profit-november-2026',
+    title: 'Rivian Beat Wall Street in Q3 \\u2014 but the Profit Came From Software, Not Cars',
+    description:
+      'Rivian reported third-quarter revenue of $2.16 billion, up 38%, with record deliveries of 19,248 vehicles \\u2014 yet its $176 million gross profit came entirely from software and services, while the car business still lost $80 million.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Record deliveries, a revenue beat, a smaller loss \\u2014 and still a loss on every car it sells.',
+    body: [
+      'Rivian reported third-quarter results that beat Wall Street expectations, fuelled by increased production of its R2 entry-level SUV. Revenue was $2.155 billion, up 38% from the same period last year and above the consensus estimate of $1.984 billion, while earnings per share of minus $0.48 beat by $0.17. The company delivered a record 19,248 units in the July-to-September period, with the R2 contributing significantly since first customer deliveries arrived in June.',
+      'The headline looks like a turnaround \\u2014 until the profit is taken apart. Rivian\\u2019s consolidated gross profit was $176 million, but it was produced entirely in software and services, where the Volkswagen joint venture pays Rivian to develop its electrical architecture. That segment generated $605 million of revenue at a 42% gross margin, with $256 million of gross profit, of which $354 million of revenue came from the Volkswagen venture. The automotive business, by contrast, recorded $1.55 billion in revenue and an $80 million gross loss.',
+      'Put simply, Rivian still loses money on every vehicle it sells. Each car brought in a little over $76,000 in revenue excluding regulatory credits, yet cost about $84,700 to make. The net loss narrowed to $913 million from $1.17 billion a year earlier, and free cash flow was negative $1.12 billion in the quarter.',
+      'Management raised its 2026 delivery forecast to 67,000 to 70,000 vehicles, from 65,000 to 70,000, and narrowed its expected adjusted EBITDA loss to $1.75 billion to $1.85 billion, helped by regulatory credit revenue and a tariff refund. It reiterated that the R2 should reach a positive gross margin by year-end \\u2014 but the cheap $44,990 Standard trim does not arrive until 2027, and only the $57,990 performance version is on sale now. The stock rose 6.2% in the session after results, and was up 16.1% from its October 29 close by November 3.',
+    ],
+    sources: ['Benzinga', 'Trefis', 'RocketNews'],
+  },
+
+// carc-daily-news 2026-11-08 — 20 fresh articles (part 3 of 4: articles 11-15)
+  {
+    slug: 'byd-atto-8-nine-minute-flash-charging-653-km-november-2026',
+    title: 'BYD\\u2019s New Atto 8 Charges From 10% to 97% in Nine Minutes',
+    description:
+      'BYD launched the Atto 8 electric SUV on November 7, a seven-seater with a 115 kWh Blade Battery, up to 653 km of range and flash charging that refills the pack in nine minutes \\u2014 with a 3,000-station European charging network to follow.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Nine minutes to nearly full. The charging stop is becoming shorter than the coffee stop.',
+    body: [
+      'BYD has launched the Atto 8 electric SUV, deploying an ultra-fast charging architecture capable of replenishing a 115-kilowatt-hour battery from 10% to 97% in nine minutes. The seven-seat SUV carries a 115 kWh Blade Battery delivering up to 653 kilometres (405 miles) of range under European testing rules.',
+      'The launch, announced November 7, is BYD\\u2019s first deployment of second-generation Blade packs in European passenger cars, and it comes with infrastructure attached: BYD plans to install 3,000 proprietary charging stations across Europe by the end of 2027. First customer deliveries in the region are scheduled to begin in the first quarter of 2027.',
+      'Nine-minute charging changes the maths of long-distance electric driving. A stop that short is comparable to a petrol fill-up, which removes one of the last practical objections to a big-battery family SUV \\u2014 provided the driver can find one of BYD\\u2019s own fast chargers, or a third-party charger fast enough to use the car\\u2019s capability.',
+      'BYD has not published retail pricing for individual European markets, and the launch announcements did not specify country-by-country delivery targets. For context, BYD generated more than 804 billion yuan ($112 billion) in total corporate revenue in 2025 across its vehicle and battery divisions, and it is now exporting its charging technology as aggressively as its cars.',
+    ],
+    sources: ['East Asia Brief', 'BYD'],
+  },
+  {
+    slug: 'byd-yangwang-altior-311000-ev-limo-abu-dhabi-november-2026',
+    title: 'BYD\\u2019s $311,780 Yangwang Altior Is an Electric Limo Aimed at Rolls-Royce',
+    description:
+      'BYD\\u2019s Yangwang brand unveiled the Altior in Abu Dhabi on November 7: a 5.6-metre, four-seat executive sedan with coach doors, over 1,000 km of range and a limited edition priced at about $311,780.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Four seats, coach doors, 1,000 km of range \\u2014 and a price that puts it next to a Ghost.',
+    body: [
+      'BYD\\u2019s Yangwang brand unveiled the Altior \\u2014 known as the Dingyao in China \\u2014 on November 7, 2026, in Abu Dhabi: a 5.6-metre, four-seat executive sedan with coach doors, which independent outlets place against the Rolls-Royce Ghost and the Maybach S-Class. The limited Shanhe Dingyun edition is open for pre-order in China at CNY 2,080,000 (about $311,780), capped at 399 cars, with a CNY 300,000 (about $44,970) deposit.',
+      'The numbers on the spec sheet are striking where they exist: a 3,500 mm wheelbase, more than 1,000 km of range on the Chinese CLTC cycle, and four independently controlled motors on BYD\\u2019s e4 platform. The car also debuts BYD\\u2019s own Xuanji A3 chip, a 4 nm assisted-driving processor.',
+      'What BYD has not published is equally telling. The company has given no system power, torque, battery capacity, 0\\u2013100 km/h time or top speed, and says more technical and charging details will be announced separately. The price is also not final, according to CnEVPost, and delivery timing has not been announced.',
+      'The Altior is a statement car rather than a volume car: 399 examples of a limited edition, priced against the most established names in luxury. Whether buyers who can afford a Ghost will buy a BYD instead is the question the car exists to answer \\u2014 and the answer will say a lot about how far Chinese luxury EVs have come.',
+    ],
+    sources: ['CnEVPost', 'CarNewsChina', 'Fresh Motors'],
+  },
+  {
+    slug: 'byd-seal-07-second-generation-775-km-undercuts-model-3-november-2026',
+    title: 'BYD Rebuilt the Seal 07 in Eight Months \\u2014 775 km of Range for Less Than a Model 3',
+    description:
+      'The second-generation BYD Seal 07 arrived in China on November 5 with 775 km of CLTC range, flash charging and God\\u2019s Eye B driver assistance, priced from 139,900 yuan \\u2014 undercutting the Tesla Model 3.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Eight months after launch, a new generation: more range, lower price, better tech.',
+    body: [
+      'BYD has rebuilt one of its most important sedans just eight months after launch. The second-generation Seal 07 arrived in China on November 5, and the numbers say it all: the all-electric car now offers 775 km of range on the Chinese CLTC cycle, up 70 km from the 705 km of the March car, and starts at a price that undercuts the Tesla Model 3.',
+      'The line-up is priced from 139,900 yuan before discounts for the plug-in hybrid DM-i version and from 149,900 yuan for the all-electric car, which tops out at 172,900 yuan. The EV uses a single rear motor rated at 245 kW (329 hp), accelerating from 0\\u2013100 km/h in 5.5 seconds, and a 76.7 kWh second-generation Blade Battery paired with BYD\\u2019s flash charging.',
+      'The car also gets BYD\\u2019s God\\u2019s Eye B assisted-driving system, which the manufacturer says can provide Navigate On Autopilot on urban roads and highways. One honest caveat: 775 km is the optimistic Chinese CLTC cycle \\u2014 CarNewsChina quotes the equivalent at 636 km on the European WLTP cycle, and the two are not directly comparable.',
+      'The speed of the rebuild is the real story. The first-generation Seal 07 launched in China in early March 2026, and BYD replaced the whole line-up roughly eight months later, cutting the EV\\u2019s starting price by about 12% and the hybrid\\u2019s by about 7%. The first generation sold just 8,017 units in China from January to September 2026 \\u2014 a slow ramp BYD clearly intends to fix.',
+    ],
+    sources: ['CarNewsChina', 'Gumtree'],
+  },
+  {
+    slug: 'xiaomi-yu7-su7-australia-launch-2028-november-2026',
+    title: 'Xiaomi\\u2019s Cars Are Coming to Australia \\u2014 the \\u201cApple of China\\u201d Takes Aim at Tesla',
+    description:
+      'Xiaomi is preparing to launch its cars in Australia, with local hiring under way: the SU7 sedan and YU7 SUV, which already outsell established rivals in China, will arrive after a European launch next year.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'A phone company that had never built a car before 2024 now makes some of China\\u2019s most desirable cars \\u2014 and it is going global.',
+    body: [
+      'Things are about to get interesting in Australia as Xiaomi prepares to launch locally. The Chinese tech giant, known as the \\u201cApple of China\\u201d for its consumer electronics, has begun local hiring for a car business that did not exist before 2024 \\u2014 and if early indicators are anything to go by, the newcomer could blow Zeekr, Chery and BYD away.',
+      'Xiaomi will launch in Europe first, next year, and Australia is likely to follow in 2028, though the company has not officially confirmed the Australian arrival. The vehicle it will probably lead with is the YU7 SUV, a rival to the Tesla Model Y, Zeekr 7X and BYD Sealion 7, with ranges of up to 835 km on the Chinese CLTC cycle and a GT performance grade that sprints from 0\\u2013100 km/h in 2.9 seconds. Its most popular car in China is the SU7 sedan, a Model 3 rival with up to a claimed 900 km of CLTC range.',
+      'Despite having never built a car before 2024, Xiaomi is making arguably the most desirable cars in China. In October this year the brand entered its homeland\\u2019s top 10 best-selling carmakers, delivering more than 50,000 vehicles in the month \\u2014 its highest monthly total this year.',
+      'The Australian market is already reshaping around Chinese brands: four of the top 10 brands by year-to-date sales there are now Chinese \\u2014 BYD, GWM, Chery and MG. Xiaomi\\u2019s arrival would add the most hyped of them all to a market where Chinese cars are no longer the cheap alternative, but increasingly the cars buyers actually want.',
+    ],
+    sources: ['CarsGuide', 'TipRanks'],
+  },
+  {
+    slug: 'eu-china-hybrid-export-quota-350000-first-year-november-2026',
+    title: 'Europe Will Cap Chinese Hybrid Imports at 350,000 a Year \\u2014 and Xiaomi and BYD Are Racing for Quota',
+    description:
+      'China and the EU have reached a preliminary understanding on hybrid vehicle exports, with a first-year cap of 350,000 units rising 6% a year \\u2014 sending Xiaomi shares up nearly 7% as automakers rushed to Beijing to secure allocations.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A quota, not a ban \\u2014 but only 350,000 hybrids a year, shared between every Chinese brand.',
+    body: [
+      'Xiaomi, BYD and other Chinese automakers have rushed to Beijing to secure export quotas after China and the EU reached a preliminary understanding on hybrid vehicle exports. The EU is reportedly planning to restrict hybrid vehicle imports, with a first-year cap of 350,000 units, rising by 6% a year from the second year, for four years. The measures are expected to take effect as early as December 1.',
+      'The total quota is limited, which means the export allocation for each company will not be substantial \\u2014 and every Chinese brand that wants to sell hybrids in Europe will be competing for a slice of the same 350,000. The understanding follows trade and investment consultations held in Beijing earlier this month.',
+      'Investors treated the deal as good news for the Chinese carmakers. Xiaomi shares rose nearly 7% to close at HK$28.1, with turnover reaching HK$7.5 billion, while BYD rose more than 3% to close at HK$70.45. A capped market, it seems, beats an uncertain one.',
+      'The quota matters because hybrids are the growth segment in Europe as pure-electric demand cools: they are the powertrain Chinese brands can sell at scale without facing the full weight of the EU\\u2019s electric-vehicle tariffs. Whoever secures the biggest allocation gets the biggest head start in Europe\\u2019s most contested market.',
+    ],
+    sources: ['Longbridge'],
+  },
+
+// carc-daily-news 2026-11-08 — 20 fresh articles (part 4 of 4: articles 16-20)
+  {
+    slug: 'used-evs-now-cost-more-than-gas-cars-iseecars-november-2026',
+    title: 'The Used EV Discount Is Gone: 1-to-5-Year-Old EVs Now Cost More Than Gas Cars',
+    description:
+      'iSeeCars data shows the average used EV now lists at $32,533, $579 more than a comparable gas car \\u2014 a swing of nearly $2,900 in a year \\u2014 and used EVs are selling 13 days faster than gas cars.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'A year ago a used EV cost $2,227 less than a gas car. Now it costs $579 more \\u2014 and sells faster.',
+    body: [
+      'A used electric car that is one to five years old now costs more, on average, than a gas car of the same age. In September, the average asking price for those EVs reached $32,533, or $579 above comparable gas models, according to a new iSeeCars analysis of more than 1.5 million used vehicles. A year earlier, the average used EV cost $2,227 less than a gas car.',
+      'Prices tell the story: used EV prices rose 9.8% year over year, or $2,896. Hybrids gained 4.9% to $34,476 and remain the most expensive group. Gas cars barely moved, up just 0.3%, or $90, to $31,954. Cox Automotive, using a different method, put the used EV premium even higher, at $2,137.',
+      'Used EVs are also selling faster than gas cars. They spent an average of 41.9 days on the market in September, 10.1% less than a year ago, while gas cars took 54.8 days, up 19.9%. In September 2025 gas cars sold slightly faster; now EVs move almost two weeks sooner. The average for all used vehicles was 53.4 days.',
+      'The flip is not a one-month blip: in iSeeCars\\u2019 monthly series, the average used EV has listed above the average gas car every month since June, after EV prices fell year over year from January through March. iSeeCars ties the move to seven months of high fuel prices and to the EV market\\u2019s recovery from the loss of federal incentives a year ago. As analyst Karl Brauer put it: \\u201ceven high fuel prices can\\u2019t save an unpopular electric car\\u201d \\u2014 but the popular ones are now worth more used than their gas equivalents.',
+    ],
+    sources: ['iSeeCars', 'Octane Daily', 'Apex News'],
+  },
+  {
+    slug: 'gas-4-27-diesel-6-35-hybrids-surge-november-2026',
+    title: 'Gas at $4.27, Diesel at $6.35: Fuel Prices Are Rewriting What Americans Buy',
+    description:
+      'Regular gasoline averaged $4.269 a gallon in late October, up $1.23 in a year, with diesel at $6.352 \\u2014 and hybrids are the winners, with record shares at Hyundai and Kia.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      'A 25-mpg car now costs about $1,800 a year more to fuel than a 45-mpg one. Buyers have noticed.',
+    body: [
+      'Regular gasoline averaged $4.269 a gallon nationwide on October 26, which is $1.234 more than a year earlier, according to the Energy Information Administration\\u2019s weekly survey. On-highway diesel averaged $6.352, up $2.634. The Bureau of Labor Statistics reported that gasoline prices rose 34.2% over the 12 months ended September 2026, against 3.7% for all items.',
+      'The fuel bill is now the deciding factor for many buyers. Take an illustrative driver doing 12,000 miles a year with gas at $4.50: a vehicle that gets 18 mpg burns about 667 gallons, or roughly $3,000 a year, while one that gets 45 mpg burns about 267 gallons, or roughly $1,200. The difference is about $1,800 a year, or $150 a month, before the purchase price is even counted.',
+      'Hybrids are the clear winners. Hybrids made up a record 29% of Hyundai\\u2019s US sales in October 2026, and Kia\\u2019s hybrid sales jumped 114% compared with a year earlier. CarGurus reports new hybrid sales are up 24% so far in 2026, and used hybrid sales are up 19%. The wholesale market agrees: Cox Automotive data shows the value gap between the least and most efficient used vehicles is about 25 percentage points over nine months, with large pickups and SUVs leading the weakness.',
+      'Relief is not imminent. The EIA\\u2019s October Short-Term Energy Outlook says Brent crude averaged $114 a barrel in September, with a daily peak of $131 on September 15, and forecasts US retail gasoline averaging $3.91 in 2026 and $3.56 in 2027, against $3.10 in 2025. Diesel is the sharpest example of the squeeze: diesels are only about 3% of Manheim wholesale inventory, but with fuel near $6.50 their days\\u2019 supply rose to 39 days in September, 11 days above the overall market.',
+    ],
+    sources: ['Energy Information Administration', 'The Auto Wire', 'Cox Automotive', 'CarGurus'],
+  },
+  {
+    slug: 'kia-hyundai-fastest-growing-hybrid-brands-2026-november-2026',
+    title: 'Not Toyota, Not Honda: Kia and Hyundai Are the Fastest-Growing Hybrid Brands in 2026',
+    description:
+      'Cox Automotive Q3 data shows Kia sold 36,000 more hybrids than a year ago and Hyundai 30,000 more \\u2014 faster growth than Toyota, which still holds 44% of the US hybrid market.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Toyota is still the hybrid king. But the Koreans are gaining faster than anyone.',
+    body: [
+      'Toyota remains the biggest player in the US hybrid car market according to Q3 data from Cox Automotive, but it is not the fastest growing. That title goes to Kia, which sold 36,000 more hybrid vehicles in the last quarter compared with the same time last year. Its sister brand Hyundai was not far behind, selling 30,000 more hybrids than it did the previous year.',
+      'Toyota still shifted 32,000 more hybrid vehicles than it did a year ago, giving it a 44% share of the overall hybrid market \\u2014 a slightly smaller share in percentage terms than last year, despite selling more hybrids than before. Honda and Subaru also recorded higher hybrid sales than in Q3 2025. EVs, by contrast, made up around 6% of the market in Q3 2026, a significant drop compared with the same period in 2025.',
+      'Hyundai\\u2019s hybrid surge is the standout. The company celebrated its best-ever October in the US, selling 73,452 vehicles for the month, with hybrid sales up 50% for the year through October and up 20% in October alone. Total sales for the year reached 770,916, up 3% on the same period last year.',
+      'Hyundai is hardly new to hybrids \\u2014 its first mainstream hybrid appeared in 2009 \\u2014 but the current wave is different: it is the mainstream battleground now, not a niche. Toyota has made bold moves of its own, with the Camry and RAV4 now available only as hybrids, and it still outsells Hyundai by a comfortable margin. But with October sales reports in, Toyota should be looking over its shoulder.',
+    ],
+    sources: ['SlashGear', 'Cox Automotive', 'CarBuzz'],
+  },
+  {
+    slug: '2027-toyota-tundra-refresh-42890-trailhunter-november-2026',
+    title: 'Refreshed 2027 Toyota Tundra Debuts at $42,890 With a New Overlanding Trailhunter',
+    description:
+      'Toyota has refreshed its full-size pickup for 2027, adding a new Trailhunter overlanding package, revised styling and trailer-assistance features, starting at $42,890 with the 437-hp i-FORCE MAX hybrid V6 available.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A $42,890 starting price, a factory overlander, and 437 hybrid horses \\u2014 the Tundra is not giving ground to GM.',
+    body: [
+      'Toyota has refreshed its full-size pickup for 2027, adding a new overlanding package, revised styling and a suite of trailer-assistance features. The 2027 Toyota Tundra starts at $42,890 and is expected to reach dealerships in fall 2026, keeping it in the fight with the Chevy Silverado and GMC Sierra.',
+      'The headline addition is the new Trailhunter package, based on the SR5, which brings factory-installed gear for overlanding. The Trailhunter name, already established on the Tacoma and 4Runner, now extends to Toyota\\u2019s full-size truck \\u2014 a direct answer to the off-road packages GM and Ford sell on their own pickups.',
+      'Power carries over with the available i-FORCE MAX hybrid V6, producing 437 horsepower and 583 pound-feet of torque in the 2027 Tundra, and the truck keeps its maximum towing capacity of 9,520 pounds. The 2027 Tundra TRD Pro remains the rival to the Chevy Silverado 1500 ZR2 and the GMC Sierra 1500 AT4X.',
+      'The refresh arrives as Toyota\\u2019s truck business is strong: the company posted its best October ever in the US, selling 188,392 vehicles, and the Tundra\\u2019s $42,890 entry point undercuts the freshly redesigned GMC Sierra\\u2019s upper trims by a wide margin. Full pricing for every configuration has yet to be detailed.',
+    ],
+    sources: ['GM Authority', 'Toyota'],
+  },
+  {
+    slug: 'first-2027-gmc-sierra-denali-texas-86000-november-2026',
+    title: 'The First Redesigned 2027 GMC Sierra 1500 Denali Has Landed in Texas \\u2014 at $86,000',
+    description:
+      'A Texas dealership says it has received the first redesigned 2027 GMC Sierra 1500 Denali in the US: a Glacier White four-wheel-drive truck with a 6.6L V8, listed at $86,000 including destination and options.',
+    date: 'November 8, 2026',
+    dateISO: '2026-11-08',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The first one is in Weimar, Texas. The sticker: $86,000.',
+    body: [
+      'Cavender Auto Country Chevy Buick GMC in Weimar, Texas, says it has been selected to receive the first redesigned 2027 GMC Sierra 1500 Denali in the United States. The dealership\\u2019s truck is listed online, and its window sticker identifies it as a four-wheel-drive Denali finished in Glacier White Tricoat with a Terra Summit interior.',
+      'Power comes from a 6.6L V8, paired with a 10-speed automatic transmission. The truck\\u2019s sticker price is $86,000, including a $2,795 destination charge and $9,205 in options \\u2014 a reminder that the Denali sits at the top of the Sierra range, not the middle of it.',
+      'The arrival marks an early retail appearance for the redesigned 2027 GMC Sierra 1500. GM says the first examples are expected at dealerships before the end of 2026, and this Texas truck is the first to show up on a dealer\\u2019s lot with a window sticker.',
+      'For shoppers, the $86,000 sticker is the number to remember \\u2014 and the comparison to make. The refreshed 2027 Toyota Tundra starts at $42,890, less than half the price of this loaded Denali, though the two trucks are aimed at very different buyers. The Denali is GM\\u2019s luxury truck; the Tundra\\u2019s entry price is its work-truck argument.',
+    ],
+    sources: ['GM Authority'],
+  },
+  {
     slug: 'tesla-rebounds-friday-4-percent-cybertruck-split-november-2026',
     title: 'Tesla Rebounds 4.2% on Friday as Musk\u2019s Cybertruck Call Splits Investors',
     description:
