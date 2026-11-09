@@ -8273,6 +8273,409 @@ export const ARTICLES: NewsArticle[] = [
     ],
     sources: ['J.D. Power', 'GlobalData', 'Cox Automotive'],
   },
+  {
+    slug: 'tesla-cybertruck-deposit-refunds-musk-november-2026',
+    title: 'Musk Says Tesla Will Have to Refund Many Cybertruck Deposits as Orders Outrun Production',
+    description:
+      'Elon Musk said Tesla will refund deposits for many Cybertruck reservation holders because orders far exceed what the factory can build before the line shuts down in about eight months.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The order book will not be filled — and the $100 deposits are going back to a lot of people.',
+    body: [
+      'Tesla will have to refund Cybertruck deposits for many customers because orders far exceed production capacity, CEO Elon Musk said on November 9, days after announcing the electric pickup will be wound down at Gigafactory Texas. “We will try to make as many as possible before shutting down the line in about 8 months, but will have to return deposits for a lot of people,” Musk wrote in a post on X, according to Reuters.',
+      'The comments follow Musk’s announcement last week that Cybertruck production will end around mid-2027 so the factory space can be used to expand output of the Cybercab robotaxi. Tesla has said it will add an extra production shift to fulfil as many outstanding orders as possible before the line is dismantled, but Musk’s latest post is the clearest admission yet that the backlog cannot be cleared in time.',
+      'Tesla began delivering the Cybertruck in late 2023, but demand has fallen far short of Musk’s expectations. US sales fell 48% to 20,237 units last year, according to Kelley Blue Book, and Tesla has just raised Cybertruck prices in the US by up to 9%, with the Premium AWD now starting at $92,490, while pausing new orders for the entry-level Dual Motor version.',
+      'Tesla required a $100 refundable deposit to hold a Cybertruck reservation. The company has not published a refund schedule, a priority list, or a method for deciding which reservation holders keep their place in line. For holders still waiting, the practical question is now whether their truck gets built in the next eight months — or whether the $100 simply comes back.',
+    ],
+    sources: ['Reuters', '985 The River'],
+  },
+  {
+    slug: 'tesla-china-retail-8817-lowest-since-2022-november-2026',
+    title: 'Tesla Sold Just 8,817 Cars in China in October — Its Lowest Domestic Month Since July 2022',
+    description:
+      'Preliminary CPCA data shows Tesla retailed an estimated 8,817 vehicles in China in October 2026, down 66% year over year, while exports from its Shanghai factory hit a record 87% of wholesale volume.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Domestic sales collapsed 86% from September — while Shanghai shipped almost everything it built overseas.',
+    body: [
+      'Tesla’s domestic business in China just hit a floor it has not touched in more than four years. Preliminary China Passenger Car Association (CPCA) data shows Tesla’s estimated domestic retail sales came to 8,817 vehicles in October 2026, the lowest since July 2022, according to Futu News and CnEVPost.',
+      'The arithmetic is stark. Tesla sold 67,829 China-made vehicles at wholesale in October, of which 59,012 left the country as exports — a record 87% of the factory’s wholesale total. The remaining 8,817 are the estimated domestic retail sales. That is down 66.1% from a year earlier and 86.4% from September, while exports jumped 66.3% year over year and 93.3% month over month.',
+      'Tesla itself does not break out a domestic China number, so the 8,817 figure is an estimate derived from the CPCA’s two published data points — wholesale and exports — rather than a company disclosure. Even so, the direction is unambiguous: Shanghai has become an export hub first and a domestic supplier second, as Chinese rivals take share at home.',
+      'Whether November repeats the pattern is the open question. The CPCA’s November data, due in early December, will show whether October was the floor or the start of a longer slide in Tesla’s biggest market outside the United States.',
+    ],
+    sources: ['CnEVPost', 'Futu News', 'Tech Insider'],
+  },
+  {
+    slug: 'tesla-project-crystal-sun-10-billion-solar-plant-texas-november-2026',
+    title: 'Tesla Wants a 10-Year Tax Break for a $10.1 Billion Solar Plant in Texas',
+    description:
+      'Tesla is seeking a decade-long school property tax break for Project Crystal Sun, a proposed $10.1 billion plant in Fort Bend County, Texas, to make photovoltaic solar cells and assemble solar modules.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The school board voted 7-0 to advance the incentive — but Tesla has not picked the site yet.',
+    body: [
+      'Tesla wants a 10-year break on school property taxes for a proposed $10.1 billion plant in Fort Bend County, Texas, according to Yahoo Finance. The facility, filed under the name Project Crystal Sun, would make photovoltaic solar cells and assemble solar modules on part of a 3,057-acre site near FM 1994 and FM 762.',
+      'Lamar Consolidated Independent School District trustees approved the incentive 7-0 under Texas’s Jobs, Energy, Technology and Innovation Act (JETI), which lets school districts limit the taxable value of a project. The Texas Comptroller’s Office estimates the tax savings to Tesla at $115.2 million over 20 years — about 1.1% of the proposed commitment — while the limitation itself runs for 10 tax years.',
+      'The most important caveat is that Tesla has not made a final site-selection decision. Reports say the company is considering another location outside Texas, and the proposal still requires additional state action before a final agreement can take effect.',
+      'The filing comes weeks after a California court found Tesla liable for fraud over a Solar Roof that never produced power — a reminder that the company’s home-energy business has a troubled record even as it plans a major new solar factory. For Texas, the question is whether a $10.1 billion commitment, and the jobs that come with it, actually lands in Fort Bend County.',
+    ],
+    sources: ['Yahoo Finance', 'Houston Public Media', 'Tech Insider'],
+  },
+  {
+    slug: 'tesla-terafab-one-million-wafers-monthly-2032-november-2026',
+    title: 'Tesla and SpaceX’s Terafab Chip Project Reportedly Targets 1 Million Wafers a Month by 2032',
+    description:
+      'Nikkei reports that Terafab, the semiconductor project from Tesla and SpaceX, is targeting capacity of 1 million wafers a month from 2032, split between memory and logic chips.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A million wafers a month would put Musk’s chip ambitions on a scale with the world’s biggest fabs.',
+    body: [
+      'Terafab, the semiconductor project from Tesla and SpaceX, is reportedly targeting capacity of 1 million wafers a month from 2032, split between memory and logic chips, according to Nikkei. The project has presented procurement plans to Japanese equipment makers as it prepares to begin operations.',
+      'The report landed as Tesla shares slipped nearly 1% overnight heading into Monday, after CEO Elon Musk outlined plans to free Cybertruck factory capacity for Cybercab expansion. The stock had jumped 4% to $358.22 on Monday after sliding 10% the previous week — its worst weekly decline since July — as Musk also outlined a future 40 kWh Cybercab battery pack and a liquid silver version of the robotaxi.',
+      'Terafab is the clearest sign yet that Musk wants to control the silicon under his cars, robots and rockets rather than buy it. A million wafers a month would be an enormous build-out by any standard, and the 2032 date shows how long the runway is: this is a decade-scale bet, not a product announcement.',
+      'For now there is no confirmed fab location, no published budget and no production date. What is confirmed is the direction of travel — Tesla and SpaceX are jointly developing the chip plant, and both companies are converging on AI and autonomous systems as their core business.',
+    ],
+    sources: ['Nikkei', 'Stocktwits'],
+  },
+  {
+    slug: 'lincoln-navigator-recall-36994-passenger-seat-moves-november-2026',
+    title: 'Ford Recalls 36,994 Lincoln Navigators Because the Passenger Seat Can Move on Its Own',
+    description:
+      'Ford is recalling 2025-2027 Lincoln Navigators because the front passenger seat may move forward, rearward or recline without anyone touching it; dealers will update software to turn off chauffeur mode free of charge.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A seat that adjusts itself is more than a quirk — it is a crash risk if it moves while driving.',
+    body: [
+      'Ford is recalling 36,994 Lincoln Navigator SUVs because the front passenger seat may move forward or rearward, or recline, without anyone touching it, according to NHTSA filings reported on November 7. The recall covers certain 2025-2027 model year Navigators.',
+      'The fix is a software update: dealers will update the seat software to turn off chauffeur mode free of charge. Chauffeur mode is the feature that lets a rear passenger adjust the front passenger seat for extra legroom — and in the affected vehicles it can apparently activate on its own.',
+      'A seat that moves unexpectedly is a genuine safety issue, not a comfort complaint. If the front passenger seat slides or reclines while the vehicle is moving, it can distract the driver and put the passenger in an unsafe position in a crash.',
+      'Owners can check whether their Navigator is included by entering the 17-character VIN at nhtsa.gov/recalls. The recall is one of several Ford has filed in recent weeks, including the Lincoln Nautilus hybrid park-module recall and the F-150 tailgate cable recall.',
+    ],
+    sources: ['AutoMotor News', 'NHTSA'],
+  },
+
+  {
+    slug: 'nhtsa-reviews-ford-maverick-camera-recall-fix-november-2026',
+    title: 'NHTSA Is Reviewing Whether Ford’s Fix for 273,701 Mavericks’ Rearview Cameras Actually Works',
+    description:
+      'NHTSA is reviewing the scope and remedy effectiveness of Ford’s recall of 273,701 Mavericks from 2022-2024 over rearview cameras, after the original fix came under scrutiny.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A recall is only as good as its repair — and regulators are now checking Ford’s homework.',
+    body: [
+      'NHTSA is reviewing the scope and remedy effectiveness of Ford’s recall of 273,701 Maverick pickups from model years 2022-2024, according to the agency’s November 5 recall listings. The original campaign, 24V-684, covers rearview cameras that can fail, raising the risk of a crash when reversing.',
+      'A recall query like this does not mean the fix is broken — it means the regulator wants evidence that it works and that it reached every affected vehicle. NHTSA opens these reviews when field data, complaints or warranty claims suggest a remedy may be incomplete, and the outcome can range from a clean bill of health to an expanded recall or a revised repair.',
+      'The Maverick is Ford’s affordable compact pickup and one of its best-selling nameplates, so a camera problem at this scale matters to a lot of owners. The hybrid version in particular has been a hit with buyers chasing affordable efficiency, with hybrid sales up sharply this year.',
+      'Maverick owners should check their VIN at nhtsa.gov/recalls to see whether their truck is covered and whether the remedy has been completed. If the camera has ever gone dark or frozen while reversing, that is worth reporting to NHTSA as well as to the dealer — owner complaints are part of what triggers reviews like this one.',
+    ],
+    sources: ['AutoMotor News', 'NHTSA'],
+  },
+  {
+    slug: 'india-november-2026-launches-denza-debut-glc-electric-mini-cooper-se',
+    title: 'India’s November Launch Rush: Denza Debuts on the 13th, GLC Electric Lands, Mini Cooper SE Follows',
+    description:
+      'November 2026 brings four notable launches to India: the Mercedes-Benz GLC Electric on November 4, BYD’s luxury brand Denza on November 13, the Toyota Innova Hycross facelift on November 25 and the new Mini Cooper SE on November 27.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Electric cars dominate the month — and BYD’s luxury brand finally arrives in India.',
+    body: [
+      'November 2026 is shaping up to be a significant month for the Indian car market, with several premium electric vehicles, luxury cars and new models expected to attract attention. Electric vehicles dominate the launch schedule, and the headliner is a brand debut: BYD’s luxury sub-brand Denza enters India on November 13.',
+      'The month opened with the Mercedes-Benz GLC Electric on November 4, offered initially as the GLC 400 4MATIC with a 94 kWh battery pack, 715 km of WLTP range and dual motors making a combined 490 hp and 800 Nm. Mercedes is expected to price it between ₹80 lakh and ₹90 lakh, making it the entry point to the brand’s electric SUV line-up in India.',
+      'Denza arrives on November 13 with the Z9 GT shooting brake and the D9 luxury MPV. The Z9 GT packs a 122.5 kWh battery for a claimed 600 km of WLTP range, with expected pricing between ₹1.2 crore and ₹1.5 crore, while the D9 is expected around ₹80 lakh to ₹1 crore. There is no other shooting brake on sale in India, so the Z9 GT lands in a segment of one.',
+      'The month closes with two more: the Toyota Innova Hycross facelift around November 25, expected at ₹20 lakh to ₹35 lakh, and the second-generation Mini Cooper SE on November 27, with a larger 54.2 kWh battery, a 218 hp front motor and 330 Nm. Some of these prices and dates are estimates rather than confirmed figures, so buyers should treat them as guidance until the manufacturers publish final numbers.',
+    ],
+    sources: ['Autocar India', 'Top Indian News'],
+  },
+  {
+    slug: 'china-november-2026-launches-aito-m8-nx7-guangzhou-auto-show',
+    title: 'China’s November Launch Wave: AITO M8, Dongfeng Nissan NX7 and a Stacked Guangzhou Auto Show',
+    description:
+      'November brings a wave of new models to China, including the AITO New M8 on November 13, the Dongfeng Nissan NX7 the same day, the IM LS8 NEO Pure Electric, and the Guangzhou Auto Show at the end of the month.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'November 13 is the day to watch — two major debuts land on the same date.',
+    body: [
+      'As November begins, a wave of new models is hitting the Chinese market, spanning extended-range, pure electric, gasoline and methanol hybrid powertrains — and the 2026 Guangzhou Auto Show at the end of the month will cap it off.',
+      'The AITO New M8 launches on November 13, with a presale price starting at 389,800 yuan. The same day, Dongfeng Nissan’s NX7 plug-in hybrid SUV makes its global debut, with pre-sales opening the same day. The NX7 is a midsize five-seat SUV, the fourth model in Dongfeng Nissan’s N series, and it is expected to go on sale before the end of the year. Nissan will also unveil another, as-yet-unnamed model at the event.',
+      'The IM LS8 NEO Pure Electric already launched on November 5, with a presale benefit price of 249,800 to 269,800 yuan, while the STELATO V8 is expected in November from a presale price of 329,800 yuan and the Fang Cheng Bao Tai 9 is also due this month.',
+      'The pace reflects how crowded China’s market has become: brands are launching on the same day to avoid being drowned out, and the Guangzhou show will add more still, including the SAIC Volkswagen ID.ERA 5X, the all-new Denza N8, the iCAR V25, the all-new FAW Toyota Avalon, the 2027 Lynk & Co 08 EM-P, the all-new Jetour Freedom 7, the all-new smart #2 and the Geely Galaxy Starshine 6 EF.',
+    ],
+    sources: ['News18a', 'CnEVPost'],
+  },
+  {
+    slug: 'cheapest-evs-canada-november-2026-rebate-steps-down-january',
+    title: 'Canada’s Cheapest EVs This November — and the $5,000 Rebate That Shrinks on January 1',
+    description:
+      'Eight new EVs land under $41,000 in Canada this November after the federal $5,000 EVAP rebate, led by the Fiat 500e at $29,865 — but the rebate steps down to $4,000 on January 1, 2027.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'With fewer than two months left in 2026, Canadian buyers have a short window to claim the full rebate.',
+    body: [
+      'With fewer than two months left in 2026, Canadian EV shoppers have a short window to take advantage of the full $5,000 federal EVAP rebate before it steps down to $4,000 on January 1. Eight new EVs land under $41,000 this November once the rebate and current manufacturer discounts are counted.',
+      'The value leader is the 2026 Fiat 500e at $29,865 after the rebate, thanks to an $8,000 manufacturer discount on its $39,995 list price. The 2027 Nissan Leaf S is the new low-MSRP entry in Canada at $34,998, with a 53 kWh battery delivering an estimated 341 km of range, for $33,541 after the rebate. The 2027 Kia EV3 lands at $35,022 and the 2026 Subaru Uncharted at $36,406.',
+      'The rest of the under-$41,000 list shows how much discounts matter: the 2027 Kia EV4 at $37,022, the 2025 VinFast VF 8 Eco at $38,310 after a $14,000 discount, the 2027 Chevrolet Bolt at $39,019, the 2026 Chevrolet Equinox EV at $39,218 after a $6,000 discount, the 2026 Kia Niro EV at $39,472 and the 2026 Hyundai Kona Electric at $40,519.',
+      'Prices are based on current manufacturer advertised prices and the federal rebate, calculated at the Ontario 13% HST-equivalent before-tax value of $4,425, and they vary by province and dealer. The message for shoppers is the same either way: the $1,000 difference between the 2026 and 2027 rebate is real money, and it disappears on January 1.',
+    ],
+    sources: ['ChargeNews.ca'],
+  },
+  {
+    slug: 'nissan-primera-ev-navara-pro-phev-philippines-launch-november-2026',
+    title: 'Nissan Launches a Premium EV Sedan and a Hybrid Pickup in the Philippines in One Bold Move',
+    description:
+      'Nissan Philippines has launched the all-electric Primera executive sedan at a PHP 1,999,000 launch price alongside the Navara Pro plug-in hybrid 4x4 pickup, from PHP 2,448,000.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'One quiet premium commuter, one work-and-adventure plug-in hybrid — launched on the same day.',
+    body: [
+      'Nissan Philippines has made one of its boldest electrification moves yet: launching an all-electric executive sedan and a plug-in hybrid 4x4 pickup simultaneously. The all-new Nissan Primera and the all-new Nissan Navara Pro Plug-in Hybrid offer Filipino buyers two distinct visions of electrified mobility — one for quiet, premium commuting, the other for work, adventure and long-distance travel.',
+      'The all-new Primera carries a suggested retail price of PHP 2,099,000, but is available at a special launch price of PHP 1,999,000 after a PHP 100,000 discount. It is a fully electric executive sedan aimed at premium commuting and family use.',
+      'The Navara Pro Plug-in Hybrid comes in LE and VL variants. The LE is priced at PHP 2,698,000, reduced to PHP 2,648,000 during the launch promotion, while the VL is priced at PHP 2,498,000, reduced to PHP 2,448,000. Both variants get a PHP 50,000 special discount, along with a home wall charger and a three-year MyNISSAN Connect subscription.',
+      'The double launch is a statement of intent in a market where pickups are workhorses and sedans are status symbols. Nissan is betting that electrification can serve both jobs at once — and that buyers will pay a premium for it.',
+    ],
+    sources: ['Moneyclub PH'],
+  },
+
+  {
+    slug: 'honda-avancier-next-gen-hybrid-seven-seater-teased-november-2026',
+    title: 'Honda Teases the Next-Gen Avancier, a Hybrid 7-Seater SUV for Southeast Asia',
+    description:
+      'Honda has teased the next-generation Avancier, a hybrid seven-seater SUV larger than the CR-V, with a new hybrid system to replace e:HEV and a global reveal coming in November 2026.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A shadowy teaser, a new hybrid system, and a three-row SUV aimed squarely at Southeast Asia.',
+    body: [
+      'Honda has teased a new upcoming model across its social media platforms with a short video: the next-generation Avancier. The clip also hints at the debut of Honda’s next-generation hybrid system, which is set to replace the Japanese carmaker’s current e:HEV series-parallel hybrid powertrain.',
+      'The Avancier will be destined for the global market, with a particular focus on Southeast Asia. According to earlier reports, the car will be assembled in Thailand and is set to go on sale there in early 2027. It should be an even larger SUV than the CR-V, with a three-row seven-seater layout.',
+      'The expected rivals tell the story of where Honda is aiming: the Hyundai Santa Fe, Nissan X-Trail, Chery Tiggo 9 and Volkswagen Tayron. This is the crowded family-SUV segment where three rows and a hybrid badge are now table stakes, and Honda is arriving with a new hybrid system rather than a warmed-over one.',
+      'Honda has not revealed any details about the next-generation hybrid system yet, and the teaser video shows only shadowy clips of the car. In the caption, Honda says the global reveal is set for November 2026 — so the wait for specifications should be short.',
+    ],
+    sources: ['Autobuzz'],
+  },
+  {
+    slug: 'india-november-2026-discounts-tata-sierra-renault-duster',
+    title: 'India’s November Discounts: Up to ₹2.10 Lakh Off the Renault Duster, ₹1.15 Lakh Off the Tata Sierra',
+    description:
+      'Tata and Renault are offering big November benefits in India: up to ₹1.15 lakh off the Sierra and ₹1.25 lakh off the Curvv, and up to ₹2.10 lakh off the Renault Duster, with offers valid until November 30.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The festive-season discount war is still running — and the Duster is the biggest winner this month.',
+    body: [
+      'Tata Motors is rolling out compelling benefits this month for combustion-powered offerings like the Sierra, Nexon, Curvv, Altroz, Harrier and Safari, along with the outgoing Tiago and Tigor. The listed benefits include cash discounts, exchange and scrappage bonuses and loyalty offers, depending on the model.',
+      'The Sierra midsize SUV is available with benefits of up to ₹1.15 lakh: diesel buyers can save up to ₹1.15 lakh in the Accomplished trims, up to ₹95,000 in Pure and Adventure trims and up to ₹70,000 in the base Smart+ trim, while petrol buyers get up to ₹70,000 on all trims except Legend and Dark Edition. The Sierra is priced from ₹11.49 lakh to ₹21.59 lakh. The popular Nexon compact SUV gets benefits of up to ₹75,000, and all pre-September Curvv variants can be bought with benefits of up to ₹1.25 lakh.',
+      'Renault’s November offers are headlined by the Duster, the brand’s flagship in India, with benefits of up to ₹2.10 lakh. Buyers of the higher-spec Techno+ and Iconic trims can choose between a cash discount of up to ₹50,000 and a lower EMI scheme with an interest rate of 4.99%. The Duster is priced from ₹10.49 lakh to ₹19.49 lakh. The Kiger gets up to ₹65,000 in benefits, the Triber up to ₹55,000 and the Kwid a cash discount of up to ₹15,000 plus an exchange or scrappage bonus of up to ₹25,000.',
+      'The offers are valid until November 30 and may vary by city, dealership and stock availability. Buyers should check with their nearest dealer for exact figures — and note that the biggest numbers usually apply to specific trims, not the whole range.',
+    ],
+    sources: ['Autocar India'],
+  },
+  {
+    slug: 'uber-rivian-investment-1-25-billion-r2-robotaxi-2028-november-2026',
+    title: 'Uber Could Invest Up to $1.25 Billion in Rivian, With a Driverless R2 Robotaxi Targeted for 2028',
+    description:
+      'Reuters reports Uber could invest up to $1.25 billion in Rivian through 2031, including $300 million upfront, as the companies target a driverless R2 robotaxi launch in 2028.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Rivian’s R2 is already its best seller — now Uber may bankroll its robotaxi future.',
+    body: [
+      'Uber could invest up to $1.25 billion in Rivian through 2031, including an initial $300 million and a contingent $250 million tranche tied to autonomy milestones, according to Reuters. The partnership targets a 2028 launch of a driverless R2 robotaxi in a handful of cities, expanding to about 25 over the following 18 months.',
+      'The deal would give Rivian something it badly needs: a deep-pocketed partner and a guaranteed customer for its autonomy platform. Rivian is a perennial cash burner, and CEO RJ Scaringe has said the company needs to scale production beyond its current 160,000-unit plans to reach overall profitability. A robotaxi fleet built on the R2 would put Rivian’s vehicles to work earning fares rather than sitting in driveways.',
+      'The timing follows a strong quarter for the R2. Rivian delivered a record 19,248 vehicles in Q3 2026, up 46% year over year, with the R2 emerging as its best-selling model by volume ahead of the R1T and R1S. The company raised full-year delivery guidance to 67,000-70,000 vehicles. Only the Performance R2 is on sale so far, from $59,485 including delivery, with the Premium trim expected later this year from $55,485 and the base version next summer from $46,485.',
+      'Wall Street is paying attention: UBS upgraded Rivian to buy, citing solid demand for the R2 after a 19% sell-off in the shares over the past month. The bank still warns Rivian will keep burning cash and will likely need to sell shares and take on debt to fund operations through at least 2029 — which is exactly the gap an Uber investment would help fill.',
+    ],
+    sources: ['Reuters', 'Jalopnik', 'CarBuzz'],
+  },
+  {
+    slug: 'ford-certified-pre-owned-record-october-2026-shoppers-bargains',
+    title: 'Ford’s Certified Pre-Owned Sales Hit a Record as Shoppers Hunt for Bargains',
+    description:
+      'Ford’s certified pre-owned sales jumped 58% in October to an all-time record, as buyers priced out of new cars turn to used — while the F-Series had its best October since 2019.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'New cars are too dear for many buyers — so Ford’s used-car program is doing record business.',
+    body: [
+      'Car shoppers are hunting for bargains, and Ford’s certified pre-owned program is the beneficiary. Ford’s October certified pre-owned sales jumped 58% year over year to an all-time record, spokesman Said Deep said, and from January through October CPO sales are now up 33%.',
+      'The shift fits the wider market. In the 2026 Cox Automotive Certified Pre-Owned Vehicle Study, released November 2, only 76% of car shoppers said they find new vehicles appealing, down from 85% in 2023. With the average new-car payment at a record $823 a month in October, according to J.D. Power, a manufacturer-backed used car with a warranty looks increasingly sensible.',
+      'Ford’s new-vehicle sales told a split story in October. Total sales slid 0.8% to 174,123 vehicles, and electric vehicle sales plummeted 71% to 1,355 as the post-tax-credit market settled — the F-150 Lightning sold zero in the month. But the F-Series had a blinding bright spot: 73,482 pickups sold, up 8.2% on October 2025 and the truck’s best October since 2019. For the year so far, F-Series sales are 634,990, down 7.8%, still enough to keep it America’s best-selling vehicle.',
+      'Ford Credit, the company’s financing arm, is also doing well: it reported third-quarter earnings before taxes of $631 million, up 16% on a year ago. The message from October is that Ford’s profit engine is now the truck and the used-car lot as much as the showroom.',
+    ],
+    sources: ['Detroit Free Press', 'Cox Automotive'],
+  },
+  {
+    slug: 'louisiana-first-uncrewed-evtol-flight-faa-pilot-program-elroy-november-2026',
+    title: 'Louisiana Flew the First Uncrewed Aircraft Under the FAA’s eVTOL Pilot Program',
+    description:
+      'Louisiana became the first state in the FAA’s eVTOL Integration Pilot Program to fly an aircraft with nobody on board, after Elroy Air’s uncrewed Chaparral cargo flights from Houma-Terrebonne Airport in late August 2026.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Nobody on board, nobody at the controls nearby — and Louisiana got there first.',
+    body: [
+      'Louisiana became the first state in the federal eVTOL Integration Pilot Program to fly an aircraft with nobody on board, after Elroy Air’s uncrewed Chaparral cargo flights from Houma-Terrebonne Airport in late August 2026, according to Aviation Week.',
+      'The Chaparral is an autonomous cargo aircraft — a hybrid-electric vertical take-off and landing design built to move freight, not people. Flying it with no pilot on board under the federal pilot program is a regulatory milestone: it tests how uncrewed aircraft share airspace, communicate with air traffic control and handle emergencies without a human in the loop.',
+      'There is a catch worth noting. Neither the federal program nor the state fund has put money behind the Louisiana effort yet, according to the same reporting — the flights happened, but the funding has not. That is a familiar pattern in advanced air mobility: the technology is often ahead of the money.',
+      'Even so, first matters in a race where states are competing to host the air-taxi industry. Louisiana’s claim is now on the record, and other states in the pilot program will be measured against it.',
+    ],
+    sources: ['Aviation Week', 'Avi-Go'],
+  },
+
+  {
+    slug: 'ehang-sri-lanka-flying-taxi-demo-colombo-port-city-november-2026',
+    title: 'Sri Lanka’s First Flying Taxi Demo Is Set for November 11 at Colombo Port City',
+    description:
+      'Sri Lanka will demonstrate EHang’s two-seat electric air taxi at Colombo Port City on November 11, 2026, with test flights already reported ahead of the official demonstration.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Two seats, no runway, no pilot — and a whole country watching its first flying taxi.',
+    body: [
+      'Sri Lanka is taking a step into the future of aviation with EHang passenger drones — electric, autonomous, two-seat aircraft that take off and land vertically without a traditional runway. An official demonstration is planned for November 11, 2026, at Colombo Port City, with test flights already reported there ahead of the event.',
+      'The aircraft is EHang’s electric air taxi, the EH216-S class of autonomous eVTOL. It carries two people and flies itself, which is why the demonstration matters beyond the spectacle: it is a public test of whether a country with no air-taxi infrastructure can leap straight to autonomous flight.',
+      'Commercial passenger operations have not yet been confirmed and will depend on regulatory approvals, safety assessments and further development. EHang’s EH216-S is the only piloted-less eVTOL to hold a full type certificate from a major regulator — China’s CAAC, granted in October 2023 — but Sri Lankan approval is a separate process that has not happened yet.',
+      'For Sri Lanka, the demo is also a tourism and investment signal. Colombo Port City is a new special economic zone built on reclaimed land, and hosting the country’s first flying taxi fits the pitch: a modern, forward-looking place to do business.',
+    ],
+    sources: ['EHang', 'YouTube'],
+  },
+  {
+    slug: 'aridge-land-aircraft-carrier-flying-car-uae-november-2026',
+    title: 'UAE Residents Could Soon Own Their Own Flying Car — a Six-Wheeled Truck With a Plane in the Back',
+    description:
+      'Chinese company Aridge is working on the Land Aircraft Carrier, a six-wheeled vehicle with a detachable two-seat electric aircraft in the back, and UAE residents could be among its first private owners.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Drive it to the launch site, fly the aircraft out of the back — and park it all at home.',
+    body: [
+      'We have seen flying taxis making headlines in Dubai, but what about having your very own flying car? One you can drive, park at home and take into the sky? Chinese company Aridge is working on exactly that, and UAE residents could soon have the chance to own one.',
+      'Meet the Land Aircraft Carrier: a six-wheeled vehicle with a detachable, two-seater electric aircraft tucked into the back. According to Khaleej Times, Tan Wang, co-founder and vice-president of Aridge, said the mechanism involves at least seven systems and more than 1,000 parts. The vehicle is being developed for private ownership, giving UAE residents the possibility of having their own flying vehicle rather than relying on commercial air taxis.',
+      'Aridge has received around 7,000 pre-orders worldwide, including approximately 600 from the GCC. That is a serious order book for a vehicle that has not yet been certified anywhere — a sign of how much appetite there is for the idea, and how much risk sits behind the numbers.',
+      'There is no confirmed date for UAE sales or private flights yet. The aircraft still needs certification from China’s aviation authority, followed by validation from the UAE’s General Civil Aviation Authority, and flights will be limited to approved areas, with individual operating requirements still being developed. Aridge has signed an agreement with Ras Al Khaimah to test the technology under aviation authority supervision — the first step on a long road to a driveway with an aircraft in it.',
+    ],
+    sources: ['Khaleej Times', 'What’s On'],
+  },
+  {
+    slug: 'wisk-hollister-vertiport-autonomous-evtol-testing-november-2026',
+    title: 'Wisk Opens a Vertiport for Autonomous eVTOL Testing at a Public California Airport',
+    description:
+      'Wisk Aero has opened a 100-by-100-foot vertiport at Hollister Municipal Airport in California to test landing and navigation systems for its pilotless Gen 6 air taxi.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'One of the first US vertiports at a public airport built for both piloted and autonomous aircraft.',
+    body: [
+      'Wisk Aero has opened a 100-by-100-foot vertiport at Hollister Municipal Airport in California to test landing and navigation systems for autonomous aircraft, using surrogate helicopters and its pilotless Gen 6 eVTOL air taxi. The company held a ribbon-cutting ceremony on October 29 and announced the opening on October 30.',
+      'The company calls it one of the first US vertiports at a public airport built for both piloted and autonomous aircraft. According to a July filing by the city of Hollister, a Bell 206 helicopter with sensor packages and a pilot on board will first demonstrate basic landings and takeoffs through early 2027. Later phases, running from late 2026 through early 2028, call for Gen 6 aircraft to begin using the pad for autonomous hover tests followed by more advanced manoeuvres.',
+      'Wisk said its own transceivers, mounted on the pad, will let it test precision navigation in low or zero visibility — the conditions that will decide whether air taxis can fly on a schedule rather than only on clear days. Wisk calls the vertiport “fully operational” but has not said whether any aircraft has used the pad yet.',
+      'Data from the vertiport’s operations will feed into the FAA’s eVTOL Integration Pilot Program. Public comments on the programme are due January 11, 2027, and the FAA expects to issue final standards in summer 2027 — the rules that will decide when pilotless air taxis can actually carry passengers.',
+    ],
+    sources: ['Aviation International News'],
+  },
+  {
+    slug: 'gwm-ora-5-cashback-32990-driveaway-australia-november-2026',
+    title: 'GWM Offers $1,000 Cashback on the Ora 5, Bringing the Electric SUV to $32,990 Driveaway',
+    description:
+      'GWM is offering $1,000 cashback on the Ora 5 electric SUV for the first time since deliveries began in June, bringing the effective starting price to $32,990 driveaway — or 0.88% finance instead.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The first cashback on the Ora 5 — and a near-zero finance rate as the alternative.',
+    body: [
+      'GWM is offering $1,000 cashback on the Ora 5 electric SUV for the first time since deliveries began in June, bringing the effective starting price to $32,990 driveaway. The brand has launched the campaign to boost sales of the Ora 5, its family-size electric SUV.',
+      'Buyers can choose between the $1,000 cashback and a finance offer with a 0.88% annual interest rate and a 2.71% comparison rate over three years, with no deposit or balloon payment. The two offers cannot be combined. The offer is available on the Lux variant for 2026-built vehicles delivered by November 30, 2026, with driveaway pricing quoted for private buyers using Victoria as the pricing base.',
+      'The Ora 5 is a bigger vehicle than the original Ora EV, which it replaced in GWM’s local electric line-up, and it has already achieved strong sales in the very popular family SUV segment. The original Ora will also make a comeback in the months to come with a refresh, but the immediate focus is on Ora 5 sales.',
+      'GWM now has more than 125 dealers across Australia and plans to launch multiple new EV models in the coming months, diversifying its powertrain mix across a range that includes utes and SUVs. The Ora 5 offer is part of a busy November for Australian EV deals, with Geely running 0.68% finance and Tesla offering a $2,000 trade-in bonus.',
+    ],
+    sources: ['The Driven', 'ZeCar'],
+  },
+  {
+    slug: 'ev-stocks-rally-midterms-rivian-lucid-november-2026',
+    title: 'EV Stocks Rally After the Midterms: Rivian Up 6%, Lucid Up 12% — While Tesla Falls',
+    description:
+      'Rivian rose 6% and Lucid jumped 12% as markets rallied after Democrats swept the House and Senate in the midterms, while Tesla fell 2% on what Elon Musk’s election-night losses could mean for his companies.',
+    date: 'November 9, 2026',
+    dateISO: '2026-11-09',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A rising tide lifted EV stocks — except Tesla, which sank on Musk’s election losses.',
+    body: [
+      'Rivian shares rose 6% in a market rally after Democrats swept the House and Senate in Tuesday’s midterms, with no news from the company. The S&P 500 rose 2% and the Nasdaq 2% on the morning after the vote, and investors bought EV stocks along with the market: Lucid jumped 12% and NIO rose 6%, while Tesla fell 2% on what Elon Musk’s election-night losses could mean for his companies.',
+      'Lucid’s jump had even less behind it than Rivian’s. The company delivered 3,806 vehicles in the third quarter, 6.7% fewer than a year earlier, after cutting production, and it reports results next week. NIO sells mostly in China and rose on a US election anyway. The moves were about the market, not the companies.',
+      'Rivian’s real test comes in December. Its cars still lost $80 million at the gross level last quarter, and it burned $1.12 billion of free cash flow. Management plans to exit the fourth quarter at an automotive gross profit, which results early next year will show — and Rivian needs positive gross margin to draw on its Department of Energy loan of up to about $4.5 billion.',
+      'The rally also came a day after UBS upgraded Rivian to buy on solid R2 demand, and as reports emerged that Uber could invest up to $1.25 billion in the company. For Lucid, the picture is harsher: it has burned $5.1 billion over the last 12 months, continues to report negative gross margins, and holds barely $760 million in cash. A one-day rally does not fix either balance sheet.',
+    ],
+    sources: ['TIKR', 'Motley Fool'],
+  },
 ]
 
 export function getArticle(slug: string): NewsArticle | undefined {
