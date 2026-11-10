@@ -14,6 +14,406 @@ export interface NewsArticle {
 
 export const ARTICLES: NewsArticle[] = [
   {
+    slug: 'musk-talent-cap-cybertruck-cybercab-one-car-at-a-time-november-2026',
+    title: 'Musk Says Tesla Can Only Build One New Car at a Time — and Cybercab Won the Talent',
+    description:
+      'Elon Musk said Tesla has a very limited pool of smart, dedicated people and that keeping the Cybertruck line alive prevents the company from scaling Cybercab — the clearest explanation yet of why the truck is being wound down.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The talent pool is finite, Musk said — and right now it is tied up in the Cybertruck.',
+    body: [
+      'Elon Musk has given the clearest explanation yet of why Tesla is winding down the Cybertruck: the company, he says, has a very limited number of smart, dedicated people, and those people can only do so many things. In a post on X, Musk said that maintaining the Cybertruck production line, supply chain and engineering resources prevents Tesla from using the same people to scale Cybercab, its two-seat robotaxi.',
+      'The exact wording, as reported, was: “The biggest thing most people fail to understand is that there are a very limited number of smart, dedicated people! They can only do so many things.” Musk did not say Tesla cannot build more than one car at a time in general — the limit he described applies specifically to the Cybertruck and Cybercab, and to the staff, supply chain and engineering effort each one demands.',
+      'The context is a truck that never met its own targets. Cybertruck sales sagged 28% this year through September, to about 11,600 trucks, according to an estimate from research firm Motor Intelligence — far off the 250,000-truck annual level Musk once predicted. Tesla has said it will ramp up Cybertruck production at its Austin, Texas, factory to meet an order backlog before dismantling the assembly line around June or July 2027, and that it will have to refund deposits for many reservation holders.',
+      'The post also lands amid reported turnover in Tesla’s vehicle programs: the head of the Cybertruck program, Siddhant Awasthi, and Model Y program manager Emmanuel Lamacchia both left in November 2025, according to the reporting. Whether the talent constraint is the whole story or a framing of a sales problem, the direction is now unambiguous — Tesla is betting its Texas factory on robotaxis, not trucks.',
+    ],
+    sources: ['Reuters', 'Tech Insider', 'Electrek'],
+  },
+  {
+    slug: 'tesla-robotaxi-san-antonio-eighth-city-laser-camera-cleaning-november-2026',
+    title: 'Tesla Robotaxi Reaches San Antonio — and Engineers Are Floating Lasers to Keep Its Cameras Clean',
+    description:
+      'Tesla launched unsupervised Robotaxi service in San Antonio, its eighth city, and expanded Austin to about 443 square miles — while a Tesla engineering chief floated pulsed lasers instead of wipers to keep robotaxi cameras clear.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Eighth city, bigger Austin map — and a laser instead of a wiper blade.',
+    body: [
+      'Tesla launched unsupervised Robotaxi service in San Antonio on Monday, its eighth city, and on the same day expanded its Austin service area to roughly 443 square miles. The rollout keeps Tesla’s driverless push moving at a fast clip, with San Antonio joining Austin, Atlanta and other cities where paying passengers can already hail a Tesla with no one behind the wheel.',
+      'The same week brought a glimpse of how Tesla thinks about the robotaxi’s biggest weather problem: dirty cameras. Lars Moravy, Tesla’s Vice President of Vehicle Engineering, floated the idea of using focused lasers to keep robotaxi cameras clear in a new episode of Jay Leno’s Garage, where he and design chief Franz von Holzhausen walked Leno through the Model Y L.',
+      'The laser idea revives one of Tesla’s stranger patents. The company filed for “Pulsed Laser Cleaning of Debris Accumulated on Glass Articles in Vehicles and Photovoltaic Assemblies” in May 2019, and the U.S. Patent Office granted it in September 2021. An updated divisional version was granted on March 31, 2026. Moravy gave no timeline, and he described the laser setup as something Tesla is considering rather than a confirmed feature.',
+      'The Model Y L at the centre of the episode launched in the U.S. in July at $61,990. For now the laser remains an idea, not a product — but it shows where Tesla’s engineering attention is going as the robotaxi fleet grows: the hard problems are no longer just driving, but keeping a driverless car’s eyes clean in rain, dust and road grime.',
+    ],
+    sources: ['Teslarati', 'Longbridge', 'Electrek'],
+  },
+  {
+    slug: 'honda-recalls-635808-steering-assist-software-tlx-mdx-pilot-november-2026',
+    title: 'Honda Recalls 635,808 Vehicles After Steering Assist Software Can Cut Out',
+    description:
+      'Honda is recalling 635,808 Acura TLX, Acura MDX and Honda Pilot vehicles in the US because a power steering software fault can send the system into failsafe mode and disable steering assist.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A software fault can disable power steering assist — dealers will reprogram the control unit free.',
+    body: [
+      'Honda is recalling 635,808 vehicles in the United States over an issue with the power steering assist software, the National Highway Traffic Safety Administration said on Tuesday. The recall covers certain 2021-2025 Acura TLX, 2022-2024 Acura MDX and 2023-2025 Honda Pilot vehicles.',
+      'According to NHTSA, a fault in the electronic power steering software can send the system into a failsafe mode that disables the power steering assist. The car can still be steered, but it becomes much harder to turn the wheel, increasing the risk of a crash — particularly at low speeds, where steering effort matters most.',
+      'The remedy is a software fix: dealers will reprogram the electronic power steering control unit, free of charge. Owners of affected vehicles should watch for a notification from Honda or Acura, and can check whether their vehicle is included by entering its VIN at NHTSA.gov/recalls.',
+      'The recall is one of the largest of the year by unit count, and it is the latest in a run of software-driven recalls across the industry — a reminder that in modern cars, a steering problem is as likely to live in code as in hardware, and that the fix is increasingly a reflash rather than a replaced part.',
+    ],
+    sources: ['Reuters', 'NHTSA'],
+  },
+  {
+    slug: 'ford-ranger-recall-11405-rearview-camera-no-image-november-2026',
+    title: 'Ford Recalls 11,405 Rangers Because the Rearview Camera May Show Nothing',
+    description:
+      'Ford is recalling 11,405 2026 Ranger pickups whose rearview cameras may fail to display an image, raising crash risk when reversing. The remedy is still under development.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A blank backup camera on a brand-new truck — Ford is recalling 11,405 Rangers.',
+    body: [
+      'Ford is recalling 11,405 2026 Ford Ranger pickups whose rearview cameras may not display an image, according to a recall notice dated November 5, 2026. A camera that shows nothing when the truck is in reverse increases the risk of a crash, particularly in parking lots and driveways where the camera is often the driver’s main view behind the vehicle.',
+      'The recall carries NHTSA number 26V605000. Ford told regulators the remedy is currently under development, which means affected owners will be notified and the fix — likely a software update or a camera module replacement — will be announced once it is ready.',
+      'It is not Ford’s first rearview camera problem this year. In September 2026, Ford recalled about 48,000 F-150 pickups whose rearview cameras also would not work, and in May 2026 it recalled 180,000 Ranger and Bronco vehicles for loose front seats. Camera failures have become one of the most common recall triggers across the industry, because federal rules require the image to appear — a blank screen is a safety defect, not an inconvenience.',
+      'Ranger owners can check whether their truck is included by entering its VIN at NHTSA.gov/recalls. Until the remedy is ready, the practical advice is the old-fashioned kind: turn your head, use the mirrors, and do not rely on the screen.',
+    ],
+    sources: ['MotorSafety.org', 'NHTSA'],
+  },
+  {
+    slug: 'nhtsa-petition-ford-e350-f59-f750-73l-camshaft-lifter-failure-november-2026',
+    title: 'NHTSA Is Weighing an Investigation Into Ford 7.3L Camshaft and Lifter Failures',
+    description:
+      'NHTSA’s Office of Defects Investigation will decide whether to grant a petition alleging camshaft and lifter failures in 7.3L gasoline engines in 2021-2022 Ford E-350 and 2021 Ford F-59 and F-750 vehicles.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A petition, not yet a recall — NHTSA must decide whether to investigate the 7.3L V8.',
+    body: [
+      'NHTSA’s Office of Defects Investigation will determine whether to grant or deny a petition alleging camshaft and lifter failures in 7.3L gasoline engines in 2021-2022 Ford E-350 and 2021 Ford F-59 and F-750 vehicles. The petition was logged on November 9, 2026, and covers about 54,787 vehicles.',
+      'A defect petition is how owners and outside parties ask NHTSA to look at a problem the manufacturer has not recalled. The agency reviews the petition, the available failure reports and any manufacturer data, then decides whether to open a formal investigation — which can end in a recall, a finding of no defect trend, or further testing.',
+      'The 7.3L “Godzilla” V8 is Ford’s big gasoline workhorse, used in commercial vans, stripped chassis and medium-duty trucks — vehicles that tend to rack up high miles under heavy loads. A camshaft or lifter failure in that kind of service can mean a sudden loss of power or a dead engine, which is why the petition argues the issue deserves a federal look.',
+      'Nothing is decided yet. Owners of the affected trucks should watch for NHTSA’s decision on the petition, and any owner who has had a camshaft or lifter failure can file a complaint at NHTSA.gov — those complaints are the evidence the agency weighs when deciding whether to investigate.',
+    ],
+    sources: ['NHTSA', 'AutoMotor News'],
+  },
+  {
+    slug: 'lincoln-nautilus-corsair-hybrid-recall-neutral-shift-park-module-november-2026',
+    title: 'Lincoln Recalls 11,623 Hybrid SUVs That Can Slip Into Neutral While Driving',
+    description:
+      'Lincoln is recalling 11,623 2026-2027 Nautilus Hybrid and 2027 Corsair Hybrid SUVs because a transmission park module defect can drop the vehicle into neutral without warning while it is moving.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Every one of the 11,623 is estimated to be affected — the SUV can lose drive power mid-trip.',
+    body: [
+      'Lincoln is recalling 11,623 hybrid crossovers because a transmission defect can drop the vehicle into neutral without warning while it is moving. The recall covers select 2026-2027 Lincoln Nautilus Hybrid models and 2027 Lincoln Corsair Hybrid models.',
+      'Ford traced the problem to the Integrated Park Module, a component inside the transmission’s park lock actuator system. When it fails, it cuts power to the wheels mid-drive, leaving the driver coasting with no drive power and raising the odds of a rear-end collision. According to NHTSA documentation, Ford estimates 100% of the vehicles covered by the recall are actually affected, not just a subset flagged as a precaution.',
+      'The recall covers 11,560 Nautilus Hybrids from the 2026 and 2027 model years built between September 9, 2025, and August 6, 2026, along with 63 Corsair Hybrids from the 2027 model year. Affected VINs became searchable on NHTSA.gov on October 26.',
+      'Ford will mail interim notification letters starting November 2 to alert owners to the hazard, with a second letter to follow once dealers have enough Integrated Park Modules in stock to perform the swap. Owners with questions can reach Ford customer service at 1-866-436-7332 and reference recall campaign number 26S75.',
+    ],
+    sources: ['TopSpeed', 'NHTSA'],
+  },
+  {
+    slug: 'archer-midnight-los-angeles-faa-market-survey-certificate-november-2026',
+    title: 'Archer’s Midnight Air Taxi Cleared to Fly in Los Angeles — Its Biggest Commercial Milestone Yet',
+    description:
+      'Archer Aviation said its Midnight aircraft received an FAA market survey special airworthiness certificate, unlocking flights in Los Angeles and a path to passenger operations ahead of full type certification.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Midnight is now in LA — and Archer calls this its most important commercialization milestone to date.',
+    body: [
+      'Archer Aviation’s Midnight electric air taxi has received its market survey special airworthiness certificate from the FAA, the company announced on November 9, 2026. The certificate unlocks Archer’s ability to begin flying Midnight in Los Angeles and progress toward passenger-carrying operations in LA and other major U.S. cities ahead of type certification. Archer called it “undoubtedly our most important commercialization milestone to date.”',
+      'The first Midnight aircraft has been delivered to Los Angeles for the next leg of the company’s No Roads flight tour, which is expected to begin in the coming weeks. In September, Archer launched the tour in Northern California in close coordination with the FAA. Over the coming quarters in LA, Archer expects to progress from piloted conventional takeoff and landing into vertical takeoff and landing operations, and then on to pilot-plus-passenger operations, in coordination with the FAA and in parallel with type certification.',
+      'Midnight is in the fourth and final phase of the FAA’s type certification process, the implementation phase, where every compliance finding is made against the means of compliance and test plans agreed with the agency. Archer has been preparing LA for more than two years, since announcing its planned LA route network in August 2024, and in May 2025 the LA28 Olympic Games selected Archer as the official air taxi provider of the 2028 Games.',
+      'The strategy runs through the federal eVTOL Integration Pilot Program, established by the White House three weeks after the LA28 selection, which gives a pathway for accelerated launch in American cities. Archer plans to fly in American cities through 2027 and showcase air taxi operations at the Games in 2028, with the No Roads tour also planned for Texas, Florida and New York.',
+    ],
+    sources: ['Archer Aviation', 'Roic AI'],
+  },
+  {
+    slug: 'skydrive-goyang-south-korea-evtol-mou-2028-commercial-flights-november-2026',
+    title: 'SkyDrive Signs Korea Deal Targeting Commercial Flying-Taxi Flights by 2028',
+    description:
+      'Japan’s SkyDrive signed a three-way MOU with Goyang Special City and Verty to build vertiports, run flight trials and prepare commercial eVTOL operations in the Seoul Capital Area by 2028.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Seoul’s backyard could see commercial eVTOL flights in 2028 under the new agreement.',
+    body: [
+      'SkyDrive Inc., the Japanese compact eVTOL developer, has signed a tripartite memorandum of understanding with Goyang Special City and Verty Co. Ltd. to accelerate commercial eVTOL deployment in South Korea. The agreement targets 2028 commercial flight operations and regional ecosystem development across the Seoul Capital Area.',
+      'Under the agreement, the three parties will collaborate across the public and private sectors to establish operational infrastructure, conduct flight trials and build a regional ecosystem to prepare for commercial eVTOL flights in Goyang City. The MOU was signed on November 4, 2026, during DRONE-UAM EXPO 2026 at KINTEX in Goyang, where SkyDrive and Verty co-hosted an exhibition booth featuring a 20% scale mockup of the commercial SKYDRIVE (SD-05 model) aircraft.',
+      'Goyang Special City, a metropolis of more than 1 million people adjacent to Gimpo International Airport, is positioning itself as the Seoul Capital Area hub for South Korea’s national urban air mobility (K-UAM) initiative. Verty, a Seoul-based company, is building integrated systems across flight operations, air traffic management and vertiport administration.',
+      'South Korea represents a key strategic market for SkyDrive’s global expansion, aligned with the roadmap set by the country’s Ministry of Land, Infrastructure and Transport to launch commercial eVTOL operations by 2028. SkyDrive says its compact multirotor design is well suited for rooftop vertiport operations — a practical answer to congestion in densely populated metropolitan areas.',
+    ],
+    sources: ['Business Wire', 'SkyDrive'],
+  },
+  {
+    slug: 'bmw-ix4-66300-neue-klasse-ix5-460kw-charging-demo-november-2026',
+    title: 'BMW’s New iX4 Starts at $66,300 — and Its Big Brother Just Pulled 460 kW From a Charger',
+    description:
+      'BMW’s electric SUV coupe joins the Neue Klasse as the iX4 50 xDrive from $66,300, with 463 hp and up to 428 miles of range, while BMW, IONNA and Alpitronic demoed 460 kW charging on the iX5.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      '428 miles of range, 463 hp — and a 460 kW charging demo that is not for sale yet.',
+    body: [
+      'BMW’s electric SUV coupe joins the Neue Klasse lineup in March 2027 as the iX4 50 xDrive: 463 hp, an estimated range of up to 428 miles, and 10–80% charging in 21 minutes on an 800-volt charger. The U.S. price for the 50 xDrive starts at $66,300 plus destination.',
+      'The iX4 is the second Neue Klasse model after the iX3, and it brings BMW’s new electric architecture — 800-volt charging, a new-generation battery and the brand’s latest driver-assistance hardware — to the coupe-SUV shape that has become one of the most popular silhouettes in the premium market.',
+      'Separately, BMW, IONNA and Alpitronic showed the new iX5 60 xDrive pulling up to 460 kW peak from a charger, adding charge to 80% in 22 minutes. The asterisk matters: BMW says the 460 kW setup is a technology demonstration and not hardware commercially available in the U.S. today. It is a preview of where charging speeds are heading, not something buyers can plug into this year.',
+      'Taken together, the two announcements sketch BMW’s EV roadmap: the iX4 is the car you can actually buy in the spring, while the 460 kW demo is the charging future it is building toward — one where a 10-minute stop adds real range instead of a coffee break.',
+    ],
+    sources: ['BMW', 'Electrek'],
+  },
+  {
+    slug: 'kia-ev3-united-states-29890-321-mile-wind-november-2026',
+    title: 'Kia EV3 Lands in the U.S. at $29,890 — the Cheapest Long-Range EV From a Major Brand',
+    description:
+      'The Kia EV3 has started U.S. sales at $29,890, with the $34,990 Wind trim offering 321 miles of range from an 81.4 kWh pack — the best-packaged affordable EV on sale right now, per first-drive reviews.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      '321 miles for $34,990 — the EV3 is the affordable EV to beat.',
+    body: [
+      'The Kia EV3 has landed in North America at $29,890. The small electric SUV has been on sale overseas since 2024, won the 2025 World Car of the Year award, and U.S. sales started in mid-August. The base Light FWD uses a 58.3 kWh pack for 221 miles of range; the $34,990 Wind FWD gets the 81.4 kWh pack and 321 miles.',
+      'All-wheel drive brings 261 hp and 280 miles of range, and the $45,890 GT makes 288 hp with 0–60 mph in 5.4 seconds. Electrek’s first drive calls the EV3 the best-packaged affordable EV right now — with the caveat that the price climbs fast up the trims.',
+      'The pricing matters because the affordable end of the EV market has been thin in the U.S. With federal incentives gone, a sub-$30,000 starting price and a 321-mile mid-trim option put the EV3 in a class of its own among mainstream brands, undercutting the Tesla Model Y and the Hyundai Kona Electric on price while matching them on usable range.',
+      'The open question is volume: Kia will need to build and ship enough EV3s to make the headline price real for most buyers, and dealers will need to resist the markups that have greeted other hot affordable EVs. If they do, the EV3 could do for Kia what the Telluride did for its SUV lineup — become the car the brand is known for.',
+    ],
+    sources: ['Kia', 'Electrek'],
+  },
+  {
+    slug: 'tata-sierra-ev-india-launch-1879-lakh-665-km-november-2026',
+    title: 'Tata Sierra EV Launches in India From ₹18.79 Lakh With Up to 665 km of Range',
+    description:
+      'Tata’s revived Sierra nameplate goes electric in India, priced ₹18.79–26.48 lakh with 63 and 75 kWh battery options, up to 665 km of claimed range and DC fast charging in 26 minutes.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A beloved 1990s nameplate returns as an EV with 665 km of range.',
+    body: [
+      'Tata has launched the Sierra EV in India, reviving one of the country’s most beloved 1990s nameplates as a modern electric SUV. Prices run from ₹18.79 lakh to ₹26.48 lakh, with 63 and 75 kWh battery options and up to 665 km of claimed range.',
+      'The Sierra EV offers rear-wheel drive and all-wheel drive (QWD) configurations, seats five, and can DC fast-charge in about 26 minutes. It lands in a crowded Indian EV market alongside the Maruti e Vitara (₹15.99–20.21 lakh, 543 km) and the Kia Syros EV (₹13.49–19.49 lakh, 500+ km), but its larger battery and longer range put it a step above the mainstream compact EVs on price and capability.',
+      'The Sierra name carries real nostalgia in India — the original Sierra was one of the country’s first lifestyle SUVs. Tata is betting that the name, plus a boxy retro-modern design, will stand out in a segment where most rivals look interchangeable.',
+      'The launch is part of a busy November for Indian car buyers, with the Mercedes-Benz GLC Electric, Denza’s India debut, a Toyota Innova Hycross facelift and a new MINI Cooper SE all scheduled for the same month. Tata’s advantage is price: the Sierra EV is the only one of the month’s big launches aimed squarely at the mass market rather than the luxury buyer.',
+    ],
+    sources: ['Tata Motors', 'TrendingEV'],
+  },
+  {
+    slug: 'waymo-los-angeles-south-bay-torrance-manhattan-beach-210-square-miles-november-2026',
+    title: 'Waymo Pushes Into LA’s South Bay — 210 Square Miles, but Still No LAX',
+    description:
+      'Waymo added Torrance, El Segundo and Manhattan Beach to its Los Angeles robotaxi map, taking the service area to 210 square miles — but rides to and from LAX remain off limits.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'South Bay is in, LAX is still out — and California’s new robotaxi rules vote is November 19.',
+    body: [
+      'Waymo extended its Los Angeles robotaxi service south along the coast, adding Torrance, El Segundo and Manhattan Beach to its map. The Los Angeles service area now covers 210 square miles, the Los Angeles Times reported, and the expansion also takes in destinations such as Universal Studios and the Beverly Hills Hotel.',
+      'The Los Angeles move is part of a wider push Waymo announced on October 27: over one week, the company is scaling in five cities and adding nearly 250 square miles of territory across Los Angeles, Nashville, Orlando, San Diego and the San Francisco Bay Area. Waymo’s website now lists 15 areas where riders can ride, with 17 more — including New York, Washington, Chicago, Boston, Seattle, London and Tokyo — listed as “Up Next.”',
+      'One gap remains conspicuous: riders still cannot request trips to or from Los Angeles International Airport. Waymo says it is in active discussions with airport officials, and the airport authority says integration waits for the automated Skylink people mover, delayed since 2023 and expected to open in February at the earliest.',
+      'The expansion also comes with scrutiny. The Times reported that crashes involving Waymo vehicles tripled last year in Los Angeles County, based on its review of federal autonomous vehicle crash data — though about 80% of crashes reported this year caused no apparent injuries, and Waymo says its crash rate per million miles has fallen every year since 2023. Meanwhile, the California Public Utilities Commission is set to vote on new autonomous vehicle rules on November 19, after postponing the vote in late October.',
+    ],
+    sources: ['Los Angeles Times', 'Electrek', 'KQED'],
+  },
+  {
+    slug: 'rivian-2026-41-software-update-alternative-routes-waze-audio-alerts-november-2026',
+    title: 'Rivian’s 2026.41 Update Adds Alternative Routes and Audio Waze Alerts',
+    description:
+      'Rivian’s 2026.41 software update brings alternative route options and audio Waze alerts to its trucks and SUVs — small features, but the kind owners notice every day.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 2,
+    excerpt:
+      'Alternative routes and spoken Waze alerts arrive over the air.',
+    body: [
+      'Rivian’s 2026.41 software update adds alternative routes and audio Waze alerts to its R1T, R1S and R2 vehicles, according to reports on November 9, 2026. The update is delivered over the air, so owners get the new features without a dealer visit.',
+      'Alternative routes are the kind of feature that sounds minor until you use it: instead of one suggested path, the navigation offers options, letting the driver pick the faster road, the scenic road or the one that avoids a jam. Audio Waze alerts bring spoken warnings about hazards, police and traffic into the Rivian’s own interface, so drivers do not need a phone mount running a second app.',
+      'The update is part of Rivian’s steady software cadence, which has become one of its selling points against legacy truck makers. The R2, now outselling the R1T and R1S combined, is the vehicle most likely to benefit — its buyers are often first-time Rivian owners, and over-the-air improvements are a big part of the pitch.',
+      'Software is also where Rivian makes money: the company reported a software-driven profit in the third quarter, and features like these are what keep owners in the ecosystem — and keep the brand’s update notes worth reading.',
+    ],
+    sources: ['Rivian'],
+  },
+  {
+    slug: 'lucid-175-billion-pif-credit-line-q3-turnaround-november-2026',
+    title: 'Lucid Gets $1.75 Billion More From Saudi Arabia’s PIF as Q3 Revenue Misses',
+    description:
+      'Lucid expanded its credit line from Saudi Arabia’s Public Investment Fund by $1.75 billion, lifting pro forma liquidity to $3.75 billion and funding the EV maker into Q4 2027.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'PIF money again — $1.75 billion more, funding Lucid into late 2027.',
+    body: [
+      'Lucid Group said on Monday that a $1.75 billion increase in a loan facility from Saudi Arabia’s Public Investment Fund, its largest investor, would help fund the electric-vehicle maker into the fourth quarter of 2027. The larger delayed-draw term loan lifts the company’s pro forma liquidity to $3.75 billion.',
+      'The money arrives as Lucid’s third-quarter revenue missed estimates. The company delivered 3,806 vehicles in the quarter, down 6.7% from a year earlier, after cutting production to 2,954 vehicles — including eliminating a second shift at its Arizona factory — as part of a turnaround under new CEO Silvio Napoli. Its shares were down about 5% in extended trading on the news.',
+      'Lucid cut its third-quarter cash outflow to $1.04 billion from $1.48 billion in the previous quarter by cutting production, reducing inventory and cutting operating costs. Headcount fell about 28% between the first and third quarters, and the company is cutting management layers and tying incentives to four priority projects.',
+      'The company said it would provide 2027 guidance and a mid-term plan with its year-end results. It had withdrawn its annual production forecast earlier this year amid a sweeping operational review. The PIF money buys time — but the clock now runs to the second half of 2027, when production of the midsize Cosmos is supposed to begin.',
+    ],
+    sources: ['Reuters', 'Lucid'],
+  },
+  {
+    slug: 'lucid-cosmos-teaser-sub-50000-300-miles-q1-2027-details-november-2026',
+    title: 'Lucid Teases the Sub-$50,000 Cosmos — Its Make-or-Break Cheap EV',
+    description:
+      'Lucid released a new teaser of the Cosmos, its sub-$50,000 midsize electric SUV with about 300 miles of range, as the car enters crash testing ahead of launch details in Q1 2027.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      '300 miles, under $50,000, second half of 2027 — if Lucid can hold the schedule.',
+    body: [
+      'Lucid has released a new teaser video of what looks like the Cosmos, its upcoming sub-$50,000 midsize electric SUV and the car that is supposed to turn Lucid into a volume automaker. The 1 minute 34 second video was posted on X, and the Cosmos is now in crash testing, with launch details coming in the first quarter of 2027.',
+      'The Cosmos and its sibling Earth ride on Lucid’s new midsize platform and start under $50,000 — roughly half the price of the Gravity. Lucid claims about 300 miles of range from a 69 kWh pack, thanks to efficiency of up to 4.5 miles per kWh, which it says is 10% better than its closest competitor.',
+      'The problem is timing. Production was supposed to start in late 2026. In August, CEO Silvio Napoli pushed the Cosmos to 2027, “most likely the second half.” That puts it on the same schedule as Rivian’s $45,000 base R2, and well after the Tesla Model Y it was caught testing next to in Arizona back in May.',
+      'Lucid needs this car badly. It delivered 3,806 vehicles in Q3, down 7% year-over-year, while building only 2,954 after cutting the second shift at its Arizona factory. The company says its cash lasts “well into 2027,” and the Cosmos is due in the second half of that year — a year of waiting, with nothing else new to sell in the meantime.',
+    ],
+    sources: ['Electrek', 'Lucid'],
+  },
+  {
+    slug: 'rivian-r2-outselling-r1t-r1s-combined-sales-up-46-percent-november-2026',
+    title: 'Rivian’s Cheaper R2 Is Now Outselling Both R1 Models Combined',
+    description:
+      'With the launch of the more affordable R2 SUV, Rivian’s sales are up 46% over last year — and the new model alone outsells the R1T and R1S combined.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'One cheaper SUV changed Rivian’s whole sales mix.',
+    body: [
+      'Rivian’s EV sales are booming with the more affordable R2 now outselling both R1 models combined. With the launch of the R2 SUV, sales at the EV maker are up 46 percent over last year, according to Car and Driver’s reporting highlighted in early November.',
+      'The R2 is the car Rivian has been building toward since its founding: a smaller, cheaper SUV aimed at the heart of the market rather than the luxury-adventure niche the R1T pickup and R1S SUV occupy. Its success shows that the demand was always there — it was the price that was holding buyers back.',
+      'The sales mix shift matters for Rivian’s finances too. The company still lost $80 million at the gross level last quarter and burned $1.12 billion of free cash flow, but management plans to exit the fourth quarter at an automotive gross profit. Rivian needs positive gross margin to draw on its Department of Energy loan of up to about $4.5 billion.',
+      'The real test comes in December, when the fourth-quarter numbers will show whether the R2’s volume can turn into profit. For now, though, the R2 has done what the R1s never could: make Rivian a volume brand.',
+    ],
+    sources: ['Car and Driver', 'TIKR'],
+  },
+  {
+    slug: 'gm-recalls-six-traverse-acadia-seat-welds-smallest-recall-november-2026',
+    title: 'GM Recalls Just Six SUVs Over Badly Welded Seats — the Smallest Recall of the Year',
+    description:
+      'GM is recalling six 2026 Chevrolet Traverse and GMC Acadia SUVs because a supplier’s cold welds left driver seatback frames improperly joined. Four are in the US, two in Canada.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Six vehicles, one bad weld batch — and a supplier audit of 94,000 seat parts to find them.',
+    body: [
+      'General Motors is recalling six 2026 Chevrolet Traverse and GMC Acadia SUVs over improperly welded seats. Four of the affected vehicles are in the U.S., while the remaining two are in Canada. The recall is filed under NHTSA number 26V696.',
+      'The affected vehicles include three model-year 2026 GMC Acadias and three model-year 2026 Chevrolet Traverses. According to NHTSA, the defect was discovered after the driver’s seatback frame in a 2026 Chevy Traverse was replaced in July 2026. GM’s supplier subsequently reviewed laser-welding data from more than 94,000 seat components and identified six additional suspect parts, all manufactured on November 3, 2025.',
+      'The problem stemmed from insufficient welds, also known as cold welds — joints that look joined but never properly fused. A seatback frame that separates in a crash cannot protect its occupant, which is why even six vehicles trigger a full recall.',
+      'GM will begin notifying affected U.S. owners on December 7, while VINs are already searchable in the recall database. NHTSA said all covered vehicles are still under warranty, so no separate reimbursement program will be offered. It is a reminder of how modern recalls work: a single replaced part can trigger a data review of nearly 100,000 components — and a recall of six.',
+    ],
+    sources: ['Autoblog', 'NHTSA'],
+  },
+  {
+    slug: 'australia-best-evs-2026-byd-atto-1-19990-cheapest-car-november-2026',
+    title: 'Australia’s Cheapest New Car Is Now an EV — the $19,990 BYD Atto 1',
+    description:
+      'BYD’s Atto 1 sells from $19,990 drive-away in Australia, making it the cheapest new car in the country — EV or otherwise — as EVs now span the entire price spectrum.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Under $20,000 drive-away — the cheapest new car in Australia runs on electricity.',
+    body: [
+      'In 2026, EVs in Australia cover the entire price spectrum, from less than $30,000 all the way into the stratosphere — and the cheapest new car in the country is now an electric one. The BYD Atto 1 sells from $19,990 drive-away, and as of mid-September it is the cheapest new car in Australia, EV or otherwise.',
+      'The value ladder above it is crowded. The Geely EX2 runs $26,490–$30,990 with 252–345 km of range, the BYD Atto 2 is $31,990–$35,990 with 345 km, and the GAC Aion UT is $31,990 drive-away with a claimed 430 km. The Jaecoo J5 EV packs a 58.9 kWh battery and 402 km of range from $35,990, while the Leapmotor B10 starts at $38,990 drive-away.',
+      'At the family end, the Tesla Model Y remains the best family electric SUV pick and the Model 3 the best electric sedan, with the Long Range rear-wheel-drive Model 3 at $61,900 offering a remarkable 750 km of WLTP range. The Zeekr 7X takes the best-value premium EV slot, and the BYD Sealion 7 — from about $54,990 drive-away — has more than doubled its sales in 2026.',
+      'The Australian market is a preview of what happens when Chinese brands compete hard on price: the entry point for a new car drops below $20,000, and every segment above it gets cheaper too. For buyers, the guide’s message is simple — there is now a credible EV at almost every price, and the cheapest one on the lot is electric.',
+    ],
+    sources: ['EV Central', 'BYD'],
+  },
+  {
+    slug: 'scott-galloway-sold-tesla-musk-feud-passenger-seat-claim-november-2026',
+    title: 'Scott Galloway Says He Sold His Tesla — and Left Something in the Passenger Seat',
+    description:
+      'NYU professor Scott Galloway told a live Pivot audience he sold his Tesla after Elon Musk posted about him — and claimed he first took a giant dump in the passenger seat. The act itself is unconfirmed.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A live-audience anecdote, a feud with Musk — and zero independent confirmation.',
+    body: [
+      'NYU professor Scott Galloway told a live audience that he sold his Tesla after Elon Musk started posting about him on Twitter, and that he first took a giant dump in the passenger seat. The remark came during a live taping of the Pivot podcast with co-host Kara Swisher at the Orpheum Theatre in Los Angeles on November 8, 2026, and the episode transcript carries the line in Galloway’s own words.',
+      'Reports spread across Fox News, CBS News, Mashable, Electrek, Yahoo Finance and Teslarati within a day. But every report traces back to one source: Galloway himself. Nobody has independently confirmed that the act happened, which Tesla model he owned, what he paid, what he got for it, or who bought the car. Fox News Digital said it asked Musk and Tesla for comment, and no response shows up in the coverage.',
+      'The anecdote was an aside inside a broader conversation about the midterm results, Musk’s political influence and reports that Tesla plans to wind down Cybertruck production in Texas in mid-2027 — not a planned segment about vehicles. Galloway is a longtime Musk critic, and the exchange came during a discussion of power and accountability.',
+      'The story lands while Tesla’s brand is already under a microscope, with sales and sentiment both under pressure. What it actually says about what a Tesla is worth is a separate question — and the used-car numbers, not a podcast anecdote, are where that answer will show up.',
+    ],
+    sources: ['Fox News', 'Pivot', 'Electrek'],
+  },
+  {
+    slug: 'electric-pickup-dream-fading-cybertruck-casualty-segment-november-2026',
+    title: 'The Electric Pickup Dream Is Fading — Cybertruck Is the Segment’s Latest Casualty',
+    description:
+      'Tesla’s move to discontinue the Cybertruck next year is the highest-profile flameout in a category automakers once hyped: huge electric pickups. Sales sagged 28% this year — and rivals are going smaller instead.',
+    date: 'November 10, 2026',
+    dateISO: '2026-11-10',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Huge electric pickups were hyped as the next big thing. Buyers disagreed.',
+    body: [
+      'Tesla’s move to discontinue its Cybertruck next year is perhaps the highest-profile flameout in a category that automakers had once hyped: huge electric pickups. Tesla CEO Elon Musk said in a social media post on Saturday that the automaker would ramp up Cybertruck production at its Austin, Texas, factory to meet an order backlog before dismantling the assembly line around June or July 2027.',
+      'Sales of Tesla’s stainless-steel, angular truck — once described by MotorTrend as having a “stealth-bomber-refrigerator design theme” — sagged 28% this year through September, to about 11,600 trucks, according to an estimate from research firm Motor Intelligence. That sales pace is far off the 250,000-truck annual level Musk once predicted. Even SpaceX, Musk’s other big company, bought Cybertrucks worth $131 million from Tesla at list price last year, according to a federal regulatory filing — a sale that flattered the numbers.',
+      'The wind-down would allow Tesla to produce more Cybercab robotaxis, which have yet to be sold commercially. The Cybertruck also carries a troubled record: 11 recalls since customer deliveries began in late 2023, according to NHTSA, and a November 5 price rise that pushed the Premium AWD to $92,490 while pausing orders for the entry Dual Motor version.',
+      'The rest of the industry is reading the same numbers and going smaller. Ford’s focus is now on a smaller electric pickup, the Fathom, which it plans to roll out late next year. The lesson of the electric pickup boom is becoming clear: buyers want trucks that are affordable and practical, not enormous and expensive — and the segment’s future is smaller, cheaper, and more like a regular truck.',
+    ],
+    sources: ['Reuters', 'Motor Intelligence', 'Kelley Blue Book'],
+  },
+  {
     slug: 'toyota-half-year-profit-14-billion-hybrids-november-2026',
     title: 'Toyota\\u2019s Half-Year Profit Jumped 26% to $14.1 Billion \\u2014 and It Still Expects to Sell 9.7 Million Cars',
     description:
