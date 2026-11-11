@@ -14,6 +14,386 @@ export interface NewsArticle {
 
 export const ARTICLES: NewsArticle[] = [
   {
+    slug: 'finland-approves-tesla-assisted-driving-traficom-november-2026',
+    title: 'Finland Approves Tesla Assisted Driving After Name Change and Tighter Speed Controls',
+    description:
+      'Finland granted provisional approval for Tesla Assisted Driving on November 11, letting the system run on Finnish roads ahead of an EU-wide vote, after Tesla renamed it from Full Self-Driving and tightened speed-control settings.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Finland said yes — but the EU-wide vote is still to come.',
+    body: [
+      'Finland transport authority Traficom granted provisional approval on Wednesday, November 11, for Tesla Assisted Driving, the system Tesla formerly called Full Self-Driving. The decision means Tesla can immediately start offering the system to customers in Finland and it can now be used on Finnish roads, the agency said in a statement.',
+      'Traficom approved the system after Tesla renamed it from Full Self-Driving and tightened speed-control settings that critics said encouraged speeding. Finland has 8,000 to 9,000 Teslas compatible with the system, and it had signalled in June that it could approve the technology ahead of a European Union-wide decision. Nearly a dozen countries, including Slovakia and Belgium, have granted provisional approvals. The Netherlands became the first European country to do so in April, and Estonia, Croatia and Belgium are among the countries that have since allowed the technology, which lets cars steer, accelerate and brake automatically under driver supervision.',
+      'The bigger prize is still open. The technology needs support from a qualified majority of EU states, and Tesla has yet to secure backing from any of the EU largest member states, whose support is likely to be crucial to winning approval across the bloc. The next meeting at which an EU vote could take place is scheduled for December. Traficom recognised the provisional type-approval granted by the Dutch authority, allowing the system to be used as a driver assistance system in Finland.',
+    ],
+    sources: ['Reuters', 'Duke FM'],
+  },
+  {
+    slug: 'unplugged-performance-offers-take-over-cybertruck-production-november-2026',
+    title: 'Unplugged Performance Offers to Take Over Cybertruck Production as Tesla Winds It Down',
+    description:
+      'Tesla tuner Unplugged Performance publicly offered to take over Cybertruck production, funded by investors, after Elon Musk said Tesla will wind the line down around mid-2027 to make room for Cybercab.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'An unsolicited pitch, not a deal — but the truck may have a buyer.',
+    body: [
+      'Unplugged Performance, a California Tesla aftermarket company based in Hawthorne, has publicly offered to take over Cybertruck production after Elon Musk said Tesla would wind down the line around mid-2027. On the morning of November 11, Australian time, the company official X account published an open offer to Tesla, saying it would take over production funded by a group of investors, at no cost to Tesla floor space, headcount, or focus.',
+      'Under the pitch, Tesla would collect a license fee plus Full Self-Driving and Robotaxi revenue on every truck built, and Cybercab would get first call on battery cells. The company also said it would build a three-row CyberSUV and an unmanned CyberCargo hauler. The offer came four days after Musk posted on November 6 that Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production.',
+      'The offer is an unsolicited pitch, not an announced agreement, and as of the evening of November 11, Australian time, no public reply from Tesla or Musk had been confirmed. It also does not restore the Cybertruck in Australia: Tesla emailed Australian and New Zealand reservation holders on October 23 to say plans to produce the Cybertruck for those markets have been discontinued, and Tesla never offered a production right-hand-drive version. In October, Tesla sold about 1,914 Cybertrucks, its best month in more than a year, at an average of 92,380 dollars, according to Cox Automotive estimates.',
+    ],
+    sources: ['EV Select', 'Teslarati', 'Evolt News'],
+  },
+  {
+    slug: 'gm-recalls-67380-evs-brake-software-glitch-lyriq-blazer-ev-november-2026',
+    title: 'GM Recalls 67,380 EVs After Brake Software Glitch Can Cut Braking Power',
+    description:
+      'General Motors is recalling 67,380 Cadillac Lyriq, Chevrolet Blazer EV, Celestiq and Vistiq vehicles because a brake system control module software flaw can cause a temporary loss of braking, NHTSA campaign 26V717.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 4,
+    excerpt:
+      'A software flaw can cut braking at low speed — the fix is a free update.',
+    body: [
+      'General Motors is issuing a safety recall for more than 67,000 electric crossovers and sedans due to a software flaw that could leave drivers without braking power under specific driving conditions. The campaign covers 67,380 vehicles: 44,585 Cadillac Lyriq models from 2023 to 2027, 3,911 Chevrolet Blazer EV models from 2024 to 2027, 82 Cadillac Celestiq models from 2025 to 2026, and 18,802 Cadillac Vistiq models from 2026 to 2027.',
+      'At the center of the recall is the Brake System Control Module. According to documents submitted to the National Highway Traffic Safety Administration, NHTSA recall campaign 26V717, an internal software glitch in the module can cause unexpected loss of braking performance during certain driving maneuvers, at low speeds. The defect was first brought to GM attention on April 10, 2026, when a GM technical expert reported an incident involving a 2024 Cadillac Lyriq that struck a garage at low speed. GM Safety Field Action Decision Authority decided on October 22, 2026 to proceed with a safety recall. The fix is a software update for the brake system control module, free of charge, over the air or at a dealer. Vehicle identification numbers became searchable on NHTSA.gov on October 29, 2026, and owner notification letters are scheduled to be mailed beginning December 14, 2026.',
+      'For the Lyriq it is the second brake-control software recall in just over two years. Recall 24V-589, submitted in August 2024, covered 21,469 all-wheel-drive 2023 to 2024 Lyriq models. The wider story is bigger still: on August 21, 2026, NHTSA moved its brake probe up to engineering analysis EA26006, and the population grew from 3,322 vehicles to an estimated 1,164,820, covering 2023 to 2026 GM models including the Lyriq, Blazer EV and Celestiq along with the Equinox EV, Traverse, Colorado, Canyon, Acadia, Enclave, Envision and Optiq. Honda is listed as an affected manufacturer in that investigation.',
+    ],
+    sources: ['AutoGuide', 'Autoblog', 'The Autowire'],
+  },
+  {
+    slug: 'hyundai-recalls-37901-kona-electric-veloster-n-airbag-software-november-2026',
+    title: 'Hyundai Recalls 37,901 Kona Electric and Veloster N Models Over Airbags That Can Switch Off',
+    description:
+      'Hyundai is recalling 37,901 Kona Electric and Veloster N vehicles in the US because a software fault in the airbag control unit can switch the airbag system off while the car is being driven.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Airbags can deactivate mid-drive — but owner letters do not go out until January.',
+    body: [
+      'Hyundai is recalling 37,901 vehicles because a software fault can switch the airbag system off while the car is being driven. The recall covers 29,058 Kona Electric models from the 2019 through 2023 model years, built between August 28, 2018 and July 26, 2023, and 8,843 Veloster N models from 2019 through 2022.',
+      'Hyundai estimates that close to 1 percent of the recalled population actually contains the defect, which works out to 379 vehicles. As of October 22, Hyundai had identified 331 alleged incidents in the United States. No injuries have been reported. The fault sits in the airbag control unit software, which can deactivate the airbags and pretensioners.',
+      'Hyundai filed the recall in early November and vehicle identification numbers became searchable on November 6, but owner notification letters are not scheduled until January 1, 2027. Owners should check their 17-character vehicle identification number at the federal recall database or through the Hyundai owner site rather than waiting for the letter. Hyundai customer service is on 855-371-9460, referencing recall number 311.',
+    ],
+    sources: ['RoadEthos'],
+  },
+  {
+    slug: 'hyundai-elexio-recall-1619-australia-sudden-braking-fix-february-2027-november-2026',
+    title: 'Hyundai Recalls All 1,619 Elexio EVs in Australia Over Sudden Braking — Fix Months Away',
+    description:
+      'Hyundai Australia has recalled every Elexio electric SUV, 1,619 cars, because its forward collision system can brake hard when braking is not necessary. The fix needs new hardware and software and is not expected until February 2027.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A safety system that brakes when it should not — and owners wait until February.',
+    body: [
+      'Hyundai Motor Company Australia has recalled every Elexio it has delivered, plus the stock still waiting for buyers. That is 1,619 cars. The Elexio is the first Chinese-developed and Chinese-built Hyundai sold in Australia, and the fault sits in its Forward Collision-Avoidance Assist system, the automatic emergency braking that is meant to stop the car before a crash. The system can brake hard when braking is not necessary, which could put drivers at risk of being hit from behind.',
+      'Hyundai announced the recall on November 9 and said the official notice would appear on the Department of Infrastructure vehicle recalls website that week. Deliveries of new Elexio vehicles have been paused, and a loan car is offered through an authorised Hyundai dealer. The fix needs replacement hardware and new software, and Hyundai puts the fix at February 2027. The customer information sheet states the timing plainly: February 2027 is the estimated timing, and the timeline is subject to review. From the November 9 announcement to February 1 is 84 days, or 12 weeks.',
+      'The recall covers every Chinese-built Elexio delivered locally and every car still in stock, built between October 10, 2025 and August 25, 2026. Hyundai records 944 Elexios delivered to Australian customers from launch to the end of October 2026, which is 58.3 percent of the recalled cars. The Elexio competes in the mid-size electric SUV segment against the Tesla Model Y, BYD Sealion 7 and Kia EV5, and Australia is the first right-hand-drive export market for the car, with customer deliveries beginning early in 2026. This is the second Hyundai recall this year over a forward collision system that brakes when it should not: Hyundai recalled 36,496 current-generation Tucson SUVs earlier in the year, with the notice published on May 29 under campaign 61D154.',
+    ],
+    sources: ['Motoring Chronicle', 'YourLifeChoices'],
+  },
+  {
+    slug: 'waymo-nhtsa-recall-query-school-bus-2895-robotaxis-november-2026',
+    title: 'Waymo Robotaxis Kept Passing School Buses After the Software Fix, Feds Say',
+    description:
+      'NHTSA opened recall query RQ26-006 into 2,895 Waymo robotaxis after finding most reported school bus passing incidents happened after the software update meant to fix the problem.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The fix went out in November 2025. Most of the violations came after it.',
+    body: [
+      'Nearly a year ago, Waymo updated its self-driving software and issued a recall after numerous reports that its robotaxis were illegally passing school buses that had stopped and deployed flashing red lights. Now federal safety regulators have opened a new investigation into why that behavior has continued. The National Highway Traffic Safety Administration said in a November 6 filing that a majority of the reported incidents occurred after the company deployed a software update intended to fix the problem.',
+      'The NHTSA Office of Defects Investigation has opened a recall query, RQ26-006, to assess the adequacy of the remedy. The investigation covers 2,895 vehicles equipped with Waymo fifth-generation automated driving system. The office opened its initial investigation into Waymo in October 2025 after seeing footage of one of its autonomous vehicles maneuvering around a stopped school bus that had its stop sign extended, lights flashing, and was unloading children in Atlanta. Waymo said last year that a software update was completed for all affected vehicles on November 17, 2025, under a December 2025 safety recall covering 3,067 vehicles. Numerous other incidents have been documented since in Austin, where Waymo also operates a robotaxi service. Austin Independent School District officials reported at least five such incidents at the time, and later documented 19 separate violations.',
+      'Waymo stressed the importance of safety to its mission, saying it has made significant improvements to vehicle behavior around school buses and has received no citations since March 2026. The current federal action is a recall query, a type of investigation used to evaluate whether a previous safety recall adequately corrected an identified problem. It is not the same as announcing a new recall or ordering an immediate suspension of Waymo robotaxi services. Separately, NHTSA and the National Transportation Safety Board have opened probes after one of Waymo self-driving vehicles struck a child in January near an elementary school in Santa Monica, California, and the NTSB is also investigating the incidents of Waymo vehicles passing stopped school buses.',
+    ],
+    sources: ['TechCrunch', 'Reuters', 'Profile News'],
+  },
+  {
+    slug: 'joby-archer-push-evtol-passenger-flights-2027-november-2026',
+    title: 'Joby and Archer Push eVTOL Passenger Flights to 2027 as Certification Drags On',
+    description:
+      'Joby and Archer, the two leading US electric air taxi developers, have both moved their first paying passenger flights to 2027, with FAA test pilots and piloted transition flights still ahead of them.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'No paying passengers this year — 2027 is the new target for both.',
+    body: [
+      'Paying passengers on Joby aircraft would fly under the FAA eVTOL Integration Pilot Program, which the company said allows such flights only once the agency test pilots start flying its aircraft for type certification. Joby latest quarterly filing with the Securities and Exchange Commission still lists a target of carrying its first passengers in 2026, but the company now expects FAA pilots to begin training on its aircraft in the first half of 2027, when the company also plans to finish its own flight testing of the conforming aircraft built for type inspection authorization. FAA pilots would then begin the flight tests that count toward type certification, Joby chief policy officer Greg Bowles told investors in the company third quarter earnings call on November 4. Chief financial officer Rodrigo Brumana placed Joby initial launch of commercial operations under the pilot program in 2027, and founder and CEO JoeBen Bevirt said the company wants to add its eVTOL aircraft to its Blade helicopter service in New York that year. Joby plans piloted flight tests across its Dubai vertiport network before year-end.',
+      'Archer plans to fly passengers under a market survey certificate, an experimental airworthiness approval for demonstrating aircraft to prospective customers. The certificate the FAA issued for Archer Midnight aircraft this week covers only conventional takeoffs and landings on runways, and Archer must complete a piloted transition flight before seeking one for vertical takeoffs and landings. Archer has moved its Midnight eVTOL prototype to Hawthorne Municipal Airport near Los Angeles, where it plans to begin flying in the coming weeks. After the piloted transition, Midnight must also log 50 hours of flight testing before Archer can seek market survey approval for vertical flight, Archer president of aircraft OEM Benjamin Lyon said during the company November 9 earnings call. In May, Lyon said Archer was on track to complete a piloted transition during the second half of 2026, and the company now aims to complete its first piloted transition to wingborne flight by year-end.',
+      'Archer co-founder and CEO Adam Goldstein told investors he intends to be the company first Midnight passenger in 2027, with further passenger flights to follow under market survey rules as Archer prepares for the 2028 Olympic Games in Los Angeles. Beta Technologies, another rival electric aircraft developer, received a market survey certificate for the Alia 250 eVTOL in October. The wider picture remains sobering: no piloted eVTOL has yet secured a type certificate from any major aviation authority, and China pilotless EH216-S stands alone with a complete certification and operating framework.',
+    ],
+    sources: ['Aviation International News', 'Avi-Go'],
+  },
+  {
+    slug: 'florida-air-taxi-trials-joby-beta-tampa-october-30-november-2026',
+    title: 'Florida Air Taxi Trials Begin as Joby and Beta Fly St. Petersburg to Tampa',
+    description:
+      'On October 30, a Joby S4 and a Beta Alia CX300 flew from downtown St. Petersburg to Tampa International, opening Florida part of the FAA eVTOL Integration Pilot Program.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Twenty minutes across the bay — a first for Florida electric flight.',
+    body: [
+      'On Friday, October 30, 2026, two electric aircraft took off from Albert Whitted Airport in downtown St. Petersburg and landed at Tampa International Airport about 20 minutes later. One was a Joby S4, registration N545JX, a conforming prototype. The other was Beta Technologies first production-conforming Alia CX300, registration N916LF. The flights opened Florida part of the eVTOL Integration Pilot Program, the White House-backed program the US Department of Transportation announced in March 2026.',
+      'Beta says its CX300 aircraft have already completed 14 pilot program flights covering nearly 700 nautical miles around Tampa and Orlando. Joby planned a landing at a new vertiport near Orlando International Terminal C and train station on November 2, with procedures developed over two years of simulation with the FAA, NASA, the Greater Orlando Aviation Authority and local air traffic controllers, and flights at Kennedy Space Center on November 7 and 8, during the UP.Summit.',
+      'These are demonstration and data-gathering flights, not a service launch. Joby announcement does not mention tickets, and no eVTOL in Florida, or anywhere in the US, holds FAA type certification today. Beta CEO Kyle Clark told Aviation International News that Beta commercial Part 135 flights in Florida could follow, and Beta says its first paid cargo or medical flights would be the first commercial electric aircraft operations in the state. Archer, Beta, Electra and Joby are all named partners in the Florida pilot program, and Electra and the Florida Department of Transportation plan Central Florida flight tests in November.',
+    ],
+    sources: ['eVTOL.Travel', 'Aviation International News'],
+  },
+  {
+    slug: 'genesis-gv90-flagship-electric-suv-launch-270-million-won-november-2026',
+    title: 'Genesis GV90 Flagship Electric SUV Launches From 139.5 Million Won, Topped by a 222-Unit First Edition',
+    description:
+      'Genesis launched its first full-size electric SUV, the GV90, on November 10, with prices from 139.5 million won to a 270 million won limited First Edition of just 222 cars worldwide.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Genesis flagship EV arrives — with heated floors and a 222-car halo edition.',
+    body: [
+      'Hyundai Motor premium brand Genesis has launched its first full-size electric SUV in an effort to reverse its domestic sales slump. Genesis launched its flagship electrified SUVs, the GV90 and the GV90 Neo Run, on Tuesday, November 10, and began accepting orders. The GV90 is the first production model from the Ulsan dedicated electric vehicle factory built by Hyundai Motor at a cost of approximately 2 trillion won.',
+      'The selling prices are as follows: GV90 Standard, a 7-seater, at 139.5 million won; GV90 Individual Lounge Seat, a 6-seater, at 145.5 million won; GV90 Neo Run Standard, a 6-seater, at 189.9 million won; and GV90 Neo Run Executive Suite, a 4-seater, at 239.5 million won. The top-tier limited edition GV90 Neo Run First Edition, of which only 222 units will be produced worldwide, is priced at 270 million won. The prices for the GV90 reflect a 5 percent individual consumption tax and eco-friendly vehicle tax benefits, while the price for the GV90 Neo Run reflects a 5 percent individual consumption tax.',
+      'Launch coverage highlights heated floors among the flagship cabin touches, a sign of how far Genesis is pushing lounge-style luxury in its first full-size electric SUV. The GV90 is a statement car for the brand: a big, expensive electric flagship built in a brand-new dedicated EV plant, aimed at buyers who might otherwise shop a German luxury SUV. Whether it reverses the domestic sales slump Genesis is fighting will depend on demand beyond the 222 First Edition cars.',
+    ],
+    sources: ['MT.co.kr'],
+  },
+  {
+    slug: 'mercedes-glc-electric-india-launch-7850-lakh-sold-out-march-2027-november-2026',
+    title: 'Mercedes GLC Electric Launches in India at 78.50 Lakh — and Sells Out Until March 2027',
+    description:
+      'Mercedes-Benz launched the GLC 400 4MATIC electric in India on November 4 at 78.50 lakh rupees, locally assembled in Pune, with a 94 kWh battery and up to 715 km of WLTP range. The first allocation is sold out until March 2027.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'More than 1,000 bookings before launch — the first allocation is gone.',
+    body: [
+      'The Indian luxury electric vehicle market has another important entrant. Mercedes-Benz launched the GLC 400 4MATIC electric in India on November 4, 2026, priced at 78.50 lakh rupees ex-showroom. The vehicle is locally assembled at the company Chakan facility near Pune rather than being sold as a fully imported model, a sign of how seriously Mercedes is taking the Indian premium EV segment.',
+      'The GLC 400 4MATIC electric is equipped with a 94 kWh battery and a dual-motor all-wheel-drive system producing a combined 490 horsepower and 800 Nm of torque. The global specification has a manufacturer-quoted WLTP range of up to 715 km, and Indian launch reports have also cited a figure of approximately 711 km. The SUV supports DC fast charging up to 330 kW. Inside it gets a 39.1-inch Hyperscreen with three displays, wireless Apple CarPlay and Android Auto, a panoramic glass roof that can switch its transparency, over-the-air updates and a Burmester 4D sound system with seat exciters.',
+      'According to launch coverage by Autocar India and CarWale, Mercedes-Benz had received more than 1,000 bookings before the launch and reported that the initial allocation was sold out until March 2027. These are manufacturer-reported booking and allocation figures, rather than independently audited retail sales. The actual customer cost will depend on applicable taxes, insurance, registration, optional equipment and dealer-level charges.',
+    ],
+    sources: ['Wirelio', 'Zee News'],
+  },
+  {
+    slug: 'im-ls8-neo-steer-by-wire-suv-35970-752-km-november-2026',
+    title: 'IM LS8 NEO Steer-by-Wire SUV Launches in China From 35,970 Dollars With Up to 752 km Range',
+    description:
+      'SAIC brand IM Motors launched the pure electric LS8 NEO in China on November 5, from 239,800 yuan, with an 800V platform, a 402 hp rear motor, steer-by-wire chassis and up to 752 km of range. Europe follows in 2027.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Steer-by-wire, 800 volts, 752 km — for under 36,000 dollars in China.',
+    body: [
+      'SAIC brand IM Motors officially launched the pure electric LS8 Neo on November 5, 2026. Built on an 800V high-voltage platform, the mid-to-large-sized SUV joins the existing range-extended lineup, offering two distinct trim levels. The 93 Max+ costs 239,800 yuan, about 35,970 dollars, and the 103 Max+ costs 259,800 yuan, about 38,970 dollars. The six-seat layout costs 20,000 yuan more.',
+      'The LS8 NEO is the all-electric version of IM Motors large five-seat flagship SUV, with a single 300 kW rear motor producing 402 horsepower and a claimed range of up to 752 km. Both launch prices include an offer in which a 5,000 yuan deposit counts as 15,000 yuan off, for orders placed by December 13, 2026. The electric version now starts 10,000 yuan lower than the range-extender LS8, which launched in China in April 2026 from 249,800 yuan. The NEO also brings a steer-by-wire chassis, a technology still rare at this price.',
+      'IM says the NEO will go on sale in Europe in 2027, and it showed its driver assistance handling complex traffic at the 2026 Paris Motor Show. IM has not named countries, prices or a homologation date for Europe, so availability outside China is unconfirmed. The car is rear-wheel drive only, and the 0 to 100 km/h times are reported rather than official, so buyers should treat the performance figures as indicative until IM publishes certified numbers.',
+    ],
+    sources: ['CarNewsChina', 'FreshMotors'],
+  },
+  {
+    slug: 'chery-icaur-v25-erev-november-19-launch-19650-november-2026',
+    title: 'Chery iCaur V25 Extended-Range SUV Set for November 19 Launch From 19,650 Dollars',
+    description:
+      'Chery EV brand iCaur will launch the boxy V25 extended-range SUV in China on November 19, with pre-sales from 139,800 yuan and a 1.5-litre turbo range extender.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A boxy range-extender SUV for under 20,000 dollars — pre-sales are open.',
+    body: [
+      'Chery announced on November 4 that its iCaur V25 extended-range electric SUV will launch in China on November 19. Pre-sales opened on October 19, with four variants priced from 139,800 to 175,800 yuan, or 19,650 to 24,700 dollars. The V25 is the second range-extended model from iCaur, following the larger V27, launched in March 2026.',
+      'The V25 uses a 1.5-litre turbocharged engine producing 115 kW, or 154 horsepower, as a range extender, and is equipped with a 33.67 kWh lithium iron phosphate battery. It comes in rear-wheel-drive and all-wheel-drive configurations. The rear-wheel-drive Pro and Max variants carry pre-order prices of 139,800 yuan and 149,800 yuan, while the all-wheel-drive Max+ and Ultra are priced at 163,800 yuan and 175,800 yuan. The V25 retains the brand boxy styling and measures 4,636 mm in length, 1,920 mm in width and 1,855 mm in height, with a wheelbase of 2,820 mm.',
+      'The entry-level V25 is priced 13,100 yuan below the plug-in hybrid Jetour Traveller 7 C-DM, which starts at 152,900 yuan, putting it in direct competition with one of China most popular boxy SUVs. The V25 made its debut on August 14 and primarily targets younger consumers. The V25 arrives as iCaur faces weaker domestic retail sales, so the launch is a test of whether a cheap, stylish range-extender can win buyers who are not ready for a pure electric car.',
+    ],
+    sources: ['CarNewsChina', 'CnEVPost'],
+  },
+  {
+    slug: 'ford-hires-marissa-west-ex-gm-truck-engineer-vehicle-programs-november-2026',
+    title: 'Ford Hires Ex-GM Truck Engineer Marissa West to Lead Vehicle Programs',
+    description:
+      'Ford hired Marissa West, a former president of General Motors North America and the engineer behind the 2020 GMC Sierra HD and Chevrolet Silverado HD, as vice president of vehicle programs, starting November 16.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A 21-year GM veteran now runs Ford product pipeline.',
+    body: [
+      'Ford has hired Marissa West, a former President of General Motors North American business, as Vice President of Vehicle Programs as it prepares to renew most of its lineup by 2029. West will join on November 16 and will lead vehicle program and program operations teams, supporting vehicle development and integration, program execution and global product programs across Ford portfolio, the company said on Tuesday, November 10.',
+      'West brings more than 20 years of automotive and vehicle engineering experience, with much of her career focused on vehicle programs, integration and launches. She began in the industry as a college intern in 2001 and joined GM full time in 2003, according to a biography GM Canada published in 2022. She studied mechanical engineering at Michigan State University and later earned a master degree in engineering from the University of Michigan. As Chief Engineer for GM next-generation full-size trucks, West was responsible for launching the 2020 GMC Sierra HD and Chevrolet Silverado HD. She also led the design and engineering of future full-size truck and SUV programs representing about 1.6 billion dollars of investment, and was then Executive Chief Engineer for GM global midsize truck and medium-duty truck programs.',
+      'West moved to the commercial side in 2022 as President and Managing Director of GM Canada, and GM named her Senior Vice President and President of GM North America in December 2023, effective January 2, 2024. She left on August 9, 2024, a little over seven months later. She joins Ford from OPmobility, the French supplier formerly known as Plastic Omnium, where she was Executive Vice President and Chairperson for North America. West is the second senior GM product executive to join Ford programs organization in just over a year, after Sam Basile joined in October 2025 as vice president of Advanced Product Development, Cycle Planning and Programs. Ford expects to refresh about 70 percent of its global vehicle portfolio by volume by 2029.',
+    ],
+    sources: ['Eletric-Vehicles.com', 'Detroit Free Press', 'Autocar Professional'],
+  },
+  {
+    slug: 'rivian-mind-robotics-robots-plant-mid-2027-scaringe-november-2026',
+    title: 'Rivian Plant to Get First Mind Robotics Robots in Mid-2027, CEO Says',
+    description:
+      'Rivian founder and CEO RJ Scaringe said Mind Robotics, the robotics company he founded, plans to put its first robots in a Rivian plant in the middle of 2027, starting with about 20 percent of plant tasks and growing to 80 percent.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Robots on the line in mid-2027 — starting at 20 percent of tasks.',
+    body: [
+      'Rivian Founder and Chief Executive Officer RJ Scaringe said Mind Robotics, the robotics company he founded, plans to put its first robots in a Rivian plant in the middle of 2027, where they will initially be able to handle about a fifth of the tasks. Mind, which is based in Palo Alto, California, is on really aggressive product timelines, including putting the first robots in a Rivian plant in the middle of next year, Scaringe said in a conversation published by venture capital firm Kleiner Perkins on Monday. Kleiner Perkins led a 400 million dollar funding round for Mind in May.',
+      'The date is more specific than the timelines he has given before. In March, the Wall Street Journal reported after an interview with Scaringe that the startup would have a large number of robots deployed by the end of the year. This summer he said the first robots would land in a Rivian plant in the early part of 2027, and now it is the middle of next year. Mind website said by September that its first robots are learning on the job with Rivian as its first manufacturing partner, training on active vehicle lines. That describes data collection and training, not the production work Scaringe now dates to mid-2027.',
+      'In the beginning we are going to be able to do about 20 percent of the tasks in the plant, but over time we want to grow that to 80 percent, Scaringe said. At launch the robots will handle pick-and-place work like moving parts from a rack into a fixture, with the goal of reaching 80 percent on the same hardware as the AI model gets better. Rivian in-house chip, the RAP1 behind the R2 Gen 3 hardware, is also being deployed in Mind robots, giving the silicon a second customer from the start. Rivian established Mind in November 2025 and held 53.5 percent at the end of that year, according to its filings; its stake is now 31 percent. Doug Field, the engineer who ran the Tesla Model 3 program and later Ford entire EV operation, is now president of Mind Robotics.',
+    ],
+    sources: ['Eletric-Vehicles.com', 'RivianTrackr'],
+  },
+  {
+    slug: 'q3-2026-us-ev-market-six-percent-rivian-up-ford-down-november-2026',
+    title: 'US EV Share Held Near 6 Percent in Q3 2026 as Rivian Surged and Ford EVs Fell 80 Percent',
+    description:
+      'Cox Automotive estimates Americans bought about 239,000 new battery-electric vehicles in Q3 2026, about 6 percent of the market. Rivian grew 45 percent while Ford EV sales fell 80.2 percent and GM EVs fell 61.7 percent.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Stabilized, not recovered — and the winners and losers split hard.',
+    body: [
+      'The Q3 2026 US electric vehicle market delivered a split-screen result. New EV sales stabilized at roughly 6 percent of the market, with Cox Automotive estimating that Americans bought approximately 239,000 new battery-electric vehicles in the quarter. EV share held between approximately 5 and 6 percent throughout 2026, and September also came in near 6 percent. The verdict is simple: stabilized, not recovered.',
+      'The comparison flatters no one and misleads a little. Q3 2025 was not a normal comparison period, because buyers rushed to claim the 7,500 dollar federal EV tax credit before it expired on September 30, 2025, pulling purchases forward. Q3 2026 is therefore measured against an artificially inflated baseline. Even so, automaker results varied dramatically. Rivian delivered 19,248 vehicles, up 45 percent. Toyota electrified sales rose 28.5 percent. GM sold 25,473 EVs, down 61.7 percent, while its total sales also fell 6 percent year over year. Ford EV sales fell 80.2 percent to 6,047 vehicles, and Chevrolet Equinox EV sales dropped 92 percent. Tesla delivered 486,532 vehicles globally in Q3 2026.',
+      'Cox Automotive counted nearly 127,000 used EV sales in Q3 2026, a sign that the secondhand electric market keeps growing even as new sales stall. The lesson from the quarter is that strong products can grow in a smaller market: Rivian 45 percent growth and Toyota bZ performance show demand exists for the right cars at the right price. Ford decision to convert the F-150 Lightning strategy toward an extended-range electric vehicle reflects the same pressure from the other side.',
+    ],
+    sources: ['Green Living Guy', 'Cox Automotive'],
+  },
+  {
+    slug: 'ford-mach-e-batteries-92-percent-capacity-five-years-november-2026',
+    title: 'Ford Says 2021 Mach-E Batteries Keep 92 Percent of Capacity After Five Years',
+    description:
+      'Ford says batteries in 2021 Mustang Mach-E models still hold 92 percent of their original capacity after five years, a real-world data point against the biggest fear of used EV buyers.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Five years on, the Mach-E battery has lost just 8 percent.',
+    body: [
+      'Ford says 2021 Mustang Mach-E batteries keep 92 percent of capacity after five years, according to company data reported on November 9. The Mach-E was Ford first volume electric vehicle, launched in late 2020 as a 2021 model, so the five-year figure is one of the longest real-world battery health readings available for a mainstream American EV.',
+      'The number matters because battery degradation is the biggest fear hanging over used EV buyers. A car that has lost only 8 percent of its capacity after five years should still deliver nearly all of its original range, and it undercuts the worry that an out-of-warranty EV will soon need a ruinously expensive battery replacement. For owners, it is evidence that the battery will likely outlast the car. For the used market, it supports residual values for early Mach-E models.',
+      'The timing is notable. Ford EV sales fell 80.2 percent in Q3 2026 to 6,047 vehicles, and the Mach-E no longer functions as a strong Model Y rival in new-car sales. But the installed base keeps proving durable, and durability is exactly what a buyer of a five-year-old electric SUV wants to hear. The 92 percent figure is a company-reported number, not an independent test, so it should be read as Ford data rather than a verified fleet average.',
+    ],
+    sources: ['Eletric-Vehicles.com'],
+  },
+  {
+    slug: 'gm-hybrid-traverse-enclave-acadia-lansing-plant-november-2026',
+    title: 'GM Plans Hybrid Traverse, Enclave and Acadia as EV Sales Slump',
+    description:
+      'General Motors is looking to develop hybrid versions of its high-volume three-row SUVs, the Chevrolet Traverse, Buick Enclave and GMC Acadia, and is preparing its Lansing Delta Township plant for hybrid production.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Hybrids are the bridge while EV demand finds its floor.',
+    body: [
+      'General Motors is looking to develop hybrid versions of its high-volume three-row SUVs in the US, the Chevrolet Traverse, Buick Enclave, and GMC Acadia, Reuters reported. The company confirmed that it is preparing its Lansing Delta Township Assembly Plant for future hybrid production without providing details on timing or final nameplate details. The plant revamp is backed by a 500 million dollar Department of Energy grant, according to Wards Auto.',
+      'The move is a response to a changed market. GM sold 25,473 EVs in Q3 2026, down 61.7 percent year over year, as the end of the 7,500 dollar federal EV tax credit on September 30, 2025 reshaped demand. Hybrids let GM sell electrified versions of its most popular family SUVs to buyers who are not ready for a pure electric car, using the same plants and much of the same engineering.',
+      'GM is not abandoning electric cars. It detailed a fourth-generation EV platform using lithium manganese-rich prismatic cells exclusively for high-volume EV segments, with production of the cells targeted for 2028. And CEO Mary Barra has said the company remains on track for eyes-off, hands-off driving in personal vehicles by 2028, starting with the electric Cadillac Escalade IQ. GM exited its Cruise robotaxi business in late 2024 and folded the unit into its driver-assistance efforts. Hybrids are the near-term bridge; the electric platform and the driver-assistance roadmap are the longer bet.',
+    ],
+    sources: ['Reuters', 'TradingView'],
+  },
+  {
+    slug: 'ford-fathom-29995-electric-pickup-farley-blew-me-away-november-2026',
+    title: 'Ford 29,995 Dollar Fathom Electric Pickup Completely Blew Farley Away in Testing',
+    description:
+      'Ford CEO Jim Farley said testing of the sub-30,000 dollar Fathom midsize electric pickup completely blew him away. The truck is on track for a late-2027 launch on the Universal EV Platform.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A 29,995 dollar electric pickup — and the CEO says testing stunned him.',
+    body: [
+      'Ford CEO Jim Farley said testing of the company upcoming sub-30,000 dollar Fathom midsize electric pickup completely blew him away, citing its capabilities and low cost of ownership. The vehicle remains on track for a late-2027 launch, with production of large aluminum unicastings advancing and a new bidirectional charging system designed to reduce home-power costs.',
+      'Ford is betting on the low 29,995 dollar list price of the 2028 Fathom electric pickup rather than the now-lapsed federal EV tax credit to propel sales when it goes on sale next year. The truck is built on Ford low-cost Universal EV Platform, and it is the centerpiece of the company affordable EV strategy: a midsize pickup priced like a gasoline truck, not like a luxury electric car.',
+      'The stakes are high. In Q3 2026, Ford Model e unit posted an EBIT loss of approximately 1.06 to 1.1 billion dollars on revenue of 1.2 billion dollars, and Ford still aims for Model e breakeven by 2029. The Fathom is the vehicle meant to change that math. If a 29,995 dollar electric pickup can sell in volume, it proves Ford can make money on affordable EVs. If it cannot, the affordable EV bet is in trouble.',
+    ],
+    sources: ['TradingView', 'Mac\'s Motor City Garage'],
+  },
+  {
+    slug: 'denza-z9-gt-india-debut-november-13-1225-kwh-november-2026',
+    title: 'BYD Luxury Brand Denza Debuts in India With Z9 GT Shooting Brake on November 13',
+    description:
+      'BYD will bring its luxury sub-brand Denza to India with the Z9 GT shooting brake on November 13, with a 122.5 kWh battery, 600 km of WLTP range and expected prices between 1.2 and 1.5 crore rupees.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Denza arrives in India — a 600 km luxury shooting brake leads the launch.',
+    body: [
+      'BYD will bring its luxury sub-brand Denza to India with the Z9 GT shooting brake. The launch is set for November 13, and a 122.5 kWh battery gives the car a 600 km WLTP range. Expect prices between 1.2 crore and 1.5 crore rupees. The Denza D9 is also launching on November 13, with an expected price between 80 lakh and 1 crore rupees.',
+      'November 2026 is shaping up to be a massive month for auto launches in India, and electric vehicles dominate the schedule. The Mercedes-Benz GLC Electric launched on November 4, Denza follows on November 13, the Mahindra Thar E is tentatively expected around November 15, the VinFast VF3 is due November 25, and the Mini Cooper SE Electric is expected November 27.',
+      'The Denza debut is BYD luxury push in India. The Z9 GT is a shooting brake, a low, long-roofed luxury wagon shape that is rare in the Indian market, and its 122.5 kWh battery is one of the largest fitted to any car launching in India this year. Denza is the brand BYD uses for its premium models, and the Z9 GT will test whether Indian luxury buyers will pay over a crore for a Chinese luxury badge.',
+    ],
+    sources: ['Zee News', 'MyCarJunction'],
+  },
+  {
+    slug: 'nio-exports-1141-evs-october-behind-goal-november-2026',
+    title: 'Nio Exports Just 1,141 EVs Through October, Behind Its Several Thousand Goal',
+    description:
+      'Nio exported 1,141 EVs through October 2026, behind its goal of several thousand, as the Chinese EV maker leans on overseas sales while its ES9 flagship nears its 40,000th delivery.',
+    date: 'November 11, 2026',
+    dateISO: '2026-11-11',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Exports are the lifeline — but Nio is running behind its own target.',
+    body: [
+      'Nio exported 1,141 EVs through October 2026, behind its goal of several thousand, according to company data reported on November 10. The shortfall matters because Chinese EV makers are leaning on exports to counter sluggish domestic demand, and Nio overseas ramp is not keeping pace with its own plan.',
+      'The model-level picture is mixed. Nio ES9 sales fell 13 percent in October as the flagship nears its 40,000th delivery, and Nio ET7 sales hit a record low in October, according to CPCA data. The export miss and the soft domestic model numbers point to the same problem: Nio is selling fewer cars than it planned, at home and abroad.',
+      'The contrast with BYD is sharp. BYD posted a sixth straight month of sales growth in October, relying on exports to counter sluggish domestic demand. Nio does not have BYD scale, so its export shortfall is harder to absorb. The company will need its overseas push to accelerate in the final two months of the year if it is to close the gap to its several thousand target.',
+    ],
+    sources: ['Eletric-Vehicles.com'],
+  },
+  {
     slug: 'musk-talent-cap-cybertruck-cybercab-one-car-at-a-time-november-2026',
     title: 'Musk Says Tesla Can Only Build One New Car at a Time — and Cybercab Won the Talent',
     description:
