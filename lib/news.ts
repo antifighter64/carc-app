@@ -14,6 +14,387 @@ export interface NewsArticle {
 
 export const ARTICLES: NewsArticle[] = [
   {
+    slug: 'musk-extends-cybertruck-production-summer-2027-november-2026',
+    title: 'Musk Extends Cybertruck Production Through Summer 2027, Citing Sentimentality',
+    description:
+      'Elon Musk reversed course days after announcing the Cybertruck wind-down, saying Tesla will keep building the pickup through the end of summer 2027 to work through its order backlog.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Dead last week, alive through summer 2027 — Musk calls it sentimentality.',
+    body: [
+      'Elon Musk granted the Cybertruck a last-minute reprieve on Wednesday, November 11, saying Tesla will extend production of the pickup through the end of summer 2027 to work through its order backlog. The announcement came days after Musk said Tesla would wind down Cybertruck output around the middle of next year to make room for increased Cybercab production at Gigafactory Texas.',
+      'Musk was candid that the extension is not a business decision. This is not the smartest move from a profit-maximizing standpoint btw, but there must be some room in this world for sentimentality or what is the point, he wrote on X. CBS News reported the same extension, saying Tesla wants to work through a larger share of the order backlog before the line is dismantled.',
+      'The numbers explain why the truck was on the chopping block. US sales fell to about 20,000 vehicles last year from nearly 39,000 in 2024, according to Kelley Blue Book, far below Musk initial prediction of 250,000 annual sales. The Texas plant is the only facility that can make the specialized components used in the Cybertruck. The Cybercab, a two-seat robotaxi, is the product Musk is betting on instead as he pushes Tesla toward AI and robotics.',
+    ],
+    sources: ['New York Post', 'ad-hoc-news', 'CBS News'],
+  },
+  {
+    slug: 'tesla-robotaxi-24-7-eight-cities-november-2026',
+    title: 'Tesla Robotaxi Now Runs Around the Clock in All Eight US Cities',
+    description:
+      'Tesla said its Robotaxi service now operates 24 hours a day, seven days a week, in every city where it runs, removing the overnight pause that had limited rides since launch.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Robotaxi works 168 hours a week — and Tesla now nearly matches Waymo car for car in Texas.',
+    body: [
+      'Tesla Robotaxi service now operates 24 hours a day, seven days a week, in every city where it is available, the company said on Wednesday, November 12, removing the overnight pause that had limited rides since the service began. Robotaxi now runs 24/7, the Robotaxi account wrote on X. Every city we are available in. CEO Elon Musk quoted the post: Robotaxi works 168 hours a week.',
+      'The service covers eight cities with a fleet of Model Y and Cybercab vehicles. Five are in Texas: Austin, Dallas, Houston, Fort Worth and San Antonio. The other three are Miami, Orlando and Tampa in Florida. Tesla added Fort Worth on November 2 and San Antonio on November 9, when it also expanded its Austin service area. Las Vegas, Phoenix and Jacksonville are listed as coming soon, without dates.',
+      'Austin is by far the largest operation, with more than 400 autonomous vehicles registered there, while other cities have between a handful and a few dozen. On Thursday, Tesla had 1,303 vehicles on the Texas autonomous vehicle registry, 573 Cybercabs and 730 Model Ys, against 1,305 for Waymo, according to the Robotaxi Tracker site. Tesla Austin service area covered about 443 square miles after this week expansion, nearly three times the area Waymo serves in the city. The move to round-the-clock service came less than two weeks after the 2 a.m. cutoff was announced, and as Tesla prepares to sell the Cybercab, with first customer deliveries aimed for the end of this year.',
+    ],
+    sources: ['Eletric-Vehicles', 'Basenor'],
+  },
+  {
+    slug: 'tesla-software-2026-38-5-12-fsd-v14-3-13-november-2026',
+    title: 'Tesla Software 2026.38.5.12 Brings FSD v14.3.13 and Automatic Collision Evasion',
+    description:
+      'Tesla software release 2026.38.5.12, dated November 12, adds Full Self-Driving Supervised v14.3.13 and Automatic Collision Evasion across Model S, 3, X, Y and Cybertruck.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A new FSD build and a system that steers to avoid a crash on its own.',
+    body: [
+      'Tesla software release 2026.38.5.12 arrived on November 12, 2026, bringing Full Self-Driving (Supervised) v14.3.13, a new Automatic Collision Evasion feature, and security improvements. The release covers Model S, Model 3, Model X, Model Y and Cybertruck.',
+      'Automatic Collision Evasion is the headline addition. It activates Full Self-Driving (Supervised) to try to keep the vehicle safe and then continue driving, according to the release notes. The feature extends the driver assistance system from supervised driving into an active evasive role when a collision risk appears.',
+      'The release lands in the same week Tesla expanded Robotaxi to 24-hour operation in all eight of its US cities, a step the company has tied to the capability of its AI software. Tesla vice president of AI software Ashok Elluswamy has said the next technology merge on the version 15 plan would enable round-the-clock operation, raising expectations that FSD v15 is imminent.',
+    ],
+    sources: ['Tesla-info', 'Eletric-Vehicles'],
+  },
+  {
+    slug: 'tesla-cancels-cybertruck-range-extender-refunds-november-2026',
+    title: 'Tesla Cancels the Cybertruck Range Extender and Refunds 2,000 Dollar Deposits',
+    description:
+      'Tesla told Cybertruck owners it is no longer planning to sell the 16,000 dollar range extender battery pack and will refund the 2,000 dollar deposits in full.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'The 470-mile promise is dead — deposits are coming back.',
+    body: [
+      'Tesla has officially scrapped the range extender accessory it was making for Cybertrucks. In emails seen by Electrek, Tesla confirmed to Cybertruck owners that it is no longer planning to sell the 16,000 dollar battery pack, and that it would be issuing full refunds for the 2,000 dollar deposit put down by customers.',
+      'The range extender would have taken up around half of the Cybertruck rear bed space, and Tesla initially promised that it would give the dual-motor Cybertruck an estimated total range of 470 miles. That estimate was downgraded to 445 miles in 2024, alongside the original release date of early 2025 being bumped back to mid-2025.',
+      'Official confirmation of the cancellation follows Tesla quietly removing the range extender from the Cybertruck online configurator last month, preventing interested consumers from putting down a deposit for the unreleased accessory. The cancellation lands in the same week Musk extended Cybertruck production through summer 2027, a reprieve for the truck itself but not for its longest-range option.',
+    ],
+    sources: ['Electrek'],
+  },
+  {
+    slug: 'tesla-eu-approval-population-threshold-november-2026',
+    title: 'Tesla EU Approval Still Faces a Population Problem: Only 15 Percent Covered So Far',
+    description:
+      'Finland became the 11th EU country to allow Tesla Assisted Driving, but the countries that have signed off so far account for only about 15 percent of the EU population — far short of the 65 percent needed.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Eleven countries in, but the EU-wide vote needs the big states.',
+    body: [
+      'Tesla driver-assistance push into Europe cleared another national border this week, but the arithmetic that governs a continent-wide approval is far less forgiving than the headline suggests. Finland transport authority Traficom recognized the provisional Dutch type approval for Tesla Assisted Driving, allowing the supervised system to be offered on Finnish roads with immediate effect. It is the 11th EU country to allow the system.',
+      'A full EU-wide green light needs at least 15 of the 27 member states, representing 65 percent of the bloc population. According to Automotive World, the countries that have signed off so far account for roughly 15 percent of that population. The decisive vote is expected in the winter, and Finland national approval explicitly does not bind the country to a yes at the EU level.',
+      'Tesla made technical and linguistic adjustments ahead of the approval, retiring the Full Self-Driving name in favor of Tesla Assisted Driving and reworking its speed control. The market noticed: Tesla stock gained 3.6 percent on the day of the Finnish approval and added 4.5 percent the next day as the regulatory progress drew buyers.',
+    ],
+    sources: ['ad-hoc-news', 'Team-BHP', 'Eletric-Vehicles'],
+  },
+  {
+    slug: 'gm-express-savana-steering-nut-recall-26v718-november-2026',
+    title: 'GM Recalls 12,715 Express and Savana Vans Over a Steering Gear Nut That Can Come Loose',
+    description:
+      'General Motors is recalling 12,715 model year 2025-2026 Chevrolet Express and GMC Savana vans because a steering gear assembly nut may not have been properly tightened.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A loose steering nut can mean a loss of steering control — and some vans need a second inspection.',
+    body: [
+      'General Motors is recalling certain 2025-2026 Chevrolet Express and GMC Savana vehicles. The steering gear assembly may have a nut that was not properly tightened, according to the National Highway Traffic Safety Administration filing. The campaign covers 12,715 vehicles.',
+      'A loose nut that separates from the steering gear assembly while driving can cause a loss of steering control, increasing the risk of a crash. Dealers will inspect the steering gear serial number and replace the assembly if necessary, free of charge.',
+      'Owner notification letters are expected to be mailed December 14, 2026. Vehicle identification numbers became searchable on NHTSA.gov on October 29, 2026. Vehicles that were not properly inspected under the earlier recall 26V399 will need to be re-inspected under this campaign, NHTSA campaign 26V718, GM recall number N262579350.',
+    ],
+    sources: ['NHTSA', 'Vehicle Service Pros'],
+  },
+  {
+    slug: 'dodge-durango-tail-light-recall-26v701-november-2026',
+    title: 'Dodge Recalls 13,330 Durango SUVs Over Tail Lights That Can Fail',
+    description:
+      'Chrysler is recalling 13,330 model year 2026 Dodge Durango vehicles because damaged terminals in the tail-light wiring harness can cause the tail lights to fail.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A wiring fault can kill the tail lights — a federal safety standard failure.',
+    body: [
+      'Chrysler (FCA US, LLC) is recalling 13,330 model year 2026 Dodge Durango vehicles. The terminals in the tail-light wiring harness may be damaged and cause the tail lights to fail, a noncompliance with Federal Motor Vehicle Safety Standard No. 108, covering lamps, reflective devices and associated equipment.',
+      'Tail lights that fail to illuminate properly reduce the vehicle visibility to other drivers, increasing the risk of a crash. Dealers will inspect and replace the tail-light assemblies as necessary, free of charge.',
+      'Owner notification letters are expected to be mailed December 3, 2026. Vehicle identification numbers involved in this recall became searchable on NHTSA.gov on October 29, 2026. Owners may contact Chrysler customer service at 800-853-1403 and reference recall A2D, NHTSA campaign 26V701.',
+    ],
+    sources: ['Vehicle Service Pros'],
+  },
+  {
+    slug: 'average-new-car-price-record-51109-october-november-2026',
+    title: 'Average New Car Price Hits a Record 51,109 Dollars in October',
+    description:
+      'Kelley Blue Book data shows the average transaction price for a new vehicle reached a record 51,109 dollars in October 2026, up 1.3 percent from September and 2.1 percent from a year earlier.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A record average — but the cheapest segments are growing fastest.',
+    body: [
+      'The cost of putting a fresh vehicle in the driveway has officially crossed an unprecedented threshold. According to the latest analysis from Kelley Blue Book, the average transaction price for a new vehicle in the United States reached a record 51,109 dollars this October. The figure is a 1.3 percent increase from September and a 2.1 percent jump compared with October 2025.',
+      'The average is telling as much about product mix as about affordability. Automakers are seeing heavy demand for highly profitable, expensive segments like midsize SUVs and full-size pickup trucks, which carry an average transaction price of 67,912 dollars. Three of the five highest-volume segments transacted significantly below the 51,109 dollar average, while vehicles priced from roughly 28,000 to 38,000 dollars collectively gained 9.6 percent in volume year over year. The thickest part of the car market right now is compact SUV and crossover, with an average transaction price of 37,895 dollars.',
+      'Electric vehicle transaction prices edged up slightly to 56,220 dollars last month, though EV incentives are holding steady at a robust 11.3 percent of the purchase price. The strangest figure in the data is subcompact cars, where the average jumped 49.5 percent year over year, from 25,707 to 38,423 dollars — because the category is now down to mostly one vehicle, the Mini Cooper.',
+    ],
+    sources: ['Autoblog', 'The Autopian', 'Kelley Blue Book'],
+  },
+  {
+    slug: 'ford-19-5-billion-ev-write-off-lightning-november-2026',
+    title: 'Ford Wrote Off 19.5 Billion Dollars From Its EV Business and Killed the F-150 Lightning',
+    description:
+      'Ford wrote off 19.5 billion dollars from its electric vehicle business, ended production of the all-electric F-150 Lightning, and is converting a Tennessee EV plant to build gas-powered trucks.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The biggest EV retreat yet — 19.5 billion dollars written off.',
+    body: [
+      'Ford wrote off 19.5 billion dollars from its EV business, ended production of the all-electric F-150 Lightning and converted a Tennessee EV plant to build gas-powered trucks. The retreat is the largest single write-down of the electric transition by a legacy American automaker.',
+      'The context is a market that changed fast once federal support ended. Buyers had been able to get up to 7,500 dollars for new EVs and 4,000 dollars for used ones, but that ended after September 30, 2025. Buyers rushed to beat the deadline, pushing EVs to 11.3 percent of new vehicle sales in September 2025. By November 2025, after the tax credits ended, their share had dropped to 4.3 percent.',
+      'Ford is not alone in rethinking the pace. The same forces that pushed Ford to write off its EV program are reshaping every legacy automaker electric plan: hybrids are selling, pure electrics are stalling, and the affordable electric pickup Ford is betting on instead, the 29,995 dollar Fathom, does not arrive until late 2027.',
+    ],
+    sources: ['The Driven'],
+  },
+  {
+    slug: 'americans-want-evs-cant-find-them-november-2026',
+    title: 'Americans Want Electric Cars — They Just Cannot Find Them',
+    description:
+      'A new analysis finds US buyers still want EVs, but shrinking supply, fading discounts and a gasoline price spike have pushed them toward hybrids and used electrics instead.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Demand did not die. Supply did — and used EV prices jumped 13 percent.',
+    body: [
+      'Within three months of the US and Israeli strikes on Iran on February 28, 2026, the average price of gasoline for American drivers climbed from 2.94 to 4.35 dollars a gallon. That should have been the perfect moment for electric cars. Instead, from March to May 2026, sales of hybrid electric vehicles were 18 percent higher than over the same months in 2025, while sales of fully electric vehicles were 16 percent lower.',
+      'The gap is about supply, not desire. New EV inventories declined, shrinking from about 130 days of supply in the first quarter of 2026 to 78 days by August. Discounts on new EV models shrank too: the median new EV was listed 9.8 percent below sticker price in February, 6.6 percent in April, and 4.7 percent in June. With fewer new EVs to buy, buyers turned to the used market, where prices climbed 13 percent through late June 2026 — about 3,500 dollars more for a typical used electric vehicle. Recurrent found the price of a used 2023 Chevrolet Bolt rose almost 20 percent from January to June 2026.',
+      'The average new car now sells for about 50,000 dollars and the average new electric vehicle for about 55,000 dollars, according to Kelley Blue Book. Electric vehicle sales have not caught up: Argonne data show 86,000 sold in August, fewer than the 101,000 sold in May, while hybrid sales stayed above 216,000 a month all summer. A fuel economy rule released September 28, 2026 loosens efficiency requirements for gas-powered vehicles and in 2028 ends a system that let automakers beating the standards earn credits and sell them to automakers that fell short.',
+    ],
+    sources: ['The Driven'],
+  },
+  {
+    slug: 'lucid-15000-black-friday-credit-gravity-november-2026',
+    title: 'Lucid Offers a 15,000 Dollar Black Friday Credit on the 2027 Gravity — Cash Buyers Only',
+    description:
+      'Lucid is offering a 15,000 dollar Black Friday credit on the 2027 Gravity SUV, available only to buyers who pay cash rather than finance or lease.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Fifteen thousand dollars off the Gravity — if you pay cash.',
+    body: [
+      'Lucid is offering a 15,000 dollar Black Friday credit on the 2027 Gravity, its three-row electric SUV, for cash buyers only. The offer was reported on November 11, 2026, as the company heads into the year-end sales season.',
+      'The cash-only condition is the telling part. A credit that excludes financing and leasing is aimed squarely at buyers who can write the check, and it suggests Lucid is prioritizing immediate cash collection over volume through monthly payments. The Gravity is Lucid second model and its first SUV, and it carries the company near-term sales hopes after the Air sedan.',
+      'The offer comes as Lucid leans hard on incentives. In Germany, Lucid cut the Gravity entry price on August 19 to 94,900 euros and expanded the range to four trims, with leases from 949 euros a month for the Gravity Touring. Lucid delivered 3,806 vehicles in the third quarter, down 7 percent year over year, and its European registrations, while at a 2026 high in October, totaled just 62 vehicles across five markets.',
+    ],
+    sources: ['Eletric-Vehicles', 'Electrek'],
+  },
+  {
+    slug: 'lucid-europe-registrations-2026-high-october-november-2026',
+    title: 'Lucid European Registrations Hit a 2026 High in October — 62 Cars',
+    description:
+      'Lucid registered 62 vehicles across its five European markets in October, its highest monthly total of 2026, led by 42 in Germany, national registration data show.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A record month for Lucid in Europe — and still just 62 cars.',
+    body: [
+      'Lucid registered 62 vehicles across its five European markets in October, its highest monthly total of 2026, as registrations in Germany and Switzerland rose to their highest levels since July 2025, national registration data show. The total compared with four in October 2025 and 40 in September, and topped the previous 2026 high of 53 set in June.',
+      'Germany, Lucid largest European market, accounted for 67.7 percent of the October total. It registered 42 vehicles in October, up from a single unit a year earlier and from 26 in September, according to the Federal Motor Transport Authority. Switzerland recorded 12, the Netherlands seven, Norway one, and Belgium none. Registrations include test drive, showroom and press vehicles and do not correspond directly to customer deliveries.',
+      'The October figures arrived as Lucid added to its German network, where it is moving from a direct sales model to dealer partnerships. On November 3, Lucid named Cloppenburg Automobil SE as its primary retail partner for the Dusseldorf region. France will be Lucid sixth European market, with orders expected to open in the first quarter of 2027. Globally, Lucid delivered 3,806 vehicles and produced 2,954 in the third quarter.',
+    ],
+    sources: ['Eletric-Vehicles'],
+  },
+  {
+    slug: 'byd-nio-german-bases-ban-november-2026',
+    title: 'BYD and Nio Cars Kept Off Some German Military Bases as Ministry Rules Out a General Ban',
+    description:
+      'BYD and Nio vehicles have been kept off some German military bases, but the German defence ministry has ruled out a general ban on Chinese cars.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'No general ban — but some bases are off limits to Chinese EVs.',
+    body: [
+      'BYD and Nio cars have been kept off some German military bases, but the German defence ministry has ruled out a general ban on Chinese vehicles, according to a report published November 11, 2026. The distinction matters: restrictions apply to specific sensitive sites, not to Chinese cars on German roads in general.',
+      'The move reflects the security scrutiny now facing Chinese connected vehicles in Europe. Modern electric cars carry cameras, sensors and always-on connectivity, and military sites are the first places where governments draw a line. Germany is one of BYD and Nio most important European markets, and both brands are expanding their dealer and sales networks there.',
+      'The ministry position keeps the door open for Chinese brands to keep selling in Germany while protecting military installations. For BYD, which posted a sixth straight month of sales growth in October on the strength of exports, and for Nio, which is leaning on overseas sales while domestic demand stays soft, the ruling is a contained setback rather than a market closure.',
+    ],
+    sources: ['Eletric-Vehicles'],
+  },
+  {
+    slug: 'musk-jensen-huang-honor-nvidia-november-2026',
+    title: 'Musk Says Hiring Jensen Huang Would Be an Honor as Nvidia Board Weighs His Future',
+    description:
+      'Elon Musk said it would be an honor to hire Nvidia CEO Jensen Huang, hours after the Wall Street Journal reported Nvidia board was preparing to force Huang out over his relationships under investigation.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'A board meeting, a scandal, and Musk offering a job to the most powerful man in AI chips.',
+    body: [
+      'Elon Musk said it would be an honor to hire Jensen Huang, as Nvidia board met to decide whether to remove its co-founder and chief executive officer over his relationships with a woman US officials suspect of spying for China and with a company executive. That would be an honor, Musk wrote on X on Wednesday evening, replying to a post by user Zero Hedge that read: Elon please hire Jensen. Musk, who runs Tesla and SpaceX, did not say what role he had in mind or whether he had spoken to Huang.',
+      'The reply came hours after the Wall Street Journal reported that Nvidia board was preparing to force Huang out, and minutes after the New York Times reported that he had a romantic relationship with an Nvidia executive. CNBC confirmed late on Wednesday that the board was meeting to decide his future. About half an hour after his reply, Musk also backed investor Gavin Baker, who wrote that large shareholders and partners were calling him to say Nvidia board should wait for the results of the investigation before ousting Jensen. Musk answered with a 100 emoji, and replied Exactly to a call for a shareholder vote after the investigation is complete.',
+      'Huang told Nvidia staff in a note on Sunday that he had been unfaithful to his wife, writing: I take full responsibility for what I did and the hurt I caused. The Financial Times had reported that US intelligence believed Huang was in a romantic relationship with Alice Huang, an executive at Singapore-based Megaspeed, which buys Nvidia chips. The two are not related. The New York Times reported on October 29 that US spy agencies had watched her for about a year, and later that US officials believe she is a spy for China Ministry of State Security. China Ministry of Foreign Affairs has called the allegation purely groundless speculation.',
+      'Nvidia board said on November 8 that a committee of independent directors, assisted by outside counsel, would investigate reports that Huang had been the target of a foreign intelligence effort, hiring the law firm Wachtell, Lipton, Rosen and Katz to lead the inquiry. The board said it had no reason to believe that either national security or Nvidia secrets were compromised, and that it had confidence in Jensen and his leadership team. As of early Thursday, Nvidia had not announced a decision. Nvidia shares closed up 2.9 percent at 173.73 dollars on Wednesday, then fell more than 9 percent in after-hours trading, and were down 6.9 percent at 161.81 dollars in premarket trading on Thursday. Nvidia is due to report quarterly results on Tuesday, November 17.',
+    ],
+    sources: ['Eletric-Vehicles', 'Wall Street Journal', 'New York Times', 'CNBC', 'Financial Times'],
+  },
+  {
+    slug: 'rivian-ubs-upgrade-buy-r2-november-2026',
+    title: 'Rivian Jumps After UBS Upgrade Bets on R2 Demand',
+    description:
+      'UBS upgraded Rivian to buy, citing solid demand for the new R2 electric SUV, sending the stock up more than 10 percent as the cheaper model outsells the R1T and R1S combined.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The R2 is the story — and Wall Street finally upgraded on it.',
+    body: [
+      'Rivian received an upgrade to buy from UBS analyst Joseph Spak, and the stock tore higher on the call. Rivian shares rose 10.4 percent in morning trading on the Monday of the upgrade, according to the Motley Fool. UBS cited a 19 percent sell-off in Rivian shares over the past month and said it sees a buying opportunity based on solid demand for the company new R2 electric SUV.',
+      'The R2 is doing the work. Rivian reported a 38.3 percent revenue increase in the third quarter of 2026 and raised its full-year delivery guidance to 67,000 to 70,000 vehicles. With the launch of the more affordable R2 SUV, sales at the EV maker are up 46 percent over last year, with the new model outselling the R1T and R1S combined.',
+      'Spak predicts Rivian will see continued positive gross profit margins in the first quarter of 2027, with higher-margin software and services sales helping to drive growth. But he warns Rivian will continue to burn cash and will likely need to sell shares and take on debt to fund its operations through at least 2029. Rivian delivered 19,248 vehicles in the third quarter, up 45 percent, and its cars still lost 80 million dollars at the gross level last quarter, with 1.12 billion dollars of free cash flow burned.',
+    ],
+    sources: ['Motley Fool', 'Pluang', 'Mac\'s Motor City Garage'],
+  },
+  {
+    slug: 'archer-q3-loss-midnight-certificate-november-2026',
+    title: 'Archer Posts a 274.6 Million Dollar Q3 Loss as Midnight Wins Its FAA Certificate for LA Flights',
+    description:
+      'Archer Aviation lost 274.6 million dollars in the third quarter, but its Midnight air taxi received an FAA market survey certificate that unlocks piloted flights in Los Angeles.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'A bigger loss — and the certificate that matters most.',
+    body: [
+      'Archer Aviation Midnight eVTOL has received a Market Survey Special Airworthiness Certificate from the FAA, which Archer says unlocks piloted flights in Los Angeles in the coming weeks. The news came with Archer third quarter 2026 results on November 9. The company also says its deal to buy Boeing Wisk, Insitu and SkyGrid businesses is nearing close.',
+      'The certificate lets Archer start piloted operations in LA as it prepares to carry passengers under the US Department of Transportation eVTOL Integration Pilot Program and for the LA28 Olympic Games. It covers only conventional takeoffs and landings on runways: Archer must complete a piloted transition flight before seeking one for vertical takeoffs and landings, then log 50 hours of flight testing before seeking market survey approval for vertical flight. Midnight is now at Hawthorne Municipal Airport near Los Angeles, after flying more than 300 miles of piloted flights around the Bay Area, including several flights in and out of Oakland International Airport.',
+      'The financial picture is harder. Archer net loss was 274.6 million dollars in the quarter, up from 129.9 million a year earlier. Archer co-founder and CEO Adam Goldstein told investors he intends to be the company first Midnight passenger in 2027, with further passenger flights to follow under market survey rules as Archer prepares for the 2028 Olympic Games in Los Angeles. Beta Alia A250 got the first FAA market survey certificate for an eVTOL in October; Archer is second.',
+    ],
+    sources: ['DroneNR', 'Roic.ai'],
+  },
+  {
+    slug: 'nio-es9-40000th-delivery-november-2026',
+    title: 'Nio Delivers Its 40,000th ES9 as the Latest 10,000 Take 49 Days, the Longest Yet',
+    description:
+      'Nio delivered its 40,000th ES9 flagship SUV, but the latest 10,000 cars took 49 days to sell — the longest stretch yet for the model.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A milestone and a warning in the same number.',
+    body: [
+      'Nio delivered its 40,000th ES9, the company flagship SUV, but the latest 10,000 cars took 49 days to sell, the longest stretch yet for the model, according to a report published November 11, 2026. The milestone shows the ES9 has found a real audience; the slowing pace shows that audience is not growing as fast as Nio planned.',
+      'The softening fits a wider pattern in Nio numbers. ES9 sales fell 13 percent in October, and ET7 sales hit a record low in the month, according to CPCA data. Nio exported just 1,141 EVs through October 2026, behind its goal of several thousand, as the Chinese EV maker leans on overseas sales while domestic demand stays sluggish.',
+      'The contrast with BYD is sharp. BYD posted a sixth straight month of sales growth in October, relying on exports to counter sluggish domestic demand. Nio does not have BYD scale, so a slowing flagship and an export shortfall are harder to absorb in the final two months of the year.',
+    ],
+    sources: ['Eletric-Vehicles'],
+  },
+  {
+    slug: 'orlando-vertipad-atlantis-joby-november-2026',
+    title: 'Orlando Airport Opens the First Vertipad at a US Commercial Airport as Joby Flies In',
+    description:
+      'Joby Aviation flew an electric air taxi demonstration into Orlando International Airport on November 4, using Vertipad Atlantis, the first vertipad built on site at a US commercial airport.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'An air taxi landed at a major US airport — on a pad built for the purpose.',
+    body: [
+      'An electric air taxi took off and landed at Orlando International Airport on November 4, using a new landing pad that officials call the first vertipad built on site at a US commercial airport. Joby Aviation flew the demonstration with the Florida Department of Transportation and the Greater Orlando Aviation Authority.',
+      'The pad, named Vertipad Atlantis, sits in the Atlantis surface parking lot next to Terminal C and the Brightline train station. The airport authority approved it in July, on condition of FAA approval, as a place to test procedures for future electric vertical takeoff and landing aircraft. Routes and procedures for the flight were developed with the FAA and NASA and coordinated with Orlando air traffic controllers. The demonstration is part of the federal eVTOL Integration Pilot Program, which picked Florida project in March.',
+      'Passenger service is still years away. The airport authority aims to open a commercial vertiport by 2030, a target it had previously set for 2028. Joby aircraft is an electric vertical takeoff and landing craft with six tilting propellers, designed to carry a pilot and four passengers, covering a range of 150 miles on a single battery charge at speeds of about 200 mph. The November 4 flight was a demonstration: no tickets, no fares, and no eVTOL anywhere in the US holds FAA type certification today.',
+    ],
+    sources: ['DeepARrival', 'The Orlando Real', 'Aviation International News'],
+  },
+  {
+    slug: 'denza-d9-india-debut-november-13-november-2026',
+    title: 'BYD Luxury Brand Denza Debuts in India With the D9 Electric MPV on November 13',
+    description:
+      'BYD will bring its luxury sub-brand Denza to India on November 13, led by the D9 seven-seat electric MPV with up to 600 km of NEDC range, alongside the Z9 GT shooting brake.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A private jet on wheels — Denza takes on the Vellfire and Lexus LM.',
+    body: [
+      'BYD luxury sub-brand Denza will make its India debut on November 13, 2026, led by the D9 luxury electric MPV. The seven-seat people-mover delivers up to 600 km of NEDC all-electric range and is designed like a private jet on wheels, taking on the Toyota Vellfire and Lexus LM in India. The Denza Z9 GT electric shooting brake launches the same day, with a 122.5 kWh battery and 600 km of WLTP range.',
+      'The D9 is expected to be priced between 80 lakh and 1 crore rupees, with the Z9 GT expected between 1.2 crore and 1.5 crore rupees. Denza was originally co-founded with Mercedes-Benz, and it is the brand BYD uses for its premium models.',
+      'November 2026 is shaping up to be a massive month for auto launches in India. The Mercedes-Benz GLC Electric launched on November 4, Denza follows on November 13, the Mahindra Thar E is tentatively expected around November 15, the VinFast VF3 is due November 25, and the Mini Cooper SE Electric is expected November 27. The Denza debut tests whether Indian luxury buyers will pay over a crore for a Chinese luxury badge.',
+    ],
+    sources: ['JosForUp', 'V3Cars', 'CarLelo'],
+  },
+  {
+    slug: 'toyota-waymo-bz4x-japan-2027-november-2026',
+    title: 'Toyota and Waymo Will Test Self-Driving bZ4X SUVs in Japan in 2027',
+    description:
+      'Toyota and Waymo advanced their autonomous driving collaboration: initial tests of a fleet of self-driving Toyota bZ4X units will begin in Japan in 2027, built at Toyota Takaoka plant.',
+    date: 'November 12, 2026',
+    dateISO: '2026-11-12',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Waymo driver, Toyota factory — Japan gets its first homegrown robotaxi fleet.',
+    body: [
+      'Toyota Motor Corporation and Waymo have advanced their autonomous driving collaboration. Initial tests involving a fleet of autonomous Toyota bZ4X units are scheduled to begin in Japan in 2027, the companies said in a statement reported November 4, 2026.',
+      'The vehicles will be manufactured at Toyota Takaoka plant in Toyota City, Aichi Prefecture, Japan. Production will cover both vehicle assembly and the integration of Waymo autonomous driving hardware. Once the fleet passes the necessary tests, the vehicles will be deployed to the United Kingdom and other markets served by Waymo in the following years.',
+      'The expanded alliance builds on the preliminary agreement forged in April last year, and is seen as a major milestone in the expansion of Japan first fully autonomous ride-hailing service using high-volume, domestically manufactured vehicles. By pairing Toyota global manufacturing and vehicle development expertise with Waymo fully autonomous technology, the companies aim to accelerate the scaling of safety-validated Level 4 autonomous vehicles globally.',
+    ],
+    sources: ['ZigWheels'],
+  },
+  {
     slug: 'finland-approves-tesla-assisted-driving-traficom-november-2026',
     title: 'Finland Approves Tesla Assisted Driving After Name Change and Tighter Speed Controls',
     description:
