@@ -5,6 +5,7 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'CARC Pricing — Free & Pro Plans',
   description: 'CARC pricing: free AI car search with deal scores, or Pro with unlimited searches, price-drop alerts, and negotiation prep. Find your best car deal.',
+  alternates: { canonical: 'https://www.carc.com/pricing' },
 }
 
 

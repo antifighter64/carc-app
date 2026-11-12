@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: 'Car Comparisons - Specs, MPG and Safety, Side by Side',
   description:
     'Head-to-head car comparisons built on official EPA fuel economy and NHTSA safety data. RAV4 vs CR-V, F-150 vs Ram 1500, Civic vs Corolla and more.',
+  alternates: { canonical: 'https://www.carc.com/compare' },
 }
 
 export default function CompareIndex() {

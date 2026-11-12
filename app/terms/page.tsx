@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'Terms of Service',
   description: 'The terms that govern your use of CARC.com.',
+  alternates: { canonical: 'https://www.carc.com/terms' },
 }
 
 export default function TermsPage() {

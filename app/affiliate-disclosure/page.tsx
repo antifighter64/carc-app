@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'Affiliate Disclosure',
   description: 'How CARC.com earns money and how that affects our content.',
+  alternates: { canonical: 'https://www.carc.com/affiliate-disclosure' },
 }
 
 export default function AffiliateDisclosurePage() {
