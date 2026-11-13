@@ -14,6 +14,386 @@ export interface NewsArticle {
 
 export const ARTICLES: NewsArticle[] = [
   {
+    slug: 'spacex-tesla-merger-december-announcement-november-2026',
+    title: 'SpaceX-Tesla Merger Talks Progress, With an Announcement Possible as Soon as December',
+    description:
+      'Bloomberg reports SpaceX and Tesla are advancing merger talks, with an announcement possible as soon as December, combining about 30,220 bitcoin and roughly 3.47 trillion dollars of market value.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The biggest deal in history could land in December — if China and defense contracts do not block it.',
+    body: [
+      'SpaceX and Tesla are progressing in merger negotiations and could announce a combination as soon as December, Bloomberg reported on Thursday, November 12, citing people familiar with the matter. The announcement could also slip into early 2027. The boards and their advisers are working out terms and how the combined company would be run.',
+      'A deal would bring almost 30,220 bitcoin under one roof, worth roughly 2.1 billion dollars. SpaceX held 18,712 bitcoin at the end of September and Tesla held 11,509, according to their quarterly filings. The combined market value of the two companies is approximately 3.47 trillion dollars, with SpaceX at about 1.9 trillion and Tesla at about 1.57 trillion. Artificial intelligence ambitions are central to the talks, spanning rockets, driverless cars and humanoid robots.',
+      'Two obstacles dominate. One is how to keep Tesla large Chinese manufacturing operations separate from SpaceX sensitive US government and defense work. The other is the regulatory path for a combination of this size. Musk said in October that the boards of both companies had formed special committees of independent directors to consider combining. Tesla shares jumped as much as 1.9 percent on the report. Tesla annual shareholder meeting is scheduled for December 3.',
+    ],
+    sources: ['CoinDesk', 'Bloomberg', 'The Hindu BusinessLine', 'ChainCatcher'],
+  },
+  {
+    slug: 'alef-flying-car-cbs-ride-deliveries-2027-november-2026',
+    title: 'Alef Flying Car Nears Reality After 11 Years: CBS Rides Along as First Deliveries Target Next Year',
+    description:
+      'Bay Area startup Alef says its flying car, priced at about 300,000 dollars with more than 3,500 deposits, could reach its first customers as early as next year after 11 years of development.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Eleven years in, a flying car you can drive — and a TV crew just flew in it.',
+    body: [
+      'For years, if you wanted to catch a flying car, your best bet was Saturday morning cartoons. Now Alef, a Bay Area startup, says its vehicle is close to reality after 11 years of work. CBS News Bay Area got a rare chance to join one of the handful of people who have flown it so far. It can do everything that our cars can do and vertically take off from anywhere, said Jim Dukhovny, the Alef chief executive.',
+      'The car body is a mesh you can see right through, which lets air reach the propellers hidden inside. The whole vehicle is light enough to qualify as an ultralight, which means that, at least for now, no pilot license is required. There are no doors, just a seat, a steering wheel and a flight stick, with every control switched off except two buttons. The prototype battery lasts about 15 minutes in the air. A later version is designed to drive 200 miles or fly about 110 miles.',
+      'The cost is about 300,000 dollars, and the company says there is already plenty of interest, with more than 3,500 deposits so far. It plans to deliver its first car as early as next year. Dukhovny sees just one real rival. Last month, Elon Musk unveiled a Tesla Roadster that flips and hops on blasts of compressed air. During the unveiling, the Tesla car flew with no one inside. Musk said the demo ran autonomously.',
+    ],
+    sources: ['KION', 'CBS News Bay Area'],
+  },
+  {
+    slug: 'cheapest-new-evs-america-bolt-27600-november-2026',
+    title: 'The Cheapest New EVs in America: the 27,600 Dollar Bolt Leads, the Leaf Wins on Range',
+    description:
+      'The 2027 Chevrolet Bolt is the cheapest new electric car in the US at 27,600 dollars before destination, followed by the 2026 Nissan Leaf S+ at 29,990 dollars with 303 miles of range.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Bolt wins on price, Leaf wins on range — and the federal credit is gone for both.',
+    body: [
+      'The 2027 Chevrolet Bolt is the cheapest new electric car in the US at 27,600 dollars before destination, followed by the 2026 Nissan Leaf S+ at 29,990 dollars. Both prices were checked on the makers sites on November 8, 2026. The short answer: the Bolt wins on price, and the Leaf wins on range, with 303 miles against 262.',
+      'The rest of the affordable field is close behind. The 2027 Toyota bZ XLE costs 34,980 dollars with 236 miles of range, the Chevrolet Equinox EV costs 34,995 dollars with 319 miles, the Tesla Model 3 Rear-Wheel Drive costs 36,990 dollars with 321 miles, and the Tesla Model Y Rear-Wheel Drive costs 39,990 dollars with 321 miles. Destination charges add more than 1,000 dollars to every car on the list.',
+      'The 7,500 dollar federal tax credit ended on September 30, 2025, so none of these cars gets it. The Bolt may not be around long either. CarGurus says it is due to remain in production only until mid-2027, so its price and availability could change.',
+    ],
+    sources: ['AppleScoop'],
+  },
+  {
+    slug: 'newest-evs-priced-bmw-i3-468-miles-ferrari-luce-november-2026',
+    title: 'The Newest EVs, Priced: BMW i3 Rated at 468 Miles, Mercedes GLB From 49,900 Dollars, Ferrari Luce at 560,800',
+    description:
+      'Ferrari confirmed its first EV, the Luce, starts at 560,800 dollars in the US, while the EPA rated the new BMW i3 at up to 468 miles and Mercedes priced the electric GLB from 49,900 dollars.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'From a 24,950 dollar pickup to a 560,800 dollar Ferrari — the new EV price spread is enormous.',
+    body: [
+      'The biggest November change in the new EV market is a price. Ferrari confirmed to InsideEVs that its first EV, the Luce, starts at 560,800 dollars in the US, and Electrek reports American deliveries are planned for the second quarter of 2027. Mercedes-Benz USA priced the electric GLB from 49,900 dollars for a late-2026 arrival, and dated the electric C-Class for spring 2027.',
+      'The range leader is the new BMW i3. The EPA has rated it at up to 468 miles, the highest figure among the newest EVs tracked, and it is priced from 61,500 dollars for a first-quarter 2027 launch. The Porsche Cayenne Electric is rated at 317 miles for the base car and starts at 109,000 dollars. Jaguar priced the Type 01 at 130,500 dollars, with an estimated 400 miles of range and a US launch in the second half of 2027.',
+      'The cheapest new EV announced in America is a 24,950 dollar pickup with crank windows: the Slate Truck, with an estimated 205 miles of range and preorders open. With the federal EV tax credit gone since September 30, 2025, every one of these cars has to win buyers on sticker price and capability.',
+    ],
+    sources: ['TrendyTechTribe', 'InsideEVs', 'Electrek'],
+  },
+  {
+    slug: 'best-ev-lease-deals-november-2026-id4-bonus-november-2026',
+    title: 'Best EV Lease Deals for November: Volkswagen Puts 10,000 Dollars on Every ID.4',
+    description:
+      'Volkswagen put a 10,000 dollar Customer Bonus on every ID.4 this month, while the 2026 Kia Niro EV Wind remains the cheapest EV lease at about 372 dollars a month.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'The ID.4 bonus is the month biggest mover — 113 to 115 dollars a month cheaper than October.',
+    body: [
+      'Volkswagen put a 10,000 dollar Customer Bonus on every ID.4 this month, and each one leases for 113 to 115 dollars a month less than in October at 36 months. In New Jersey, Lexus put 3,500 dollars on the 2026 ES 350e and ES 500e, 100 to 101 dollars less. Subaru went the other way: its 2027 Solterra, Trailseeker and Uncharted lost their 1,500 dollars of lease cash outside the Northwest, making them 35 to 43 dollars a month more expensive.',
+      'The 2026 Kia Niro EV Wind at about 372 dollars a month is still the cheapest EV lease, and two three-row SUVs, the 2026 Kia EV9 Light SR at about 552 dollars and the 2026 Hyundai IONIQ 9 S at about 564 dollars, lease for less than any Subaru EV. Four EV lines start under 500 dollars a month, all of them Kia and Hyundai: the Niro EV, EV3, EV6 and IONIQ 5.',
+      'Most EV payments lean on lease cash, and the ID.4 10,000 dollar bonus runs through November 30. Payments quoted are pre-tax, 36 months and 12,000 miles a year, on each brand program for New Jersey, at full MSRP minus the lease cash every buyer qualifies for, with nothing down.',
+    ],
+    sources: ['QuoteDefender'],
+  },
+  {
+    slug: 'toyota-subaru-affordable-ev-sweet-spot-november-2026',
+    title: 'Toyota and Subaru Hit the Sweet Spot With Affordable Electric SUVs',
+    description:
+      'Toyota and Subaru new electric SUVs, priced from about 35,000 to 45,000 dollars, are catching on with buyers — combined sales nearly doubled in the first nine months of 2026.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'About 35,000 to 45,000 dollars is where America buys EVs — and Toyota and Subaru live there now.',
+    body: [
+      'Toyota and Subaru new electric SUVs are catching on with buyers, offering various options and prices ranging from about 35,000 to 45,000 dollars, or the sweet spot of the US market. Combined, Toyota and Subaru have sold nearly 50,000 EVs through the first nine months of 2026, more than double compared with the same period last year.',
+      'After launching the heavily updated bZ in late 2025, previously called the bZ4X, Toyota electric SUV suddenly became one of America most popular EVs. Starting at 35,000 dollars, the Toyota bZ is one of the most affordable EVs in the US, and it offers up to 314 miles of range in the FWD Plus trim, which starts at 37,980 dollars. Toyota also sells the smaller, sporty C-HR, starting at 37,080 dollars, and the larger, more rugged bZ Woodland, starting at 45,380 dollars. Subaru sells the updated Solterra at 38,495 dollars, plus the smaller Uncharted at 34,995 dollars and midsize Trailseeker at 39,995 dollars.',
+      'The US electric vehicle market rebounded in the third quarter with 262,649 EVs sold, according to Kelley Blue Book estimates, up 6.1 percent from the second quarter and the strongest performance of the year. Next year, both brands will add a three-row electric SUV with the Toyota Highlander EV and Subaru Getaway.',
+    ],
+    sources: ['Electrek', 'Kelley Blue Book', 'Cox Automotive'],
+  },
+  {
+    slug: 'ford-recalls-explorer-bronco-maverick-november-2026',
+    title: 'Ford Recalls 33,578 Explorers Over Map Lights, Plus Bronco Wipers and Maverick Hybrids',
+    description:
+      'Ford recalled 33,578 model year 2026-2027 Explorers because the map lights may stay illuminated, alongside 330 Broncos with wipers that may detach and 8,650 Maverick Hybrids with a loose 12-volt cable.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Three Ford recalls in one NHTSA filing day — lights, wipers, and a cable that can kill drive power.',
+    body: [
+      'Ford is recalling 33,578 model year 2026-2027 Explorer vehicles because the map lights may remain illuminated, a noncompliance with Federal Motor Vehicle Safety Standard 101. The campaign is NHTSA 26V726, filed November 2, 2026.',
+      'Two more Ford recalls landed the same day. Ford is recalling 330 model year 2026 Bronco vehicles because the windshield wipers may detach, NHTSA campaign 26V725. Ford is also recalling 8,650 model year 2022 Maverick Hybrid vehicles because a loose 12-volt cable may cause a loss of drive power, NHTSA campaign 26V724.',
+      'All three campaigns are published straight from the manufacturers official Part 573 safety recall reports to NHTSA. Owners can check whether a specific vehicle is included by its VIN at NHTSA.gov/recalls, and recall repairs are always free.',
+    ],
+    sources: ['RedVIN', 'NHTSA'],
+  },
+  {
+    slug: 'harley-davidson-recall-neutral-gear-21643-november-2026',
+    title: 'Harley-Davidson Recalls 21,643 Motorcycles: Neutral Gear May Display When the Bike Is in Gear',
+    description:
+      'Harley-Davidson is recalling 21,643 motorcycles across nine models because the neutral gear indicator may display when the transmission is actually in gear.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A false neutral reading on 21,643 bikes — the rider thinks the bike is safe, and it is not.',
+    body: [
+      'Harley-Davidson is recalling 21,643 vehicles across nine models because the neutral gear indicator may display when the transmission is actually in gear. The campaign is NHTSA 26V730, filed November 3, 2026.',
+      'A motorcycle that shows neutral while it is still in gear can move unexpectedly when the rider releases the clutch, increasing the risk of a crash or injury. The recall covers engine and powertrain components, and the remedy is a dealer repair at no cost to owners.',
+      'Owners can check whether a specific motorcycle is included by its VIN at NHTSA.gov/recalls. The filing is part of the November wave of NHTSA campaigns that also included new recalls from Ford, Daimler Trucks and Hyundai.',
+    ],
+    sources: ['RedVIN', 'NHTSA'],
+  },
+  {
+    slug: 'daimler-trucks-driveline-recall-3894-november-2026',
+    title: 'Daimler Trucks Recalls 3,894 Trucks: the Driveline May Separate',
+    description:
+      'Daimler Trucks North America is recalling 3,894 model year 2027 trucks because a missing snap ring in the driveline slip yoke could let the driveline separate from the vehicle.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A missing snap ring the size of a coin can drop a truck driveline on the road.',
+    body: [
+      'Daimler Trucks North America is recalling certain 2027 Western Star 49X, Western Star 47X, Freightliner Cascadia Fifth Gen, Freightliner Cascadia, Freightliner 114SD, Freightliner Business Class M2 and Freightliner 108SD vehicles equipped with certain Cummins drivelines. The driveline may be missing a snap ring in the slip yoke assembly, possibly causing the driveline to separate from the vehicle. The campaign is NHTSA 26V737, reported November 6, 2026, and covers 3,894 vehicles.',
+      'A driveline that separates while the truck is moving can cause a loss of drive power and leave debris on the road, increasing the risk of a crash. Daimler Trucks own number for the recall is F1046, and the remedy is a dealer inspection and repair at no cost.',
+      'Owner notification letters are expected to be mailed January 5, 2027. Owners can check a VIN at NHTSA.gov/recalls. A related Daimler campaign the same day, 26V736, covers seven vehicles with an incorrect gross axle weight rating on the certification label.',
+    ],
+    sources: ['NHTSA', 'CarsMultiverse'],
+  },
+  {
+    slug: 'xpeng-land-aircraft-carrier-australia-november-2026',
+    title: 'XPeng Flying Car Heads for Australia: a Gold Coast Buyer Already Put Down a Deposit',
+    description:
+      'XPeng will begin production of its Land Aircraft Carrier flying car in 2027, priced at roughly 430,000 dollars, with more than 7,000 pre-orders worldwide including an Australian buyer on the Gold Coast.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Would you buy a flying car? One Australian already has.',
+    body: [
+      'XPeng is gearing up to begin production of its Land Aircraft Carrier in 2027, with customer deliveries starting later that year. The vehicle pairs a futuristic road-going van with a two-seat electric drone that unloads automatically from the rear. The drone flies within geo-fenced zones rather than open airspace, so it is not designed for commuting. It is a weekend leisure craft, and the Aridge aircraft allows for both autonomous flying and full manual control.',
+      'The price tag keeps it firmly a luxury. Chinese pricing guidance sits under two million yuan, roughly 430,000 dollars. XPeng claims more than 7,000 pre-orders worldwide, including early bookings from Australia. An Australian buyer on the Gold Coast has already ordered one, and XPeng plans to engage with the Civil Aviation Safety Authority to work through certification requirements.',
+      'The company chief executive, Deli Zhao, has an ambitious vision for what lies ahead, declaring that all cars in the future will grow wings. CASA expects advanced air mobility operations to begin in Australia between 2027 and 2029, with early commercial applications potentially including passenger transport, ahead of the Brisbane 2032 Olympics.',
+    ],
+    sources: ['YourLifeChoices', 'XPeng'],
+  },
+  {
+    slug: 'joby-archer-faa-certification-race-november-2026',
+    title: 'Joby vs Archer: the FAA Certification Race to Carry the First Air Taxi Passengers',
+    description:
+      'Joby is in the fifth and final stage of FAA type certification while Archer closed phase three in April, leaving the two US eVTOL leaders on different rungs of the same ladder.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Joby is one stage from the finish line. Archer is one phase behind — and both say passengers are close.',
+    body: [
+      'Joby Aviation and Archer Aviation are the two publicly listed US eVTOL developers with FAA certification milestones, named airline customers and operational pathways into commercial service. Every other eVTOL company in the United States is at minimum 12 to 18 months behind the certification position these two have established.',
+      'Joby is in the fifth and final stage of FAA type certification, the type inspection authorisation stage, which it entered with its first conforming aircraft flying in March 2026. It has five aircraft flying and 12 in production as of the second quarter of 2026, and it is targeting first passengers in 2026. On November 4, Joby said it had completed a wide range of for-credit testing with the FAA in that final stage. Joby is also acquiring Boeing Wisk Aero, Insitu and SkyGrid businesses in a deal signed August 9, 2026, with the antitrust waiting period expired and closing targeted for year-end 2026.',
+      'Archer became the first eVTOL manufacturer to receive 100 percent FAA acceptance of its Means of Compliance, and in April 2026 became the first to close Phase 3 of the four-phase type certification process. Neither company gave a date for an FAA type certificate in its third-quarter results. Archer is also building a defense business: at the Farnborough International Airshow in July, Archer and Anduril unveiled Thunder, a Group 5 hybrid-electric tiltrotor designed to fly as a pilotless wingman, with first flight targeted for 2027.',
+    ],
+    sources: ['Drone Intelligence'],
+  },
+  {
+    slug: 'best-selling-cars-america-q1-q3-2026-november-2026',
+    title: 'The Best-Selling Cars in America Through September: F-Series Leads, Camry Is the Top Car',
+    description:
+      'The Ford F-Series is the best-selling vehicle in the US in 2026 with 561,508 sold through September 30, followed by the Chevrolet Silverado at 422,713 and the Honda CR-V at 336,844.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Pickups still rule America — and the best-selling car is a hybrid-only Camry.',
+    body: [
+      'The Ford F-Series is the best-selling vehicle in the US in 2026, with 561,508 sold through September 30, 2026, according to Ford own sales release. Among automakers that publish US sales by model, it is followed by the Chevrolet Silverado at 422,713 and the Honda CR-V at 336,844. The best-selling SUV is the Honda CR-V, the best-selling car is the Toyota Camry at 260,684, and the best-selling EV is the Hyundai Ioniq 5 at 31,112.',
+      'The Camry is sold only as a hybrid, making it the best-selling hybrid too, up 11.2 percent year over year. The biggest gainer in the top 25 is the Honda Accord, up 32.7 percent. The biggest drop is the Toyota RAV4, down 29.2 percent versus the first nine months of 2025, with 253,664 sold including 200,209 hybrids and 32,228 plug-in hybrids.',
+      'Mercedes-Benz publishes no US sales by model and Tesla reports only worldwide deliveries, so Mercedes-Benz models and the Tesla Model Y are not ranked. All figures are US sales as reported by each automaker.',
+    ],
+    sources: ['CarWhere'],
+  },
+  {
+    slug: 'october-us-auto-sales-toyota-leads-november-2026',
+    title: 'October US Auto Sales: Toyota Leads the Month, Mazda Rises Fastest',
+    description:
+      'The six automakers that report monthly sold 760,520 vehicles in October 2026, up 6.3 percent year over year, with Toyota at 221,507, Ford at 173,442 and Hyundai-Kia at 160,083.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Toyota still leads the year — and Mazda was October fastest riser at 25 percent.',
+    body: [
+      'In October 2026 the six automakers that report monthly sold 760,520 vehicles, up 6.3 percent on October 2025. Toyota Motor Corp led the month with 221,507, ahead of Ford Motor Company at 173,442 and Hyundai Kia Auto Group at 160,083. Mazda rose fastest of the six, up 25.0 percent.',
+      'Through October 2026, Toyota Motor Corp leads the year-to-date rankings at 2,098,119 sales, up 1.2 percent year over year. Ford Motor Company is second at 1,681,799, down 7.8 percent, and Hyundai Kia Auto Group is third at 1,586,666. Ford has lost the most volume this year, down 143,150 units.',
+      'General Motors, Stellantis, Tesla, Nissan, Volkswagen, BMW, Mercedes-Benz and the other quarterly reporters file after the quarter closes, so the October ranking leaves them out. In the third quarter, General Motors sold 670,413 vehicles, the most of any automaker, ahead of Toyota at 633,223 and Ford at 507,395.',
+    ],
+    sources: ['GoodCarBadCar'],
+  },
+  {
+    slug: 'porsche-mission-s-dubai-debut-november-2026',
+    title: 'Porsche Mission S Concept Heads to Dubai After Its New York World Premiere',
+    description:
+      'The Porsche Mission S concept will make its regional public debut at the Icons of Porsche festival in Dubai on November 21 and 22, 2026, showing Porsche vision for a new mid-engined super sports car.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A mid-engined Porsche super sports car concept — Dubai gets the first regional look.',
+    body: [
+      'The Porsche Mission S will make its regional public debut at the Icons of Porsche festival in Dubai on November 21 and 22, 2026. After its recent world premiere in New York, the concept car will be a main attraction at this year festival, giving visitors a chance to see Porsche vision for a new mid-engined super sports car.',
+      'The Mission S combines a powerful mid-engine super sports car platform with a clear design language inspired by historic Porsche icons. It also sets the strategic framework for the further development of Porsche iconic design identity, under three pillars: Authentic, consequent and timeless.',
+      'The 2026 edition of Icons of Porsche takes place at its new venue, The Square Nad Al Sheba, and celebrates the brand automotive history and its influence on design and car culture. Tickets for the festival are priced at 85 dirhams.',
+    ],
+    sources: ['The Dubai Atlas', 'Biz Today'],
+  },
+  {
+    slug: 'black-friday-car-deals-2026-november-2026',
+    title: 'Black Friday Car Deals 2026: the Best Lease, Finance and Cash Offers, Ranked',
+    description:
+      'Black Friday is November 27 and Cyber Monday is November 30, the last day for most November car deals — with the Hyundai IONIQ 9 the best lease in the country and the Kia Niro EV the best finance deal.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 4,
+    excerpt:
+      '291 lease offers, 295 finance offers — and the best of both are EVs.',
+    body: [
+      'Black Friday is November 27, 2026, and Cyber Monday is November 30. That Monday is also the last day for most November car deals, so the holiday weekend is your last chance to use them. A total of 291 lease offers and 295 finance offers were tracked this month, straight from manufacturer websites, with lease deals ranked by lease value ratio, finance deals by total savings against a 7 percent loan, and cash back by dollar amount.',
+      'The Hyundai IONIQ 9 is the best lease in the country at a 0.95 percent lease value ratio: 419 dollars a month, 4,999 dollars at signing, 36 months, on a 58,955 dollar sticker, for a total cost of 20,083 dollars, expiring November 30. The Kia Niro EV gets 0 percent for 72 months plus a 3,500 dollar cash bonus, worth 12,532 dollars against a 7 percent loan, and the offer runs to January 4. The Kia EV9 gets 0 percent for 60 months and a 5,000 dollar cash bonus, worth 15,325 dollars.',
+      'The Audi A8 and S8 carry the biggest cash offer at up to 15,000 dollars. The Niro EV 10,000 dollars is the most as a share of the sticker, at 25.2 percent. Forty-four vehicles have a 0 percent APR offer this month. Most of these offers end November 30, which is Cyber Monday. Kia, Audi, Honda, Cadillac, Lincoln, Acura and Infiniti run to January 4.',
+    ],
+    sources: ['FindTheBestCarPrice'],
+  },
+  {
+    slug: 'gm-carbravo-used-car-strategy-november-2026',
+    title: 'GM Bets on Used Cars: CarBravo Targets 250,000 Sales as Affordability Pushes Buyers Pre-Owned',
+    description:
+      'General Motors is repositioning its CarBravo certified pre-owned program, projecting about 250,000 sales in 2026, with roughly 38 percent of engaged used shoppers ending up in a new vehicle.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Used cars are the new front door: GM expects half its CarBravo buyers to convert to new.',
+    body: [
+      'General Motors is strategically repositioning its certified pre-owned vehicle program, CarBravo, to combat market shifts and recapture lost ground in the competitive used car sector. CarBravo functions as an integrated online portal for Chevrolet, Buick and GMC dealerships across the US.',
+      'GM projects approximately 250,000 sales through the CarBravo program in 2026, with an expectation that up to half of these will convert into new car sales. GM reports that about 38 percent of used car shoppers who engage with the program end up purchasing new vehicles, indicating early success in conversion.',
+      'The competitive landscape is intense, with rivals like Ford implementing similar strategies. Ford Blue Advantage program targets higher sales volumes than GM CarBravo, projecting 450,000 total sales in 2026. Toyota also reports a significant conversion rate, with about 40 percent of its used car shoppers opting for new vehicles. The shift reflects affordability concerns pushing many consumers toward the used car market.',
+    ],
+    sources: ['StockXpo'],
+  },
+  {
+    slug: 'waymo-raleigh-durham-talks-november-2026',
+    title: 'Waymo Opens Talks on Driverless Taxi Service in Raleigh and Durham',
+    description:
+      'Waymo is in active talks with Research Triangle localities about driverless taxi service in Raleigh and Durham, while Charlotte remains the expected North Carolina debut, likely by late 2027.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'North Carolina could be Waymo next state — Raleigh and Durham are now in active talks.',
+    body: [
+      'Waymo policy adviser Rich Harrington told a North Carolina transportation summit that the company is in active talks with Research Triangle localities about driverless taxi service in Raleigh and Durham, without naming partners or a timetable. Charlotte remains the expected state debut, likely by late 2027, with digital mapping and supervised testing already under way.',
+      'Waymo said it operates in 15 US cities, has announced 18 more locations, has logged about 270 million fully autonomous miles, and claims roughly a 92 percent reduction in serious crashes versus human drivers in the same cities.',
+      'The Triangle talks show how Waymo expansion now works: local engagement first, mapping and supervised testing next, and a commercial launch only after the groundwork is done. Raleigh and Durham would extend the company reach into a fast-growing metro it has not served before.',
+    ],
+    sources: ['Where\'s the Driver', 'Swil-News'],
+  },
+  {
+    slug: 'midsize-pickups-q3-colorado-canyon-gain-november-2026',
+    title: 'Midsize Pickups in Q3: Colorado and Canyon Climb 7 Percent as Tacoma Slips',
+    description:
+      'Combined Chevrolet Colorado and GMC Canyon sales rose 7 percent in the third quarter of 2026 while Toyota Tacoma volume fell more than 3 percent, shifting share in the midsize pickup segment.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The Tacoma still leads — but its share fell four points in one quarter.',
+    body: [
+      'In the third quarter of 2026, combined sales of the Chevrolet Colorado and GMC Canyon rose seven percent year over year across the United States. Toyota Tacoma sales fell more than three percent to 71,027 units over the same period. The midsize pickup segment expanded about five percent in the quarter, and the Colorado and Canyon gains shift share away from the long-dominant leader.',
+      'Combined Colorado and Canyon deliveries reached 36,416 units, while the Nissan Frontier rose 37.5 percent to 23,412 units and the Ford Ranger climbed 15 percent to 17,561 units. The Tacoma held a 44 percent segment share, down four percentage points, while the Colorado and Canyon together hold 23 percent. Jeep Gladiator sales fell nine percent to 11,911 units.',
+      'The details show the split inside GM pair: Chevrolet Colorado deliveries rose two-plus percent to 25,170 units, and GMC Canyon sales increased 18 percent to 11,246 units. Toyota Tacoma has long set the pace for the US midsize pickup segment, and its four-point share drop in Q3 2026 signals a shift in that hierarchy.',
+    ],
+    sources: ['Wisevoter', 'GM Authority'],
+  },
+  {
+    slug: 'sema-2026-headline-builds-november-2026',
+    title: 'SEMA 2026: a 650-HP GTO Named Billie and a 741-HP Bel Air Lead 53 Show Builds',
+    description:
+      'Fifty-three vehicles were publicly tied to the 2026 SEMA Show, led by Ringbrothers 1965 Pontiac GTO convertible Billie with a 650-horsepower supercharged V8 and a 1955 Chevrolet Bel Air with 741 horsepower.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'SEMA 2026 is a horsepower parade — and the headliners are a GTO and a Bel Air.',
+    body: [
+      'Fifty-three vehicles were publicly tied to the 2026 SEMA Show as of November 3. The show opened November 3 in Las Vegas, with 29 timed unveilings on the reveal schedule, 25 of them on opening day. Ford, Toyota, Honda, Nissan, Mitsubishi and Stellantis all held booths, and SEMA promised Nissan and Mopar concept vehicles and one very big surprise at Ford.',
+      'Ringbrothers revealed Billie, a 1965 Pontiac GTO convertible with its body widened five inches and a supercharged 6.2-liter LT4 V8 making 650 horsepower and 650 lb-ft of torque. BluePrint Engines debuted a 1955 Chevrolet Bel Air with a 598-cubic-inch BluePrint V8 making 741 horsepower and 703 lb-ft. Parts distributor Turn 14 Distribution uncovered a Ford F-150 it calls the Ultimate Shop Truck, with a Roush supercharger on its 5.0-liter Coyote V8 and a modified 2025 Yamaha YZ250F in the bed.',
+      'The show floor also carried celebrity metal: Steve Irwin Toyota Land Cruiser at the Terrain Tamer 4WD booth, a 2006 Lamborghini Murcielago at WD-40, and a 2013 Aston Martin Vantage GT3 race car at Meguiar. Ford, Mitsubishi and Toyota held the first three press conferences on the show floor on opening morning.',
+    ],
+    sources: ['The Weekly Driver'],
+  },
+  {
+    slug: 'toyota-rush-refresh-land-cruiser-fj-jakarta-november-2026',
+    title: 'Toyota Rush Refresh to Debut at Gaikindo Auto Week Jakarta, With Land Cruiser FJ Sales to Follow',
+    description:
+      'Toyota will release a refreshed Rush at the Gaikindo Auto Week exhibition running November 20 to 29, 2026, and plans official sales for the Land Cruiser FJ at the same event.',
+    date: 'November 13, 2026',
+    dateISO: '2026-11-13',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'A refreshed seven-seat Rush and the Land Cruiser FJ go on sale at Jakarta auto week.',
+    body: [
+      'Toyota will release a refreshed version of the Toyota Rush at the Gaikindo Auto Week exhibition running from November 20 to November 29, 2026, according to oto.detik.com. PT Toyota-Astra Motor head of media relations Suci Rahmadhany shared a presentation slide showing a heavily blurred SUV silhouette resembling the low SUV model during a press gathering in South Jakarta on Monday, November 9, 2026.',
+      'The refresh brings specific adjustments to exterior components on the GR variant, according to a product change document obtained by Kompas.com from a Jakarta sales representative on November 5, 2026. Toyota prepared five exterior colors for the refreshed lineup under November 2026 ordering schemes. A Toyota sales representative told Kompas.com that the vehicle is scheduled to debut this month with minor revisions.',
+      'Alongside the Rush debut, Toyota plans official sales for the Toyota Land Cruiser FJ during the Gaikindo Auto Week event, following its initial showing at the Gaikindo Indonesia International Auto Show earlier in 2026. Toyota-Astra Motor has not yet announced official pricing for the Land Cruiser FJ, noting that executives are still completing price finalizations.',
+    ],
+    sources: ['Archynewsy', 'Oto Detik', 'Kompas'],
+  },
+  {
     slug: 'musk-extends-cybertruck-production-summer-2027-november-2026',
     title: 'Musk Extends Cybertruck Production Through Summer 2027, Citing Sentimentality',
     description:
