@@ -14,6 +14,389 @@ export interface NewsArticle {
 
 export const ARTICLES: NewsArticle[] = [
   {
+    slug: 'cybertruck-october-sales-one-year-high-deposit-refunds-november-2026',
+    title: 'Cybertruck Sales Hit a One-Year High in October Even as Tesla Prepares to End Production',
+    description:
+      'Tesla sold 1,914 Cybertrucks in October, its best month in over a year, even as Elon Musk confirmed production will wind down around mid-2027 and said Tesla will refund deposits it cannot fill.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'The Cybertruck just had its best sales month in over a year — and Tesla is still killing it.',
+    body: [
+      'Tesla sold 1,914 Cybertrucks in October, more than in any single month for over a year, according to new data from Cox Automotive reported by USA Today. The uptick helped push Tesla average transaction price for the month to 54,194 dollars. It came even as Tesla has announced plans to end Cybertruck production next year.',
+      'Chief executive Elon Musk said in a post on X on November 6 that Tesla will wind down Cybertruck production at Gigafactory Texas around the middle of 2027 to make room for increased Cybercab production. In a follow-up post on November 7, Musk said the order backlog is currently far more than Tesla can make before dismantling the line for Cybercab expansion around June or July next year, and that the company will try to build as many as possible before then, though it will have to return deposits for a lot of people.',
+      'The October bounce does not change the wider sales picture. Tesla sold 11,586 Cybertrucks in the first three months of 2026, down 28 percent from 16,097 in the same period last year, according to Cox Automotive. Industry estimates put total Cybertruck sales at about 71,000 since the first deliveries in November 2023. Musk has argued the truck is not unprofitable and that Tesla is ending it because the opportunity cost of its complexity is outweighed by the value of extra Cybercab production.',
+      'The Cybertruck wind-down is part of a broader reshaping of the Tesla lineup. The company has also quietly removed its lowest-priced all-wheel-drive Model Y from the US order page, and Musk has said the high-end Roadster will one day likely be the only drivable Tesla. Overall US electric vehicle sales fell in the first nine months of 2026, with 725,888 EVs sold, down 30 percent from more than 1 million in the same period last year, after the 7,500 dollar federal tax credit was eliminated.',
+    ],
+    sources: ['USA Today', 'TechCrunch', 'Investopedia', 'Stocktwits'],
+  },
+  {
+    slug: 'bmw-park-outside-recall-720796-water-pump-fire-risk-november-2026',
+    title: 'BMW Recalls 720,796 Vehicles and Tells Owners to Park Outside Over Fire Risk',
+    description:
+      'BMW recalled 720,796 vehicles because a water pump connector can short circuit and catch fire while parked and turned off, and no remedy is available yet.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'Park outside: the fire risk exists even with the car switched off.',
+    body: [
+      'BMW of North America has issued an urgent park-outside recall for 720,796 vehicles, according to a release from the National Highway Traffic Safety Administration on Friday, November 13. The recall covers cars including the 2012-2016 BMW 3 Series and other models across 13 model lines.',
+      'The problem is an improperly sealed electrical connector on the water pump. It may be exposed to water and short circuit, increasing the risk of a fire, the NHTSA release said. The danger exists while the vehicle is parked and turned off, which is why owners are being told to park outside and away from structures. The vehicles were previously recalled in 2024 because of a water pump issue and must be repaired again.',
+      'BMW is aware of about 10 incidents in the United States that could relate to the issue, but it is not aware of any crashes or injuries, according to the release. At present, no remedy is yet available for the defect. Owner notification letters are expected to be mailed beginning December 25, 2026, and affected vehicle identification numbers will be searchable on NHTSA.gov/Recalls from that date. Owners can also call the BMW recall hotline at 800-525-7417 or the NHTSA Vehicle Safety Hotline at 888-327-4236.',
+    ],
+    sources: ['USA Today', 'NHTSA', 'RedVIN'],
+  },
+  {
+    slug: 'lincoln-navigator-seat-moves-on-its-own-recall-november-2026',
+    title: '36,994 Lincoln Navigators Recalled Because the Passenger Seat Can Move on Its Own',
+    description:
+      'Ford is recalling 36,994 Lincoln Navigators from 2025 to 2027 because a software fault can send the front passenger seat forward, backward or into a recline with no one touching a control.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Recalls',
+    readMinutes: 3,
+    excerpt:
+      'A seat that moves by itself can strike second-row passengers — Ford will fix it with a free software update.',
+    body: [
+      'Ford is recalling 36,994 Lincoln Navigators from the 2025, 2026 and 2027 model years over a software fault that can send the front passenger seat forward, backward or into a recline with no one touching a control. Ford filed the recall with NHTSA on October 20, 2026, as campaign 26V691. Ford own number for it is 26S77.',
+      'The fault sits in the rear audio control module, which the filing calls the RACM. NHTSA says a seat that moves by itself can strike second-row passengers or put the front passenger in an unsafe position, which raises the risk of injury.',
+      'Owners can enter their VIN at nhtsa.gov/recalls today, and Ford dealers will update the software for free. Owner letters are expected in November 2026. The VINs became searchable on NHTSA.gov on October 26, 2026, six days after Ford filing reached the agency.',
+    ],
+    sources: ['Motoring Chronicle', 'Automotive Safety Council', 'CarPro'],
+  },
+  {
+    slug: 'waymo-paid-robotaxis-denver-san-diego-tampa-14-cities-november-2026',
+    title: 'Waymo Launches Paid Robotaxis in Denver, San Diego and Tampa as Its Fleet Passes 4,000 Vehicles',
+    description:
+      'Waymo began offering paid driverless rides in Denver, San Diego and Tampa, taking its commercial footprint to 14 US cities, with the Zeekr-built Ojai minivan debuting to paying customers outside California.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Fourteen cities, 500,000 paid rides a week — and a new purpose-built robotaxi leading the expansion.',
+    body: [
+      'Waymo has begun offering paid driverless rides to the public in Denver, San Diego and Tampa, extending its commercial footprint to 14 cities. The launches mark the first deployment of the Zeekr-built Ojai purpose-built robotaxi to paying customers outside California. Denver and San Diego will be Ojai-only markets from day one.',
+      'Waymo will invite riders on a rolling basis and slowly ramp access in each city, following its familiar playbook of mapping, testing, safety-operator removal and staged onboarding. The three launches lift the Waymo fleet, a mix of retrofitted Jaguar I-Pace SUVs and the new Ojai minivan, to more than 4,000 vehicles nationwide. The company is currently delivering more than 500,000 paid rides every week and is targeting 1 million weekly rides by year-end.',
+      'Waymo currently has about 300 Ojai vehicles on the road, but plans to scale that number. The expansion comes as competition heats up: Amazon-owned Zoox is pushing into Houston and San Diego for testing, and Tesla continues to expand paid Cybercab and Model Y service across Austin, Dallas, Houston, Miami, Orlando and Tampa. Financial analysts at Goldman Sachs Research estimate US robotaxi revenue will hit 19 billion dollars by 2030 and 48 billion dollars by 2035.',
+    ],
+    sources: ['The Robotics Media', 'Waymo'],
+  },
+  {
+    slug: 'gm-ford-stellantis-diverging-paths-earnings-november-2026',
+    title: 'GM, Ford and Stellantis Take Diverging Paths: GM Near Record Highs, Ford Flat, Stellantis Still Losing Money',
+    description:
+      'GM posted record revenue near 50 billion dollars and a new 20 billion dollar buyback, Ford guided 2027 earnings roughly flat, and Stellantis narrowed its loss but still burned cash.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Same industry, three very different quarters: GM is buying back stock, Ford is treading water, Stellantis is still climbing out.',
+    body: [
+      'The Detroit Three reported sharply different quarters, and their market positions have diverged with them. GM has held up best, Ford has drifted lower, and Stellantis has suffered a deep drawdown, according to a comparison of their latest quarterly results.',
+      'GM delivered record revenue near 50 billion dollars, with both adjusted earnings per share and adjusted EBIT rising sharply from a year earlier. North American margins expanded to 8.7 percent, back inside the company target range thanks to a favorable mix and lower warranty expenses. GM unveiled a fresh 20 billion dollar multi-year buyback program and lifted its adjusted automotive free cash flow outlook, although shares dipped initially after the firm trimmed full-year profit guidance and highlighted roughly 2 billion dollars in commodity and logistics headwinds.',
+      'Ford beat adjusted earnings estimates even as revenue fell roughly 2 percent year over year due to discontinued models and supply constraints. Ford raised the lower end of its full-year adjusted EBIT range but indicated that 2027 earnings should come in roughly in line with 2026 amid commodity, logistics and chip cost pressures.',
+      'Stellantis revenue rose about 1 percent year over year and its net loss narrowed sharply as North America returned to a modest operating profit on strong Ram demand. Management kept full-year guidance intact and noted faster progress on its Value Creation Program cost savings, but industrial free cash flow turned negative and European losses keep its risk profile elevated.',
+    ],
+    sources: ['Tickeron'],
+  },
+  {
+    slug: 'autoflight-five-evtol-formation-flight-november-2026',
+    title: 'AutoFlight Flies Five Uncrewed eVTOLs in Formation for 45 Minutes Over 133 Kilometers',
+    description:
+      'China AutoFlight flew five uncrewed electric aircraft in formation for just over 45 minutes and more than 133 kilometers, a first for the flying-car sector.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Five flying cars, one formation, no pilots — a first that hints at how air taxis could one day fly in fleets.',
+    body: [
+      'China AutoFlight flew five uncrewed electric aircraft in formation for just over 45 minutes and more than 133 kilometers, according to AeroTime. The flight, reported on November 5, is described as the first formation flight with five unmanned eVTOLs.',
+      'The demonstration landed in the same week as two big American milestones. On November 4, a Joby Aviation air taxi landed on a pad at Orlando International Airport, which Florida transportation department called the first dedicated vertipad in the nation built on-site at a commercial airport. On November 9, Archer said the FAA gave its four-passenger Midnight a special airworthiness certificate for market surveys, clearing piloted flights in Los Angeles in the coming weeks.',
+      'Despite the progress, no piloted air taxi is type-certified by the FAA or Europe EASA yet. As of November 2026, the only passenger eVTOL with a full set of approvals is China pilotless EHang EH216-S. Formation flying matters because future air taxi networks will need aircraft to operate safely in groups over cities, not just one at a time.',
+    ],
+    sources: ['AeroTime', 'Japan Bandana'],
+  },
+  {
+    slug: 'evtol-certification-race-joby-archer-beta-status-november-2026',
+    title: 'The eVTOL Certification Race: Joby Leads, Archer Is in the Final Phase, BETA Trails Behind',
+    description:
+      'As of November 2026 no piloted air taxi holds an FAA type certificate, but Joby is furthest along in the final testing stage, Archer is in the fourth and final phase, and BETA is still in the planning phases.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Nobody is certified yet — but the gap between the leaders and the rest is now measured in percentages.',
+    body: [
+      'As of November 11, 2026, none of the companies covered reports holding an FAA type certificate for an electric vertical takeoff and landing aircraft. By their own most recent reports, Joby Aviation and Archer Aviation each say their air taxi is in the final, testing phase of type certification. BETA Technologies reports that its conventional-takeoff electric airplane is well ahead of its eVTOL.',
+      'Joby is the only one of the three that reports its own completion and the FAA side by side. In its November 4 shareholder letter, Joby said stages 1 to 3 are at 100 percent on both sides. In stage 4, Joby is at 83 percent and the FAA at 78 percent. In stage 5, Joby is at 25 percent and the FAA at 14 percent, with data as of October 30, 2026. Joby says it is working through the final stage of FAA type certification and that its second vertiport in Dubai is complete, with pilot-on-board flight testing there planned for later this year.',
+      'Archer says its Midnight is in the fourth and final phase, the implementation phase, where every compliance finding is made against the means of compliance and test plans agreed with the agency. Archer has not published percentages. BETA is certifying two aircraft and an engine, and its own charts put them in very different places. In its November 3 presentation, the ALIA A250 eVTOL is at 100 percent on phase 1, with means of compliance at 32 percent in phase 2, compliance planning at 6 percent in phase 3, and nothing yet in implementation. Wisk Aero describes its Generation 6 autonomous eVTOL as the design going through FAA certification, with no stage or percentage published.',
+      'The FAA public explainer dated April 23, 2026 lays out seven phases shared between the manufacturer and the agency: Standards, Definition, Detail, Build, Test, Certification and Production. Every status figure is a company own claim. The FAA public advanced air mobility pages describe the process and the rules but do not report progress for individual applicants.',
+    ],
+    sources: ['AeroEd', 'Joby Aviation', 'Archer Aviation', 'BETA Technologies'],
+  },
+  {
+    slug: 'byd-next-generation-han-guangzhou-auto-show-november-2026',
+    title: 'BYD Teases a New Model for the Guangzhou Auto Show, With the Next-Generation Han Expected',
+    description:
+      'BYD confirmed a new model will debut at the Guangzhou Auto Show in late November, and regulatory filings point to the next-generation Han sedan in battery-electric and plug-in hybrid form.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A model highly requested by customers — and the filings say it is the next Han.',
+    body: [
+      'BYD will debut a new model at the Guangzhou Auto Show later this month, likely the next-generation Han, refreshing a sedan lineup whose sales remain under pressure. Lu Tian, general manager of BYD Dynasty sales division, said on Weibo on November 2 that the company would bring a model highly requested by customers to the show, without naming the vehicle.',
+      'Recent regulatory filings suggest the model is likely to be the next-generation Han. The new Han appeared in the 412th batch of vehicle filings released by China Ministry of Industry and Information Technology on October 16, covering 3 battery-electric variants and 1 plug-in hybrid variant, all with 5 seats and larger body dimensions than the current car.',
+      'This year Guangzhou Auto Show will run from November 27 to December 6, with the opening day reserved for the media and typically featuring a concentration of new vehicle debuts. The new Han in these filings is a separate model from the Da Han, which BYD launched on October 13. The third-generation Tang SUV made its debut at the Chengdu Auto Show in August and is set to go on sale this quarter.',
+    ],
+    sources: ['CnEVPost'],
+  },
+  {
+    slug: 'bmw-neue-klasse-ix3-i3-china-launch-november-2026',
+    title: 'BMW Neue Klasse iX3 and i3 Get China Launch Dates: November 25 and 27 at Guangzhou',
+    description:
+      'BMW announced its Guangzhou Auto Show lineup, with the Neue Klasse iX3 launching November 25 and the i3 following on November 27, both with China-specific software and the Panoramic Vision head-up display.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Two Neue Klasse flagships, two launch days — and China gets them first.',
+    body: [
+      'BMW has officially announced its complete lineup for the 2026 Guangzhou Auto Show, headlined by the market launches of the long-awaited Neue Klasse BMW iX3 and Neue Klasse BMW i3. The Guangzhou Auto Show will mark the official market launch and order conversion for both flagship models.',
+      'The Neue Klasse iX3 launches on November 25, with the i3 to follow on November 27. Both vehicles debut with specialized software stacks developed for the Chinese market, combining BMW new Panoramic Vision head-up display system, an AI-driven digital assistant, and advanced driver assistance hardware.',
+      'The launches follow strong early reception for the Neue Klasse range elsewhere. The EPA has rated the new BMW i3 at up to 468 miles, and the iX3 at 434 miles, with the iX3 already on sale in the US. Pricing for the Chinese market launches was announced with the show lineup.',
+    ],
+    sources: ['BitAuto'],
+  },
+  {
+    slug: 'evgo-750kw-charging-ls-power-buyout-proposal-november-2026',
+    title: 'EVgo Plans 750-kW Chargers for 2027 as LS Power Makes a 2 Dollar a Share Buyout Proposal',
+    description:
+      'EVgo reported third-quarter charging revenue up 29 percent and unveiled a 750-kilowatt charging architecture for 2027, while its board weighs an unsolicited buyout proposal from LS Power.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Faster chargers, rising charging sales — and a takeover offer on the table.',
+    body: [
+      'EVgo November 9 earnings announcement pairs a 750-kilowatt charging plan with rising charging sales and a network still being built. The company says its next-generation architecture will be capable of delivering up to 750 kilowatts, with deployments anticipated to begin in 2027.',
+      'For the quarter ended September 30, EVgo reported 71.788 million dollars in charging-network revenue, up 29 percent from a year earlier. Energy delivered through the network rose 8 percent to 103 gigawatt-hours. Total revenue, however, fell about 1 percent to 91.417 million dollars. EVgo ended September with 5,530 stalls in operation, up from 4,590 a year earlier, and added 160 new DC fast-charging stalls during the third quarter. As of November 6, EVgo reported more than 290 NACS connectors in operation, and its first v4 Supercharger location is live in the Chicago area.',
+      'The results arrive while EVgo is considering a proposal from LS Power Equity Advisors. The company says its board received an unsolicited, non-binding proposal on November 2 to acquire Class A shares not already owned by LS Power for 2 dollars per share in cash. As of the November 9 release, EVgo says no decision had been made on its response. EVgo also says expanded relationships with Brixmor and Regency Centers are intended to bring more than 900 new fast chargers to grocery-anchored shopping centers.',
+    ],
+    sources: ['Newjin Media', 'EVgo'],
+  },
+  {
+    slug: 'tesla-pulls-cheapest-awd-model-y-november-2026',
+    title: 'Tesla Quietly Pulls Its Cheapest All-Wheel-Drive Model Y From the US Order Page',
+    description:
+      'Tesla removed its lowest-priced all-wheel-drive Model Y from the US order page as it reshapes its lineup around the Cybercab and the end of Cybertruck production.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'One more affordable Tesla quietly disappears from the order page.',
+    body: [
+      'Tesla has quietly removed its lowest-priced all-wheel-drive Model Y from the US order page, according to a roundup of EV developments this week. The move was not announced by the company.',
+      'The change comes as Tesla reshapes its lineup around robotaxis. Chief executive Elon Musk said last week that Tesla will wind down Cybertruck production at Gigafactory Texas around mid-2027 to expand Cybercab output, and said Tesla would produce the Cybertruck until the end of summer 2027 because the order backlog is larger than remaining production capacity.',
+      'The Model Y Rear-Wheel Drive remains on sale from 39,990 dollars, with 321 miles of EPA-estimated range. The Model 3 Rear-Wheel Drive starts at 36,990 dollars with the same 321 miles of range. With the 7,500 dollar federal tax credit gone since September 30, 2025, every Tesla has to win buyers on sticker price and capability.',
+    ],
+    sources: ['Stocktwits', 'The Charge Port'],
+  },
+  {
+    slug: 'mercedes-hands-47-charging-hubs-electra-november-2026',
+    title: 'Mercedes-Benz Hands Its 47 European Charging Hubs to Electra',
+    description:
+      'All 47 Mercedes-Benz high-power charging hubs in Europe joined the Electra network on November 1, giving Mercedes drivers access to more than 800 Electra stations.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Mercedes is stepping back from running its own public chargers in Europe — Electra takes over 47 hubs.',
+    body: [
+      'Mercedes-Benz is stepping back from running its own public charging network in Europe. As of November 1, 2026, all 47 high-power charging hubs the German carmaker built across the continent have become part of Electra, a French ultra-fast charging operator. The two companies confirmed the move on November 3.',
+      'According to Electra announcement, the deal covers 47 sites with 374 charging points. Most of them are in Germany, with 31 sites, and Austria, with 6. For Electra, it is a big step in the German market, where its network grows from 50 to 81 charging parks. No price was disclosed. The purchase agreement was signed on August 3, and the network was carried at roughly 99 million euros in assets. The United States is not part of the deal: there, Mercedes keeps operating its own high-power charging network.',
+      'Electra becomes a Premium Partner in the MB.CHARGE Public charging service, a status previously held only by Ionity, the network Mercedes co-owns. Depending on their MB.CHARGE Public plan, Mercedes customers get easier access to more than 800 Electra stations with over 5,000 charging points in ten European countries. Electra says its network runs at more than 98.5 percent availability and offers up to 600 kilowatts at selected sites.',
+    ],
+    sources: ['NotATeslaKiller', 'Electra', 'Chargalytics'],
+  },
+  {
+    slug: 'rivian-fidelity-stake-r2-momentum-november-2026',
+    title: 'Fidelity Lifts Rivian Stake to Its Largest Since June 2025 as the R2 Keeps Selling',
+    description:
+      'Fidelity raised its Rivian stake to the largest since June 2025 while trimming Tesla, and Stifel kept the Buy rating it has held since 2023, as the R2 outsells both R1 models combined.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 4,
+    excerpt:
+      'Big money is buying Rivian again — on the strength of one cheaper SUV.',
+    body: [
+      'Fidelity lifted its Rivian stake to the largest since June 2025, while trimming Tesla, according to filings reported on November 12. Rivian also kept the Buy rating from Stifel that it has held since 2023, with the firm saying the R2 has started great.',
+      'The R2 is now Rivian best-selling vehicle. With the launch of the more affordable R2 SUV, sales at the EV maker are up 46 percent over last year, with the new model outselling the R1T and R1S combined, according to Car and Driver reporting cited in industry briefings. UBS upgraded Rivian to buy on November 2, citing solid R2 demand, and predicted Rivian will see continued positive gross profit margins in the first quarter of 2027, helped by higher-margin software and services sales.',
+      'The optimism comes with a warning. Rivian cars still lost 80 million dollars at the gross level last quarter, and the company burned 1.12 billion dollars of free cash flow. Management plans to exit the fourth quarter at an automotive gross profit, which results early next year will show. Rivian needs positive gross margin to draw on its Department of Energy loan of up to about 4.5 billion dollars. UBS also warned that Rivian will continue to burn cash and will likely need to sell shares and take on debt to fund its operations through at least 2029.',
+    ],
+    sources: ['Eletric-Vehicles', 'Stocktwits', 'Motley Fool', 'TIKR'],
+  },
+  {
+    slug: 'chargezone-india-1000-fast-chargers-300mw-november-2026',
+    title: 'ChargeZone Targets 300 MW in India With 1,000 New Fast-Charging Locations',
+    description:
+      'ChargeZone expanded its partnership with Ador-Quench to equip 1,000 new Indian charging locations with Made-in-India DC fast chargers rated from 120 to 480 kilowatts.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'One thousand new locations, up to 480 kilowatts each — India fast-charging build-out keeps accelerating.',
+    body: [
+      'India electric vehicle charging network is preparing for another major upgrade as ChargeZone expands its partnership with Ador-Quench, also known as Quench Chargers. Announced on November 5, 2026, the agreement covers Made-in-India DC fast-charging equipment for 1,000 new locations nationwide.',
+      'The ChargeZone expansion will introduce systems rated from 120 kilowatts to 480 kilowatts, serving private electric cars, buses, trucks and commercial fleets. By prioritizing high-power infrastructure rather than simply increasing station numbers, the companies aim to improve charging availability, support long-distance mobility, and help ChargeZone reach 300 megawatts of cumulative network capacity.',
+      'ChargeZone reports operating more than 15,000 charging points across over 1,200 locations in India and the UAE. Quench Chargers, a subsidiary of Ador Powertron, says it has deployed more than 1,500 DC fast chargers across India. The companies have not detailed station addresses, commissioning dates or charging tariffs, so the 1,000 locations represent a planned rollout, not stations open to drivers.',
+    ],
+    sources: ['Electric Vehicle Talks'],
+  },
+  {
+    slug: 'stellantis-brampton-default-30-days-november-2026',
+    title: 'Stellantis Has 30 Days to Cancel the Brampton Plant Sale or Repay Hundreds of Millions, Ottawa Says',
+    description:
+      'Canada declared Stellantis in default of a 2022 funding agreement worth up to 529 million dollars and gave it 30 days to cancel the Brampton plant sale and reopen the plant or face penalties.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 4,
+    excerpt:
+      'Cancel the sale, reopen the plant, or pay the money back — Ottawa gives Stellantis 30 days.',
+    body: [
+      'Ottawa has put Stellantis in default over the sale of its Brampton assembly plant, and the company has 30 days to take corrective action or Ottawa could seek to end the agreement and recover the subsidies. Industry Minister Melanie Joly declared Stellantis in default of a 2022 funding agreement worth up to 529 million dollars, writing that she must conclude Stellantis is no longer diligently working in good faith.',
+      'The plant has not been producing vehicles for about three years, leaving more than 2,200 people out of work, with the company planning to sell the plant to armored vehicle maker Roshel. If Stellantis does not change its mind, Joly is threatening to sue to get back money the federal government put into Stellantis in Brampton and Windsor, so far at least 222 million dollars. Stellantis offered to voluntarily return 24 million dollars, which Ottawa rejected. The two sides have been given 30 days to cancel the sale and reopen the plant, or pay back the money.',
+      'Ontario Premier Doug Ford wants Ottawa to make sure Chinese EV kits never reach the Brampton plant, even though the plant is being sold. In a letter to Prime Minister Mark Carney dated November 10, Ford said Ontario remains strongly opposed to Chinese-made knock-down kits at the site, saying kit assembly could replace more than 7,500 direct jobs with a few hundred. The kit question survives the sale because Roshel is not taking the whole plant: Roshel chief executive Roman Shimonov has said 25 percent of the plant will be leased back to Stellantis. In 2023, Stellantis was promised a 1.5 billion dollar joint commitment between the federal and Ontario provincial governments over 10 years, and the agreement required Stellantis to maintain its footprint in Ontario through 2035, which includes the Brampton plant. Stellantis workers voted overwhelmingly in favor of a strike mandate in October, with 97.3 percent voting yes.',
+    ],
+    sources: ['China Factor', 'EuropeSays', 'Fav of Canada'],
+  },
+  {
+    slug: '84-month-auto-loans-one-in-four-buyers-november-2026',
+    title: 'More Than One in Four New-Car Buyers Now Takes a Loan of Seven Years or More',
+    description:
+      'Edmunds reported the average amount financed for a new vehicle reached 44,664 dollars in the third quarter of 2026, and more than one in four financed purchases now runs at least 84 months.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Prices',
+    readMinutes: 3,
+    excerpt:
+      'Seven-year car loans are no longer the exception — they are more than a quarter of the market.',
+    body: [
+      'More than one in four new-car buyers took out loans lasting at least seven years, according to Edmunds data reported in November. The average amount financed for a new vehicle reached 44,664 dollars in the third quarter of 2026, up from 42,744 dollars a year earlier.',
+      'The longer loans arrive as new car prices hit a record. The average price paid for a new vehicle in the US reached 51,109 dollars in October, according to Kelley Blue Book, up 1.3 percent from September and 2.1 percent from a year earlier. By Cox Automotive affordability index, the typical new-vehicle payment hit 776 dollars in September, and buyers needed about 35.7 weeks of median income to afford the average new car, the least affordable reading since January. Auto loan rates are now over 7 percent for new vehicles, according to Edmunds.',
+      'The record price needs context. The annual increase of 2.1 percent was below the longer-term October average increase of 3.6 percent, and the headline average is pulled upward by sales of larger, more expensive vehicles. The average transaction price for a full-size pickup truck reached 67,912 dollars in October, while midsize SUVs averaged 50,570 dollars.',
+    ],
+    sources: ['India Weekly', 'The Truth About Cars', 'Kelley Blue Book'],
+  },
+  {
+    slug: 'byd-sixth-straight-month-sales-growth-october-november-2026',
+    title: 'BYD Posts a Sixth Straight Month of Sales Growth in October, Riding Exports',
+    description:
+      'BYD posted a sixth straight month of sales growth in October, relying on exports to counter sluggish demand and intense price competition at home.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'Six months of growth in a row — powered by buyers outside China.',
+    body: [
+      'Chinese EV maker BYD posted a sixth straight month of sales growth in October, relying on exports to counter sluggish demand and intense price competition at home, according to industry briefings citing Yahoo Finance.',
+      'The export push is central to BYD strategy. With the Chinese market crowded and price wars squeezing margins, overseas sales have become the growth engine, even as BYD faces new trade barriers and scrutiny in several markets. The company is also expanding its model range, teasing a next-generation Han sedan for the Guangzhou Auto Show in late November.',
+      'BYD growth contrasts with the wider US EV market, where sales fell 30 percent in the first nine months of 2026 after the 7,500 dollar federal tax credit ended. The divergence shows how the global EV race is splitting: Chinese makers are scaling on exports while American buyers pull back on price.',
+    ],
+    sources: ['Mac’s Motor City Garage', 'Yahoo Finance'],
+  },
+  {
+    slug: 'jaguar-type-01-130500-400-miles-november-2026',
+    title: 'Jaguar Type 01: 130,500 Dollars Anticipated, 400 Miles of Range, US Arrival in Late 2027',
+    description:
+      'Jaguar first electric car of its new era, the Type 01, is anticipated at 130,500 dollars with about 400 miles of range, with US sales expected in the second half of 2027.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'Jaguar electric rebirth now has a price: about 130,500 dollars.',
+    body: [
+      'Jaguar has priced its electric rebirth. The Type 01 is anticipated at 130,500 dollars, with about 400 miles of range on the manufacturer estimate, according to a tracker of new electric cars unveiled for the US market updated on November 11, 2026. The car was unveiled in October 2026 and is expected to reach US buyers in the second half of 2027.',
+      'The Type 01 is the flagship of Jaguar plan to reinvent itself as an all-electric luxury brand, abandoning its old lineup for a much smaller range of high-priced cars. At 130,500 dollars it sits far above the mainstream EV market, where the cheapest new electric cars in America now start at 27,600 dollars for the Chevrolet Bolt.',
+      'The price is an anticipated figure, not a final sticker, and Jaguar has not announced final US specifications. With the federal EV tax credit gone since September 30, 2025, the Type 01 will have to win buyers on design, luxury and range alone.',
+    ],
+    sources: ['TrendyTechTribe'],
+  },
+  {
+    slug: 'tesla-roadster-thrust-reservation-250000-november-2026',
+    title: 'Tesla Roadster Thrust Reservation Now Costs 250,000 Dollars — and the Car Still Has No Price',
+    description:
+      'Tesla reservation page now asks 250,000 dollars to reserve the Thrust version of the Roadster, even though the long-delayed supercar still has no announced price.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'EVs',
+    readMinutes: 3,
+    excerpt:
+      'A quarter of a million dollars just to reserve a car with no price tag.',
+    body: [
+      'The Tesla Roadster still has no price, but Tesla reservation page now asks 250,000 dollars to reserve the Thrust version, according to a tracker of new electric cars updated on November 11, 2026. Prices and specs in the tracker are transcribed from manufacturer releases and trade-press reports.',
+      'The Roadster returned to the spotlight last month when Elon Musk unveiled a version that flips and hops on blasts of compressed air. During the unveiling, the Tesla car flew with no one inside, and Musk said the demo ran autonomously. The Roadster is the car Musk has said will one day likely be the only drivable Tesla.',
+      'The 250,000 dollar reservation is for the Thrust version only, and it is a reservation payment, not the price of the car. Tesla has not said when the Roadster will reach customers or what the final car will cost.',
+    ],
+    sources: ['TrendyTechTribe', 'Investopedia'],
+  },
+  {
+    slug: 'genesis-ulsan-production-resumes-union-talks-november-2026',
+    title: 'Genesis Production Resumes at Ulsan Plant After Union Talks, With G80 Hybrid and G90 Facelift Still Due',
+    description:
+      'Genesis production restarted at Hyundai Ulsan plant on November 3 after a stoppage of more than 24 working hours, with the G80 Hybrid and G90 facelift still due in Korea before the end of the year.',
+    date: 'November 14, 2026',
+    dateISO: '2026-11-14',
+    author: 'CARC Editorial Team',
+    category: 'Industry',
+    readMinutes: 3,
+    excerpt:
+      'The lines are running again — but the dispute behind the stoppage is not over.',
+    body: [
+      'Genesis production is back up and running at Hyundai Motor Ulsan plant. According to ETNews, Line 1 of Ulsan Plant 5, which builds Genesis models, restarted at around 5 p.m. on November 3, after a stoppage of more than 24 working hours caused by a dispute between management and the union.',
+      'The stoppage began on the morning of November 2, during talks over the man-hours needed to start mass production of the Genesis G80 Hybrid and the G90 facelift. The restart does not end the conflict, though. It only moves it from the factory floor to the negotiating table.',
+      'Both models are due in Korea before the end of the year, with the G90 facelift set for December. The Genesis G80 Hybrid is the first hybrid version of Genesis core luxury sedan, offered only as a long-wheelbase model. The G90 facelift is the refreshed flagship, set to bring Level 3 autonomous driving. Hyundai has not announced any change to these launch dates, but test cars for the new models are off the line until the two sides make progress, and the December launch of the G90 facelift is only weeks away.',
+    ],
+    sources: ['The Korean Car Blog', 'ETNews'],
+  },
+  {
     slug: 'spacex-tesla-merger-december-announcement-november-2026',
     title: 'SpaceX-Tesla Merger Talks Progress, With an Announcement Possible as Soon as December',
     description:
